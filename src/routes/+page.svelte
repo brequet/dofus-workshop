@@ -1,10 +1,13 @@
 <script lang="ts">
-    let imageId = $state(1001)
+	import MainContent from '$lib/components/MainContent.svelte';
+	import LeftPanel from '$lib/components/SearchPanel.svelte';
 </script>
 
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
-
-<input type="number" bind:value={imageId} />
-<br/>
-<img src="/api/image/{imageId}" alt="Resource image" />
+<div class="flex h-screen">
+	<div class="flex w-1/4 flex-col bg-gray-100">
+		<LeftPanel />
+	</div>
+	<div class="flex-1 bg-white p-4">
+		<MainContent />
+	</div>
+</div>
