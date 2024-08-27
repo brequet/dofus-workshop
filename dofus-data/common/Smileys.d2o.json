@@ -1,0 +1,2347 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.communication",
+      "packageClass": "Smiley",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "order",
+          "type": "Integer"
+        },
+        {
+          "name": "gfxId",
+          "type": "String"
+        },
+        {
+          "name": "forPlayers",
+          "type": "Boolean"
+        },
+        {
+          "name": "triggers",
+          "type": "Vector",
+          "subtype": {
+            "name": "Vector.\u003cString\u003e",
+            "type": "String"
+          }
+        },
+        {
+          "name": "referenceId",
+          "type": "Integer"
+        },
+        {
+          "name": "categoryId",
+          "type": "Integer"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_1",
+      "id": 1,
+      "order": 1000,
+      "referenceId": 0,
+      "triggers": [
+        ":-)",
+        "(-:",
+        "(:",
+        ":)"
+      ]
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_41",
+      "id": 41,
+      "order": 1001,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_40",
+      "id": 40,
+      "order": 1002,
+      "referenceId": 0,
+      "triggers": [
+        ":(",
+        ":-("
+      ]
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_4",
+      "id": 4,
+      "order": 4000,
+      "referenceId": 0,
+      "triggers": [
+        "lol"
+      ]
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_5",
+      "id": 5,
+      "order": 5000,
+      "referenceId": 0,
+      "triggers": [
+        "x-D",
+        "xD"
+      ]
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_6",
+      "id": 6,
+      "order": 6000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_7",
+      "id": 7,
+      "order": 7000,
+      "referenceId": 0,
+      "triggers": [
+        "8)"
+      ]
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_8",
+      "id": 8,
+      "order": 8000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_9",
+      "id": 9,
+      "order": 9000,
+      "referenceId": 0,
+      "triggers": [
+        ":-p",
+        ":p",
+        ":-P",
+        ":P"
+      ]
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_10",
+      "id": 10,
+      "order": 10000,
+      "referenceId": 0,
+      "triggers": [
+        "*_*",
+        "(*_*)"
+      ]
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_11",
+      "id": 11,
+      "order": 11000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_12",
+      "id": 12,
+      "order": 12000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_13",
+      "id": 13,
+      "order": 13000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_14",
+      "id": 14,
+      "order": 14000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_15",
+      "id": 15,
+      "order": 15000,
+      "referenceId": 0,
+      "triggers": [
+        "$_$",
+        "K_K",
+        "€_€"
+      ]
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_2",
+      "id": 2,
+      "order": 15001,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_3",
+      "id": 3,
+      "order": 15002,
+      "referenceId": 0,
+      "triggers": [
+        ":-D",
+        ":D"
+      ]
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_16",
+      "id": 16,
+      "order": 16000,
+      "referenceId": 0,
+      "triggers": [
+        ";D",
+        ";-D",
+        "O_\u003c"
+      ]
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_17",
+      "id": 17,
+      "order": 17000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_18",
+      "id": 18,
+      "order": 18000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_19",
+      "id": 19,
+      "order": 19000,
+      "referenceId": 0,
+      "triggers": [
+        "@)"
+      ]
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_20",
+      "id": 20,
+      "order": 20000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_21",
+      "id": 21,
+      "order": 21000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_22",
+      "id": 22,
+      "order": 22000,
+      "referenceId": 0,
+      "triggers": [
+        "^^'"
+      ]
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_23",
+      "id": 23,
+      "order": 23000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_24",
+      "id": 24,
+      "order": 24000,
+      "referenceId": 0,
+      "triggers": [
+        "O.O"
+      ]
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_25",
+      "id": 25,
+      "order": 25000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_26",
+      "id": 26,
+      "order": 26000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_27",
+      "id": 27,
+      "order": 27000,
+      "referenceId": 0,
+      "triggers": [
+        "(~_~)",
+        "~_~"
+      ]
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_28",
+      "id": 28,
+      "order": 28000,
+      "referenceId": 0,
+      "triggers": [
+        ";_;"
+      ]
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_29",
+      "id": 29,
+      "order": 29000,
+      "referenceId": 0,
+      "triggers": [
+        "T_T"
+      ]
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_30",
+      "id": 30,
+      "order": 30000,
+      "referenceId": 0,
+      "triggers": [
+        ":-\\",
+        ":\\",
+        ":/",
+        ":-/"
+      ]
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_31",
+      "id": 31,
+      "order": 31000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_32",
+      "id": 32,
+      "order": 32000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_33",
+      "id": 33,
+      "order": 33000,
+      "referenceId": 0,
+      "triggers": [
+        "\u003e:\\",
+        "\u003e:-/",
+        "\u003e:/",
+        "\u003e:-\\"
+      ]
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_34",
+      "id": 34,
+      "order": 34000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_35",
+      "id": 35,
+      "order": 35000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_36",
+      "id": 36,
+      "order": 36000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_37",
+      "id": 37,
+      "order": 37000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_38",
+      "id": 38,
+      "order": 38000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_39",
+      "id": 39,
+      "order": 39000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_42",
+      "id": 42,
+      "order": 42000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_43",
+      "id": 43,
+      "order": 43000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_44",
+      "id": 44,
+      "order": 44000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_45",
+      "id": 45,
+      "order": 45000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_46",
+      "id": 46,
+      "order": 46000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_47",
+      "id": 47,
+      "order": 47000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_48",
+      "id": 48,
+      "order": 48000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_49",
+      "id": 49,
+      "order": 49000,
+      "referenceId": 0,
+      "triggers": [
+        "'(-_-)"
+      ]
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_50",
+      "id": 50,
+      "order": 50000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_51",
+      "id": 51,
+      "order": 51000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_52",
+      "id": 52,
+      "order": 52000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_53",
+      "id": 53,
+      "order": 53000,
+      "referenceId": 0,
+      "triggers": [
+        "X_X",
+        "x_x"
+      ]
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_54",
+      "id": 54,
+      "order": 54000,
+      "referenceId": 0,
+      "triggers": [
+        "OxO"
+      ]
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_55",
+      "id": 55,
+      "order": 55000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_56",
+      "id": 56,
+      "order": 56000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_57",
+      "id": 57,
+      "order": 57000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_58",
+      "id": 58,
+      "order": 58000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_59",
+      "id": 59,
+      "order": 59000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_60",
+      "id": 60,
+      "order": 60000,
+      "referenceId": 0,
+      "triggers": [
+        "O:-)",
+        "O:)"
+      ]
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_61",
+      "id": 61,
+      "order": 61000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_62",
+      "id": 62,
+      "order": 62000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_125",
+      "id": 97,
+      "order": 62001,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_118",
+      "id": 90,
+      "order": 62002,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_119",
+      "id": 91,
+      "order": 62003,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_63",
+      "id": 63,
+      "order": 63000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_64",
+      "id": 64,
+      "order": 64000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_65",
+      "id": 65,
+      "order": 65000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_66",
+      "id": 66,
+      "order": 66000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_67",
+      "id": 67,
+      "order": 67000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_68",
+      "id": 68,
+      "order": 68000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_69",
+      "id": 69,
+      "order": 69000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_70",
+      "id": 70,
+      "order": 70000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_71",
+      "id": 71,
+      "order": 71000,
+      "referenceId": 0,
+      "triggers": [
+        "oO",
+        "ô_O",
+        "o_O"
+      ]
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_72",
+      "id": 72,
+      "order": 72000,
+      "referenceId": 0,
+      "triggers": [
+        "\u003e_\u003c",
+        "(\u003e_\u003c)"
+      ]
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_124",
+      "id": 96,
+      "order": 72001,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_103",
+      "id": 75,
+      "order": 72002,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_120",
+      "id": 92,
+      "order": 72003,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_101",
+      "id": 73,
+      "order": 101000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_102",
+      "id": 74,
+      "order": 102000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_104",
+      "id": 76,
+      "order": 104000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_105",
+      "id": 77,
+      "order": 105000,
+      "referenceId": 0,
+      "triggers": [
+        "zZz"
+      ]
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_106",
+      "id": 78,
+      "order": 106000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_126",
+      "id": 98,
+      "order": 107000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_108",
+      "id": 80,
+      "order": 108000,
+      "referenceId": 0,
+      "triggers": [
+        "eureka"
+      ]
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_109",
+      "id": 81,
+      "order": 109000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_110",
+      "id": 82,
+      "order": 110000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_111",
+      "id": 83,
+      "order": 111000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_123",
+      "id": 95,
+      "order": 111001,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_122",
+      "id": 94,
+      "order": 111002,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_121",
+      "id": 93,
+      "order": 111003,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_112",
+      "id": 84,
+      "order": 112000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_113",
+      "id": 85,
+      "order": 113000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_114",
+      "id": 86,
+      "order": 114000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_115",
+      "id": 87,
+      "order": 115000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_107",
+      "id": 79,
+      "order": 116000,
+      "referenceId": 0,
+      "triggers": [
+        "♫"
+      ]
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_116",
+      "id": 88,
+      "order": 117000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_117",
+      "id": 89,
+      "order": 118000,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_127",
+      "id": 99,
+      "order": 119000,
+      "referenceId": 0,
+      "triggers": [
+        ";-)",
+        ";)"
+      ]
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_128",
+      "id": 128,
+      "order": 128000,
+      "referenceId": 1,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_129",
+      "id": 129,
+      "order": 129000,
+      "referenceId": 3,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_148",
+      "id": 148,
+      "order": 148000,
+      "referenceId": 1,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_168",
+      "id": 168,
+      "order": 168000,
+      "referenceId": 1,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 0,
+      "forPlayers": false,
+      "gfxId": "mount_smiley_serenity",
+      "id": 117,
+      "order": 0,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 0,
+      "forPlayers": false,
+      "gfxId": "mount_smiley_aggressivity",
+      "id": 118,
+      "order": 0,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 0,
+      "forPlayers": false,
+      "gfxId": "mount_smiley_tired",
+      "id": 119,
+      "order": 0,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 0,
+      "forPlayers": false,
+      "gfxId": "mount_smiley_maturity",
+      "id": 120,
+      "order": 0,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 0,
+      "forPlayers": false,
+      "gfxId": "mount_smiley_energy",
+      "id": 121,
+      "order": 0,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 0,
+      "forPlayers": false,
+      "gfxId": "mount_smiley_stamina",
+      "id": 122,
+      "order": 0,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 0,
+      "forPlayers": false,
+      "gfxId": "mount_smiley_love",
+      "id": 123,
+      "order": 0,
+      "referenceId": 0,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_130",
+      "id": 130,
+      "order": 0,
+      "referenceId": 5,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_131",
+      "id": 131,
+      "order": 0,
+      "referenceId": 7,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_132",
+      "id": 132,
+      "order": 0,
+      "referenceId": 8,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_133",
+      "id": 133,
+      "order": 0,
+      "referenceId": 9,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_134",
+      "id": 134,
+      "order": 0,
+      "referenceId": 13,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_135",
+      "id": 135,
+      "order": 0,
+      "referenceId": 16,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_136",
+      "id": 136,
+      "order": 0,
+      "referenceId": 19,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_137",
+      "id": 137,
+      "order": 0,
+      "referenceId": 22,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_138",
+      "id": 138,
+      "order": 0,
+      "referenceId": 24,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_139",
+      "id": 139,
+      "order": 0,
+      "referenceId": 29,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_140",
+      "id": 140,
+      "order": 0,
+      "referenceId": 30,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_141",
+      "id": 141,
+      "order": 0,
+      "referenceId": 31,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_142",
+      "id": 142,
+      "order": 0,
+      "referenceId": 33,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_143",
+      "id": 143,
+      "order": 0,
+      "referenceId": 36,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_144",
+      "id": 144,
+      "order": 0,
+      "referenceId": 40,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_145",
+      "id": 145,
+      "order": 0,
+      "referenceId": 47,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_146",
+      "id": 146,
+      "order": 0,
+      "referenceId": 54,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_147",
+      "id": 147,
+      "order": 0,
+      "referenceId": 63,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_149",
+      "id": 149,
+      "order": 0,
+      "referenceId": 3,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_150",
+      "id": 150,
+      "order": 0,
+      "referenceId": 5,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_151",
+      "id": 151,
+      "order": 0,
+      "referenceId": 7,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_152",
+      "id": 152,
+      "order": 0,
+      "referenceId": 8,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_153",
+      "id": 153,
+      "order": 0,
+      "referenceId": 9,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_154",
+      "id": 154,
+      "order": 0,
+      "referenceId": 13,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_155",
+      "id": 155,
+      "order": 0,
+      "referenceId": 16,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_156",
+      "id": 156,
+      "order": 0,
+      "referenceId": 19,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_157",
+      "id": 157,
+      "order": 0,
+      "referenceId": 22,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_158",
+      "id": 158,
+      "order": 0,
+      "referenceId": 24,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_159",
+      "id": 159,
+      "order": 0,
+      "referenceId": 29,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_160",
+      "id": 160,
+      "order": 0,
+      "referenceId": 30,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_161",
+      "id": 161,
+      "order": 0,
+      "referenceId": 31,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_162",
+      "id": 162,
+      "order": 0,
+      "referenceId": 33,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_163",
+      "id": 163,
+      "order": 0,
+      "referenceId": 36,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_164",
+      "id": 164,
+      "order": 0,
+      "referenceId": 40,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_165",
+      "id": 165,
+      "order": 0,
+      "referenceId": 47,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_166",
+      "id": 166,
+      "order": 0,
+      "referenceId": 54,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_167",
+      "id": 167,
+      "order": 0,
+      "referenceId": 63,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_169",
+      "id": 169,
+      "order": 0,
+      "referenceId": 3,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_170",
+      "id": 170,
+      "order": 0,
+      "referenceId": 5,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_171",
+      "id": 171,
+      "order": 0,
+      "referenceId": 7,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_172",
+      "id": 172,
+      "order": 0,
+      "referenceId": 8,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_173",
+      "id": 173,
+      "order": 0,
+      "referenceId": 9,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_174",
+      "id": 174,
+      "order": 0,
+      "referenceId": 13,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_175",
+      "id": 175,
+      "order": 0,
+      "referenceId": 16,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_176",
+      "id": 176,
+      "order": 0,
+      "referenceId": 19,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_177",
+      "id": 177,
+      "order": 0,
+      "referenceId": 22,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_178",
+      "id": 178,
+      "order": 0,
+      "referenceId": 24,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_179",
+      "id": 179,
+      "order": 0,
+      "referenceId": 29,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_180",
+      "id": 180,
+      "order": 0,
+      "referenceId": 30,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_181",
+      "id": 181,
+      "order": 0,
+      "referenceId": 31,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_182",
+      "id": 182,
+      "order": 0,
+      "referenceId": 33,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_183",
+      "id": 183,
+      "order": 0,
+      "referenceId": 36,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_184",
+      "id": 184,
+      "order": 0,
+      "referenceId": 40,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_185",
+      "id": 185,
+      "order": 0,
+      "referenceId": 47,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_186",
+      "id": 186,
+      "order": 0,
+      "referenceId": 54,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_187",
+      "id": 187,
+      "order": 0,
+      "referenceId": 63,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_188",
+      "id": 188,
+      "order": 0,
+      "referenceId": 1,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_189",
+      "id": 189,
+      "order": 0,
+      "referenceId": 3,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_190",
+      "id": 190,
+      "order": 0,
+      "referenceId": 5,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_191",
+      "id": 191,
+      "order": 0,
+      "referenceId": 7,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_192",
+      "id": 192,
+      "order": 0,
+      "referenceId": 8,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_193",
+      "id": 193,
+      "order": 0,
+      "referenceId": 9,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_194",
+      "id": 194,
+      "order": 0,
+      "referenceId": 13,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_195",
+      "id": 195,
+      "order": 0,
+      "referenceId": 16,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_196",
+      "id": 196,
+      "order": 0,
+      "referenceId": 19,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_197",
+      "id": 197,
+      "order": 0,
+      "referenceId": 22,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_198",
+      "id": 198,
+      "order": 0,
+      "referenceId": 24,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_199",
+      "id": 199,
+      "order": 0,
+      "referenceId": 29,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_200",
+      "id": 200,
+      "order": 0,
+      "referenceId": 30,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_201",
+      "id": 201,
+      "order": 0,
+      "referenceId": 31,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_202",
+      "id": 202,
+      "order": 0,
+      "referenceId": 33,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_203",
+      "id": 203,
+      "order": 0,
+      "referenceId": 36,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_204",
+      "id": 204,
+      "order": 0,
+      "referenceId": 40,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_205",
+      "id": 205,
+      "order": 0,
+      "referenceId": 47,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_206",
+      "id": 206,
+      "order": 0,
+      "referenceId": 54,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_207",
+      "id": 207,
+      "order": 0,
+      "referenceId": 63,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_208",
+      "id": 208,
+      "order": 0,
+      "referenceId": 1,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_209",
+      "id": 209,
+      "order": 0,
+      "referenceId": 3,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_210",
+      "id": 210,
+      "order": 0,
+      "referenceId": 5,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_211",
+      "id": 211,
+      "order": 0,
+      "referenceId": 7,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_212",
+      "id": 212,
+      "order": 0,
+      "referenceId": 8,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_213",
+      "id": 213,
+      "order": 0,
+      "referenceId": 9,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_214",
+      "id": 214,
+      "order": 0,
+      "referenceId": 13,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_215",
+      "id": 215,
+      "order": 0,
+      "referenceId": 16,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_216",
+      "id": 216,
+      "order": 0,
+      "referenceId": 19,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_217",
+      "id": 217,
+      "order": 0,
+      "referenceId": 22,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_218",
+      "id": 218,
+      "order": 0,
+      "referenceId": 24,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_219",
+      "id": 219,
+      "order": 0,
+      "referenceId": 29,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_220",
+      "id": 220,
+      "order": 0,
+      "referenceId": 30,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_221",
+      "id": 221,
+      "order": 0,
+      "referenceId": 31,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_222",
+      "id": 222,
+      "order": 0,
+      "referenceId": 33,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_223",
+      "id": 223,
+      "order": 0,
+      "referenceId": 36,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_224",
+      "id": 224,
+      "order": 0,
+      "referenceId": 40,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_225",
+      "id": 225,
+      "order": 0,
+      "referenceId": 47,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_226",
+      "id": 226,
+      "order": 0,
+      "referenceId": 54,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_227",
+      "id": 227,
+      "order": 0,
+      "referenceId": 63,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_228",
+      "id": 228,
+      "order": 0,
+      "referenceId": 1,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_229",
+      "id": 229,
+      "order": 0,
+      "referenceId": 8,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_230",
+      "id": 230,
+      "order": 0,
+      "referenceId": 29,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_231",
+      "id": 231,
+      "order": 0,
+      "referenceId": 36,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_232",
+      "id": 232,
+      "order": 0,
+      "referenceId": 41,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_233",
+      "id": 233,
+      "order": 0,
+      "referenceId": 22,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_234",
+      "id": 234,
+      "order": 0,
+      "referenceId": 13,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_235",
+      "id": 235,
+      "order": 0,
+      "referenceId": 53,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_236",
+      "id": 236,
+      "order": 0,
+      "referenceId": 33,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_237",
+      "id": 237,
+      "order": 0,
+      "referenceId": 1,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 1,
+      "forPlayers": true,
+      "gfxId": "smiley_238",
+      "id": 238,
+      "order": 0,
+      "referenceId": 77,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 3,
+      "forPlayers": true,
+      "gfxId": "smiley_239",
+      "id": 239,
+      "order": 0,
+      "referenceId": 22,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_240",
+      "id": 240,
+      "order": 0,
+      "referenceId": 23,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_241",
+      "id": 241,
+      "order": 0,
+      "referenceId": 13,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_242",
+      "id": 242,
+      "order": 0,
+      "referenceId": 8,
+      "triggers": []
+    },
+    {
+      "ClassType_": "Smiley",
+      "categoryId": 2,
+      "forPlayers": true,
+      "gfxId": "smiley_243",
+      "id": 243,
+      "order": 0,
+      "referenceId": 99,
+      "triggers": []
+    }
+  ]
+}

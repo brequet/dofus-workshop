@@ -1,0 +1,775 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.npcs",
+      "packageClass": "TaxCollectorFirstname",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "firstnameId",
+          "type": "I18n"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 316,
+      "id": 1
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 317,
+      "id": 2
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 314,
+      "id": 3
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 315,
+      "id": 4
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 310,
+      "id": 5
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 312,
+      "id": 6
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 340,
+      "id": 7
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 313,
+      "id": 8
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 318,
+      "id": 9
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 323,
+      "id": 10
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 324,
+      "id": 11
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 393,
+      "id": 12
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 333,
+      "id": 13
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 332,
+      "id": 14
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 392,
+      "id": 15
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 397,
+      "id": 16
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 396,
+      "id": 17
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 395,
+      "id": 18
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 394,
+      "id": 19
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 391,
+      "id": 20
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 389,
+      "id": 21
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 390,
+      "id": 22
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 272,
+      "id": 23
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 338,
+      "id": 24
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 271,
+      "id": 25
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 326,
+      "id": 26
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 273,
+      "id": 27
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 274,
+      "id": 28
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 266,
+      "id": 29
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 339,
+      "id": 30
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 283,
+      "id": 31
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 276,
+      "id": 32
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 275,
+      "id": 33
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 279,
+      "id": 34
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 280,
+      "id": 35
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 342,
+      "id": 36
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 343,
+      "id": 37
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 277,
+      "id": 38
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 278,
+      "id": 39
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 348,
+      "id": 40
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 345,
+      "id": 41
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 344,
+      "id": 42
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 347,
+      "id": 43
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 346,
+      "id": 44
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 269,
+      "id": 45
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 353,
+      "id": 46
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 350,
+      "id": 47
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 351,
+      "id": 48
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 330,
+      "id": 49
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 356,
+      "id": 50
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 355,
+      "id": 51
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 285,
+      "id": 52
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 284,
+      "id": 53
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 281,
+      "id": 54
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 295,
+      "id": 55
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 320,
+      "id": 56
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 357,
+      "id": 57
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 358,
+      "id": 58
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 359,
+      "id": 59
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 360,
+      "id": 60
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 362,
+      "id": 61
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 361,
+      "id": 62
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 363,
+      "id": 63
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 286,
+      "id": 64
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 321,
+      "id": 65
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 364,
+      "id": 66
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 267,
+      "id": 67
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 366,
+      "id": 68
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 365,
+      "id": 69
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 371,
+      "id": 70
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 372,
+      "id": 71
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 370,
+      "id": 72
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 302,
+      "id": 73
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 322,
+      "id": 74
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 369,
+      "id": 75
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 367,
+      "id": 76
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 368,
+      "id": 77
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 374,
+      "id": 78
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 373,
+      "id": 79
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 375,
+      "id": 80
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 299,
+      "id": 81
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 300,
+      "id": 82
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 378,
+      "id": 83
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 303,
+      "id": 84
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 376,
+      "id": 85
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 306,
+      "id": 86
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 377,
+      "id": 87
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 331,
+      "id": 88
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 379,
+      "id": 89
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 380,
+      "id": 90
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 381,
+      "id": 91
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 384,
+      "id": 92
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 290,
+      "id": 93
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 382,
+      "id": 94
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 383,
+      "id": 95
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 387,
+      "id": 96
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 388,
+      "id": 97
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 385,
+      "id": 98
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 386,
+      "id": 99
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 301,
+      "id": 100
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 288,
+      "id": 101
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 294,
+      "id": 102
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 297,
+      "id": 103
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 270,
+      "id": 104
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 268,
+      "id": 105
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 287,
+      "id": 106
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 296,
+      "id": 107
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 305,
+      "id": 108
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 282,
+      "id": 109
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 308,
+      "id": 110
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 291,
+      "id": 111
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 293,
+      "id": 112
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 292,
+      "id": 113
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 311,
+      "id": 115
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 325,
+      "id": 116
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 327,
+      "id": 117
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 289,
+      "id": 118
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 341,
+      "id": 119
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 349,
+      "id": 120
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 328,
+      "id": 121
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 352,
+      "id": 122
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 329,
+      "id": 123
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 319,
+      "id": 124
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 307,
+      "id": 125
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 354,
+      "id": 126
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 304,
+      "id": 127
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 298,
+      "id": 128
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 309,
+      "id": 129
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 255,
+      "id": 130
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 253,
+      "id": 131
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 336,
+      "id": 132
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 251,
+      "id": 133
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 252,
+      "id": 134
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 264,
+      "id": 137
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 254,
+      "id": 138
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 261,
+      "id": 139
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 258,
+      "id": 140
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 337,
+      "id": 141
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 334,
+      "id": 142
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 262,
+      "id": 143
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 250,
+      "id": 144
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 249,
+      "id": 145
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 398,
+      "id": 146
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 259,
+      "id": 147
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 248,
+      "id": 148
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 260,
+      "id": 149
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 265,
+      "id": 150
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 256,
+      "id": 151
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 257,
+      "id": 152
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 335,
+      "id": 153
+    },
+    {
+      "ClassType_": "TaxCollectorFirstname",
+      "firstnameId": 263,
+      "id": 154
+    }
+  ]
+}

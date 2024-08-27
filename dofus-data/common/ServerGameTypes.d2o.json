@@ -1,0 +1,80 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.servers",
+      "packageClass": "ServerGameType",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "selectableByPlayer",
+          "type": "Boolean"
+        },
+        {
+          "name": "nameId",
+          "type": "I18n"
+        },
+        {
+          "name": "rulesId",
+          "type": "I18n"
+        },
+        {
+          "name": "descriptionId",
+          "type": "I18n"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "ServerGameType",
+      "descriptionId": 724092,
+      "id": 0,
+      "nameId": 744486,
+      "rulesId": 787699,
+      "selectableByPlayer": true
+    },
+    {
+      "ClassType_": "ServerGameType",
+      "descriptionId": 724098,
+      "id": 1,
+      "nameId": 744484,
+      "rulesId": 724074,
+      "selectableByPlayer": true
+    },
+    {
+      "ClassType_": "ServerGameType",
+      "descriptionId": 0,
+      "id": 2,
+      "nameId": 392557,
+      "rulesId": 0,
+      "selectableByPlayer": false
+    },
+    {
+      "ClassType_": "ServerGameType",
+      "descriptionId": 0,
+      "id": 3,
+      "nameId": 744480,
+      "rulesId": 724066,
+      "selectableByPlayer": true
+    },
+    {
+      "ClassType_": "ServerGameType",
+      "descriptionId": 724104,
+      "id": 4,
+      "nameId": 744477,
+      "rulesId": 724061,
+      "selectableByPlayer": true
+    },
+    {
+      "ClassType_": "ServerGameType",
+      "descriptionId": 784373,
+      "id": 5,
+      "nameId": 745765,
+      "rulesId": 1043593,
+      "selectableByPlayer": true
+    }
+  ]
+}

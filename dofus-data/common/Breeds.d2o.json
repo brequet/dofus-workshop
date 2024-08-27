@@ -1,0 +1,4093 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.breeds",
+      "packageClass": "BreedRoleByBreed",
+      "fields": [
+        {
+          "name": "breedId",
+          "type": "Integer"
+        },
+        {
+          "name": "roleId",
+          "type": "Integer"
+        },
+        {
+          "name": "descriptionId",
+          "type": "I18n"
+        },
+        {
+          "name": "value",
+          "type": "Integer"
+        },
+        {
+          "name": "order",
+          "type": "Integer"
+        }
+      ]
+    },
+    "2": {
+      "packageName": "com.ankamagames.dofus.datacenter.breeds",
+      "packageClass": "Breed",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "shortNameId",
+          "type": "I18n"
+        },
+        {
+          "name": "longNameId",
+          "type": "I18n"
+        },
+        {
+          "name": "descriptionId",
+          "type": "I18n"
+        },
+        {
+          "name": "gameplayDescriptionId",
+          "type": "I18n"
+        },
+        {
+          "name": "gameplayClassDescriptionId",
+          "type": "I18n"
+        },
+        {
+          "name": "maleLook",
+          "type": "String"
+        },
+        {
+          "name": "femaleLook",
+          "type": "String"
+        },
+        {
+          "name": "creatureBonesId",
+          "type": "Integer"
+        },
+        {
+          "name": "maleArtwork",
+          "type": "Integer"
+        },
+        {
+          "name": "femaleArtwork",
+          "type": "Integer"
+        },
+        {
+          "name": "statsPointsForStrength",
+          "type": "Vector",
+          "subtype": {
+            "name": "Vector.\u003cVector.\u003cuint\u003e\u003e",
+            "type": "Vector",
+            "subtype": {
+              "name": "Vector.\u003cuint\u003e",
+              "type": "UnsignedInteger"
+            }
+          }
+        },
+        {
+          "name": "statsPointsForIntelligence",
+          "type": "Vector",
+          "subtype": {
+            "name": "Vector.\u003cVector.\u003cuint\u003e\u003e",
+            "type": "Vector",
+            "subtype": {
+              "name": "Vector.\u003cuint\u003e",
+              "type": "UnsignedInteger"
+            }
+          }
+        },
+        {
+          "name": "statsPointsForChance",
+          "type": "Vector",
+          "subtype": {
+            "name": "Vector.\u003cVector.\u003cuint\u003e\u003e",
+            "type": "Vector",
+            "subtype": {
+              "name": "Vector.\u003cuint\u003e",
+              "type": "UnsignedInteger"
+            }
+          }
+        },
+        {
+          "name": "statsPointsForAgility",
+          "type": "Vector",
+          "subtype": {
+            "name": "Vector.\u003cVector.\u003cuint\u003e\u003e",
+            "type": "Vector",
+            "subtype": {
+              "name": "Vector.\u003cuint\u003e",
+              "type": "UnsignedInteger"
+            }
+          }
+        },
+        {
+          "name": "statsPointsForVitality",
+          "type": "Vector",
+          "subtype": {
+            "name": "Vector.\u003cVector.\u003cuint\u003e\u003e",
+            "type": "Vector",
+            "subtype": {
+              "name": "Vector.\u003cuint\u003e",
+              "type": "UnsignedInteger"
+            }
+          }
+        },
+        {
+          "name": "statsPointsForWisdom",
+          "type": "Vector",
+          "subtype": {
+            "name": "Vector.\u003cVector.\u003cuint\u003e\u003e",
+            "type": "Vector",
+            "subtype": {
+              "name": "Vector.\u003cuint\u003e",
+              "type": "UnsignedInteger"
+            }
+          }
+        },
+        {
+          "name": "breedSpellsId",
+          "type": "Vector",
+          "subtype": {
+            "name": "Vector.\u003cuint\u003e",
+            "type": "UnsignedInteger"
+          }
+        },
+        {
+          "name": "breedRoles",
+          "type": "Vector",
+          "subtype": {
+            "name": "Vector.\u003ccom.ankamagames.dofus.datacenter.breeds::BreedRoleByBreed\u003e",
+            "type": "1"
+          }
+        },
+        {
+          "name": "maleColors",
+          "type": "Vector",
+          "subtype": {
+            "name": "Vector.\u003cuint\u003e",
+            "type": "UnsignedInteger"
+          }
+        },
+        {
+          "name": "femaleColors",
+          "type": "Vector",
+          "subtype": {
+            "name": "Vector.\u003cuint\u003e",
+            "type": "UnsignedInteger"
+          }
+        },
+        {
+          "name": "spawnMap",
+          "type": "Integer"
+        },
+        {
+          "name": "complexity",
+          "type": "Integer"
+        },
+        {
+          "name": "sortIndex",
+          "type": "Integer"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "Breed",
+      "breedRoles": [
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 1,
+          "descriptionId": 1004987,
+          "order": 3,
+          "roleId": 1,
+          "value": 7
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 1,
+          "descriptionId": 1004996,
+          "order": 2,
+          "roleId": 2,
+          "value": 8
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 1,
+          "descriptionId": 1007811,
+          "order": 1,
+          "roleId": 3,
+          "value": 8
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 1,
+          "descriptionId": 506469,
+          "order": -1,
+          "roleId": 4,
+          "value": 0
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 1,
+          "descriptionId": 506473,
+          "order": -1,
+          "roleId": 5,
+          "value": 7
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 1,
+          "descriptionId": 506517,
+          "order": -1,
+          "roleId": 6,
+          "value": 4
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 1,
+          "descriptionId": 506472,
+          "order": -1,
+          "roleId": 7,
+          "value": 2
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 1,
+          "descriptionId": 506468,
+          "order": -1,
+          "roleId": 8,
+          "value": 3
+        }
+      ],
+      "breedSpellsId": [
+        12978,
+        12983,
+        12981,
+        12984,
+        12976,
+        12979,
+        12977,
+        12993,
+        12995,
+        13010,
+        12994,
+        12986,
+        13007,
+        14434,
+        13020,
+        12992,
+        12990,
+        12991,
+        12987,
+        12985,
+        12988,
+        12982
+      ],
+      "complexity": 2,
+      "creatureBonesId": 15,
+      "descriptionId": 305968,
+      "femaleArtwork": 199,
+      "femaleColors": [
+        16103775,
+        6833184,
+        13661190,
+        13661190,
+        6963462
+      ],
+      "femaleLook": "{1|11||125}",
+      "gameplayClassDescriptionId": 1076523,
+      "gameplayDescriptionId": 598583,
+      "id": 1,
+      "longNameId": 116103,
+      "maleArtwork": 198,
+      "maleColors": [
+        16765564,
+        7098157,
+        15972912,
+        5468254,
+        7098157
+      ],
+      "maleLook": "{1|10||135}",
+      "shortNameId": 685,
+      "sortIndex": 10,
+      "spawnMap": 153092354,
+      "statsPointsForAgility": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForChance": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForIntelligence": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForStrength": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForVitality": [
+        [
+          0,
+          1
+        ]
+      ],
+      "statsPointsForWisdom": [
+        [
+          0,
+          3
+        ]
+      ]
+    },
+    {
+      "ClassType_": "Breed",
+      "breedRoles": [
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 2,
+          "descriptionId": 506481,
+          "order": -1,
+          "roleId": 1,
+          "value": 3
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 2,
+          "descriptionId": 506478,
+          "order": -1,
+          "roleId": 2,
+          "value": 2
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 2,
+          "descriptionId": 506479,
+          "order": -1,
+          "roleId": 3,
+          "value": 3
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 2,
+          "descriptionId": 1004937,
+          "order": 2,
+          "roleId": 4,
+          "value": 5
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 2,
+          "descriptionId": 506482,
+          "order": -1,
+          "roleId": 5,
+          "value": 4
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 2,
+          "descriptionId": 506483,
+          "order": -1,
+          "roleId": 6,
+          "value": 4
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 2,
+          "descriptionId": 823681,
+          "order": 1,
+          "roleId": 7,
+          "value": 12
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 2,
+          "descriptionId": 823682,
+          "order": 3,
+          "roleId": 8,
+          "value": 6
+        }
+      ],
+      "breedSpellsId": [
+        12615,
+        13998,
+        12548,
+        12549,
+        12555,
+        12606,
+        14026,
+        14018,
+        14022,
+        14006,
+        12600,
+        14019,
+        12554,
+        12560,
+        12551,
+        14028,
+        12563,
+        12605,
+        14007,
+        18535,
+        12557,
+        12564
+      ],
+      "complexity": 2,
+      "creatureBonesId": 16,
+      "descriptionId": 305966,
+      "femaleArtwork": 202,
+      "femaleColors": [
+        16759376,
+        16777164,
+        2726594,
+        2827027,
+        2726594
+      ],
+      "femaleLook": "{1|21||125}",
+      "gameplayClassDescriptionId": 1055357,
+      "gameplayDescriptionId": 598597,
+      "id": 2,
+      "longNameId": 116101,
+      "maleArtwork": 200,
+      "maleColors": [
+        15973470,
+        16777166,
+        4836573,
+        2827027,
+        16761904
+      ],
+      "maleLook": "{1|20||130}",
+      "shortNameId": 697,
+      "sortIndex": 5,
+      "spawnMap": 153092354,
+      "statsPointsForAgility": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForChance": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForIntelligence": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForStrength": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForVitality": [
+        [
+          0,
+          1
+        ]
+      ],
+      "statsPointsForWisdom": [
+        [
+          0,
+          3
+        ]
+      ]
+    },
+    {
+      "ClassType_": "Breed",
+      "breedRoles": [
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 3,
+          "descriptionId": 598580,
+          "order": 1,
+          "roleId": 1,
+          "value": 8
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 3,
+          "descriptionId": 506524,
+          "order": -1,
+          "roleId": 2,
+          "value": 0
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 3,
+          "descriptionId": 506515,
+          "order": -1,
+          "roleId": 3,
+          "value": 4
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 3,
+          "descriptionId": 506516,
+          "order": -1,
+          "roleId": 4,
+          "value": 5
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 3,
+          "descriptionId": 506522,
+          "order": -1,
+          "roleId": 5,
+          "value": 5
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 3,
+          "descriptionId": 506521,
+          "order": -1,
+          "roleId": 6,
+          "value": 3
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 3,
+          "descriptionId": 1004994,
+          "order": 2,
+          "roleId": 7,
+          "value": 6
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 3,
+          "descriptionId": 1004995,
+          "order": 3,
+          "roleId": 8,
+          "value": 6
+        }
+      ],
+      "breedSpellsId": [
+        13340,
+        13338,
+        13328,
+        13331,
+        13366,
+        13342,
+        13334,
+        13335,
+        13332,
+        13365,
+        13344,
+        13362,
+        13343,
+        13337,
+        13336,
+        14278,
+        13364,
+        13345,
+        13333,
+        13346,
+        13349,
+        13347
+      ],
+      "complexity": 2,
+      "creatureBonesId": 17,
+      "descriptionId": 305969,
+      "femaleArtwork": 204,
+      "femaleColors": [
+        15384674,
+        15982756,
+        4404257,
+        16777164,
+        11373881
+      ],
+      "femaleLook": "{1|31||95}",
+      "gameplayClassDescriptionId": 1010305,
+      "gameplayDescriptionId": 598579,
+      "id": 3,
+      "longNameId": 116105,
+      "maleArtwork": 203,
+      "maleColors": [
+        15973470,
+        16777166,
+        4404257,
+        16767286,
+        10904329
+      ],
+      "maleLook": "{1|30||120}",
+      "shortNameId": 681,
+      "sortIndex": 7,
+      "spawnMap": 153092354,
+      "statsPointsForAgility": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForChance": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForIntelligence": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForStrength": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForVitality": [
+        [
+          0,
+          1
+        ]
+      ],
+      "statsPointsForWisdom": [
+        [
+          0,
+          3
+        ]
+      ]
+    },
+    {
+      "ClassType_": "Breed",
+      "breedRoles": [
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 4,
+          "descriptionId": 1004986,
+          "order": 2,
+          "roleId": 1,
+          "value": 6
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 4,
+          "descriptionId": 506413,
+          "order": -1,
+          "roleId": 2,
+          "value": 2
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 4,
+          "descriptionId": 506416,
+          "order": -1,
+          "roleId": 3,
+          "value": 0
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 4,
+          "descriptionId": 506415,
+          "order": -1,
+          "roleId": 4,
+          "value": 2
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 4,
+          "descriptionId": 598619,
+          "order": 1,
+          "roleId": 5,
+          "value": 10
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 4,
+          "descriptionId": 1004953,
+          "order": 3,
+          "roleId": 6,
+          "value": 7
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 4,
+          "descriptionId": 506414,
+          "order": -1,
+          "roleId": 7,
+          "value": 1
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 4,
+          "descriptionId": 506409,
+          "order": -1,
+          "roleId": 8,
+          "value": 3
+        }
+      ],
+      "breedSpellsId": [
+        12904,
+        12902,
+        12913,
+        12907,
+        12919,
+        12915,
+        12906,
+        12916,
+        12948,
+        12914,
+        12910,
+        12938,
+        12911,
+        12937,
+        12905,
+        12908,
+        12942,
+        12931,
+        12903,
+        12921,
+        12909,
+        14312
+      ],
+      "complexity": 1,
+      "creatureBonesId": 18,
+      "descriptionId": 305965,
+      "femaleArtwork": 206,
+      "femaleColors": [
+        15384674,
+        16777198,
+        4157854,
+        4157854,
+        14872505
+      ],
+      "femaleLook": "{1|41||155}",
+      "gameplayClassDescriptionId": 1083749,
+      "gameplayDescriptionId": 598617,
+      "id": 4,
+      "longNameId": 116106,
+      "maleArtwork": 205,
+      "maleColors": [
+        15919294,
+        3101814,
+        3101814,
+        3101814,
+        8748628
+      ],
+      "maleLook": "{1|40||140}",
+      "shortNameId": 701,
+      "sortIndex": 6,
+      "spawnMap": 153092354,
+      "statsPointsForAgility": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForChance": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForIntelligence": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForStrength": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForVitality": [
+        [
+          0,
+          1
+        ]
+      ],
+      "statsPointsForWisdom": [
+        [
+          0,
+          3
+        ]
+      ]
+    },
+    {
+      "ClassType_": "Breed",
+      "breedRoles": [
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 5,
+          "descriptionId": 598630,
+          "order": 2,
+          "roleId": 1,
+          "value": 7
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 5,
+          "descriptionId": 506463,
+          "order": -1,
+          "roleId": 2,
+          "value": 2
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 5,
+          "descriptionId": 506437,
+          "order": -1,
+          "roleId": 3,
+          "value": 0
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 5,
+          "descriptionId": 506429,
+          "order": -1,
+          "roleId": 4,
+          "value": 0
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 5,
+          "descriptionId": 598629,
+          "order": 3,
+          "roleId": 5,
+          "value": 7
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 5,
+          "descriptionId": 1004957,
+          "order": 1,
+          "roleId": 6,
+          "value": 9
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 5,
+          "descriptionId": 506462,
+          "order": -1,
+          "roleId": 7,
+          "value": 2
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 5,
+          "descriptionId": 506436,
+          "order": -1,
+          "roleId": 8,
+          "value": 4
+        }
+      ],
+      "breedSpellsId": [
+        13244,
+        13242,
+        13249,
+        13254,
+        13243,
+        13252,
+        13287,
+        13245,
+        13261,
+        13259,
+        13246,
+        13257,
+        13262,
+        13248,
+        13250,
+        13247,
+        13255,
+        13251,
+        13256,
+        13253,
+        13260,
+        13296
+      ],
+      "complexity": 3,
+      "creatureBonesId": 22,
+      "descriptionId": 305960,
+      "femaleArtwork": 208,
+      "femaleColors": [
+        7957320,
+        16777166,
+        2512998,
+        13945509,
+        2512998
+      ],
+      "femaleLook": "{1|51||110}",
+      "gameplayClassDescriptionId": 1010380,
+      "gameplayDescriptionId": 598627,
+      "id": 5,
+      "longNameId": 706,
+      "maleArtwork": 207,
+      "maleColors": [
+        7957320,
+        6178082,
+        2775654,
+        14523954,
+        4336658
+      ],
+      "maleLook": "{1|50||110}",
+      "shortNameId": 705,
+      "sortIndex": 17,
+      "spawnMap": 153092354,
+      "statsPointsForAgility": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForChance": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForIntelligence": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForStrength": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForVitality": [
+        [
+          0,
+          1
+        ]
+      ],
+      "statsPointsForWisdom": [
+        [
+          0,
+          3
+        ]
+      ]
+    },
+    {
+      "ClassType_": "Breed",
+      "breedRoles": [
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 6,
+          "descriptionId": 506420,
+          "order": -1,
+          "roleId": 1,
+          "value": 4
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 6,
+          "descriptionId": 506500,
+          "order": -1,
+          "roleId": 2,
+          "value": 0
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 6,
+          "descriptionId": 506499,
+          "order": -1,
+          "roleId": 3,
+          "value": 2
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 6,
+          "descriptionId": 1004992,
+          "order": 3,
+          "roleId": 4,
+          "value": 6
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 6,
+          "descriptionId": 1004991,
+          "order": 1,
+          "roleId": 5,
+          "value": 9
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 6,
+          "descriptionId": 506502,
+          "order": -1,
+          "roleId": 6,
+          "value": 3
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 6,
+          "descriptionId": 506501,
+          "order": -1,
+          "roleId": 7,
+          "value": 3
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 6,
+          "descriptionId": 1004931,
+          "order": 2,
+          "roleId": 8,
+          "value": 7
+        }
+      ],
+      "breedSpellsId": [
+        12843,
+        29680,
+        12857,
+        12846,
+        12841,
+        12844,
+        12864,
+        12852,
+        12848,
+        12845,
+        12870,
+        12840,
+        12866,
+        12858,
+        14310,
+        12856,
+        12847,
+        12854,
+        12875,
+        12842,
+        12861,
+        29785
+      ],
+      "complexity": 2,
+      "creatureBonesId": 34,
+      "descriptionId": 969451,
+      "femaleArtwork": 210,
+      "femaleColors": [
+        16380634,
+        14378769,
+        14568735,
+        13201181,
+        2057046
+      ],
+      "femaleLook": "{1|61||150}",
+      "gameplayClassDescriptionId": 1085505,
+      "gameplayDescriptionId": 598087,
+      "id": 6,
+      "longNameId": 116109,
+      "maleArtwork": 209,
+      "maleColors": [
+        16380634,
+        13726012,
+        16735778,
+        2786186,
+        16761904
+      ],
+      "maleLook": "{1|60||150}",
+      "shortNameId": 677,
+      "sortIndex": 8,
+      "spawnMap": 153092354,
+      "statsPointsForAgility": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForChance": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForIntelligence": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForStrength": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForVitality": [
+        [
+          0,
+          1
+        ]
+      ],
+      "statsPointsForWisdom": [
+        [
+          0,
+          3
+        ]
+      ]
+    },
+    {
+      "ClassType_": "Breed",
+      "breedRoles": [
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 7,
+          "descriptionId": 1009634,
+          "order": 3,
+          "roleId": 1,
+          "value": 9
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 7,
+          "descriptionId": 506497,
+          "order": -1,
+          "roleId": 2,
+          "value": 0
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 7,
+          "descriptionId": 506519,
+          "order": -1,
+          "roleId": 3,
+          "value": 2
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 7,
+          "descriptionId": 1009635,
+          "order": 1,
+          "roleId": 4,
+          "value": 12
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 7,
+          "descriptionId": 506503,
+          "order": -1,
+          "roleId": 5,
+          "value": 7
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 7,
+          "descriptionId": 506506,
+          "order": -1,
+          "roleId": 6,
+          "value": 5
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 7,
+          "descriptionId": 506496,
+          "order": -1,
+          "roleId": 7,
+          "value": 5
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 7,
+          "descriptionId": 1009636,
+          "order": 2,
+          "roleId": 8,
+          "value": 9
+        }
+      ],
+      "breedSpellsId": [
+        25795,
+        25858,
+        25877,
+        25870,
+        25867,
+        25742,
+        13175,
+        25871,
+        25860,
+        25744,
+        25879,
+        25868,
+        25743,
+        25863,
+        25873,
+        25749,
+        25859,
+        25880,
+        13184,
+        25866,
+        25875,
+        13187
+      ],
+      "complexity": 1,
+      "creatureBonesId": 36,
+      "descriptionId": 305962,
+      "femaleArtwork": 212,
+      "femaleColors": [
+        14785337,
+        16707772,
+        16707772,
+        11941144,
+        15388778
+      ],
+      "femaleLook": "{1|71||115}",
+      "gameplayClassDescriptionId": 1063431,
+      "gameplayDescriptionId": 598094,
+      "id": 7,
+      "longNameId": 582016,
+      "maleArtwork": 211,
+      "maleColors": [
+        16765564,
+        7360545,
+        14453532,
+        6048816,
+        4734007
+      ],
+      "maleLook": "{1|70||110}",
+      "shortNameId": 673,
+      "sortIndex": 4,
+      "spawnMap": 153092354,
+      "statsPointsForAgility": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForChance": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForIntelligence": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForStrength": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForVitality": [
+        [
+          0,
+          1
+        ]
+      ],
+      "statsPointsForWisdom": [
+        [
+          0,
+          3
+        ]
+      ]
+    },
+    {
+      "ClassType_": "Breed",
+      "breedRoles": [
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 8,
+          "descriptionId": 506465,
+          "order": -1,
+          "roleId": 1,
+          "value": 2
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 8,
+          "descriptionId": 506464,
+          "order": -1,
+          "roleId": 2,
+          "value": 3
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 8,
+          "descriptionId": 506486,
+          "order": -1,
+          "roleId": 3,
+          "value": 3
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 8,
+          "descriptionId": 506485,
+          "order": -1,
+          "roleId": 4,
+          "value": 0
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 8,
+          "descriptionId": 598594,
+          "order": 1,
+          "roleId": 5,
+          "value": 12
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 8,
+          "descriptionId": 1004963,
+          "order": 3,
+          "roleId": 6,
+          "value": 6
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 8,
+          "descriptionId": 506484,
+          "order": -1,
+          "roleId": 7,
+          "value": 1
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 8,
+          "descriptionId": 1004961,
+          "order": 2,
+          "roleId": 8,
+          "value": 8
+        }
+      ],
+      "breedSpellsId": [
+        13106,
+        14676,
+        13107,
+        13115,
+        13110,
+        13108,
+        13123,
+        13126,
+        13120,
+        13116,
+        13119,
+        13118,
+        13121,
+        13133,
+        13142,
+        13125,
+        13113,
+        13122,
+        13114,
+        13111,
+        13141,
+        13156
+      ],
+      "complexity": 1,
+      "creatureBonesId": 38,
+      "descriptionId": 305967,
+      "femaleArtwork": 214,
+      "femaleColors": [
+        16103775,
+        15430419,
+        16777185,
+        14432786,
+        14432786
+      ],
+      "femaleLook": "{1|81||140}",
+      "gameplayClassDescriptionId": 836505,
+      "gameplayDescriptionId": 598592,
+      "id": 8,
+      "longNameId": 806246,
+      "maleArtwork": 213,
+      "maleColors": [
+        16765564,
+        16355883,
+        16777185,
+        2910064,
+        14561799
+      ],
+      "maleLook": "{1|80||140}",
+      "shortNameId": 693,
+      "sortIndex": 1,
+      "spawnMap": 153092354,
+      "statsPointsForAgility": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForChance": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForIntelligence": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForStrength": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForVitality": [
+        [
+          0,
+          1
+        ]
+      ],
+      "statsPointsForWisdom": [
+        [
+          0,
+          3
+        ]
+      ]
+    },
+    {
+      "ClassType_": "Breed",
+      "breedRoles": [
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 9,
+          "descriptionId": 598074,
+          "order": 2,
+          "roleId": 1,
+          "value": 8
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 9,
+          "descriptionId": 506514,
+          "order": -1,
+          "roleId": 2,
+          "value": 0
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 9,
+          "descriptionId": 506509,
+          "order": -1,
+          "roleId": 3,
+          "value": 0
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 9,
+          "descriptionId": 506508,
+          "order": -1,
+          "roleId": 4,
+          "value": 0
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 9,
+          "descriptionId": 1004988,
+          "order": 1,
+          "roleId": 5,
+          "value": 10
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 9,
+          "descriptionId": 506511,
+          "order": -1,
+          "roleId": 6,
+          "value": 5
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 9,
+          "descriptionId": 506507,
+          "order": -1,
+          "roleId": 7,
+          "value": 2
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 9,
+          "descriptionId": 1004990,
+          "order": 3,
+          "roleId": 8,
+          "value": 8
+        }
+      ],
+      "breedSpellsId": [
+        13047,
+        13067,
+        13049,
+        13072,
+        13069,
+        13058,
+        13056,
+        13055,
+        13079,
+        13085,
+        13060,
+        13052,
+        13068,
+        13054,
+        13050,
+        13080,
+        13057,
+        23508,
+        13053,
+        13065,
+        13062,
+        23510
+      ],
+      "complexity": 1,
+      "creatureBonesId": 40,
+      "descriptionId": 305970,
+      "femaleArtwork": 216,
+      "femaleColors": [
+        16761703,
+        14775312,
+        8091904,
+        14053895,
+        6963462
+      ],
+      "femaleLook": "{1|91||135}",
+      "gameplayClassDescriptionId": 1010304,
+      "gameplayDescriptionId": 598088,
+      "id": 9,
+      "longNameId": 116108,
+      "maleArtwork": 215,
+      "maleColors": [
+        16762983,
+        14774542,
+        5792768,
+        5845776,
+        16422159
+      ],
+      "maleLook": "{1|90||140}",
+      "shortNameId": 689,
+      "sortIndex": 2,
+      "spawnMap": 153092354,
+      "statsPointsForAgility": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForChance": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForIntelligence": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForStrength": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForVitality": [
+        [
+          0,
+          1
+        ]
+      ],
+      "statsPointsForWisdom": [
+        [
+          0,
+          3
+        ]
+      ]
+    },
+    {
+      "ClassType_": "Breed",
+      "breedRoles": [
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 10,
+          "descriptionId": 598615,
+          "order": 2,
+          "roleId": 1,
+          "value": 8
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 10,
+          "descriptionId": 506403,
+          "order": -1,
+          "roleId": 2,
+          "value": 0
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 10,
+          "descriptionId": 506398,
+          "order": -1,
+          "roleId": 3,
+          "value": 2
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 10,
+          "descriptionId": 1004950,
+          "order": 3,
+          "roleId": 4,
+          "value": 6
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 10,
+          "descriptionId": 511514,
+          "order": -1,
+          "roleId": 5,
+          "value": 5
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 10,
+          "descriptionId": 506404,
+          "order": -1,
+          "roleId": 6,
+          "value": 1
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 10,
+          "descriptionId": 598616,
+          "order": 1,
+          "roleId": 7,
+          "value": 10
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 10,
+          "descriptionId": 506399,
+          "order": -1,
+          "roleId": 8,
+          "value": 0
+        }
+      ],
+      "breedSpellsId": [
+        13516,
+        13528,
+        13519,
+        13574,
+        13577,
+        13564,
+        13533,
+        13575,
+        13525,
+        13561,
+        13527,
+        14396,
+        13530,
+        13567,
+        13518,
+        13531,
+        13534,
+        13573,
+        13514,
+        13569,
+        13532,
+        13578
+      ],
+      "complexity": 3,
+      "creatureBonesId": 12,
+      "descriptionId": 305961,
+      "femaleArtwork": 218,
+      "femaleColors": [
+        8537887,
+        8557826,
+        16114596,
+        16114596,
+        15128478
+      ],
+      "femaleLook": "{1|101||145}",
+      "gameplayClassDescriptionId": 1085545,
+      "gameplayDescriptionId": 598613,
+      "id": 10,
+      "longNameId": 662,
+      "maleArtwork": 217,
+      "maleColors": [
+        8537887,
+        8164099,
+        14402669,
+        14402669,
+        11960892
+      ],
+      "maleLook": "{1|100||150}",
+      "shortNameId": 661,
+      "sortIndex": 15,
+      "spawnMap": 153092354,
+      "statsPointsForAgility": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForChance": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForIntelligence": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForStrength": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForVitality": [
+        [
+          0,
+          1
+        ]
+      ],
+      "statsPointsForWisdom": [
+        [
+          0,
+          3
+        ]
+      ]
+    },
+    {
+      "ClassType_": "Breed",
+      "breedRoles": [
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 11,
+          "descriptionId": 506448,
+          "order": -1,
+          "roleId": 1,
+          "value": 2
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 11,
+          "descriptionId": 1004946,
+          "order": 1,
+          "roleId": 2,
+          "value": 12
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 11,
+          "descriptionId": 506407,
+          "order": -1,
+          "roleId": 3,
+          "value": 6
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 11,
+          "descriptionId": 506408,
+          "order": -1,
+          "roleId": 4,
+          "value": 3
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 11,
+          "descriptionId": 1004945,
+          "order": 2,
+          "roleId": 5,
+          "value": 8
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 11,
+          "descriptionId": 1004948,
+          "order": 3,
+          "roleId": 6,
+          "value": 7
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 11,
+          "descriptionId": 506450,
+          "order": -1,
+          "roleId": 7,
+          "value": 2
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 11,
+          "descriptionId": 506406,
+          "order": -1,
+          "roleId": 8,
+          "value": 2
+        }
+      ],
+      "breedSpellsId": [
+        12735,
+        12748,
+        12734,
+        12725,
+        12728,
+        12737,
+        12744,
+        12746,
+        12733,
+        12736,
+        12745,
+        12756,
+        12761,
+        12738,
+        12757,
+        12753,
+        12739,
+        12732,
+        12750,
+        12759,
+        12743,
+        12741
+      ],
+      "complexity": 1,
+      "creatureBonesId": 13,
+      "descriptionId": 305964,
+      "femaleArtwork": 220,
+      "femaleColors": [
+        16565105,
+        16753434,
+        5992482,
+        6003530,
+        16769340
+      ],
+      "femaleLook": "{1|111||140}",
+      "gameplayClassDescriptionId": 883391,
+      "gameplayDescriptionId": 598609,
+      "id": 11,
+      "longNameId": 666,
+      "maleArtwork": 219,
+      "maleColors": [
+        16765564,
+        16753434,
+        9809704,
+        5664802,
+        16771138
+      ],
+      "maleLook": "{1|110||145}",
+      "shortNameId": 665,
+      "sortIndex": 3,
+      "spawnMap": 153092354,
+      "statsPointsForAgility": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForChance": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForIntelligence": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForStrength": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForVitality": [
+        [
+          0,
+          1
+        ]
+      ],
+      "statsPointsForWisdom": [
+        [
+          0,
+          3
+        ]
+      ]
+    },
+    {
+      "ClassType_": "Breed",
+      "breedRoles": [
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 12,
+          "descriptionId": 506438,
+          "order": -1,
+          "roleId": 1,
+          "value": 3
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 12,
+          "descriptionId": 1004943,
+          "order": 3,
+          "roleId": 2,
+          "value": 7
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 12,
+          "descriptionId": 506427,
+          "order": -1,
+          "roleId": 3,
+          "value": 1
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 12,
+          "descriptionId": 506423,
+          "order": -1,
+          "roleId": 4,
+          "value": 4
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 12,
+          "descriptionId": 598603,
+          "order": 2,
+          "roleId": 5,
+          "value": 8
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 12,
+          "descriptionId": 1004941,
+          "order": 1,
+          "roleId": 6,
+          "value": 12
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 12,
+          "descriptionId": 506422,
+          "order": -1,
+          "roleId": 7,
+          "value": 4
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 12,
+          "descriptionId": 506428,
+          "order": -1,
+          "roleId": 8,
+          "value": 5
+        }
+      ],
+      "breedSpellsId": [
+        12804,
+        12803,
+        12781,
+        12787,
+        12782,
+        12791,
+        12783,
+        12811,
+        12793,
+        12826,
+        12789,
+        12788,
+        12808,
+        12792,
+        12819,
+        12790,
+        12796,
+        24038,
+        12814,
+        12794,
+        12799,
+        12798
+      ],
+      "complexity": 2,
+      "creatureBonesId": 14,
+      "descriptionId": 305959,
+      "femaleArtwork": 222,
+      "femaleColors": [
+        16380634,
+        4538925,
+        9711889,
+        15457984,
+        9711889
+      ],
+      "femaleLook": "{1|121||145}",
+      "gameplayClassDescriptionId": 969387,
+      "gameplayDescriptionId": 598601,
+      "id": 12,
+      "longNameId": 576693,
+      "maleArtwork": 221,
+      "maleColors": [
+        15457984,
+        5197108,
+        7673110,
+        15457984,
+        4015915
+      ],
+      "maleLook": "{1|120||160}",
+      "shortNameId": 669,
+      "sortIndex": 13,
+      "spawnMap": 153092354,
+      "statsPointsForAgility": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForChance": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForIntelligence": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForStrength": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForVitality": [
+        [
+          0,
+          1
+        ]
+      ],
+      "statsPointsForWisdom": [
+        [
+          0,
+          3
+        ]
+      ]
+    },
+    {
+      "ClassType_": "Breed",
+      "breedRoles": [
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 13,
+          "descriptionId": 598608,
+          "order": 2,
+          "roleId": 1,
+          "value": 6
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 13,
+          "descriptionId": 506459,
+          "order": -1,
+          "roleId": 2,
+          "value": 0
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 13,
+          "descriptionId": 506444,
+          "order": -1,
+          "roleId": 3,
+          "value": 0
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 13,
+          "descriptionId": 506443,
+          "order": -1,
+          "roleId": 4,
+          "value": 0
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 13,
+          "descriptionId": 598607,
+          "order": 1,
+          "roleId": 5,
+          "value": 10
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 13,
+          "descriptionId": 1004944,
+          "order": 3,
+          "roleId": 6,
+          "value": 7
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 13,
+          "descriptionId": 506461,
+          "order": -1,
+          "roleId": 7,
+          "value": 5
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 13,
+          "descriptionId": 506445,
+          "order": -1,
+          "roleId": 8,
+          "value": 5
+        }
+      ],
+      "breedSpellsId": [
+        13435,
+        13444,
+        13432,
+        13434,
+        13442,
+        13437,
+        13440,
+        13439,
+        13491,
+        13436,
+        13429,
+        14415,
+        13477,
+        13431,
+        13433,
+        13445,
+        13438,
+        13441,
+        13473,
+        13446,
+        13443,
+        13450
+      ],
+      "complexity": 3,
+      "creatureBonesId": 1537,
+      "descriptionId": 652,
+      "femaleArtwork": 1528,
+      "femaleColors": [
+        14785337,
+        677462,
+        2567713,
+        3419419,
+        3419419
+      ],
+      "femaleLook": "{1|1407||155}",
+      "gameplayClassDescriptionId": 1010378,
+      "gameplayDescriptionId": 598605,
+      "id": 13,
+      "longNameId": 654,
+      "maleArtwork": 1527,
+      "maleColors": [
+        14785337,
+        2567713,
+        2567713,
+        3419419,
+        16777164
+      ],
+      "maleLook": "{1|1405||160}",
+      "shortNameId": 653,
+      "sortIndex": 16,
+      "spawnMap": 153092354,
+      "statsPointsForAgility": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForChance": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForIntelligence": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForStrength": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForVitality": [
+        [
+          0,
+          1
+        ]
+      ],
+      "statsPointsForWisdom": [
+        [
+          0,
+          3
+        ]
+      ]
+    },
+    {
+      "ClassType_": "Breed",
+      "breedRoles": [
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 14,
+          "descriptionId": 506433,
+          "order": -1,
+          "roleId": 1,
+          "value": 5
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 14,
+          "descriptionId": 1004999,
+          "order": 1,
+          "roleId": 2,
+          "value": 7
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 14,
+          "descriptionId": 1005000,
+          "order": 2,
+          "roleId": 3,
+          "value": 7
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 14,
+          "descriptionId": 506430,
+          "order": -1,
+          "roleId": 4,
+          "value": 0
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 14,
+          "descriptionId": 1004998,
+          "order": 3,
+          "roleId": 5,
+          "value": 7
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 14,
+          "descriptionId": 506435,
+          "order": -1,
+          "roleId": 6,
+          "value": 5
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 14,
+          "descriptionId": 506431,
+          "order": -1,
+          "roleId": 7,
+          "value": 1
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 14,
+          "descriptionId": 506476,
+          "order": -1,
+          "roleId": 8,
+          "value": 6
+        }
+      ],
+      "breedSpellsId": [
+        13425,
+        13386,
+        13387,
+        13420,
+        13388,
+        13395,
+        13403,
+        13391,
+        13397,
+        13400,
+        13423,
+        13398,
+        13402,
+        13394,
+        13401,
+        13422,
+        13399,
+        13415,
+        13424,
+        13393,
+        13396,
+        18651
+      ],
+      "complexity": 2,
+      "creatureBonesId": 1538,
+      "descriptionId": 656,
+      "femaleArtwork": 1574,
+      "femaleColors": [
+        16761703,
+        14428465,
+        4863523,
+        1855824,
+        15262931
+      ],
+      "femaleLook": "{1|1438||145}",
+      "gameplayClassDescriptionId": 888304,
+      "gameplayDescriptionId": 598631,
+      "id": 14,
+      "longNameId": 658,
+      "maleArtwork": 1573,
+      "maleColors": [
+        16761703,
+        14428465,
+        4863523,
+        1855824,
+        15262931
+      ],
+      "maleLook": "{1|1437||150}",
+      "shortNameId": 657,
+      "sortIndex": 12,
+      "spawnMap": 153092354,
+      "statsPointsForAgility": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForChance": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForIntelligence": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForStrength": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForVitality": [
+        [
+          0,
+          1
+        ]
+      ],
+      "statsPointsForWisdom": [
+        [
+          0,
+          3
+        ]
+      ]
+    },
+    {
+      "ClassType_": "Breed",
+      "breedRoles": [
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 15,
+          "descriptionId": 506412,
+          "order": -1,
+          "roleId": 1,
+          "value": 3
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 15,
+          "descriptionId": 506456,
+          "order": -1,
+          "roleId": 2,
+          "value": 2
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 15,
+          "descriptionId": 506457,
+          "order": -1,
+          "roleId": 3,
+          "value": 3
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 15,
+          "descriptionId": 1004955,
+          "order": 1,
+          "roleId": 4,
+          "value": 7
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 15,
+          "descriptionId": 1004954,
+          "order": 3,
+          "roleId": 5,
+          "value": 7
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 15,
+          "descriptionId": 1004964,
+          "order": 2,
+          "roleId": 6,
+          "value": 7
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 15,
+          "descriptionId": 506455,
+          "order": -1,
+          "roleId": 7,
+          "value": 6
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 15,
+          "descriptionId": 506452,
+          "order": -1,
+          "roleId": 8,
+          "value": 5
+        }
+      ],
+      "breedSpellsId": [
+        13837,
+        13857,
+        13829,
+        13832,
+        13865,
+        13858,
+        13830,
+        13838,
+        13820,
+        13874,
+        13831,
+        13819,
+        13824,
+        13821,
+        13873,
+        13822,
+        13836,
+        13827,
+        13833,
+        13877,
+        13862,
+        13860
+      ],
+      "complexity": 2,
+      "creatureBonesId": 1886,
+      "descriptionId": 112815,
+      "femaleArtwork": 1933,
+      "femaleColors": [
+        16699794,
+        16511423,
+        3417882,
+        16377759,
+        11242064
+      ],
+      "femaleLook": "{1|1664||160}",
+      "gameplayClassDescriptionId": 1067057,
+      "gameplayDescriptionId": 601393,
+      "id": 15,
+      "longNameId": 577202,
+      "maleArtwork": 1932,
+      "maleColors": [
+        16699794,
+        16511423,
+        3417882,
+        16377759,
+        11242064
+      ],
+      "maleLook": "{1|1663||160}",
+      "shortNameId": 92496,
+      "sortIndex": 9,
+      "spawnMap": 153092354,
+      "statsPointsForAgility": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForChance": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForIntelligence": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForStrength": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForVitality": [
+        [
+          0,
+          1
+        ]
+      ],
+      "statsPointsForWisdom": [
+        [
+          0,
+          3
+        ]
+      ]
+    },
+    {
+      "ClassType_": "Breed",
+      "breedRoles": [
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 16,
+          "descriptionId": 506489,
+          "order": -1,
+          "roleId": 1,
+          "value": 3
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 16,
+          "descriptionId": 506490,
+          "order": -1,
+          "roleId": 2,
+          "value": 0
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 16,
+          "descriptionId": 506493,
+          "order": -1,
+          "roleId": 3,
+          "value": 0
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 16,
+          "descriptionId": 1004934,
+          "order": 3,
+          "roleId": 4,
+          "value": 6
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 16,
+          "descriptionId": 598091,
+          "order": 2,
+          "roleId": 5,
+          "value": 7
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 16,
+          "descriptionId": 1004933,
+          "order": 1,
+          "roleId": 6,
+          "value": 8
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 16,
+          "descriptionId": 506491,
+          "order": -1,
+          "roleId": 7,
+          "value": 1
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 16,
+          "descriptionId": 506494,
+          "order": -1,
+          "roleId": 8,
+          "value": 5
+        }
+      ],
+      "breedSpellsId": [
+        14593,
+        14574,
+        14575,
+        14583,
+        14579,
+        14582,
+        14588,
+        14580,
+        14581,
+        14577,
+        14585,
+        14592,
+        14587,
+        14584,
+        14589,
+        14615,
+        14576,
+        14591,
+        14594,
+        14610,
+        14638,
+        14596
+      ],
+      "complexity": 3,
+      "creatureBonesId": 3087,
+      "descriptionId": 504832,
+      "femaleArtwork": 3090,
+      "femaleColors": [
+        15066084,
+        8036512,
+        10641706,
+        2722985,
+        14207124
+      ],
+      "femaleLook": "{1|3180||140}",
+      "gameplayClassDescriptionId": 850531,
+      "gameplayDescriptionId": 598089,
+      "id": 16,
+      "longNameId": 507144,
+      "maleArtwork": 3089,
+      "maleColors": [
+        15066084,
+        8036512,
+        10641706,
+        2722985,
+        14207124
+      ],
+      "maleLook": "{1|3179||145}",
+      "shortNameId": 504829,
+      "sortIndex": 14,
+      "spawnMap": 153092354,
+      "statsPointsForAgility": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForChance": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForIntelligence": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForStrength": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForVitality": [
+        [
+          0,
+          1
+        ]
+      ],
+      "statsPointsForWisdom": [
+        [
+          0,
+          3
+        ]
+      ]
+    },
+    {
+      "ClassType_": "Breed",
+      "breedRoles": [
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 17,
+          "descriptionId": 588552,
+          "order": -1,
+          "roleId": 1,
+          "value": 4
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 17,
+          "descriptionId": 588554,
+          "order": -1,
+          "roleId": 2,
+          "value": 4
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 17,
+          "descriptionId": 588555,
+          "order": -1,
+          "roleId": 3,
+          "value": 4
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 17,
+          "descriptionId": 588556,
+          "order": -1,
+          "roleId": 4,
+          "value": 4
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 17,
+          "descriptionId": 598591,
+          "order": 1,
+          "roleId": 5,
+          "value": 7
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 17,
+          "descriptionId": 1004936,
+          "order": 2,
+          "roleId": 6,
+          "value": 6
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 17,
+          "descriptionId": 588551,
+          "order": -1,
+          "roleId": 7,
+          "value": 2
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 17,
+          "descriptionId": 598590,
+          "order": 3,
+          "roleId": 8,
+          "value": 6
+        }
+      ],
+      "breedSpellsId": [
+        13668,
+        13670,
+        13669,
+        13666,
+        13667,
+        13672,
+        13674,
+        13678,
+        13696,
+        13680,
+        13676,
+        13683,
+        13682,
+        13681,
+        13701,
+        13677,
+        13684,
+        13695,
+        13679,
+        13675,
+        13697,
+        14341
+      ],
+      "complexity": 2,
+      "creatureBonesId": 3372,
+      "descriptionId": 583059,
+      "femaleArtwork": 3375,
+      "femaleColors": [
+        16378832,
+        16775898,
+        2709077,
+        4492945,
+        15791081
+      ],
+      "femaleLook": "{1|3286||135}",
+      "gameplayClassDescriptionId": 1057739,
+      "gameplayDescriptionId": 598588,
+      "id": 17,
+      "longNameId": 577238,
+      "maleArtwork": 3374,
+      "maleColors": [
+        16378832,
+        16775898,
+        2709077,
+        4492945,
+        15791081
+      ],
+      "maleLook": "{1|3285||140}",
+      "shortNameId": 577229,
+      "sortIndex": 11,
+      "spawnMap": 153092354,
+      "statsPointsForAgility": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForChance": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForIntelligence": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForStrength": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForVitality": [
+        [
+          0,
+          1
+        ]
+      ],
+      "statsPointsForWisdom": [
+        [
+          0,
+          3
+        ]
+      ]
+    },
+    {
+      "ClassType_": "Breed",
+      "breedRoles": [
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 18,
+          "descriptionId": 1004970,
+          "order": 3,
+          "roleId": 1,
+          "value": 5
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 18,
+          "descriptionId": 1004938,
+          "order": 2,
+          "roleId": 2,
+          "value": 7
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 18,
+          "descriptionId": 718667,
+          "order": -1,
+          "roleId": 3,
+          "value": 3
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 18,
+          "descriptionId": 718672,
+          "order": -1,
+          "roleId": 4,
+          "value": 4
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 18,
+          "descriptionId": 718673,
+          "order": 1,
+          "roleId": 5,
+          "value": 9
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 18,
+          "descriptionId": 718670,
+          "order": -1,
+          "roleId": 6,
+          "value": 3
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 18,
+          "descriptionId": 718671,
+          "order": -1,
+          "roleId": 7,
+          "value": 2
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 18,
+          "descriptionId": 718669,
+          "order": -1,
+          "roleId": 8,
+          "value": 4
+        }
+      ],
+      "breedSpellsId": [
+        13762,
+        13756,
+        13748,
+        13766,
+        13755,
+        13770,
+        13774,
+        13757,
+        13763,
+        13771,
+        13754,
+        13768,
+        13772,
+        13790,
+        13760,
+        13769,
+        13802,
+        13781,
+        13773,
+        13765,
+        13749,
+        14357
+      ],
+      "complexity": 1,
+      "creatureBonesId": 3941,
+      "descriptionId": 720111,
+      "femaleArtwork": 3375,
+      "femaleColors": [
+        9795660,
+        14196511,
+        11300885,
+        3551007,
+        13395490
+      ],
+      "femaleLook": "{1|3499||145}",
+      "gameplayClassDescriptionId": 1010381,
+      "gameplayDescriptionId": 720112,
+      "id": 18,
+      "longNameId": 720110,
+      "maleArtwork": 3374,
+      "maleColors": [
+        6247226,
+        8805673,
+        11300885,
+        3551007,
+        8733459
+      ],
+      "maleLook": "{1|3498||155}",
+      "shortNameId": 720113,
+      "sortIndex": 18,
+      "spawnMap": 153092354,
+      "statsPointsForAgility": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForChance": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForIntelligence": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForStrength": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForVitality": [
+        [
+          0,
+          1
+        ]
+      ],
+      "statsPointsForWisdom": [
+        [
+          0,
+          3
+        ]
+      ]
+    },
+    {
+      "ClassType_": "Breed",
+      "breedRoles": [
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 20,
+          "descriptionId": 950043,
+          "order": -1,
+          "roleId": 1,
+          "value": 3
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 20,
+          "descriptionId": 950044,
+          "order": -1,
+          "roleId": 2,
+          "value": 2
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 20,
+          "descriptionId": 972189,
+          "order": 3,
+          "roleId": 3,
+          "value": 6
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 20,
+          "descriptionId": 950046,
+          "order": -1,
+          "roleId": 4,
+          "value": 2
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 20,
+          "descriptionId": 972188,
+          "order": 1,
+          "roleId": 5,
+          "value": 10
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 20,
+          "descriptionId": 972187,
+          "order": 2,
+          "roleId": 6,
+          "value": 8
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 20,
+          "descriptionId": 950045,
+          "order": -1,
+          "roleId": 7,
+          "value": 1
+        },
+        {
+          "ClassType_": "BreedRoleByBreed",
+          "breedId": 20,
+          "descriptionId": 972179,
+          "order": -1,
+          "roleId": 8,
+          "value": 3
+        }
+      ],
+      "breedSpellsId": [
+        23432,
+        23719,
+        23801,
+        23263,
+        23734,
+        23824,
+        23736,
+        23393,
+        23330,
+        23754,
+        23741,
+        23434,
+        23726,
+        23823,
+        23747,
+        23841,
+        23729,
+        23826,
+        23268,
+        23401,
+        23738,
+        23834
+      ],
+      "complexity": 2,
+      "creatureBonesId": 7251,
+      "descriptionId": 982602,
+      "femaleArtwork": 214,
+      "femaleColors": [
+        16035182,
+        8732971,
+        4539717,
+        15653806,
+        11255487
+      ],
+      "femaleLook": "{1|3633||150}",
+      "gameplayClassDescriptionId": 998985,
+      "gameplayDescriptionId": 950038,
+      "id": 20,
+      "longNameId": 981534,
+      "maleArtwork": 213,
+      "maleColors": [
+        16035182,
+        8732971,
+        4539717,
+        15653806,
+        11255487
+      ],
+      "maleLook": "{1|3221||155}",
+      "shortNameId": 970511,
+      "sortIndex": 1,
+      "spawnMap": 153092354,
+      "statsPointsForAgility": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForChance": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForIntelligence": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForStrength": [
+        [
+          0,
+          1
+        ],
+        [
+          100,
+          2
+        ],
+        [
+          200,
+          3
+        ],
+        [
+          300,
+          4
+        ]
+      ],
+      "statsPointsForVitality": [
+        [
+          0,
+          1
+        ]
+      ],
+      "statsPointsForWisdom": [
+        [
+          0,
+          3
+        ]
+      ]
+    }
+  ]
+}

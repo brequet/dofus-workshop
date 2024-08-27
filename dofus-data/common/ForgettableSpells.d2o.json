@@ -1,0 +1,1824 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.optionalFeatures",
+      "packageClass": "ForgettableSpell",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "pairId",
+          "type": "Integer"
+        },
+        {
+          "name": "itemId",
+          "type": "Integer"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26493,
+      "itemId": 28700,
+      "pairId": 1724
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26494,
+      "itemId": 28701,
+      "pairId": 1726
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26495,
+      "itemId": 28702,
+      "pairId": 1728
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26496,
+      "itemId": 28703,
+      "pairId": 1730
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26497,
+      "itemId": 28704,
+      "pairId": 1732
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26498,
+      "itemId": 28705,
+      "pairId": 1734
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26499,
+      "itemId": 28706,
+      "pairId": 1736
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26500,
+      "itemId": 28707,
+      "pairId": 1738
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26501,
+      "itemId": 28708,
+      "pairId": 1740
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26502,
+      "itemId": 28709,
+      "pairId": 1742
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26503,
+      "itemId": 28710,
+      "pairId": 1744
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26504,
+      "itemId": 28711,
+      "pairId": 1746
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26505,
+      "itemId": 28712,
+      "pairId": 1748
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26506,
+      "itemId": 28713,
+      "pairId": 1750
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26507,
+      "itemId": 28714,
+      "pairId": 1752
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26508,
+      "itemId": 28715,
+      "pairId": 1754
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26509,
+      "itemId": 28716,
+      "pairId": 1756
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26510,
+      "itemId": 28717,
+      "pairId": 1758
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26511,
+      "itemId": 28718,
+      "pairId": 1760
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26512,
+      "itemId": 28719,
+      "pairId": 1762
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26513,
+      "itemId": 28720,
+      "pairId": 1764
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26514,
+      "itemId": 28721,
+      "pairId": 1766
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26515,
+      "itemId": 28722,
+      "pairId": 1768
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26516,
+      "itemId": 28723,
+      "pairId": 1770
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26517,
+      "itemId": 28724,
+      "pairId": 1772
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26518,
+      "itemId": 28725,
+      "pairId": 1774
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26519,
+      "itemId": 28726,
+      "pairId": 1776
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26520,
+      "itemId": 28727,
+      "pairId": 1778
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26521,
+      "itemId": 28728,
+      "pairId": 1780
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26522,
+      "itemId": 28729,
+      "pairId": 1782
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26523,
+      "itemId": 28730,
+      "pairId": 1784
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26524,
+      "itemId": 28731,
+      "pairId": 1786
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26525,
+      "itemId": 28732,
+      "pairId": 1788
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26526,
+      "itemId": 28733,
+      "pairId": 1790
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26527,
+      "itemId": 28734,
+      "pairId": 1792
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26528,
+      "itemId": 28735,
+      "pairId": 1794
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26529,
+      "itemId": 28736,
+      "pairId": 1796
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26530,
+      "itemId": 28737,
+      "pairId": 1798
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26531,
+      "itemId": 28738,
+      "pairId": 1800
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26532,
+      "itemId": 28739,
+      "pairId": 1802
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26533,
+      "itemId": 28740,
+      "pairId": 1804
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26534,
+      "itemId": 28741,
+      "pairId": 1806
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26535,
+      "itemId": 28742,
+      "pairId": 1808
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26536,
+      "itemId": 28743,
+      "pairId": 1810
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26537,
+      "itemId": 28744,
+      "pairId": 1812
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26538,
+      "itemId": 28745,
+      "pairId": 1814
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26539,
+      "itemId": 28746,
+      "pairId": 1816
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26540,
+      "itemId": 28747,
+      "pairId": 1818
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26541,
+      "itemId": 28748,
+      "pairId": 1820
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26542,
+      "itemId": 28749,
+      "pairId": 1822
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26543,
+      "itemId": 28750,
+      "pairId": 1824
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26544,
+      "itemId": 28751,
+      "pairId": 1826
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26545,
+      "itemId": 28752,
+      "pairId": 1828
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26546,
+      "itemId": 28753,
+      "pairId": 1830
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26547,
+      "itemId": 28754,
+      "pairId": 1832
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26548,
+      "itemId": 28755,
+      "pairId": 1834
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26549,
+      "itemId": 28756,
+      "pairId": 1836
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26550,
+      "itemId": 28757,
+      "pairId": 1838
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26551,
+      "itemId": 28758,
+      "pairId": 1840
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26552,
+      "itemId": 28759,
+      "pairId": 1842
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26553,
+      "itemId": 28760,
+      "pairId": 1844
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26554,
+      "itemId": 28761,
+      "pairId": 1846
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26555,
+      "itemId": 28762,
+      "pairId": 1848
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26556,
+      "itemId": 28763,
+      "pairId": 1850
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26557,
+      "itemId": 28764,
+      "pairId": 1852
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26558,
+      "itemId": 28765,
+      "pairId": 1854
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26559,
+      "itemId": 28766,
+      "pairId": 1856
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26560,
+      "itemId": 28767,
+      "pairId": 1858
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26561,
+      "itemId": 28768,
+      "pairId": 1860
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26562,
+      "itemId": 28769,
+      "pairId": 1862
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26563,
+      "itemId": 28770,
+      "pairId": 1864
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26564,
+      "itemId": 28771,
+      "pairId": 1866
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26565,
+      "itemId": 28772,
+      "pairId": 1868
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26566,
+      "itemId": 28773,
+      "pairId": 1870
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26567,
+      "itemId": 28774,
+      "pairId": 1872
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26568,
+      "itemId": 28775,
+      "pairId": 1874
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26569,
+      "itemId": 28776,
+      "pairId": 1876
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26570,
+      "itemId": 28777,
+      "pairId": 1878
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26571,
+      "itemId": 28778,
+      "pairId": 1880
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26572,
+      "itemId": 28779,
+      "pairId": 1882
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26573,
+      "itemId": 28780,
+      "pairId": 1884
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26574,
+      "itemId": 28781,
+      "pairId": 1886
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26575,
+      "itemId": 28782,
+      "pairId": 1888
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26576,
+      "itemId": 28783,
+      "pairId": 1890
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26577,
+      "itemId": 28784,
+      "pairId": 1892
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26578,
+      "itemId": 28785,
+      "pairId": 1894
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26579,
+      "itemId": 28786,
+      "pairId": 1896
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26580,
+      "itemId": 28787,
+      "pairId": 1898
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26581,
+      "itemId": 28788,
+      "pairId": 1900
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26582,
+      "itemId": 28789,
+      "pairId": 1902
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26583,
+      "itemId": 28790,
+      "pairId": 1904
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26584,
+      "itemId": 28791,
+      "pairId": 1906
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26585,
+      "itemId": 28792,
+      "pairId": 1908
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26586,
+      "itemId": 28793,
+      "pairId": 1910
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26587,
+      "itemId": 28794,
+      "pairId": 1912
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26588,
+      "itemId": 28795,
+      "pairId": 1914
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26589,
+      "itemId": 28796,
+      "pairId": 1916
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26590,
+      "itemId": 28797,
+      "pairId": 1918
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26591,
+      "itemId": 28798,
+      "pairId": 1920
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26592,
+      "itemId": 28799,
+      "pairId": 1922
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26593,
+      "itemId": 28800,
+      "pairId": 1924
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26594,
+      "itemId": 28801,
+      "pairId": 1926
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26595,
+      "itemId": 28802,
+      "pairId": 1928
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26596,
+      "itemId": 28803,
+      "pairId": 1930
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26597,
+      "itemId": 28804,
+      "pairId": 1932
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26598,
+      "itemId": 28805,
+      "pairId": 1934
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26599,
+      "itemId": 28806,
+      "pairId": 1936
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26600,
+      "itemId": 28807,
+      "pairId": 1938
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26601,
+      "itemId": 28808,
+      "pairId": 1940
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26602,
+      "itemId": 28809,
+      "pairId": 1942
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26603,
+      "itemId": 28810,
+      "pairId": 1944
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26604,
+      "itemId": 28811,
+      "pairId": 1946
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26605,
+      "itemId": 28812,
+      "pairId": 1948
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26606,
+      "itemId": 28813,
+      "pairId": 1950
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26607,
+      "itemId": 28814,
+      "pairId": 1952
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26608,
+      "itemId": 28815,
+      "pairId": 1954
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26609,
+      "itemId": 28816,
+      "pairId": 1956
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26610,
+      "itemId": 28817,
+      "pairId": 1958
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26611,
+      "itemId": 28818,
+      "pairId": 1960
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26612,
+      "itemId": 28819,
+      "pairId": 1962
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26613,
+      "itemId": 28820,
+      "pairId": 1964
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26614,
+      "itemId": 28821,
+      "pairId": 1966
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26615,
+      "itemId": 28822,
+      "pairId": 1968
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26616,
+      "itemId": 28823,
+      "pairId": 1970
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26617,
+      "itemId": 28824,
+      "pairId": 1972
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26618,
+      "itemId": 28825,
+      "pairId": 1974
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26619,
+      "itemId": 28826,
+      "pairId": 1976
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26620,
+      "itemId": 28827,
+      "pairId": 1978
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26621,
+      "itemId": 28828,
+      "pairId": 1980
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26622,
+      "itemId": 28829,
+      "pairId": 1982
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26623,
+      "itemId": 28830,
+      "pairId": 1984
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26624,
+      "itemId": 28831,
+      "pairId": 1986
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26625,
+      "itemId": 28832,
+      "pairId": 1988
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26626,
+      "itemId": 28833,
+      "pairId": 1990
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26627,
+      "itemId": 28834,
+      "pairId": 1992
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26628,
+      "itemId": 28835,
+      "pairId": 1994
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26629,
+      "itemId": 28836,
+      "pairId": 1996
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26630,
+      "itemId": 28837,
+      "pairId": 1998
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26631,
+      "itemId": 28838,
+      "pairId": 2000
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26632,
+      "itemId": 28839,
+      "pairId": 2002
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26633,
+      "itemId": 28840,
+      "pairId": 2004
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26634,
+      "itemId": 28841,
+      "pairId": 2006
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26635,
+      "itemId": 28842,
+      "pairId": 2008
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26636,
+      "itemId": 28843,
+      "pairId": 2010
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26637,
+      "itemId": 28844,
+      "pairId": 2012
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26638,
+      "itemId": 28845,
+      "pairId": 2014
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26639,
+      "itemId": 28846,
+      "pairId": 2016
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26640,
+      "itemId": 28847,
+      "pairId": 2018
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26641,
+      "itemId": 28848,
+      "pairId": 2020
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 26642,
+      "itemId": 28849,
+      "pairId": 2022
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27300,
+      "itemId": 28850,
+      "pairId": 1725
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27301,
+      "itemId": 28851,
+      "pairId": 1727
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27302,
+      "itemId": 28852,
+      "pairId": 1729
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27303,
+      "itemId": 28853,
+      "pairId": 1731
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27304,
+      "itemId": 28854,
+      "pairId": 1733
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27305,
+      "itemId": 28855,
+      "pairId": 1735
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27306,
+      "itemId": 28856,
+      "pairId": 1737
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27307,
+      "itemId": 28857,
+      "pairId": 1739
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27308,
+      "itemId": 28858,
+      "pairId": 1741
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27309,
+      "itemId": 28859,
+      "pairId": 1743
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27310,
+      "itemId": 28860,
+      "pairId": 1745
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27311,
+      "itemId": 28861,
+      "pairId": 1747
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27312,
+      "itemId": 28862,
+      "pairId": 1749
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27313,
+      "itemId": 28863,
+      "pairId": 1751
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27314,
+      "itemId": 28864,
+      "pairId": 1753
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27315,
+      "itemId": 28865,
+      "pairId": 1755
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27316,
+      "itemId": 28866,
+      "pairId": 1757
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27317,
+      "itemId": 28867,
+      "pairId": 1759
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27318,
+      "itemId": 28868,
+      "pairId": 1761
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27319,
+      "itemId": 28869,
+      "pairId": 1763
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27320,
+      "itemId": 28870,
+      "pairId": 1765
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27321,
+      "itemId": 28871,
+      "pairId": 1767
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27322,
+      "itemId": 28872,
+      "pairId": 1769
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27323,
+      "itemId": 28873,
+      "pairId": 1771
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27324,
+      "itemId": 28874,
+      "pairId": 1773
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27325,
+      "itemId": 28875,
+      "pairId": 1775
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27326,
+      "itemId": 28876,
+      "pairId": 1777
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27327,
+      "itemId": 28877,
+      "pairId": 1779
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27328,
+      "itemId": 28878,
+      "pairId": 1781
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27329,
+      "itemId": 28879,
+      "pairId": 1783
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27330,
+      "itemId": 28880,
+      "pairId": 1785
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27331,
+      "itemId": 28881,
+      "pairId": 1787
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27332,
+      "itemId": 28882,
+      "pairId": 1789
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27333,
+      "itemId": 28883,
+      "pairId": 1791
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27334,
+      "itemId": 28884,
+      "pairId": 1793
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27335,
+      "itemId": 28885,
+      "pairId": 1795
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27336,
+      "itemId": 28886,
+      "pairId": 1797
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27337,
+      "itemId": 28887,
+      "pairId": 1799
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27338,
+      "itemId": 28888,
+      "pairId": 1801
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27339,
+      "itemId": 28889,
+      "pairId": 1803
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27340,
+      "itemId": 28890,
+      "pairId": 1805
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27341,
+      "itemId": 28891,
+      "pairId": 1807
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27342,
+      "itemId": 28892,
+      "pairId": 1809
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27343,
+      "itemId": 28893,
+      "pairId": 1811
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27344,
+      "itemId": 28894,
+      "pairId": 1813
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27345,
+      "itemId": 28895,
+      "pairId": 1815
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27346,
+      "itemId": 28896,
+      "pairId": 1817
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27347,
+      "itemId": 28897,
+      "pairId": 1819
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27348,
+      "itemId": 28898,
+      "pairId": 1821
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27349,
+      "itemId": 28899,
+      "pairId": 1823
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27350,
+      "itemId": 28900,
+      "pairId": 1825
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27351,
+      "itemId": 28901,
+      "pairId": 1827
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27352,
+      "itemId": 28902,
+      "pairId": 1829
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27353,
+      "itemId": 28903,
+      "pairId": 1831
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27354,
+      "itemId": 28904,
+      "pairId": 1833
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27355,
+      "itemId": 28905,
+      "pairId": 1835
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27356,
+      "itemId": 28906,
+      "pairId": 1837
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27357,
+      "itemId": 28907,
+      "pairId": 1839
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27358,
+      "itemId": 28908,
+      "pairId": 1841
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27359,
+      "itemId": 28909,
+      "pairId": 1843
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27360,
+      "itemId": 28910,
+      "pairId": 1845
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27361,
+      "itemId": 28911,
+      "pairId": 1847
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27362,
+      "itemId": 28912,
+      "pairId": 1849
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27363,
+      "itemId": 28913,
+      "pairId": 1851
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27364,
+      "itemId": 28914,
+      "pairId": 1853
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27365,
+      "itemId": 28915,
+      "pairId": 1855
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27366,
+      "itemId": 28916,
+      "pairId": 1857
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27367,
+      "itemId": 28917,
+      "pairId": 1859
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27368,
+      "itemId": 28918,
+      "pairId": 1861
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27369,
+      "itemId": 28919,
+      "pairId": 1863
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27370,
+      "itemId": 28920,
+      "pairId": 1865
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27371,
+      "itemId": 28921,
+      "pairId": 1867
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27372,
+      "itemId": 28922,
+      "pairId": 1869
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27373,
+      "itemId": 28923,
+      "pairId": 1871
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27374,
+      "itemId": 28924,
+      "pairId": 1873
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27375,
+      "itemId": 28925,
+      "pairId": 1875
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27376,
+      "itemId": 28926,
+      "pairId": 1877
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27377,
+      "itemId": 28927,
+      "pairId": 1879
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27378,
+      "itemId": 28928,
+      "pairId": 1881
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27379,
+      "itemId": 28929,
+      "pairId": 1883
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27380,
+      "itemId": 28930,
+      "pairId": 1885
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27381,
+      "itemId": 28931,
+      "pairId": 1887
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27382,
+      "itemId": 28932,
+      "pairId": 1889
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27383,
+      "itemId": 28933,
+      "pairId": 1891
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27384,
+      "itemId": 28934,
+      "pairId": 1893
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27385,
+      "itemId": 28935,
+      "pairId": 1895
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27386,
+      "itemId": 28936,
+      "pairId": 1897
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27387,
+      "itemId": 28937,
+      "pairId": 1899
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27388,
+      "itemId": 28938,
+      "pairId": 1901
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27389,
+      "itemId": 28939,
+      "pairId": 1903
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27390,
+      "itemId": 28940,
+      "pairId": 1905
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27391,
+      "itemId": 28941,
+      "pairId": 1907
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27392,
+      "itemId": 28942,
+      "pairId": 1909
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27393,
+      "itemId": 28943,
+      "pairId": 1911
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27394,
+      "itemId": 28944,
+      "pairId": 1913
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27395,
+      "itemId": 28945,
+      "pairId": 1915
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27396,
+      "itemId": 28946,
+      "pairId": 1917
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27397,
+      "itemId": 28947,
+      "pairId": 1919
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27398,
+      "itemId": 28948,
+      "pairId": 1921
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27399,
+      "itemId": 28949,
+      "pairId": 1923
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27400,
+      "itemId": 28950,
+      "pairId": 1925
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27401,
+      "itemId": 28951,
+      "pairId": 1927
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27402,
+      "itemId": 28952,
+      "pairId": 1929
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27403,
+      "itemId": 28953,
+      "pairId": 1931
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27404,
+      "itemId": 28954,
+      "pairId": 1933
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27405,
+      "itemId": 28955,
+      "pairId": 1935
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27406,
+      "itemId": 28956,
+      "pairId": 1937
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27407,
+      "itemId": 28957,
+      "pairId": 1939
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27408,
+      "itemId": 28958,
+      "pairId": 1941
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27409,
+      "itemId": 28959,
+      "pairId": 1943
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27410,
+      "itemId": 28960,
+      "pairId": 1945
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27411,
+      "itemId": 28961,
+      "pairId": 1947
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27412,
+      "itemId": 28962,
+      "pairId": 1949
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27413,
+      "itemId": 28963,
+      "pairId": 1951
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27414,
+      "itemId": 28964,
+      "pairId": 1953
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27415,
+      "itemId": 28965,
+      "pairId": 1955
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27416,
+      "itemId": 28966,
+      "pairId": 1957
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27417,
+      "itemId": 28967,
+      "pairId": 1959
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27418,
+      "itemId": 28968,
+      "pairId": 1961
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27419,
+      "itemId": 28969,
+      "pairId": 1963
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27420,
+      "itemId": 28970,
+      "pairId": 1965
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27421,
+      "itemId": 28971,
+      "pairId": 1967
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27422,
+      "itemId": 28972,
+      "pairId": 1969
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27423,
+      "itemId": 28973,
+      "pairId": 1971
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27424,
+      "itemId": 28974,
+      "pairId": 1973
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27425,
+      "itemId": 28975,
+      "pairId": 1975
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27426,
+      "itemId": 28976,
+      "pairId": 1977
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27427,
+      "itemId": 28977,
+      "pairId": 1979
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27428,
+      "itemId": 28978,
+      "pairId": 1981
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27429,
+      "itemId": 28979,
+      "pairId": 1983
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27430,
+      "itemId": 28980,
+      "pairId": 1985
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27431,
+      "itemId": 28981,
+      "pairId": 1987
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27432,
+      "itemId": 28982,
+      "pairId": 1989
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27433,
+      "itemId": 28983,
+      "pairId": 1991
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27434,
+      "itemId": 28984,
+      "pairId": 1993
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27435,
+      "itemId": 28985,
+      "pairId": 1995
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27436,
+      "itemId": 28986,
+      "pairId": 1997
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27437,
+      "itemId": 28987,
+      "pairId": 1999
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27438,
+      "itemId": 28988,
+      "pairId": 2001
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27439,
+      "itemId": 28989,
+      "pairId": 2003
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27440,
+      "itemId": 28990,
+      "pairId": 2005
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27441,
+      "itemId": 28991,
+      "pairId": 2007
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27442,
+      "itemId": 28992,
+      "pairId": 2009
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27443,
+      "itemId": 28993,
+      "pairId": 2011
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27444,
+      "itemId": 28994,
+      "pairId": 2013
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27445,
+      "itemId": 28995,
+      "pairId": 2015
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27446,
+      "itemId": 28996,
+      "pairId": 2017
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27447,
+      "itemId": 28997,
+      "pairId": 2019
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27448,
+      "itemId": 28998,
+      "pairId": 2021
+    },
+    {
+      "ClassType_": "ForgettableSpell",
+      "id": 27449,
+      "itemId": 28999,
+      "pairId": 2023
+    }
+  ]
+}

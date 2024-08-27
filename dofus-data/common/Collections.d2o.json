@@ -1,0 +1,1420 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.collection",
+      "packageClass": "Collectable",
+      "fields": [
+        {
+          "name": "entityId",
+          "type": "Integer"
+        },
+        {
+          "name": "name",
+          "type": "String"
+        },
+        {
+          "name": "typeId",
+          "type": "Integer"
+        },
+        {
+          "name": "gfxId",
+          "type": "Integer"
+        },
+        {
+          "name": "order",
+          "type": "Integer"
+        },
+        {
+          "name": "rarity",
+          "type": "Integer"
+        }
+      ]
+    },
+    "2": {
+      "packageName": "com.ankamagames.dofus.datacenter.collection",
+      "packageClass": "Collection",
+      "fields": [
+        {
+          "name": "typeId",
+          "type": "Integer"
+        },
+        {
+          "name": "name",
+          "type": "String"
+        },
+        {
+          "name": "criterion",
+          "type": "String"
+        },
+        {
+          "name": "collectables",
+          "type": "Vector",
+          "subtype": {
+            "name": "Vector.\u003ccom.ankamagames.dofus.datacenter.collection::Collectable\u003e",
+            "type": "1"
+          }
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "Collection",
+      "collectables": [
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7406,
+          "gfxId": 0,
+          "name": "Flambourou",
+          "order": 1,
+          "rarity": 5,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7407,
+          "gfxId": 0,
+          "name": "Walabraise",
+          "order": 2,
+          "rarity": 2,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7408,
+          "gfxId": 0,
+          "name": "Mimistrale",
+          "order": 3,
+          "rarity": 5,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7409,
+          "gfxId": 0,
+          "name": "Sirokrone",
+          "order": 4,
+          "rarity": 2,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7410,
+          "gfxId": 0,
+          "name": "Tapipou",
+          "order": 5,
+          "rarity": 5,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7411,
+          "gfxId": 0,
+          "name": "Bétapir",
+          "order": 6,
+          "rarity": 2,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7412,
+          "gfxId": 0,
+          "name": "Amphibulle",
+          "order": 7,
+          "rarity": 5,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7413,
+          "gfxId": 0,
+          "name": "Amphibrute",
+          "order": 8,
+          "rarity": 2,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7414,
+          "gfxId": 0,
+          "name": "Marcastagne",
+          "order": 9,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7415,
+          "gfxId": 0,
+          "name": "Sanglouton",
+          "order": 10,
+          "rarity": 2,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7416,
+          "gfxId": 0,
+          "name": "Zébuffle",
+          "order": 11,
+          "rarity": 5,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7417,
+          "gfxId": 0,
+          "name": "Fanfacarme",
+          "order": 12,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7418,
+          "gfxId": 0,
+          "name": "Rirequin",
+          "order": 13,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7419,
+          "gfxId": 0,
+          "name": "Crapoisseux",
+          "order": 14,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7420,
+          "gfxId": 0,
+          "name": "Batravage",
+          "order": 15,
+          "rarity": 2,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7421,
+          "gfxId": 0,
+          "name": "Démonstre",
+          "order": 16,
+          "rarity": 1,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7422,
+          "gfxId": 0,
+          "name": "Harpiège",
+          "order": 17,
+          "rarity": 1,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7423,
+          "gfxId": 0,
+          "name": "Cachalouche",
+          "order": 18,
+          "rarity": 5,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7424,
+          "gfxId": 0,
+          "name": "Staturbin",
+          "order": 19,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7425,
+          "gfxId": 0,
+          "name": "Statueur",
+          "order": 20,
+          "rarity": 2,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7426,
+          "gfxId": 0,
+          "name": "Dravage",
+          "order": 21,
+          "rarity": 5,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7427,
+          "gfxId": 0,
+          "name": "Globerlu",
+          "order": 22,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7428,
+          "gfxId": 0,
+          "name": "Vaudoudou",
+          "order": 23,
+          "rarity": 1,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7429,
+          "gfxId": 0,
+          "name": "Corboyau",
+          "order": 24,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7430,
+          "gfxId": 0,
+          "name": "Corboyar",
+          "order": 25,
+          "rarity": 2,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7431,
+          "gfxId": 0,
+          "name": "Épicruelle",
+          "order": 26,
+          "rarity": 5,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7432,
+          "gfxId": 0,
+          "name": "Niékaille",
+          "order": 27,
+          "rarity": 1,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7433,
+          "gfxId": 0,
+          "name": "Éclaboule",
+          "order": 28,
+          "rarity": 5,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7434,
+          "gfxId": 0,
+          "name": "Grapince",
+          "order": 29,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7435,
+          "gfxId": 0,
+          "name": "Scorpince",
+          "order": 30,
+          "rarity": 2,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7436,
+          "gfxId": 0,
+          "name": "Mistigré",
+          "order": 31,
+          "rarity": 5,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7437,
+          "gfxId": 0,
+          "name": "Tékilarve",
+          "order": 32,
+          "rarity": 1,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7438,
+          "gfxId": 0,
+          "name": "Magivrée",
+          "order": 33,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7439,
+          "gfxId": 0,
+          "name": "Minicorne",
+          "order": 34,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7440,
+          "gfxId": 0,
+          "name": "Mysticorne",
+          "order": 35,
+          "rarity": 2,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7441,
+          "gfxId": 0,
+          "name": "Rouzé",
+          "order": 36,
+          "rarity": 5,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7442,
+          "gfxId": 0,
+          "name": "Tournesouffre",
+          "order": 37,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7443,
+          "gfxId": 0,
+          "name": "Musculard",
+          "order": 38,
+          "rarity": 1,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7444,
+          "gfxId": 0,
+          "name": "Tarentruc",
+          "order": 39,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7445,
+          "gfxId": 0,
+          "name": "Tarentrax",
+          "order": 40,
+          "rarity": 2,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7446,
+          "gfxId": 0,
+          "name": "Mimolosse",
+          "order": 41,
+          "rarity": 5,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7447,
+          "gfxId": 0,
+          "name": "Grocodile",
+          "order": 42,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7448,
+          "gfxId": 0,
+          "name": "Escribe",
+          "order": 43,
+          "rarity": 1,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7449,
+          "gfxId": 0,
+          "name": "Chalafré",
+          "order": 44,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7450,
+          "gfxId": 0,
+          "name": "Catcha",
+          "order": 45,
+          "rarity": 2,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7451,
+          "gfxId": 0,
+          "name": "Sambalais",
+          "order": 46,
+          "rarity": 5,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7452,
+          "gfxId": 0,
+          "name": "Kwacougar",
+          "order": 47,
+          "rarity": 5,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7453,
+          "gfxId": 0,
+          "name": "Cancrevette",
+          "order": 48,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7454,
+          "gfxId": 0,
+          "name": "Koalache",
+          "order": 49,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7455,
+          "gfxId": 0,
+          "name": "Koalaron",
+          "order": 50,
+          "rarity": 2,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7456,
+          "gfxId": 0,
+          "name": "Serpierre",
+          "order": 51,
+          "rarity": 5,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7457,
+          "gfxId": 0,
+          "name": "Nocturpide",
+          "order": 52,
+          "rarity": 5,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7458,
+          "gfxId": 0,
+          "name": "Darsenik",
+          "order": 53,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7459,
+          "gfxId": 0,
+          "name": "Mycostaud",
+          "order": 54,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7460,
+          "gfxId": 0,
+          "name": "Mycoriace",
+          "order": 55,
+          "rarity": 2,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7461,
+          "gfxId": 0,
+          "name": "Sourituel",
+          "order": 56,
+          "rarity": 5,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7462,
+          "gfxId": 0,
+          "name": "Grifouine",
+          "order": 57,
+          "rarity": 1,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7463,
+          "gfxId": 0,
+          "name": "Polichimère",
+          "order": 58,
+          "rarity": 5,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7464,
+          "gfxId": 0,
+          "name": "Marmortier",
+          "order": 59,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7465,
+          "gfxId": 0,
+          "name": "Bazookaïd",
+          "order": 60,
+          "rarity": 2,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7466,
+          "gfxId": 0,
+          "name": "Poupéluche",
+          "order": 61,
+          "rarity": 5,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7467,
+          "gfxId": 0,
+          "name": "Momarto",
+          "order": 62,
+          "rarity": 5,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7468,
+          "gfxId": 0,
+          "name": "Capuchef",
+          "order": 63,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7469,
+          "gfxId": 0,
+          "name": "Scampieuvre",
+          "order": 64,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7470,
+          "gfxId": 0,
+          "name": "Vampieuvre",
+          "order": 65,
+          "rarity": 2,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7471,
+          "gfxId": 0,
+          "name": "Galibogue",
+          "order": 66,
+          "rarity": 1,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7472,
+          "gfxId": 0,
+          "name": "Faucombustion",
+          "order": 67,
+          "rarity": 5,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7473,
+          "gfxId": 0,
+          "name": "Sirokoko",
+          "order": 68,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7474,
+          "gfxId": 0,
+          "name": "Escarpince",
+          "order": 69,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7475,
+          "gfxId": 0,
+          "name": "Mascarpince",
+          "order": 70,
+          "rarity": 2,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7476,
+          "gfxId": 0,
+          "name": "Papalmier",
+          "order": 71,
+          "rarity": 1,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7477,
+          "gfxId": 0,
+          "name": "Raievolté",
+          "order": 72,
+          "rarity": 5,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7478,
+          "gfxId": 0,
+          "name": "Éculbute",
+          "order": 73,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7479,
+          "gfxId": 0,
+          "name": "Dolmenu",
+          "order": 74,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7480,
+          "gfxId": 0,
+          "name": "Dolmenir",
+          "order": 75,
+          "rarity": 2,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7481,
+          "gfxId": 0,
+          "name": "Étoilusk",
+          "order": 76,
+          "rarity": 1,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7482,
+          "gfxId": 0,
+          "name": "Forbanfor",
+          "order": 77,
+          "rarity": 5,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7483,
+          "gfxId": 0,
+          "name": "Moustonique",
+          "order": 78,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7484,
+          "gfxId": 0,
+          "name": "Rompiaf",
+          "order": 79,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7485,
+          "gfxId": 0,
+          "name": "Crépiaf",
+          "order": 80,
+          "rarity": 2,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7486,
+          "gfxId": 0,
+          "name": "Kafarmure",
+          "order": 81,
+          "rarity": 1,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7487,
+          "gfxId": 0,
+          "name": "Incramé",
+          "order": 82,
+          "rarity": 5,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7488,
+          "gfxId": 0,
+          "name": "Infernuit",
+          "order": 83,
+          "rarity": 5,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7489,
+          "gfxId": 0,
+          "name": "Crustalide",
+          "order": 84,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7490,
+          "gfxId": 0,
+          "name": "Crustorgnole",
+          "order": 85,
+          "rarity": 2,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7491,
+          "gfxId": 0,
+          "name": "Alphané",
+          "order": 86,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7492,
+          "gfxId": 0,
+          "name": "Attrapace",
+          "order": 87,
+          "rarity": 5,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7493,
+          "gfxId": 0,
+          "name": "Parazig",
+          "order": 88,
+          "rarity": 5,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7494,
+          "gfxId": 0,
+          "name": "Assouplié",
+          "order": 89,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7495,
+          "gfxId": 0,
+          "name": "Décréplié",
+          "order": 90,
+          "rarity": 2,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7496,
+          "gfxId": 0,
+          "name": "Ephébec",
+          "order": 91,
+          "rarity": 1,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7497,
+          "gfxId": 0,
+          "name": "Leveinère",
+          "order": 92,
+          "rarity": 5,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7498,
+          "gfxId": 0,
+          "name": "Urtyclope",
+          "order": 93,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7499,
+          "gfxId": 0,
+          "name": "Évoki",
+          "order": 94,
+          "rarity": 1,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7500,
+          "gfxId": 0,
+          "name": "Brasaki",
+          "order": 95,
+          "rarity": 2,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7501,
+          "gfxId": 0,
+          "name": "Céléki",
+          "order": 96,
+          "rarity": 2,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7502,
+          "gfxId": 0,
+          "name": "Telluki",
+          "order": 97,
+          "rarity": 2,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7503,
+          "gfxId": 0,
+          "name": "Nautiki",
+          "order": 98,
+          "rarity": 2,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7504,
+          "gfxId": 0,
+          "name": "Cactueur",
+          "order": 99,
+          "rarity": 1,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7505,
+          "gfxId": 0,
+          "name": "Sakadan",
+          "order": 100,
+          "rarity": 5,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7506,
+          "gfxId": 0,
+          "name": "Bagarlequin",
+          "order": 101,
+          "rarity": 1,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7507,
+          "gfxId": 0,
+          "name": "Dracoquille",
+          "order": 102,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7508,
+          "gfxId": 0,
+          "name": "Dracolore",
+          "order": 103,
+          "rarity": 2,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7509,
+          "gfxId": 0,
+          "name": "Pécorne",
+          "order": 104,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7510,
+          "gfxId": 0,
+          "name": "Tigépine",
+          "order": 105,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7511,
+          "gfxId": 0,
+          "name": "Tabalèze",
+          "order": 106,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7512,
+          "gfxId": 0,
+          "name": "Ursicaire",
+          "order": 107,
+          "rarity": 1,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7513,
+          "gfxId": 0,
+          "name": "Ursinistre",
+          "order": 108,
+          "rarity": 2,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7514,
+          "gfxId": 0,
+          "name": "Myrobolangue",
+          "order": 109,
+          "rarity": 5,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7515,
+          "gfxId": 0,
+          "name": "Javache",
+          "order": 110,
+          "rarity": 5,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7516,
+          "gfxId": 0,
+          "name": "Dinosseux",
+          "order": 111,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7517,
+          "gfxId": 0,
+          "name": "Poisitrouille",
+          "order": 112,
+          "rarity": 1,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7518,
+          "gfxId": 0,
+          "name": "Toxitrouille",
+          "order": 113,
+          "rarity": 2,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7519,
+          "gfxId": 0,
+          "name": "Crustank",
+          "order": 114,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7520,
+          "gfxId": 0,
+          "name": "Mélomask",
+          "order": 115,
+          "rarity": 3,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7521,
+          "gfxId": 0,
+          "name": "Lycanin",
+          "order": 116,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7522,
+          "gfxId": 0,
+          "name": "Gouledogue",
+          "order": 117,
+          "rarity": 1,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7523,
+          "gfxId": 0,
+          "name": "Cagouldogue",
+          "order": 118,
+          "rarity": 2,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7524,
+          "gfxId": 0,
+          "name": "Vénéon",
+          "order": 119,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7525,
+          "gfxId": 0,
+          "name": "Lucifrousse",
+          "order": 120,
+          "rarity": 5,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7526,
+          "gfxId": 0,
+          "name": "Poilongé",
+          "order": 121,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7527,
+          "gfxId": 0,
+          "name": "Mixomascotte",
+          "order": 122,
+          "rarity": 3,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7528,
+          "gfxId": 0,
+          "name": "Mixomastoc",
+          "order": 123,
+          "rarity": 2,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7529,
+          "gfxId": 0,
+          "name": "Safarieur",
+          "order": 124,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7530,
+          "gfxId": 0,
+          "name": "Krokogneur",
+          "order": 125,
+          "rarity": 1,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7531,
+          "gfxId": 0,
+          "name": "Hurlepoil",
+          "order": 126,
+          "rarity": 1,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7532,
+          "gfxId": 0,
+          "name": "Enflaron",
+          "order": 127,
+          "rarity": 3,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7533,
+          "gfxId": 0,
+          "name": "Bombarge",
+          "order": 128,
+          "rarity": 2,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7534,
+          "gfxId": 0,
+          "name": "Bougrimace",
+          "order": 129,
+          "rarity": 5,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7535,
+          "gfxId": 0,
+          "name": "Tentarpon",
+          "order": 130,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7536,
+          "gfxId": 0,
+          "name": "Sapristigre",
+          "order": 131,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7537,
+          "gfxId": 0,
+          "name": "Crapupille",
+          "order": 132,
+          "rarity": 4,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7538,
+          "gfxId": 0,
+          "name": "Trapupille",
+          "order": 133,
+          "rarity": 2,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7539,
+          "gfxId": 0,
+          "name": "Nenufarouche",
+          "order": 134,
+          "rarity": 1,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7540,
+          "gfxId": 0,
+          "name": "Hydragon",
+          "order": 135,
+          "rarity": 4,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7541,
+          "gfxId": 0,
+          "name": "Cyclopoing",
+          "order": 136,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7542,
+          "gfxId": 0,
+          "name": "Mutapin",
+          "order": 137,
+          "rarity": 4,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7543,
+          "gfxId": 0,
+          "name": "Ultrapin",
+          "order": 138,
+          "rarity": 2,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7544,
+          "gfxId": 0,
+          "name": "Kradotruche",
+          "order": 139,
+          "rarity": 0,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7545,
+          "gfxId": 0,
+          "name": "Calvizir",
+          "order": 140,
+          "rarity": 1,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7546,
+          "gfxId": 0,
+          "name": "Valdingume",
+          "order": 141,
+          "rarity": 3,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7547,
+          "gfxId": 0,
+          "name": "Cabrioche",
+          "order": 142,
+          "rarity": 1,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7548,
+          "gfxId": 0,
+          "name": "Élémort",
+          "order": 143,
+          "rarity": 5,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7549,
+          "gfxId": 0,
+          "name": "Démonange",
+          "order": 144,
+          "rarity": 5,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7550,
+          "gfxId": 0,
+          "name": "Angémon",
+          "order": 145,
+          "rarity": 5,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7551,
+          "gfxId": 0,
+          "name": "Cybourgs",
+          "order": 146,
+          "rarity": 5,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7552,
+          "gfxId": 0,
+          "name": "Puputois",
+          "order": 147,
+          "rarity": 5,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7553,
+          "gfxId": 0,
+          "name": "Alligaveugle",
+          "order": 148,
+          "rarity": 5,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7554,
+          "gfxId": 0,
+          "name": "Malotrunes",
+          "order": 149,
+          "rarity": 5,
+          "typeId": 1
+        },
+        {
+          "ClassType_": "Collectable",
+          "entityId": 7555,
+          "gfxId": 0,
+          "name": "Reptilangue",
+          "order": 150,
+          "rarity": 5,
+          "typeId": 1
+        }
+      ],
+      "criterion": "SC=5\u0026ST=7",
+      "name": "Mobédex",
+      "typeId": 1
+    }
+  ]
+}

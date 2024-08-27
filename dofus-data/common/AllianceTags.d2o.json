@@ -1,0 +1,140 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.alliance",
+      "packageClass": "AllianceTag",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "typeId",
+          "type": "Integer"
+        },
+        {
+          "name": "nameId",
+          "type": "I18n"
+        },
+        {
+          "name": "order",
+          "type": "Integer"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "AllianceTag",
+      "id": 4,
+      "nameId": 990739,
+      "order": 0,
+      "typeId": 3
+    },
+    {
+      "ClassType_": "AllianceTag",
+      "id": 5,
+      "nameId": 990745,
+      "order": 1,
+      "typeId": 3
+    },
+    {
+      "ClassType_": "AllianceTag",
+      "id": 7,
+      "nameId": 990751,
+      "order": 2,
+      "typeId": 3
+    },
+    {
+      "ClassType_": "AllianceTag",
+      "id": 8,
+      "nameId": 990757,
+      "order": 3,
+      "typeId": 3
+    },
+    {
+      "ClassType_": "AllianceTag",
+      "id": 9,
+      "nameId": 990763,
+      "order": 4,
+      "typeId": 3
+    },
+    {
+      "ClassType_": "AllianceTag",
+      "id": 10,
+      "nameId": 990769,
+      "order": 5,
+      "typeId": 3
+    },
+    {
+      "ClassType_": "AllianceTag",
+      "id": 11,
+      "nameId": 990780,
+      "order": 6,
+      "typeId": 3
+    },
+    {
+      "ClassType_": "AllianceTag",
+      "id": 17,
+      "nameId": 1001987,
+      "order": 0,
+      "typeId": 2
+    },
+    {
+      "ClassType_": "AllianceTag",
+      "id": 19,
+      "nameId": 1002011,
+      "order": 2,
+      "typeId": 2
+    },
+    {
+      "ClassType_": "AllianceTag",
+      "id": 20,
+      "nameId": 1002017,
+      "order": 3,
+      "typeId": 2
+    },
+    {
+      "ClassType_": "AllianceTag",
+      "id": 21,
+      "nameId": 1002023,
+      "order": 4,
+      "typeId": 2
+    },
+    {
+      "ClassType_": "AllianceTag",
+      "id": 22,
+      "nameId": 1002029,
+      "order": 1,
+      "typeId": 2
+    },
+    {
+      "ClassType_": "AllianceTag",
+      "id": 23,
+      "nameId": 1002035,
+      "order": 0,
+      "typeId": 1
+    },
+    {
+      "ClassType_": "AllianceTag",
+      "id": 24,
+      "nameId": 1002041,
+      "order": 1,
+      "typeId": 1
+    },
+    {
+      "ClassType_": "AllianceTag",
+      "id": 25,
+      "nameId": 1002047,
+      "order": 2,
+      "typeId": 1
+    },
+    {
+      "ClassType_": "AllianceTag",
+      "id": 26,
+      "nameId": 1002053,
+      "order": 3,
+      "typeId": 1
+    }
+  ]
+}

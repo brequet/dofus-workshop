@@ -1,0 +1,81 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.breach",
+      "packageClass": "BreachWorldMapSector",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "sectorNameId",
+          "type": "I18n"
+        },
+        {
+          "name": "legendId",
+          "type": "I18n"
+        },
+        {
+          "name": "sectorIcon",
+          "type": "String"
+        },
+        {
+          "name": "minStage",
+          "type": "Integer"
+        },
+        {
+          "name": "maxStage",
+          "type": "Integer"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "BreachWorldMapSector",
+      "id": 7,
+      "legendId": 819054,
+      "maxStage": 229,
+      "minStage": 50,
+      "sectorIcon": "464",
+      "sectorNameId": 819053
+    },
+    {
+      "ClassType_": "BreachWorldMapSector",
+      "id": 8,
+      "legendId": 832337,
+      "maxStage": 269,
+      "minStage": 230,
+      "sectorIcon": "465",
+      "sectorNameId": 832336
+    },
+    {
+      "ClassType_": "BreachWorldMapSector",
+      "id": 9,
+      "legendId": 819059,
+      "maxStage": 324,
+      "minStage": 270,
+      "sectorIcon": "466",
+      "sectorNameId": 819058
+    },
+    {
+      "ClassType_": "BreachWorldMapSector",
+      "id": 10,
+      "legendId": 819061,
+      "maxStage": 399,
+      "minStage": 325,
+      "sectorIcon": "467",
+      "sectorNameId": 819060
+    },
+    {
+      "ClassType_": "BreachWorldMapSector",
+      "id": 11,
+      "legendId": 819063,
+      "maxStage": 0,
+      "minStage": 400,
+      "sectorIcon": "468",
+      "sectorNameId": 819062
+    }
+  ]
+}

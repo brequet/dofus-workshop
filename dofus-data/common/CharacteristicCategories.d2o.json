@@ -1,0 +1,128 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.characteristics",
+      "packageClass": "CharacteristicCategory",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "nameId",
+          "type": "I18n"
+        },
+        {
+          "name": "order",
+          "type": "Integer"
+        },
+        {
+          "name": "characteristicIds",
+          "type": "Vector",
+          "subtype": {
+            "name": "Vector.\u003cuint\u003e",
+            "type": "UnsignedInteger"
+          }
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "CharacteristicCategory",
+      "characteristicIds": [
+        1,
+        23,
+        19,
+        11,
+        14,
+        13,
+        10,
+        15,
+        25,
+        18,
+        12
+      ],
+      "id": 2,
+      "nameId": 506905,
+      "order": 1
+    },
+    {
+      "ClassType_": "CharacteristicCategory",
+      "characteristicIds": [
+        82,
+        27,
+        83,
+        28,
+        49,
+        79,
+        78,
+        44,
+        26,
+        48
+      ],
+      "id": 3,
+      "nameId": 506906,
+      "order": 2
+    },
+    {
+      "ClassType_": "CharacteristicCategory",
+      "characteristicIds": [
+        16,
+        86,
+        92,
+        88,
+        89,
+        90,
+        91,
+        50,
+        31,
+        70,
+        69,
+        84,
+        123,
+        122,
+        120,
+        125,
+        147,
+        148
+      ],
+      "id": 4,
+      "nameId": 506910,
+      "order": 3
+    },
+    {
+      "ClassType_": "CharacteristicCategory",
+      "characteristicIds": [
+        58,
+        37,
+        54,
+        33,
+        55,
+        34,
+        56,
+        35,
+        57,
+        36,
+        87,
+        85,
+        141,
+        142,
+        121,
+        124
+      ],
+      "id": 5,
+      "nameId": 506908,
+      "order": 4
+    },
+    {
+      "ClassType_": "CharacteristicCategory",
+      "characteristicIds": [
+        75
+      ],
+      "id": 6,
+      "nameId": 846625,
+      "order": 5
+    }
+  ]
+}

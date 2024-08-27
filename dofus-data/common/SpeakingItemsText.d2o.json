@@ -1,0 +1,3222 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.livingObjects",
+      "packageClass": "SpeakingItemText",
+      "fields": [
+        {
+          "name": "textId",
+          "type": "Integer"
+        },
+        {
+          "name": "textProba",
+          "type": "Number"
+        },
+        {
+          "name": "textStringId",
+          "type": "I18n"
+        },
+        {
+          "name": "textLevel",
+          "type": "Integer"
+        },
+        {
+          "name": "textSound",
+          "type": "Integer"
+        },
+        {
+          "name": "textRestriction",
+          "type": "String"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 24,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60749
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 25,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": 3,
+      "textStringId": 60748
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 26,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": 3,
+      "textStringId": 340017
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 27,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60746
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 28,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60744
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 29,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60757
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 30,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60734
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 31,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60736
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 32,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60916
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 33,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60918
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 34,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60920
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 35,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60922
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 36,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60924
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 37,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60926
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 38,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60928
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 39,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60930
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 40,
+      "textLevel": 1,
+      "textProba": 0.1,
+      "textRestriction": "",
+      "textSound": 3,
+      "textStringId": 60905
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 41,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60907
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 42,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60906
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 43,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60892
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 44,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60894
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 45,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60889
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 46,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": 1,
+      "textStringId": 60649
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 47,
+      "textLevel": 1,
+      "textProba": 0.2,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60899
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 48,
+      "textLevel": 1,
+      "textProba": 0.1,
+      "textRestriction": "",
+      "textSound": 2,
+      "textStringId": 60901
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 49,
+      "textLevel": 1,
+      "textProba": 0.1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60896
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 50,
+      "textLevel": 1,
+      "textProba": 0.1,
+      "textRestriction": "",
+      "textSound": 2,
+      "textStringId": 60599
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 51,
+      "textLevel": 1,
+      "textProba": 0.5,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60878
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 52,
+      "textLevel": 1,
+      "textProba": 0.01,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 759702
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 53,
+      "textLevel": 1,
+      "textProba": 0.1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 121761
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 54,
+      "textLevel": 1,
+      "textProba": 0.1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60869
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 55,
+      "textLevel": 1,
+      "textProba": 0.1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60871
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 57,
+      "textLevel": 1,
+      "textProba": 0.1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60873
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 58,
+      "textLevel": 1,
+      "textProba": 0.1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60865
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 59,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60632
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 62,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60839
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 63,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60842
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 64,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60841
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 65,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60837
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 66,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60838
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 67,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60833
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 68,
+      "textLevel": 10,
+      "textProba": 0.01,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60836
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 70,
+      "textLevel": 3,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60817
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 71,
+      "textLevel": 5,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60815
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 72,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60813
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 73,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60812
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 74,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": 3,
+      "textStringId": 60811
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 75,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60809
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 76,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60594
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 77,
+      "textLevel": 5,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": 1,
+      "textStringId": 60681
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 78,
+      "textLevel": 10,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60680
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 79,
+      "textLevel": 5,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": 1,
+      "textStringId": 60679
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 80,
+      "textLevel": 10,
+      "textProba": 0.5,
+      "textRestriction": "",
+      "textSound": 2,
+      "textStringId": 60699
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 81,
+      "textLevel": 5,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60697
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 82,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60698
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 83,
+      "textLevel": 15,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60600
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 84,
+      "textLevel": 15,
+      "textProba": 0.5,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60601
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 85,
+      "textLevel": 8,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 556024
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 86,
+      "textLevel": 12,
+      "textProba": 0.5,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60701
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 87,
+      "textLevel": 16,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60634
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 88,
+      "textLevel": 7,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60623
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 89,
+      "textLevel": 14,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60640
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 90,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60643
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 91,
+      "textLevel": 17,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60672
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 92,
+      "textLevel": 3,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60673
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 93,
+      "textLevel": 9,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60674
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 94,
+      "textLevel": 6,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60618
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 95,
+      "textLevel": 18,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60675
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 96,
+      "textLevel": 12,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60676
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 97,
+      "textLevel": 9,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60677
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 98,
+      "textLevel": 7,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60625
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 99,
+      "textLevel": 11,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60619
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 100,
+      "textLevel": 9,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 345822
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 101,
+      "textLevel": 4,
+      "textProba": 0.25,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60856
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 102,
+      "textLevel": 4,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60863
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 103,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60861
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 104,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60605
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 105,
+      "textLevel": 8,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60849
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 106,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60854
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 107,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60852
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 108,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60870
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 109,
+      "textLevel": 5,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60868
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 110,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60820
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 111,
+      "textLevel": 5,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": 2,
+      "textStringId": 60826
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 112,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60825
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 113,
+      "textLevel": 5,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60613
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 114,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60827
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 115,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": 1,
+      "textStringId": 60822
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 116,
+      "textLevel": 6,
+      "textProba": 0.5,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60821
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 117,
+      "textLevel": 5,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60824
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 118,
+      "textLevel": 7,
+      "textProba": 0.5,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60823
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 119,
+      "textLevel": 8,
+      "textProba": 0.5,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60835
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 120,
+      "textLevel": 11,
+      "textProba": 0.5,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60847
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 121,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60848
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 122,
+      "textLevel": 15,
+      "textProba": 0.3,
+      "textRestriction": "",
+      "textSound": 1,
+      "textStringId": 60862
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 123,
+      "textLevel": 6,
+      "textProba": 0.7,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60860
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 124,
+      "textLevel": 3,
+      "textProba": 0.6,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60858
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 125,
+      "textLevel": 4,
+      "textProba": 0.5,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60857
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 126,
+      "textLevel": 2,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60855
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 127,
+      "textLevel": 9,
+      "textProba": 0.5,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60853
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 128,
+      "textLevel": 6,
+      "textProba": 0.5,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60851
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 129,
+      "textLevel": 5,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60850
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 130,
+      "textLevel": 10,
+      "textProba": 0.2,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60879
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 131,
+      "textLevel": 12,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 345778
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 132,
+      "textLevel": 13,
+      "textProba": 0.7,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60881
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 133,
+      "textLevel": 2,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 377724
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 134,
+      "textLevel": 16,
+      "textProba": 0.2,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60882
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 135,
+      "textLevel": 8,
+      "textProba": 0.1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60608
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 136,
+      "textLevel": 5,
+      "textProba": 0.8,
+      "textRestriction": "",
+      "textSound": 3,
+      "textStringId": 60884
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 137,
+      "textLevel": 10,
+      "textProba": 0.8,
+      "textRestriction": "",
+      "textSound": 3,
+      "textStringId": 60886
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 138,
+      "textLevel": 2,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60885
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 139,
+      "textLevel": 3,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": 2,
+      "textStringId": 60887
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 140,
+      "textLevel": 11,
+      "textProba": 0.5,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60910
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 141,
+      "textLevel": 7,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60629
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 142,
+      "textLevel": 6,
+      "textProba": 0.5,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60908
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 143,
+      "textLevel": 12,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60909
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 144,
+      "textLevel": 6,
+      "textProba": 0.5,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60914
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 145,
+      "textLevel": 8,
+      "textProba": 0.8,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60913
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 146,
+      "textLevel": 10,
+      "textProba": 0.6,
+      "textRestriction": "",
+      "textSound": 2,
+      "textStringId": 60912
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 147,
+      "textLevel": 4,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60911
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 148,
+      "textLevel": 3,
+      "textProba": 0.7,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60915
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 149,
+      "textLevel": 14,
+      "textProba": 0.2,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60598
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 150,
+      "textLevel": 13,
+      "textProba": 0.1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60731
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 151,
+      "textLevel": 8,
+      "textProba": 0.5,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60725
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 152,
+      "textLevel": 11,
+      "textProba": 0.2,
+      "textRestriction": "",
+      "textSound": 3,
+      "textStringId": 60723
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 153,
+      "textLevel": 5,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 306947
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 154,
+      "textLevel": 7,
+      "textProba": 0.8,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60726
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 155,
+      "textLevel": 9,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60754
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 156,
+      "textLevel": 13,
+      "textProba": 0.5,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60755
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 157,
+      "textLevel": 15,
+      "textProba": 0.5,
+      "textRestriction": "",
+      "textSound": 1,
+      "textStringId": 60756
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 158,
+      "textLevel": 17,
+      "textProba": 0.2,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60758
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 159,
+      "textLevel": 9,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60750
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 160,
+      "textLevel": 8,
+      "textProba": 0.5,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60763
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 161,
+      "textLevel": 10,
+      "textProba": 0.5,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60762
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 162,
+      "textLevel": 6,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60639
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 163,
+      "textLevel": 5,
+      "textProba": 0.5,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 842191
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 164,
+      "textLevel": 2,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60760
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 165,
+      "textLevel": 8,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60759
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 166,
+      "textLevel": 7,
+      "textProba": 0.5,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60773
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 167,
+      "textLevel": 15,
+      "textProba": 0.2,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60774
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 168,
+      "textLevel": 10,
+      "textProba": 0.8,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60771
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 169,
+      "textLevel": 12,
+      "textProba": 0.8,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60772
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 170,
+      "textLevel": 11,
+      "textProba": 0.5,
+      "textRestriction": "",
+      "textSound": 1,
+      "textStringId": 60775
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 171,
+      "textLevel": 16,
+      "textProba": 0.1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60777
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 172,
+      "textLevel": 15,
+      "textProba": 0.2,
+      "textRestriction": "",
+      "textSound": 2,
+      "textStringId": 60776
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 173,
+      "textLevel": 10,
+      "textProba": 0.5,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60779
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 174,
+      "textLevel": 20,
+      "textProba": 0.1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60778
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 175,
+      "textLevel": 5,
+      "textProba": 0.5,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60781
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 176,
+      "textLevel": 11,
+      "textProba": 0.2,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60780
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 178,
+      "textLevel": 4,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60792
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 179,
+      "textLevel": 14,
+      "textProba": 0.1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60793
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 180,
+      "textLevel": 7,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60796
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 181,
+      "textLevel": 10,
+      "textProba": 0.6,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60795
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 182,
+      "textLevel": 6,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60593
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 183,
+      "textLevel": 12,
+      "textProba": 0.5,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60794
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 184,
+      "textLevel": 3,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60799
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 185,
+      "textLevel": 16,
+      "textProba": 0.2,
+      "textRestriction": "",
+      "textSound": 3,
+      "textStringId": 60616
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 186,
+      "textLevel": 13,
+      "textProba": 0.5,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60798
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 187,
+      "textLevel": 9,
+      "textProba": 0.5,
+      "textRestriction": "",
+      "textSound": 1,
+      "textStringId": 60797
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 188,
+      "textLevel": 6,
+      "textProba": 0.5,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60807
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 189,
+      "textLevel": 2,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60808
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 190,
+      "textLevel": 11,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60713
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 191,
+      "textLevel": 14,
+      "textProba": 0.8,
+      "textRestriction": "",
+      "textSound": 2,
+      "textStringId": 60720
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 192,
+      "textLevel": 7,
+      "textProba": 0.8,
+      "textRestriction": "",
+      "textSound": 1,
+      "textStringId": 60721
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 193,
+      "textLevel": 3,
+      "textProba": 0.4,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60718
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 194,
+      "textLevel": 2,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": 1,
+      "textStringId": 60719
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 195,
+      "textLevel": 5,
+      "textProba": 0.5,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60716
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 196,
+      "textLevel": 13,
+      "textProba": 0.5,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60717
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 197,
+      "textLevel": 11,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60714
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 198,
+      "textLevel": 4,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60715
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 199,
+      "textLevel": 6,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": 3,
+      "textStringId": 60706
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 200,
+      "textLevel": 5,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 883877
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 201,
+      "textLevel": 10,
+      "textProba": 0.2,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60650
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 202,
+      "textLevel": 6,
+      "textProba": 0.2,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60630
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 203,
+      "textLevel": 9,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60628
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 204,
+      "textLevel": 8,
+      "textProba": 0.2,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60656
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 205,
+      "textLevel": 4,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": 3,
+      "textStringId": 60648
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 206,
+      "textLevel": 6,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60641
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 207,
+      "textLevel": 18,
+      "textProba": 0.4,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60646
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 208,
+      "textLevel": 19,
+      "textProba": 0.8,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60626
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 209,
+      "textLevel": 10,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60637
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 210,
+      "textLevel": 20,
+      "textProba": 0.2,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60617
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 211,
+      "textLevel": 15,
+      "textProba": 0.5,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60696
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 212,
+      "textLevel": 10,
+      "textProba": 0.5,
+      "textRestriction": "",
+      "textSound": 2,
+      "textStringId": 60694
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 213,
+      "textLevel": 6,
+      "textProba": 0.6,
+      "textRestriction": "",
+      "textSound": 1,
+      "textStringId": 60695
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 214,
+      "textLevel": 19,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60691
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 215,
+      "textLevel": 13,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60693
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 216,
+      "textLevel": 8,
+      "textProba": 0.7,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60688
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 217,
+      "textLevel": 5,
+      "textProba": 0.6,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60689
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 218,
+      "textLevel": 18,
+      "textProba": 0.4,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60607
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 219,
+      "textLevel": 16,
+      "textProba": 0.3,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60686
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 220,
+      "textLevel": 8,
+      "textProba": 0.6,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 334144
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 221,
+      "textLevel": 7,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60668
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 222,
+      "textLevel": 9,
+      "textProba": 0.3,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60653
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 223,
+      "textLevel": 6,
+      "textProba": 0.4,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60669
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 224,
+      "textLevel": 10,
+      "textProba": 0.1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60670
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 225,
+      "textLevel": 5,
+      "textProba": 0.2,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60657
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 226,
+      "textLevel": 4,
+      "textProba": 0.3,
+      "textRestriction": "",
+      "textSound": 2,
+      "textStringId": 60667
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 227,
+      "textLevel": 2,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60602
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 228,
+      "textLevel": 11,
+      "textProba": 0.5,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60615
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 229,
+      "textLevel": 3,
+      "textProba": 0.4,
+      "textRestriction": "",
+      "textSound": 2,
+      "textStringId": 60631
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 230,
+      "textLevel": 12,
+      "textProba": 0.2,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60874
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 231,
+      "textLevel": 2,
+      "textProba": 0.7,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60875
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 232,
+      "textLevel": 13,
+      "textProba": 0.4,
+      "textRestriction": "",
+      "textSound": 3,
+      "textStringId": 60897
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 233,
+      "textLevel": 15,
+      "textProba": 0.3,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60895
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 234,
+      "textLevel": 6,
+      "textProba": 0.5,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60900
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 235,
+      "textLevel": 10,
+      "textProba": 0.1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60898
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 236,
+      "textLevel": 20,
+      "textProba": 0.1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60890
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 237,
+      "textLevel": 5,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60888
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 238,
+      "textLevel": 14,
+      "textProba": 0.8,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60893
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 239,
+      "textLevel": 16,
+      "textProba": 0.5,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60891
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 240,
+      "textLevel": 8,
+      "textProba": 0.2,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60904
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 241,
+      "textLevel": 7,
+      "textProba": 0.2,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60902
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 242,
+      "textLevel": 8,
+      "textProba": 0.1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60903
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 243,
+      "textLevel": 12,
+      "textProba": 0.6,
+      "textRestriction": "",
+      "textSound": 2,
+      "textStringId": 60929
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 244,
+      "textLevel": 14,
+      "textProba": 0.8,
+      "textRestriction": "",
+      "textSound": 3,
+      "textStringId": 60927
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 245,
+      "textLevel": 13,
+      "textProba": 0.4,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60925
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 246,
+      "textLevel": 9,
+      "textProba": 0.7,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60923
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 247,
+      "textLevel": 15,
+      "textProba": 0.9,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60921
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 248,
+      "textLevel": 17,
+      "textProba": 0.1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60919
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 249,
+      "textLevel": 10,
+      "textProba": 0.2,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60917
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 250,
+      "textLevel": 11,
+      "textProba": 0.3,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 375785
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 251,
+      "textLevel": 9,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60816
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 252,
+      "textLevel": 7,
+      "textProba": 0.2,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60818
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 253,
+      "textLevel": 12,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60819
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 254,
+      "textLevel": 5,
+      "textProba": 0.5,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60829
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 255,
+      "textLevel": 3,
+      "textProba": 0.2,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60828
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 256,
+      "textLevel": 2,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60831
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 257,
+      "textLevel": 11,
+      "textProba": 0.5,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60830
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 258,
+      "textLevel": 16,
+      "textProba": 0.1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60834
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 259,
+      "textLevel": 12,
+      "textProba": 0.5,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60832
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 260,
+      "textLevel": 4,
+      "textProba": 1,
+      "textRestriction": "",
+      "textSound": -1,
+      "textStringId": 60840
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 261,
+      "textLevel": 10,
+      "textProba": 0.2,
+      "textRestriction": "",
+      "textSound": 3,
+      "textStringId": 60845
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 262,
+      "textLevel": 1,
+      "textProba": 0.7,
+      "textRestriction": "9255",
+      "textSound": -1,
+      "textStringId": 60846
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 263,
+      "textLevel": 10,
+      "textProba": 0.5,
+      "textRestriction": "9255",
+      "textSound": -1,
+      "textStringId": 60843
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 264,
+      "textLevel": 15,
+      "textProba": 1,
+      "textRestriction": "9255",
+      "textSound": -1,
+      "textStringId": 60844
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 265,
+      "textLevel": 2,
+      "textProba": 0.2,
+      "textRestriction": "9255",
+      "textSound": -1,
+      "textStringId": 60606
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 266,
+      "textLevel": 14,
+      "textProba": 0.4,
+      "textRestriction": "9255",
+      "textSound": 1,
+      "textStringId": 60867
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 267,
+      "textLevel": 9,
+      "textProba": 0.8,
+      "textRestriction": "9255",
+      "textSound": -1,
+      "textStringId": 60866
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 268,
+      "textLevel": 18,
+      "textProba": 0.7,
+      "textRestriction": "9255",
+      "textSound": -1,
+      "textStringId": 60864
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 269,
+      "textLevel": 19,
+      "textProba": 0.1,
+      "textRestriction": "9255",
+      "textSound": -1,
+      "textStringId": 60872
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 270,
+      "textLevel": 17,
+      "textProba": 0.3,
+      "textRestriction": "9255",
+      "textSound": -1,
+      "textStringId": 60787
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 271,
+      "textLevel": 16,
+      "textProba": 0.4,
+      "textRestriction": "9255",
+      "textSound": -1,
+      "textStringId": 60786
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 272,
+      "textLevel": 20,
+      "textProba": 0.2,
+      "textRestriction": "9255",
+      "textSound": -1,
+      "textStringId": 60783
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 273,
+      "textLevel": 4,
+      "textProba": 0.5,
+      "textRestriction": "9255",
+      "textSound": -1,
+      "textStringId": 60782
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 274,
+      "textLevel": 10,
+      "textProba": 0.3,
+      "textRestriction": "9255",
+      "textSound": 3,
+      "textStringId": 60785
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 275,
+      "textLevel": 8,
+      "textProba": 1,
+      "textRestriction": "9255",
+      "textSound": -1,
+      "textStringId": 60784
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 276,
+      "textLevel": 5,
+      "textProba": 0.6,
+      "textRestriction": "9255",
+      "textSound": -1,
+      "textStringId": 279581
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 277,
+      "textLevel": 13,
+      "textProba": 0.7,
+      "textRestriction": "9255",
+      "textSound": -1,
+      "textStringId": 60789
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 278,
+      "textLevel": 3,
+      "textProba": 0.8,
+      "textRestriction": "9255",
+      "textSound": -1,
+      "textStringId": 60790
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 279,
+      "textLevel": 12,
+      "textProba": 0.2,
+      "textRestriction": "9255",
+      "textSound": -1,
+      "textStringId": 60791
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 280,
+      "textLevel": 6,
+      "textProba": 0.5,
+      "textRestriction": "9255",
+      "textSound": -1,
+      "textStringId": 60804
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 281,
+      "textLevel": 7,
+      "textProba": 0.8,
+      "textRestriction": "9255",
+      "textSound": -1,
+      "textStringId": 60803
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 282,
+      "textLevel": 11,
+      "textProba": 1,
+      "textRestriction": "9255",
+      "textSound": -1,
+      "textStringId": 60802
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 283,
+      "textLevel": 15,
+      "textProba": 0.4,
+      "textRestriction": "9255",
+      "textSound": -1,
+      "textStringId": 60810
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 284,
+      "textLevel": 9,
+      "textProba": 0.4,
+      "textRestriction": "9255",
+      "textSound": -1,
+      "textStringId": 60603
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 285,
+      "textLevel": 5,
+      "textProba": 0.8,
+      "textRestriction": "9256",
+      "textSound": -1,
+      "textStringId": 60801
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 286,
+      "textLevel": 18,
+      "textProba": 1,
+      "textRestriction": "9256",
+      "textSound": 3,
+      "textStringId": 60800
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 287,
+      "textLevel": 11,
+      "textProba": 0.6,
+      "textRestriction": "9256",
+      "textSound": -1,
+      "textStringId": 60612
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 288,
+      "textLevel": 4,
+      "textProba": 0.5,
+      "textRestriction": "9256",
+      "textSound": -1,
+      "textStringId": 60806
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 289,
+      "textLevel": 12,
+      "textProba": 0.2,
+      "textRestriction": "9256",
+      "textSound": -1,
+      "textStringId": 60805
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 290,
+      "textLevel": 10,
+      "textProba": 0.4,
+      "textRestriction": "9256",
+      "textSound": -1,
+      "textStringId": 60735
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 291,
+      "textLevel": 8,
+      "textProba": 0.7,
+      "textRestriction": "9256",
+      "textSound": -1,
+      "textStringId": 60733
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 292,
+      "textLevel": 19,
+      "textProba": 0.3,
+      "textRestriction": "9256",
+      "textSound": -1,
+      "textStringId": 60738
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 293,
+      "textLevel": 16,
+      "textProba": 0.2,
+      "textRestriction": "9256",
+      "textSound": -1,
+      "textStringId": 60737
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 294,
+      "textLevel": 20,
+      "textProba": 0.1,
+      "textRestriction": "9256",
+      "textSound": -1,
+      "textStringId": 60739
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 295,
+      "textLevel": 11,
+      "textProba": 0.5,
+      "textRestriction": "9256",
+      "textSound": -1,
+      "textStringId": 60740
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 296,
+      "textLevel": 15,
+      "textProba": 0.4,
+      "textRestriction": "9256",
+      "textSound": -1,
+      "textStringId": 60742
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 297,
+      "textLevel": 15,
+      "textProba": 0.4,
+      "textRestriction": "9256",
+      "textSound": -1,
+      "textStringId": 60741
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 298,
+      "textLevel": 2,
+      "textProba": 0.4,
+      "textRestriction": "9256",
+      "textSound": -1,
+      "textStringId": 60743
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 299,
+      "textLevel": 3,
+      "textProba": 0.2,
+      "textRestriction": "9256",
+      "textSound": -1,
+      "textStringId": 60745
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 300,
+      "textLevel": 6,
+      "textProba": 0.2,
+      "textRestriction": "9256",
+      "textSound": -1,
+      "textStringId": 60712
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 301,
+      "textLevel": 9,
+      "textProba": 0.5,
+      "textRestriction": "9256",
+      "textSound": -1,
+      "textStringId": 60711
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 302,
+      "textLevel": 8,
+      "textProba": 1,
+      "textRestriction": "9256",
+      "textSound": -1,
+      "textStringId": 60708
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 303,
+      "textLevel": 13,
+      "textProba": 0.2,
+      "textRestriction": "9256",
+      "textSound": -1,
+      "textStringId": 60707
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 304,
+      "textLevel": 14,
+      "textProba": 0.8,
+      "textRestriction": "9256",
+      "textSound": -1,
+      "textStringId": 60710
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 305,
+      "textLevel": 6,
+      "textProba": 0.5,
+      "textRestriction": "9256",
+      "textSound": 3,
+      "textStringId": 60709
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 306,
+      "textLevel": 17,
+      "textProba": 0.7,
+      "textRestriction": "9256",
+      "textSound": -1,
+      "textStringId": 60703
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 307,
+      "textLevel": 7,
+      "textProba": 0.8,
+      "textRestriction": "9256",
+      "textSound": -1,
+      "textStringId": 60702
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 308,
+      "textLevel": 10,
+      "textProba": 0.4,
+      "textRestriction": "9256",
+      "textSound": -1,
+      "textStringId": 60705
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 309,
+      "textLevel": 1,
+      "textProba": 1,
+      "textRestriction": "9256",
+      "textSound": -1,
+      "textStringId": 60704
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 310,
+      "textLevel": 4,
+      "textProba": 0.5,
+      "textRestriction": "9233,12425",
+      "textSound": -1,
+      "textStringId": 60682
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 311,
+      "textLevel": 9,
+      "textProba": 0.3,
+      "textRestriction": "9233,12425",
+      "textSound": -1,
+      "textStringId": 60678
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 312,
+      "textLevel": 10,
+      "textProba": 0.8,
+      "textRestriction": "9233,12425",
+      "textSound": -1,
+      "textStringId": 60645
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 313,
+      "textLevel": 2,
+      "textProba": 0.2,
+      "textRestriction": "9233,12425",
+      "textSound": -1,
+      "textStringId": 60685
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 314,
+      "textLevel": 11,
+      "textProba": 0.4,
+      "textRestriction": "9233,12425",
+      "textSound": -1,
+      "textStringId": 60614
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 315,
+      "textLevel": 13,
+      "textProba": 0.2,
+      "textRestriction": "9233,12425",
+      "textSound": -1,
+      "textStringId": 60683
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 316,
+      "textLevel": 19,
+      "textProba": 0.7,
+      "textRestriction": "9233,12425",
+      "textSound": -1,
+      "textStringId": 60684
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 317,
+      "textLevel": 14,
+      "textProba": 0.5,
+      "textRestriction": "9233,12425",
+      "textSound": -1,
+      "textStringId": 60690
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 318,
+      "textLevel": 6,
+      "textProba": 0.8,
+      "textRestriction": "9233,12425",
+      "textSound": 3,
+      "textStringId": 60692
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 319,
+      "textLevel": 4,
+      "textProba": 0.7,
+      "textRestriction": "9233,12425",
+      "textSound": -1,
+      "textStringId": 60687
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 320,
+      "textLevel": 1,
+      "textProba": 0.4,
+      "textRestriction": "9233,12425",
+      "textSound": -1,
+      "textStringId": 60651
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 321,
+      "textLevel": 5,
+      "textProba": 0.2,
+      "textRestriction": "9233,12425",
+      "textSound": -1,
+      "textStringId": 60597
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 322,
+      "textLevel": 7,
+      "textProba": 0.2,
+      "textRestriction": "9233,12425",
+      "textSound": -1,
+      "textStringId": 60652
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 323,
+      "textLevel": 12,
+      "textProba": 0.4,
+      "textRestriction": "9233,12425",
+      "textSound": -1,
+      "textStringId": 60663
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 324,
+      "textLevel": 20,
+      "textProba": 0.2,
+      "textRestriction": "9233,12425",
+      "textSound": -1,
+      "textStringId": 60664
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 325,
+      "textLevel": 15,
+      "textProba": 0.3,
+      "textRestriction": "9233,12425",
+      "textSound": -1,
+      "textStringId": 60620
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 326,
+      "textLevel": 18,
+      "textProba": 1,
+      "textRestriction": "9233,12425",
+      "textSound": -1,
+      "textStringId": 60621
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 327,
+      "textLevel": 13,
+      "textProba": 0.2,
+      "textRestriction": "9233,12425",
+      "textSound": -1,
+      "textStringId": 60666
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 328,
+      "textLevel": 13,
+      "textProba": 0.4,
+      "textRestriction": "9233,12425",
+      "textSound": -1,
+      "textStringId": 60654
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 329,
+      "textLevel": 7,
+      "textProba": 1,
+      "textRestriction": "9233,12425",
+      "textSound": -1,
+      "textStringId": 60622
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 330,
+      "textLevel": 8,
+      "textProba": 1,
+      "textRestriction": "9233,12425",
+      "textSound": -1,
+      "textStringId": 60662
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 331,
+      "textLevel": 12,
+      "textProba": 0.5,
+      "textRestriction": "9233,12425",
+      "textSound": -1,
+      "textStringId": 208441
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 332,
+      "textLevel": 9,
+      "textProba": 0.4,
+      "textRestriction": "9233,12425",
+      "textSound": -1,
+      "textStringId": 60610
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 333,
+      "textLevel": 10,
+      "textProba": 0.6,
+      "textRestriction": "9233,12425",
+      "textSound": -1,
+      "textStringId": 60660
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 334,
+      "textLevel": 17,
+      "textProba": 1,
+      "textRestriction": "9233,12425",
+      "textSound": -1,
+      "textStringId": 60661
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 335,
+      "textLevel": 16,
+      "textProba": 0.8,
+      "textRestriction": "9233,12425",
+      "textSound": -1,
+      "textStringId": 60595
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 336,
+      "textLevel": 18,
+      "textProba": 0.5,
+      "textRestriction": "9233,12425",
+      "textSound": -1,
+      "textStringId": 60665
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 337,
+      "textLevel": 13,
+      "textProba": 0.3,
+      "textRestriction": "9233,12425",
+      "textSound": 2,
+      "textStringId": 60592
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 338,
+      "textLevel": 3,
+      "textProba": 0.2,
+      "textRestriction": "9233,12425",
+      "textSound": -1,
+      "textStringId": 60604
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 339,
+      "textLevel": 6,
+      "textProba": 0.4,
+      "textRestriction": "9234,12424",
+      "textSound": -1,
+      "textStringId": 60633
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 340,
+      "textLevel": 7,
+      "textProba": 0.5,
+      "textRestriction": "9234,12424",
+      "textSound": -1,
+      "textStringId": 60636
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 341,
+      "textLevel": 2,
+      "textProba": 0.2,
+      "textRestriction": "9234,12424",
+      "textSound": -1,
+      "textStringId": 60642
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 342,
+      "textLevel": 18,
+      "textProba": 0.3,
+      "textRestriction": "9234,12424",
+      "textSound": 3,
+      "textStringId": 202003
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 343,
+      "textLevel": 11,
+      "textProba": 0.5,
+      "textRestriction": "9234,12424",
+      "textSound": 3,
+      "textStringId": 60624
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 344,
+      "textLevel": 16,
+      "textProba": 0.5,
+      "textRestriction": "9234,12424",
+      "textSound": -1,
+      "textStringId": 217621
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 345,
+      "textLevel": 15,
+      "textProba": 0.3,
+      "textRestriction": "9234,12424",
+      "textSound": -1,
+      "textStringId": 60659
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 346,
+      "textLevel": 5,
+      "textProba": 0.4,
+      "textRestriction": "9234,12424",
+      "textSound": -1,
+      "textStringId": 60627
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 347,
+      "textLevel": 15,
+      "textProba": 0.8,
+      "textRestriction": "9234,12424",
+      "textSound": -1,
+      "textStringId": 60644
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 348,
+      "textLevel": 16,
+      "textProba": 0.5,
+      "textRestriction": "9234,12424",
+      "textSound": -1,
+      "textStringId": 60647
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 349,
+      "textLevel": 13,
+      "textProba": 0.2,
+      "textRestriction": "9234,12424",
+      "textSound": -1,
+      "textStringId": 60655
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 350,
+      "textLevel": 9,
+      "textProba": 0.5,
+      "textRestriction": "9234,12424",
+      "textSound": 2,
+      "textStringId": 60751
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 351,
+      "textLevel": 6,
+      "textProba": 0.2,
+      "textRestriction": "9234,12424",
+      "textSound": -1,
+      "textStringId": 60752
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 352,
+      "textLevel": 20,
+      "textProba": 0.4,
+      "textRestriction": "9234,12424",
+      "textSound": -1,
+      "textStringId": 60753
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 353,
+      "textLevel": 10,
+      "textProba": 0.6,
+      "textRestriction": "9234,12424",
+      "textSound": -1,
+      "textStringId": 60611
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 354,
+      "textLevel": 17,
+      "textProba": 0.2,
+      "textRestriction": "9234,12424",
+      "textSound": -1,
+      "textStringId": 60729
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 355,
+      "textLevel": 19,
+      "textProba": 0.1,
+      "textRestriction": "9234,12424",
+      "textSound": -1,
+      "textStringId": 60732
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 356,
+      "textLevel": 20,
+      "textProba": 0.1,
+      "textRestriction": "9234,12424",
+      "textSound": -1,
+      "textStringId": 60730
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 357,
+      "textLevel": 14,
+      "textProba": 0.3,
+      "textRestriction": "9234,12424",
+      "textSound": 1,
+      "textStringId": 60724
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 358,
+      "textLevel": 5,
+      "textProba": 0.2,
+      "textRestriction": "9234,12424",
+      "textSound": -1,
+      "textStringId": 60722
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 359,
+      "textLevel": 10,
+      "textProba": 0.4,
+      "textRestriction": "9234,12424",
+      "textSound": -1,
+      "textStringId": 60727
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 360,
+      "textLevel": 8,
+      "textProba": 1,
+      "textRestriction": "9234,12424",
+      "textSound": -1,
+      "textStringId": 60769
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 361,
+      "textLevel": 4,
+      "textProba": 0.6,
+      "textRestriction": "9234,12424",
+      "textSound": -1,
+      "textStringId": 60770
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 362,
+      "textLevel": 11,
+      "textProba": 0.3,
+      "textRestriction": "9234,12424",
+      "textSound": -1,
+      "textStringId": 60766
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 363,
+      "textLevel": 12,
+      "textProba": 0.2,
+      "textRestriction": "9234,12424",
+      "textSound": -1,
+      "textStringId": 60768
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 364,
+      "textLevel": 1,
+      "textProba": 0.1,
+      "textRestriction": "9234,12424",
+      "textSound": -1,
+      "textStringId": 60765
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 365,
+      "textLevel": 3,
+      "textProba": 0.2,
+      "textRestriction": "9234,12424",
+      "textSound": -1,
+      "textStringId": 60764
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 366,
+      "textLevel": 8,
+      "textProba": 0.2,
+      "textRestriction": "9234,12424",
+      "textSound": -1,
+      "textStringId": 60761
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 367,
+      "textLevel": 7,
+      "textProba": 0.3,
+      "textRestriction": "9234,12424",
+      "textSound": -1,
+      "textStringId": 60609
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 369,
+      "textLevel": 1,
+      "textProba": 10,
+      "textRestriction": "8676",
+      "textSound": -1,
+      "textStringId": 94566
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 370,
+      "textLevel": 1,
+      "textProba": 10,
+      "textRestriction": "8676",
+      "textSound": -1,
+      "textStringId": 94572
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 371,
+      "textLevel": 1,
+      "textProba": 10,
+      "textRestriction": "8676",
+      "textSound": -1,
+      "textStringId": 94573
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 372,
+      "textLevel": 1,
+      "textProba": 10,
+      "textRestriction": "8676",
+      "textSound": -1,
+      "textStringId": 94574
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 373,
+      "textLevel": 1,
+      "textProba": 10,
+      "textRestriction": "8676",
+      "textSound": -1,
+      "textStringId": 94576
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 374,
+      "textLevel": 1,
+      "textProba": 10,
+      "textRestriction": "8676",
+      "textSound": -1,
+      "textStringId": 94578
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 375,
+      "textLevel": 1,
+      "textProba": 10,
+      "textRestriction": "8676",
+      "textSound": -1,
+      "textStringId": 94565
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 376,
+      "textLevel": 1,
+      "textProba": 10,
+      "textRestriction": "8676",
+      "textSound": -1,
+      "textStringId": 94564
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 377,
+      "textLevel": 1,
+      "textProba": 10,
+      "textRestriction": "8676",
+      "textSound": -1,
+      "textStringId": 94568
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 378,
+      "textLevel": 1,
+      "textProba": 10,
+      "textRestriction": "8676",
+      "textSound": -1,
+      "textStringId": 94567
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 379,
+      "textLevel": 1,
+      "textProba": 10,
+      "textRestriction": "8676",
+      "textSound": -1,
+      "textStringId": 94569
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 380,
+      "textLevel": 1,
+      "textProba": 10,
+      "textRestriction": "8676",
+      "textSound": -1,
+      "textStringId": 94570
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 381,
+      "textLevel": 1,
+      "textProba": 10,
+      "textRestriction": "8676",
+      "textSound": -1,
+      "textStringId": 94571
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 382,
+      "textLevel": 1,
+      "textProba": 10,
+      "textRestriction": "8676",
+      "textSound": -1,
+      "textStringId": 94575
+    },
+    {
+      "ClassType_": "SpeakingItemText",
+      "textId": 383,
+      "textLevel": 1,
+      "textProba": 10,
+      "textRestriction": "8676",
+      "textSound": -1,
+      "textStringId": 94577
+    }
+  ]
+}

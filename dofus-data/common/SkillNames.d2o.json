@@ -1,0 +1,1265 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.interactives",
+      "packageClass": "SkillName",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "nameId",
+          "type": "I18n"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "SkillName",
+      "id": 2,
+      "nameId": 588696
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 3,
+      "nameId": 595419
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 4,
+      "nameId": 595417
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 5,
+      "nameId": 595418
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 6,
+      "nameId": 595422
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 7,
+      "nameId": 595425
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 8,
+      "nameId": 595420
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 9,
+      "nameId": 595421
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 10,
+      "nameId": 595423
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 11,
+      "nameId": 595428
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 12,
+      "nameId": 595427
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 13,
+      "nameId": 595430
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 14,
+      "nameId": 595429
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 15,
+      "nameId": 595432
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 16,
+      "nameId": 595431
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 17,
+      "nameId": 595434
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 18,
+      "nameId": 595433
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 19,
+      "nameId": 595416
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 20,
+      "nameId": 595426
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 21,
+      "nameId": 595424
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 22,
+      "nameId": 649746
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 23,
+      "nameId": 649745
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 24,
+      "nameId": 1005540
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 25,
+      "nameId": 1005541
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 26,
+      "nameId": 1005543
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 27,
+      "nameId": 1005544
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 28,
+      "nameId": 1005545
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 29,
+      "nameId": 1005546
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 30,
+      "nameId": 1005542
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 31,
+      "nameId": 1005547
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 32,
+      "nameId": 1005548
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 33,
+      "nameId": 1005549
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 34,
+      "nameId": 1005550
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 35,
+      "nameId": 1005551
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 36,
+      "nameId": 1005553
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 37,
+      "nameId": 733507
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 38,
+      "nameId": 733514
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 39,
+      "nameId": 733527
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 40,
+      "nameId": 733528
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 41,
+      "nameId": 733529
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 42,
+      "nameId": 733530
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 43,
+      "nameId": 733531
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 44,
+      "nameId": 1005554
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 45,
+      "nameId": 1005555
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 46,
+      "nameId": 742107
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 47,
+      "nameId": 744225
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 48,
+      "nameId": 744226
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 49,
+      "nameId": 744366
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 50,
+      "nameId": 753069
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 51,
+      "nameId": 754775
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 52,
+      "nameId": 1005556
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 53,
+      "nameId": 1005552
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 54,
+      "nameId": 792506
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 55,
+      "nameId": 796117
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 56,
+      "nameId": 796160
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 57,
+      "nameId": 803574
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 58,
+      "nameId": 803941
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 59,
+      "nameId": 804184
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 60,
+      "nameId": 805597
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 61,
+      "nameId": 805023
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 62,
+      "nameId": 805024
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 63,
+      "nameId": 805025
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 64,
+      "nameId": 805026
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 65,
+      "nameId": 805027
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 66,
+      "nameId": 805028
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 67,
+      "nameId": 805029
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 68,
+      "nameId": 805030
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 69,
+      "nameId": 805031
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 70,
+      "nameId": 805032
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 71,
+      "nameId": 805040
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 72,
+      "nameId": 805051
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 73,
+      "nameId": 806015
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 74,
+      "nameId": 806016
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 75,
+      "nameId": 808270
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 76,
+      "nameId": 809548
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 77,
+      "nameId": 819951
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 78,
+      "nameId": 821741
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 79,
+      "nameId": 820353
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 80,
+      "nameId": 820531
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 81,
+      "nameId": 820572
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 82,
+      "nameId": 820585
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 83,
+      "nameId": 820650
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 84,
+      "nameId": 821891
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 85,
+      "nameId": 822957
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 86,
+      "nameId": 821504
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 87,
+      "nameId": 821895
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 88,
+      "nameId": 821896
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 89,
+      "nameId": 821897
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 90,
+      "nameId": 821898
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 91,
+      "nameId": 822010
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 92,
+      "nameId": 822118
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 93,
+      "nameId": 822464
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 94,
+      "nameId": 823473
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 95,
+      "nameId": 824513
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 96,
+      "nameId": 842197
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 97,
+      "nameId": 825525
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 98,
+      "nameId": 827921
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 99,
+      "nameId": 840326
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 100,
+      "nameId": 843206
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 101,
+      "nameId": 843209
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 102,
+      "nameId": 843217
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 103,
+      "nameId": 844758
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 104,
+      "nameId": 845569
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 105,
+      "nameId": 846338
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 106,
+      "nameId": 846339
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 107,
+      "nameId": 846591
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 108,
+      "nameId": 846601
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 110,
+      "nameId": 846644
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 111,
+      "nameId": 846944
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 112,
+      "nameId": 847095
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 113,
+      "nameId": 847431
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 114,
+      "nameId": 848997
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 115,
+      "nameId": 849035
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 116,
+      "nameId": 849042
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 117,
+      "nameId": 856127
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 118,
+      "nameId": 874230
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 120,
+      "nameId": 877983
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 121,
+      "nameId": 877987
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 122,
+      "nameId": 877995
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 123,
+      "nameId": 877996
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 124,
+      "nameId": 877997
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 125,
+      "nameId": 878271
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 126,
+      "nameId": 878272
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 127,
+      "nameId": 878274
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 128,
+      "nameId": 878343
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 129,
+      "nameId": 878351
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 130,
+      "nameId": 878375
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 131,
+      "nameId": 879349
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 132,
+      "nameId": 879350
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 133,
+      "nameId": 880487
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 134,
+      "nameId": 880484
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 135,
+      "nameId": 880486
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 136,
+      "nameId": 888470
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 137,
+      "nameId": 897358
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 138,
+      "nameId": 900224
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 139,
+      "nameId": 900761
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 140,
+      "nameId": 922732
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 141,
+      "nameId": 922731
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 142,
+      "nameId": 922730
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 143,
+      "nameId": 922729
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 144,
+      "nameId": 922727
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 145,
+      "nameId": 922726
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 146,
+      "nameId": 922725
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 147,
+      "nameId": 922724
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 148,
+      "nameId": 922728
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 149,
+      "nameId": 922723
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 150,
+      "nameId": 922722
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 151,
+      "nameId": 923115
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 152,
+      "nameId": 921939
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 153,
+      "nameId": 921940
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 154,
+      "nameId": 921941
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 155,
+      "nameId": 921942
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 156,
+      "nameId": 921943
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 157,
+      "nameId": 921944
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 158,
+      "nameId": 921945
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 159,
+      "nameId": 921946
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 160,
+      "nameId": 921947
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 161,
+      "nameId": 921948
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 162,
+      "nameId": 921955
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 163,
+      "nameId": 921956
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 164,
+      "nameId": 921957
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 165,
+      "nameId": 922313
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 166,
+      "nameId": 922314
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 167,
+      "nameId": 922315
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 168,
+      "nameId": 925006
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 169,
+      "nameId": 925011
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 170,
+      "nameId": 926765
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 171,
+      "nameId": 928356
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 172,
+      "nameId": 928357
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 173,
+      "nameId": 928358
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 174,
+      "nameId": 928359
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 175,
+      "nameId": 928373
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 176,
+      "nameId": 928380
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 177,
+      "nameId": 928402
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 178,
+      "nameId": 928401
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 179,
+      "nameId": 928381
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 180,
+      "nameId": 928378
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 181,
+      "nameId": 964132
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 182,
+      "nameId": 964133
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 183,
+      "nameId": 964134
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 184,
+      "nameId": 964135
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 185,
+      "nameId": 964136
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 186,
+      "nameId": 964137
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 187,
+      "nameId": 964139
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 188,
+      "nameId": 964140
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 189,
+      "nameId": 964142
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 190,
+      "nameId": 964144
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 191,
+      "nameId": 986163
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 192,
+      "nameId": 980828
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 193,
+      "nameId": 1005678
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 195,
+      "nameId": 1005692
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 197,
+      "nameId": 1005693
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 199,
+      "nameId": 1005830
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 201,
+      "nameId": 1005832
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 203,
+      "nameId": 1005831
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 205,
+      "nameId": 1005835
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 207,
+      "nameId": 1005679
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 209,
+      "nameId": 1005694
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 211,
+      "nameId": 1005836
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 213,
+      "nameId": 1005721
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 215,
+      "nameId": 1005695
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 217,
+      "nameId": 1005837
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 219,
+      "nameId": 1005833
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 221,
+      "nameId": 1005696
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 223,
+      "nameId": 1005834
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 225,
+      "nameId": 1005838
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 227,
+      "nameId": 1005682
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 229,
+      "nameId": 1005840
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 231,
+      "nameId": 1005683
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 233,
+      "nameId": 1005697
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 235,
+      "nameId": 1005710
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 237,
+      "nameId": 1006236
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 239,
+      "nameId": 1005687
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 241,
+      "nameId": 1005698
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 243,
+      "nameId": 1005711
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 245,
+      "nameId": 1005712
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 247,
+      "nameId": 1005688
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 249,
+      "nameId": 1005699
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 251,
+      "nameId": 1005713
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 253,
+      "nameId": 1005689
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 255,
+      "nameId": 1005701
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 257,
+      "nameId": 1005714
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 259,
+      "nameId": 1005690
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 261,
+      "nameId": 1005702
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 263,
+      "nameId": 1005715
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 265,
+      "nameId": 1006789
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 267,
+      "nameId": 1005703
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 269,
+      "nameId": 1005839
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 271,
+      "nameId": 1005704
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 275,
+      "nameId": 1005643
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 276,
+      "nameId": 1005644
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 277,
+      "nameId": 1005645
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 278,
+      "nameId": 1005646
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 279,
+      "nameId": 1005647
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 280,
+      "nameId": 1005648
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 281,
+      "nameId": 1005649
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 282,
+      "nameId": 1005650
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 283,
+      "nameId": 1005651
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 284,
+      "nameId": 1005652
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 285,
+      "nameId": 1005653
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 286,
+      "nameId": 1005654
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 287,
+      "nameId": 1044462
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 288,
+      "nameId": 1051409
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 289,
+      "nameId": 1051410
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 290,
+      "nameId": 1051528
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 291,
+      "nameId": 1068561
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 292,
+      "nameId": 1068562
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 293,
+      "nameId": 1068563
+    },
+    {
+      "ClassType_": "SkillName",
+      "id": 294,
+      "nameId": 1068564
+    }
+  ]
+}

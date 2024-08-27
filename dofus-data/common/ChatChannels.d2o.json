@@ -1,0 +1,200 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.communication",
+      "packageClass": "ChatChannel",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "nameId",
+          "type": "I18n"
+        },
+        {
+          "name": "descriptionId",
+          "type": "I18n"
+        },
+        {
+          "name": "shortcut",
+          "type": "String"
+        },
+        {
+          "name": "shortcutKey",
+          "type": "String"
+        },
+        {
+          "name": "isPrivate",
+          "type": "Boolean"
+        },
+        {
+          "name": "allowObjects",
+          "type": "Boolean"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "ChatChannel",
+      "allowObjects": false,
+      "descriptionId": 810,
+      "id": 0,
+      "isPrivate": false,
+      "nameId": 809,
+      "shortcut": "/s",
+      "shortcutKey": "toggleChannelGlobal"
+    },
+    {
+      "ClassType_": "ChatChannel",
+      "allowObjects": true,
+      "descriptionId": 392559,
+      "id": 1,
+      "isPrivate": false,
+      "nameId": 811,
+      "shortcut": "/t",
+      "shortcutKey": "toggleChannelTeam"
+    },
+    {
+      "ClassType_": "ChatChannel",
+      "allowObjects": true,
+      "descriptionId": 822,
+      "id": 2,
+      "isPrivate": false,
+      "nameId": 821,
+      "shortcut": "/g",
+      "shortcutKey": "toggleChannelGuild"
+    },
+    {
+      "ClassType_": "ChatChannel",
+      "allowObjects": false,
+      "descriptionId": 261953,
+      "id": 3,
+      "isPrivate": false,
+      "nameId": 261952,
+      "shortcut": "/a",
+      "shortcutKey": "toggleChannelAlliance"
+    },
+    {
+      "ClassType_": "ChatChannel",
+      "allowObjects": true,
+      "descriptionId": 392567,
+      "id": 4,
+      "isPrivate": false,
+      "nameId": 808,
+      "shortcut": "/p",
+      "shortcutKey": "toggleChannelParty"
+    },
+    {
+      "ClassType_": "ChatChannel",
+      "allowObjects": true,
+      "descriptionId": 803,
+      "id": 5,
+      "isPrivate": false,
+      "nameId": 802,
+      "shortcut": "/b",
+      "shortcutKey": "toggleChannelSales"
+    },
+    {
+      "ClassType_": "ChatChannel",
+      "allowObjects": false,
+      "descriptionId": 820,
+      "id": 6,
+      "isPrivate": false,
+      "nameId": 819,
+      "shortcut": "/r",
+      "shortcutKey": "toggleChannelSeek"
+    },
+    {
+      "ClassType_": "ChatChannel",
+      "allowObjects": false,
+      "descriptionId": 815,
+      "id": 7,
+      "isPrivate": false,
+      "nameId": 814,
+      "shortcut": "/i",
+      "shortcutKey": "null"
+    },
+    {
+      "ClassType_": "ChatChannel",
+      "allowObjects": true,
+      "descriptionId": 392569,
+      "id": 8,
+      "isPrivate": false,
+      "nameId": 804,
+      "shortcut": "/q",
+      "shortcutKey": "null"
+    },
+    {
+      "ClassType_": "ChatChannel",
+      "allowObjects": true,
+      "descriptionId": 392571,
+      "id": 9,
+      "isPrivate": true,
+      "nameId": 806,
+      "shortcut": "/w",
+      "shortcutKey": "null"
+    },
+    {
+      "ClassType_": "ChatChannel",
+      "allowObjects": true,
+      "descriptionId": 392563,
+      "id": 10,
+      "isPrivate": true,
+      "nameId": 807,
+      "shortcut": "null",
+      "shortcutKey": "null"
+    },
+    {
+      "ClassType_": "ChatChannel",
+      "allowObjects": true,
+      "descriptionId": 392561,
+      "id": 11,
+      "isPrivate": true,
+      "nameId": 805,
+      "shortcut": "null",
+      "shortcutKey": "toggleChannelFight"
+    },
+    {
+      "ClassType_": "ChatChannel",
+      "allowObjects": true,
+      "descriptionId": 818,
+      "id": 12,
+      "isPrivate": false,
+      "nameId": 817,
+      "shortcut": "null",
+      "shortcutKey": "toggleChannelAds"
+    },
+    {
+      "ClassType_": "ChatChannel",
+      "allowObjects": true,
+      "descriptionId": 392565,
+      "id": 13,
+      "isPrivate": false,
+      "nameId": 816,
+      "shortcut": "/k",
+      "shortcutKey": "toggleChannelArena"
+    },
+    {
+      "ClassType_": "ChatChannel",
+      "allowObjects": false,
+      "descriptionId": 721419,
+      "id": 14,
+      "isPrivate": false,
+      "nameId": 721410,
+      "shortcut": "/c",
+      "shortcutKey": "toggleChannelCommunity"
+    },
+    {
+      "ClassType_": "ChatChannel",
+      "allowObjects": false,
+      "descriptionId": 1059623,
+      "id": 15,
+      "isPrivate": false,
+      "nameId": 1059617,
+      "shortcut": "",
+      "shortcutKey": ""
+    }
+  ]
+}

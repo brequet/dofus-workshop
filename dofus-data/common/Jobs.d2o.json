@@ -1,0 +1,182 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.jobs",
+      "packageClass": "Job",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "nameId",
+          "type": "I18n"
+        },
+        {
+          "name": "iconId",
+          "type": "Integer"
+        },
+        {
+          "name": "hasLegendaryCraft",
+          "type": "Boolean"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "Job",
+      "hasLegendaryCraft": false,
+      "iconId": -1,
+      "id": 1,
+      "nameId": 2736
+    },
+    {
+      "ClassType_": "Job",
+      "hasLegendaryCraft": false,
+      "iconId": 1,
+      "id": 2,
+      "nameId": 2706
+    },
+    {
+      "ClassType_": "Job",
+      "hasLegendaryCraft": true,
+      "iconId": 10,
+      "id": 11,
+      "nameId": 524455
+    },
+    {
+      "ClassType_": "Job",
+      "hasLegendaryCraft": true,
+      "iconId": 6,
+      "id": 13,
+      "nameId": 523974
+    },
+    {
+      "ClassType_": "Job",
+      "hasLegendaryCraft": true,
+      "iconId": 5,
+      "id": 15,
+      "nameId": 2752
+    },
+    {
+      "ClassType_": "Job",
+      "hasLegendaryCraft": false,
+      "iconId": 15,
+      "id": 16,
+      "nameId": 2740
+    },
+    {
+      "ClassType_": "Job",
+      "hasLegendaryCraft": false,
+      "iconId": 13,
+      "id": 24,
+      "nameId": 2703
+    },
+    {
+      "ClassType_": "Job",
+      "hasLegendaryCraft": false,
+      "iconId": 14,
+      "id": 26,
+      "nameId": 2770
+    },
+    {
+      "ClassType_": "Job",
+      "hasLegendaryCraft": true,
+      "iconId": 20,
+      "id": 27,
+      "nameId": 2718
+    },
+    {
+      "ClassType_": "Job",
+      "hasLegendaryCraft": false,
+      "iconId": 18,
+      "id": 28,
+      "nameId": 2758
+    },
+    {
+      "ClassType_": "Job",
+      "hasLegendaryCraft": false,
+      "iconId": 30,
+      "id": 36,
+      "nameId": 2785
+    },
+    {
+      "ClassType_": "Job",
+      "hasLegendaryCraft": false,
+      "iconId": 32,
+      "id": 41,
+      "nameId": 2733
+    },
+    {
+      "ClassType_": "Job",
+      "hasLegendaryCraft": false,
+      "iconId": 24,
+      "id": 44,
+      "nameId": 523971
+    },
+    {
+      "ClassType_": "Job",
+      "hasLegendaryCraft": false,
+      "iconId": 28,
+      "id": 48,
+      "nameId": 523973
+    },
+    {
+      "ClassType_": "Job",
+      "hasLegendaryCraft": true,
+      "iconId": 40,
+      "id": 60,
+      "nameId": 523972
+    },
+    {
+      "ClassType_": "Job",
+      "hasLegendaryCraft": false,
+      "iconId": 36,
+      "id": 62,
+      "nameId": 2782
+    },
+    {
+      "ClassType_": "Job",
+      "hasLegendaryCraft": false,
+      "iconId": 37,
+      "id": 63,
+      "nameId": 2779
+    },
+    {
+      "ClassType_": "Job",
+      "hasLegendaryCraft": false,
+      "iconId": 35,
+      "id": 64,
+      "nameId": 2776
+    },
+    {
+      "ClassType_": "Job",
+      "hasLegendaryCraft": false,
+      "iconId": 34,
+      "id": 65,
+      "nameId": 2700
+    },
+    {
+      "ClassType_": "Job",
+      "hasLegendaryCraft": false,
+      "iconId": 41,
+      "id": 74,
+      "nameId": 721512
+    },
+    {
+      "ClassType_": "Job",
+      "hasLegendaryCraft": false,
+      "iconId": 42,
+      "id": 75,
+      "nameId": 836222
+    },
+    {
+      "ClassType_": "Job",
+      "hasLegendaryCraft": false,
+      "iconId": 42,
+      "id": 78,
+      "nameId": 951966
+    }
+  ]
+}

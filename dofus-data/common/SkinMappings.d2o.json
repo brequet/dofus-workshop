@@ -1,0 +1,210 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.appearance",
+      "packageClass": "SkinMapping",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "lowDefId",
+          "type": "Integer"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "SkinMapping",
+      "id": 10,
+      "lowDefId": 1375
+    },
+    {
+      "ClassType_": "SkinMapping",
+      "id": 11,
+      "lowDefId": 1376
+    },
+    {
+      "ClassType_": "SkinMapping",
+      "id": 20,
+      "lowDefId": 1377
+    },
+    {
+      "ClassType_": "SkinMapping",
+      "id": 21,
+      "lowDefId": 1378
+    },
+    {
+      "ClassType_": "SkinMapping",
+      "id": 30,
+      "lowDefId": 1379
+    },
+    {
+      "ClassType_": "SkinMapping",
+      "id": 31,
+      "lowDefId": 1380
+    },
+    {
+      "ClassType_": "SkinMapping",
+      "id": 40,
+      "lowDefId": 1381
+    },
+    {
+      "ClassType_": "SkinMapping",
+      "id": 41,
+      "lowDefId": 1382
+    },
+    {
+      "ClassType_": "SkinMapping",
+      "id": 50,
+      "lowDefId": 1383
+    },
+    {
+      "ClassType_": "SkinMapping",
+      "id": 51,
+      "lowDefId": 1384
+    },
+    {
+      "ClassType_": "SkinMapping",
+      "id": 60,
+      "lowDefId": 1385
+    },
+    {
+      "ClassType_": "SkinMapping",
+      "id": 61,
+      "lowDefId": 1386
+    },
+    {
+      "ClassType_": "SkinMapping",
+      "id": 70,
+      "lowDefId": 1387
+    },
+    {
+      "ClassType_": "SkinMapping",
+      "id": 71,
+      "lowDefId": 1388
+    },
+    {
+      "ClassType_": "SkinMapping",
+      "id": 80,
+      "lowDefId": 1389
+    },
+    {
+      "ClassType_": "SkinMapping",
+      "id": 81,
+      "lowDefId": 1390
+    },
+    {
+      "ClassType_": "SkinMapping",
+      "id": 90,
+      "lowDefId": 1391
+    },
+    {
+      "ClassType_": "SkinMapping",
+      "id": 91,
+      "lowDefId": 1392
+    },
+    {
+      "ClassType_": "SkinMapping",
+      "id": 100,
+      "lowDefId": 1393
+    },
+    {
+      "ClassType_": "SkinMapping",
+      "id": 101,
+      "lowDefId": 1394
+    },
+    {
+      "ClassType_": "SkinMapping",
+      "id": 110,
+      "lowDefId": 1395
+    },
+    {
+      "ClassType_": "SkinMapping",
+      "id": 111,
+      "lowDefId": 1396
+    },
+    {
+      "ClassType_": "SkinMapping",
+      "id": 120,
+      "lowDefId": 1397
+    },
+    {
+      "ClassType_": "SkinMapping",
+      "id": 121,
+      "lowDefId": 1398
+    },
+    {
+      "ClassType_": "SkinMapping",
+      "id": 1405,
+      "lowDefId": 1409
+    },
+    {
+      "ClassType_": "SkinMapping",
+      "id": 1407,
+      "lowDefId": 1410
+    },
+    {
+      "ClassType_": "SkinMapping",
+      "id": 1437,
+      "lowDefId": 1439
+    },
+    {
+      "ClassType_": "SkinMapping",
+      "id": 1438,
+      "lowDefId": 1440
+    },
+    {
+      "ClassType_": "SkinMapping",
+      "id": 1663,
+      "lowDefId": 1728
+    },
+    {
+      "ClassType_": "SkinMapping",
+      "id": 1664,
+      "lowDefId": 1729
+    },
+    {
+      "ClassType_": "SkinMapping",
+      "id": 3179,
+      "lowDefId": 3181
+    },
+    {
+      "ClassType_": "SkinMapping",
+      "id": 3180,
+      "lowDefId": 3182
+    },
+    {
+      "ClassType_": "SkinMapping",
+      "id": 3221,
+      "lowDefId": 4833
+    },
+    {
+      "ClassType_": "SkinMapping",
+      "id": 3285,
+      "lowDefId": 3287
+    },
+    {
+      "ClassType_": "SkinMapping",
+      "id": 3286,
+      "lowDefId": 3288
+    },
+    {
+      "ClassType_": "SkinMapping",
+      "id": 3498,
+      "lowDefId": 3542
+    },
+    {
+      "ClassType_": "SkinMapping",
+      "id": 3499,
+      "lowDefId": 3543
+    },
+    {
+      "ClassType_": "SkinMapping",
+      "id": 3633,
+      "lowDefId": 4834
+    }
+  ]
+}

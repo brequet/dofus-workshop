@@ -1,0 +1,216 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.alterations",
+      "packageClass": "AlterationCategory",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "nameId",
+          "type": "I18n"
+        },
+        {
+          "name": "parentId",
+          "type": "Integer"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "AlterationCategory",
+      "id": 17,
+      "nameId": 959076,
+      "parentId": 0
+    },
+    {
+      "ClassType_": "AlterationCategory",
+      "id": 10,
+      "nameId": 959077,
+      "parentId": 17
+    },
+    {
+      "ClassType_": "AlterationCategory",
+      "id": 20,
+      "nameId": 962753,
+      "parentId": 17
+    },
+    {
+      "ClassType_": "AlterationCategory",
+      "id": 21,
+      "nameId": 962848,
+      "parentId": 17
+    },
+    {
+      "ClassType_": "AlterationCategory",
+      "id": 22,
+      "nameId": 962926,
+      "parentId": 17
+    },
+    {
+      "ClassType_": "AlterationCategory",
+      "id": 23,
+      "nameId": 974582,
+      "parentId": 0
+    },
+    {
+      "ClassType_": "AlterationCategory",
+      "id": 24,
+      "nameId": 988927,
+      "parentId": 0
+    },
+    {
+      "ClassType_": "AlterationCategory",
+      "id": 31,
+      "nameId": 1008380,
+      "parentId": 17
+    },
+    {
+      "ClassType_": "AlterationCategory",
+      "id": 9,
+      "nameId": 952927,
+      "parentId": 33
+    },
+    {
+      "ClassType_": "AlterationCategory",
+      "id": 13,
+      "nameId": 953059,
+      "parentId": 33
+    },
+    {
+      "ClassType_": "AlterationCategory",
+      "id": 12,
+      "nameId": 953057,
+      "parentId": 33
+    },
+    {
+      "ClassType_": "AlterationCategory",
+      "id": 11,
+      "nameId": 953055,
+      "parentId": 33
+    },
+    {
+      "ClassType_": "AlterationCategory",
+      "id": 14,
+      "nameId": 958992,
+      "parentId": 33
+    },
+    {
+      "ClassType_": "AlterationCategory",
+      "id": 35,
+      "nameId": 1035230,
+      "parentId": 33
+    },
+    {
+      "ClassType_": "AlterationCategory",
+      "id": 19,
+      "nameId": 1043214,
+      "parentId": 17
+    },
+    {
+      "ClassType_": "AlterationCategory",
+      "id": 36,
+      "nameId": 1043215,
+      "parentId": 19
+    },
+    {
+      "ClassType_": "AlterationCategory",
+      "id": 7,
+      "nameId": 1043819,
+      "parentId": 0
+    },
+    {
+      "ClassType_": "AlterationCategory",
+      "id": 33,
+      "nameId": 1043820,
+      "parentId": 7
+    },
+    {
+      "ClassType_": "AlterationCategory",
+      "id": 37,
+      "nameId": 1048096,
+      "parentId": 23
+    },
+    {
+      "ClassType_": "AlterationCategory",
+      "id": 38,
+      "nameId": 1052175,
+      "parentId": 19
+    },
+    {
+      "ClassType_": "AlterationCategory",
+      "id": 42,
+      "nameId": 1063878,
+      "parentId": 0
+    },
+    {
+      "ClassType_": "AlterationCategory",
+      "id": 41,
+      "nameId": 1064663,
+      "parentId": 19
+    },
+    {
+      "ClassType_": "AlterationCategory",
+      "id": 43,
+      "nameId": 1065079,
+      "parentId": 19
+    },
+    {
+      "ClassType_": "AlterationCategory",
+      "id": 44,
+      "nameId": 1065845,
+      "parentId": 0
+    },
+    {
+      "ClassType_": "AlterationCategory",
+      "id": 45,
+      "nameId": 1065848,
+      "parentId": 44
+    },
+    {
+      "ClassType_": "AlterationCategory",
+      "id": 46,
+      "nameId": 1066633,
+      "parentId": 44
+    },
+    {
+      "ClassType_": "AlterationCategory",
+      "id": 48,
+      "nameId": 1077491,
+      "parentId": 0
+    },
+    {
+      "ClassType_": "AlterationCategory",
+      "id": 49,
+      "nameId": 1077489,
+      "parentId": 47
+    },
+    {
+      "ClassType_": "AlterationCategory",
+      "id": 50,
+      "nameId": 1077494,
+      "parentId": 48
+    },
+    {
+      "ClassType_": "AlterationCategory",
+      "id": 39,
+      "nameId": 1054165,
+      "parentId": 47
+    },
+    {
+      "ClassType_": "AlterationCategory",
+      "id": 40,
+      "nameId": 1054166,
+      "parentId": 39
+    },
+    {
+      "ClassType_": "AlterationCategory",
+      "id": 47,
+      "nameId": 1077490,
+      "parentId": 0
+    }
+  ]
+}

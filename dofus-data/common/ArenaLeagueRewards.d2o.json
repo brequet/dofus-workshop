@@ -1,0 +1,8496 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.arena",
+      "packageClass": "ArenaLeagueReward",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "seasonId",
+          "type": "Integer"
+        },
+        {
+          "name": "leagueId",
+          "type": "Integer"
+        },
+        {
+          "name": "titlesRewards",
+          "type": "Vector",
+          "subtype": {
+            "name": "Vector.\u003cuint\u003e",
+            "type": "UnsignedInteger"
+          }
+        },
+        {
+          "name": "endSeasonRewards",
+          "type": "Boolean"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 285,
+      "leagueId": 6,
+      "seasonId": 8,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 286,
+      "leagueId": 7,
+      "seasonId": 8,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 287,
+      "leagueId": 8,
+      "seasonId": 8,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 288,
+      "leagueId": 9,
+      "seasonId": 8,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 289,
+      "leagueId": 10,
+      "seasonId": 8,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 290,
+      "leagueId": 11,
+      "seasonId": 8,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 291,
+      "leagueId": 12,
+      "seasonId": 8,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 292,
+      "leagueId": 13,
+      "seasonId": 8,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 293,
+      "leagueId": 14,
+      "seasonId": 8,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 294,
+      "leagueId": 15,
+      "seasonId": 8,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 295,
+      "leagueId": 16,
+      "seasonId": 8,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 296,
+      "leagueId": 17,
+      "seasonId": 8,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 297,
+      "leagueId": 18,
+      "seasonId": 8,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 298,
+      "leagueId": 20,
+      "seasonId": 8,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 299,
+      "leagueId": 21,
+      "seasonId": 8,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 300,
+      "leagueId": 22,
+      "seasonId": 8,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 301,
+      "leagueId": 23,
+      "seasonId": 8,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 302,
+      "leagueId": 24,
+      "seasonId": 8,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 303,
+      "leagueId": 25,
+      "seasonId": 8,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 304,
+      "leagueId": 26,
+      "seasonId": 8,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 305,
+      "leagueId": 27,
+      "seasonId": 8,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 306,
+      "leagueId": 28,
+      "seasonId": 8,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 307,
+      "leagueId": 29,
+      "seasonId": 8,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 308,
+      "leagueId": 30,
+      "seasonId": 8,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 309,
+      "leagueId": 31,
+      "seasonId": 8,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 310,
+      "leagueId": 32,
+      "seasonId": 8,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 311,
+      "leagueId": 33,
+      "seasonId": 8,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 312,
+      "leagueId": 34,
+      "seasonId": 8,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 313,
+      "leagueId": 48,
+      "seasonId": 8,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 314,
+      "leagueId": 35,
+      "seasonId": 8,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 315,
+      "leagueId": 36,
+      "seasonId": 8,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 316,
+      "leagueId": 37,
+      "seasonId": 8,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 317,
+      "leagueId": 38,
+      "seasonId": 8,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 31,
+      "leagueId": 6,
+      "seasonId": 1,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 33,
+      "leagueId": 7,
+      "seasonId": 1,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 34,
+      "leagueId": 8,
+      "seasonId": 1,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 35,
+      "leagueId": 9,
+      "seasonId": 1,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 36,
+      "leagueId": 10,
+      "seasonId": 1,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 37,
+      "leagueId": 11,
+      "seasonId": 1,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 38,
+      "leagueId": 12,
+      "seasonId": 1,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 39,
+      "leagueId": 13,
+      "seasonId": 1,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 40,
+      "leagueId": 14,
+      "seasonId": 1,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 41,
+      "leagueId": 15,
+      "seasonId": 1,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 42,
+      "leagueId": 16,
+      "seasonId": 1,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 43,
+      "leagueId": 17,
+      "seasonId": 1,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 44,
+      "leagueId": 18,
+      "seasonId": 1,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 45,
+      "leagueId": 20,
+      "seasonId": 1,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 46,
+      "leagueId": 21,
+      "seasonId": 1,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 47,
+      "leagueId": 22,
+      "seasonId": 1,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 48,
+      "leagueId": 23,
+      "seasonId": 1,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 49,
+      "leagueId": 24,
+      "seasonId": 1,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 50,
+      "leagueId": 25,
+      "seasonId": 1,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 51,
+      "leagueId": 26,
+      "seasonId": 1,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 52,
+      "leagueId": 27,
+      "seasonId": 1,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 53,
+      "leagueId": 28,
+      "seasonId": 1,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 54,
+      "leagueId": 29,
+      "seasonId": 1,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 55,
+      "leagueId": 30,
+      "seasonId": 1,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 56,
+      "leagueId": 31,
+      "seasonId": 1,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 57,
+      "leagueId": 32,
+      "seasonId": 1,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 58,
+      "leagueId": 33,
+      "seasonId": 1,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 59,
+      "leagueId": 34,
+      "seasonId": 1,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 60,
+      "leagueId": 48,
+      "seasonId": 1,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 61,
+      "leagueId": 35,
+      "seasonId": 1,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 62,
+      "leagueId": 36,
+      "seasonId": 1,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 63,
+      "leagueId": 37,
+      "seasonId": 1,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 64,
+      "leagueId": 38,
+      "seasonId": 1,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 65,
+      "leagueId": 39,
+      "seasonId": 1,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 66,
+      "leagueId": 40,
+      "seasonId": 1,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 67,
+      "leagueId": 42,
+      "seasonId": 1,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 68,
+      "leagueId": 43,
+      "seasonId": 1,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 69,
+      "leagueId": 44,
+      "seasonId": 1,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 70,
+      "leagueId": 45,
+      "seasonId": 1,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 71,
+      "leagueId": 46,
+      "seasonId": 1,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 72,
+      "leagueId": 47,
+      "seasonId": 1,
+      "titlesRewards": [
+        252
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 318,
+      "leagueId": 39,
+      "seasonId": 8,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 319,
+      "leagueId": 40,
+      "seasonId": 8,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 320,
+      "leagueId": 42,
+      "seasonId": 8,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 321,
+      "leagueId": 43,
+      "seasonId": 8,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 322,
+      "leagueId": 44,
+      "seasonId": 8,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 323,
+      "leagueId": 45,
+      "seasonId": 8,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 324,
+      "leagueId": 46,
+      "seasonId": 8,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 80,
+      "leagueId": 6,
+      "seasonId": 3,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 81,
+      "leagueId": 7,
+      "seasonId": 3,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 82,
+      "leagueId": 8,
+      "seasonId": 3,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 83,
+      "leagueId": 9,
+      "seasonId": 3,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 84,
+      "leagueId": 10,
+      "seasonId": 3,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 85,
+      "leagueId": 11,
+      "seasonId": 3,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 86,
+      "leagueId": 12,
+      "seasonId": 3,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 87,
+      "leagueId": 13,
+      "seasonId": 3,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 88,
+      "leagueId": 14,
+      "seasonId": 3,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 89,
+      "leagueId": 15,
+      "seasonId": 3,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 90,
+      "leagueId": 16,
+      "seasonId": 3,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 91,
+      "leagueId": 17,
+      "seasonId": 3,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 92,
+      "leagueId": 18,
+      "seasonId": 3,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 93,
+      "leagueId": 20,
+      "seasonId": 3,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 94,
+      "leagueId": 21,
+      "seasonId": 3,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 95,
+      "leagueId": 22,
+      "seasonId": 3,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 96,
+      "leagueId": 23,
+      "seasonId": 3,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 97,
+      "leagueId": 24,
+      "seasonId": 3,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 98,
+      "leagueId": 25,
+      "seasonId": 3,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 99,
+      "leagueId": 26,
+      "seasonId": 3,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 100,
+      "leagueId": 27,
+      "seasonId": 3,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 101,
+      "leagueId": 28,
+      "seasonId": 3,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 102,
+      "leagueId": 29,
+      "seasonId": 3,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 103,
+      "leagueId": 30,
+      "seasonId": 3,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 104,
+      "leagueId": 31,
+      "seasonId": 3,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 105,
+      "leagueId": 32,
+      "seasonId": 3,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 106,
+      "leagueId": 33,
+      "seasonId": 3,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 107,
+      "leagueId": 34,
+      "seasonId": 3,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 108,
+      "leagueId": 48,
+      "seasonId": 3,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 109,
+      "leagueId": 35,
+      "seasonId": 3,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 110,
+      "leagueId": 36,
+      "seasonId": 3,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 111,
+      "leagueId": 37,
+      "seasonId": 3,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 112,
+      "leagueId": 38,
+      "seasonId": 3,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 113,
+      "leagueId": 39,
+      "seasonId": 3,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 114,
+      "leagueId": 40,
+      "seasonId": 3,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 115,
+      "leagueId": 42,
+      "seasonId": 3,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 116,
+      "leagueId": 43,
+      "seasonId": 3,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 117,
+      "leagueId": 44,
+      "seasonId": 3,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 118,
+      "leagueId": 45,
+      "seasonId": 3,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 119,
+      "leagueId": 46,
+      "seasonId": 3,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 120,
+      "leagueId": 47,
+      "seasonId": 3,
+      "titlesRewards": [
+        252
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 121,
+      "leagueId": 6,
+      "seasonId": 4,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 122,
+      "leagueId": 7,
+      "seasonId": 4,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 123,
+      "leagueId": 8,
+      "seasonId": 4,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 124,
+      "leagueId": 9,
+      "seasonId": 4,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 125,
+      "leagueId": 10,
+      "seasonId": 4,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 126,
+      "leagueId": 11,
+      "seasonId": 4,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 127,
+      "leagueId": 12,
+      "seasonId": 4,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 128,
+      "leagueId": 13,
+      "seasonId": 4,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 129,
+      "leagueId": 14,
+      "seasonId": 4,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 130,
+      "leagueId": 15,
+      "seasonId": 4,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 131,
+      "leagueId": 16,
+      "seasonId": 4,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 132,
+      "leagueId": 17,
+      "seasonId": 4,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 133,
+      "leagueId": 18,
+      "seasonId": 4,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 134,
+      "leagueId": 20,
+      "seasonId": 4,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 135,
+      "leagueId": 21,
+      "seasonId": 4,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 136,
+      "leagueId": 22,
+      "seasonId": 4,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 137,
+      "leagueId": 23,
+      "seasonId": 4,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 138,
+      "leagueId": 24,
+      "seasonId": 4,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 139,
+      "leagueId": 25,
+      "seasonId": 4,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 140,
+      "leagueId": 26,
+      "seasonId": 4,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 141,
+      "leagueId": 27,
+      "seasonId": 4,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 142,
+      "leagueId": 28,
+      "seasonId": 4,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 143,
+      "leagueId": 29,
+      "seasonId": 4,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 144,
+      "leagueId": 30,
+      "seasonId": 4,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 145,
+      "leagueId": 31,
+      "seasonId": 4,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 146,
+      "leagueId": 32,
+      "seasonId": 4,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 147,
+      "leagueId": 33,
+      "seasonId": 4,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 148,
+      "leagueId": 34,
+      "seasonId": 4,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 149,
+      "leagueId": 48,
+      "seasonId": 4,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 150,
+      "leagueId": 35,
+      "seasonId": 4,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 151,
+      "leagueId": 36,
+      "seasonId": 4,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 152,
+      "leagueId": 37,
+      "seasonId": 4,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 153,
+      "leagueId": 38,
+      "seasonId": 4,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 154,
+      "leagueId": 39,
+      "seasonId": 4,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 155,
+      "leagueId": 40,
+      "seasonId": 4,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 156,
+      "leagueId": 42,
+      "seasonId": 4,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 157,
+      "leagueId": 43,
+      "seasonId": 4,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 158,
+      "leagueId": 44,
+      "seasonId": 4,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 159,
+      "leagueId": 45,
+      "seasonId": 4,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 160,
+      "leagueId": 46,
+      "seasonId": 4,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 161,
+      "leagueId": 47,
+      "seasonId": 4,
+      "titlesRewards": [
+        252
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 162,
+      "leagueId": 6,
+      "seasonId": 5,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 163,
+      "leagueId": 7,
+      "seasonId": 5,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 164,
+      "leagueId": 8,
+      "seasonId": 5,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 165,
+      "leagueId": 9,
+      "seasonId": 5,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 166,
+      "leagueId": 10,
+      "seasonId": 5,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 167,
+      "leagueId": 11,
+      "seasonId": 5,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 168,
+      "leagueId": 12,
+      "seasonId": 5,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 169,
+      "leagueId": 13,
+      "seasonId": 5,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 170,
+      "leagueId": 14,
+      "seasonId": 5,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 171,
+      "leagueId": 15,
+      "seasonId": 5,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 172,
+      "leagueId": 16,
+      "seasonId": 5,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 173,
+      "leagueId": 17,
+      "seasonId": 5,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 174,
+      "leagueId": 18,
+      "seasonId": 5,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 175,
+      "leagueId": 20,
+      "seasonId": 5,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 176,
+      "leagueId": 21,
+      "seasonId": 5,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 177,
+      "leagueId": 22,
+      "seasonId": 5,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 178,
+      "leagueId": 23,
+      "seasonId": 5,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 179,
+      "leagueId": 24,
+      "seasonId": 5,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 180,
+      "leagueId": 25,
+      "seasonId": 5,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 181,
+      "leagueId": 26,
+      "seasonId": 5,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 182,
+      "leagueId": 27,
+      "seasonId": 5,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 183,
+      "leagueId": 28,
+      "seasonId": 5,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 184,
+      "leagueId": 29,
+      "seasonId": 5,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 185,
+      "leagueId": 30,
+      "seasonId": 5,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 186,
+      "leagueId": 31,
+      "seasonId": 5,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 187,
+      "leagueId": 32,
+      "seasonId": 5,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 188,
+      "leagueId": 33,
+      "seasonId": 5,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 189,
+      "leagueId": 34,
+      "seasonId": 5,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 190,
+      "leagueId": 48,
+      "seasonId": 5,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 191,
+      "leagueId": 35,
+      "seasonId": 5,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 192,
+      "leagueId": 36,
+      "seasonId": 5,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 193,
+      "leagueId": 37,
+      "seasonId": 5,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 194,
+      "leagueId": 38,
+      "seasonId": 5,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 195,
+      "leagueId": 39,
+      "seasonId": 5,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 196,
+      "leagueId": 40,
+      "seasonId": 5,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 197,
+      "leagueId": 42,
+      "seasonId": 5,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 198,
+      "leagueId": 43,
+      "seasonId": 5,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 199,
+      "leagueId": 44,
+      "seasonId": 5,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 200,
+      "leagueId": 45,
+      "seasonId": 5,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 201,
+      "leagueId": 46,
+      "seasonId": 5,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 202,
+      "leagueId": 47,
+      "seasonId": 5,
+      "titlesRewards": [
+        252
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 203,
+      "leagueId": 6,
+      "seasonId": 6,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 204,
+      "leagueId": 7,
+      "seasonId": 6,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 205,
+      "leagueId": 8,
+      "seasonId": 6,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 206,
+      "leagueId": 9,
+      "seasonId": 6,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 207,
+      "leagueId": 10,
+      "seasonId": 6,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 208,
+      "leagueId": 11,
+      "seasonId": 6,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 209,
+      "leagueId": 12,
+      "seasonId": 6,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 210,
+      "leagueId": 13,
+      "seasonId": 6,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 211,
+      "leagueId": 14,
+      "seasonId": 6,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 212,
+      "leagueId": 15,
+      "seasonId": 6,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 213,
+      "leagueId": 16,
+      "seasonId": 6,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 214,
+      "leagueId": 17,
+      "seasonId": 6,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 215,
+      "leagueId": 18,
+      "seasonId": 6,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 216,
+      "leagueId": 20,
+      "seasonId": 6,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 217,
+      "leagueId": 21,
+      "seasonId": 6,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 218,
+      "leagueId": 22,
+      "seasonId": 6,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 219,
+      "leagueId": 23,
+      "seasonId": 6,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 220,
+      "leagueId": 24,
+      "seasonId": 6,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 221,
+      "leagueId": 25,
+      "seasonId": 6,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 222,
+      "leagueId": 26,
+      "seasonId": 6,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 223,
+      "leagueId": 27,
+      "seasonId": 6,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 224,
+      "leagueId": 28,
+      "seasonId": 6,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 225,
+      "leagueId": 29,
+      "seasonId": 6,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 226,
+      "leagueId": 30,
+      "seasonId": 6,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 227,
+      "leagueId": 31,
+      "seasonId": 6,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 228,
+      "leagueId": 32,
+      "seasonId": 6,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 229,
+      "leagueId": 33,
+      "seasonId": 6,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 230,
+      "leagueId": 34,
+      "seasonId": 6,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 231,
+      "leagueId": 48,
+      "seasonId": 6,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 232,
+      "leagueId": 35,
+      "seasonId": 6,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 233,
+      "leagueId": 36,
+      "seasonId": 6,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 234,
+      "leagueId": 37,
+      "seasonId": 6,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 235,
+      "leagueId": 38,
+      "seasonId": 6,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 236,
+      "leagueId": 39,
+      "seasonId": 6,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 237,
+      "leagueId": 40,
+      "seasonId": 6,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 238,
+      "leagueId": 42,
+      "seasonId": 6,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 239,
+      "leagueId": 43,
+      "seasonId": 6,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 240,
+      "leagueId": 44,
+      "seasonId": 6,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 241,
+      "leagueId": 45,
+      "seasonId": 6,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 242,
+      "leagueId": 46,
+      "seasonId": 6,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 243,
+      "leagueId": 47,
+      "seasonId": 6,
+      "titlesRewards": [
+        252
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 244,
+      "leagueId": 6,
+      "seasonId": 7,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 245,
+      "leagueId": 7,
+      "seasonId": 7,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 246,
+      "leagueId": 8,
+      "seasonId": 7,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 247,
+      "leagueId": 9,
+      "seasonId": 7,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 248,
+      "leagueId": 10,
+      "seasonId": 7,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 249,
+      "leagueId": 11,
+      "seasonId": 7,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 250,
+      "leagueId": 12,
+      "seasonId": 7,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 251,
+      "leagueId": 13,
+      "seasonId": 7,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 252,
+      "leagueId": 14,
+      "seasonId": 7,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 253,
+      "leagueId": 15,
+      "seasonId": 7,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 254,
+      "leagueId": 16,
+      "seasonId": 7,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 255,
+      "leagueId": 17,
+      "seasonId": 7,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 256,
+      "leagueId": 18,
+      "seasonId": 7,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 257,
+      "leagueId": 20,
+      "seasonId": 7,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 258,
+      "leagueId": 21,
+      "seasonId": 7,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 259,
+      "leagueId": 22,
+      "seasonId": 7,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 260,
+      "leagueId": 23,
+      "seasonId": 7,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 261,
+      "leagueId": 24,
+      "seasonId": 7,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 262,
+      "leagueId": 25,
+      "seasonId": 7,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 263,
+      "leagueId": 26,
+      "seasonId": 7,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 264,
+      "leagueId": 27,
+      "seasonId": 7,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 265,
+      "leagueId": 28,
+      "seasonId": 7,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 266,
+      "leagueId": 29,
+      "seasonId": 7,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 267,
+      "leagueId": 30,
+      "seasonId": 7,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 268,
+      "leagueId": 31,
+      "seasonId": 7,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 269,
+      "leagueId": 32,
+      "seasonId": 7,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 270,
+      "leagueId": 33,
+      "seasonId": 7,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 271,
+      "leagueId": 34,
+      "seasonId": 7,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 272,
+      "leagueId": 48,
+      "seasonId": 7,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 273,
+      "leagueId": 35,
+      "seasonId": 7,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 274,
+      "leagueId": 36,
+      "seasonId": 7,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 275,
+      "leagueId": 37,
+      "seasonId": 7,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 276,
+      "leagueId": 38,
+      "seasonId": 7,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 277,
+      "leagueId": 39,
+      "seasonId": 7,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 278,
+      "leagueId": 40,
+      "seasonId": 7,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 279,
+      "leagueId": 42,
+      "seasonId": 7,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 280,
+      "leagueId": 43,
+      "seasonId": 7,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 281,
+      "leagueId": 44,
+      "seasonId": 7,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 282,
+      "leagueId": 45,
+      "seasonId": 7,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 283,
+      "leagueId": 46,
+      "seasonId": 7,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 284,
+      "leagueId": 47,
+      "seasonId": 7,
+      "titlesRewards": [
+        252
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 325,
+      "leagueId": 47,
+      "seasonId": 8,
+      "titlesRewards": [
+        252
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 326,
+      "leagueId": 6,
+      "seasonId": 9,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 327,
+      "leagueId": 7,
+      "seasonId": 9,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 328,
+      "leagueId": 8,
+      "seasonId": 9,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 329,
+      "leagueId": 9,
+      "seasonId": 9,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 330,
+      "leagueId": 10,
+      "seasonId": 9,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 331,
+      "leagueId": 11,
+      "seasonId": 9,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 332,
+      "leagueId": 12,
+      "seasonId": 9,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 333,
+      "leagueId": 13,
+      "seasonId": 9,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 334,
+      "leagueId": 14,
+      "seasonId": 9,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 335,
+      "leagueId": 15,
+      "seasonId": 9,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 336,
+      "leagueId": 16,
+      "seasonId": 9,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 337,
+      "leagueId": 17,
+      "seasonId": 9,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 338,
+      "leagueId": 18,
+      "seasonId": 9,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 339,
+      "leagueId": 20,
+      "seasonId": 9,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 340,
+      "leagueId": 21,
+      "seasonId": 9,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 341,
+      "leagueId": 22,
+      "seasonId": 9,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 342,
+      "leagueId": 23,
+      "seasonId": 9,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 343,
+      "leagueId": 24,
+      "seasonId": 9,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 344,
+      "leagueId": 25,
+      "seasonId": 9,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 345,
+      "leagueId": 26,
+      "seasonId": 9,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 346,
+      "leagueId": 27,
+      "seasonId": 9,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 347,
+      "leagueId": 28,
+      "seasonId": 9,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 348,
+      "leagueId": 29,
+      "seasonId": 9,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 349,
+      "leagueId": 30,
+      "seasonId": 9,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 350,
+      "leagueId": 31,
+      "seasonId": 9,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 351,
+      "leagueId": 32,
+      "seasonId": 9,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 352,
+      "leagueId": 33,
+      "seasonId": 9,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 353,
+      "leagueId": 34,
+      "seasonId": 9,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 354,
+      "leagueId": 48,
+      "seasonId": 9,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 355,
+      "leagueId": 35,
+      "seasonId": 9,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 356,
+      "leagueId": 36,
+      "seasonId": 9,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 357,
+      "leagueId": 37,
+      "seasonId": 9,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 358,
+      "leagueId": 38,
+      "seasonId": 9,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 359,
+      "leagueId": 39,
+      "seasonId": 9,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 360,
+      "leagueId": 40,
+      "seasonId": 9,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 361,
+      "leagueId": 42,
+      "seasonId": 9,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 362,
+      "leagueId": 43,
+      "seasonId": 9,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 363,
+      "leagueId": 44,
+      "seasonId": 9,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 364,
+      "leagueId": 45,
+      "seasonId": 9,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 365,
+      "leagueId": 46,
+      "seasonId": 9,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 366,
+      "leagueId": 47,
+      "seasonId": 9,
+      "titlesRewards": [
+        252
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 367,
+      "leagueId": 6,
+      "seasonId": 10,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 368,
+      "leagueId": 7,
+      "seasonId": 10,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 369,
+      "leagueId": 8,
+      "seasonId": 10,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 370,
+      "leagueId": 9,
+      "seasonId": 10,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 371,
+      "leagueId": 10,
+      "seasonId": 10,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 372,
+      "leagueId": 11,
+      "seasonId": 10,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 373,
+      "leagueId": 12,
+      "seasonId": 10,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 374,
+      "leagueId": 13,
+      "seasonId": 10,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 375,
+      "leagueId": 14,
+      "seasonId": 10,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 376,
+      "leagueId": 15,
+      "seasonId": 10,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 377,
+      "leagueId": 16,
+      "seasonId": 10,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 378,
+      "leagueId": 17,
+      "seasonId": 10,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 379,
+      "leagueId": 18,
+      "seasonId": 10,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 380,
+      "leagueId": 20,
+      "seasonId": 10,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 381,
+      "leagueId": 21,
+      "seasonId": 10,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 382,
+      "leagueId": 22,
+      "seasonId": 10,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 383,
+      "leagueId": 23,
+      "seasonId": 10,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 384,
+      "leagueId": 24,
+      "seasonId": 10,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 385,
+      "leagueId": 25,
+      "seasonId": 10,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 386,
+      "leagueId": 26,
+      "seasonId": 10,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 387,
+      "leagueId": 27,
+      "seasonId": 10,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 388,
+      "leagueId": 28,
+      "seasonId": 10,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 389,
+      "leagueId": 29,
+      "seasonId": 10,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 390,
+      "leagueId": 30,
+      "seasonId": 10,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 391,
+      "leagueId": 31,
+      "seasonId": 10,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 392,
+      "leagueId": 32,
+      "seasonId": 10,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 393,
+      "leagueId": 33,
+      "seasonId": 10,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 394,
+      "leagueId": 34,
+      "seasonId": 10,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 395,
+      "leagueId": 35,
+      "seasonId": 10,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 396,
+      "leagueId": 36,
+      "seasonId": 10,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 397,
+      "leagueId": 37,
+      "seasonId": 10,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 398,
+      "leagueId": 38,
+      "seasonId": 10,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 399,
+      "leagueId": 39,
+      "seasonId": 10,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 400,
+      "leagueId": 40,
+      "seasonId": 10,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 401,
+      "leagueId": 42,
+      "seasonId": 10,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 402,
+      "leagueId": 43,
+      "seasonId": 10,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 403,
+      "leagueId": 44,
+      "seasonId": 10,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 404,
+      "leagueId": 45,
+      "seasonId": 10,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 405,
+      "leagueId": 46,
+      "seasonId": 10,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 406,
+      "leagueId": 47,
+      "seasonId": 10,
+      "titlesRewards": [
+        252
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 407,
+      "leagueId": 48,
+      "seasonId": 10,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 408,
+      "leagueId": 6,
+      "seasonId": 11,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 409,
+      "leagueId": 7,
+      "seasonId": 11,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 410,
+      "leagueId": 8,
+      "seasonId": 11,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 411,
+      "leagueId": 9,
+      "seasonId": 11,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 412,
+      "leagueId": 10,
+      "seasonId": 11,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 413,
+      "leagueId": 11,
+      "seasonId": 11,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 414,
+      "leagueId": 12,
+      "seasonId": 11,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 415,
+      "leagueId": 13,
+      "seasonId": 11,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 416,
+      "leagueId": 14,
+      "seasonId": 11,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 417,
+      "leagueId": 15,
+      "seasonId": 11,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 418,
+      "leagueId": 16,
+      "seasonId": 11,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 419,
+      "leagueId": 17,
+      "seasonId": 11,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 420,
+      "leagueId": 18,
+      "seasonId": 11,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 421,
+      "leagueId": 20,
+      "seasonId": 11,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 422,
+      "leagueId": 21,
+      "seasonId": 11,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 423,
+      "leagueId": 22,
+      "seasonId": 11,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 424,
+      "leagueId": 23,
+      "seasonId": 11,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 425,
+      "leagueId": 24,
+      "seasonId": 11,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 426,
+      "leagueId": 25,
+      "seasonId": 11,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 427,
+      "leagueId": 26,
+      "seasonId": 11,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 428,
+      "leagueId": 27,
+      "seasonId": 11,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 429,
+      "leagueId": 28,
+      "seasonId": 11,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 430,
+      "leagueId": 29,
+      "seasonId": 11,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 431,
+      "leagueId": 30,
+      "seasonId": 11,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 432,
+      "leagueId": 31,
+      "seasonId": 11,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 433,
+      "leagueId": 32,
+      "seasonId": 11,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 434,
+      "leagueId": 33,
+      "seasonId": 11,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 435,
+      "leagueId": 34,
+      "seasonId": 11,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 436,
+      "leagueId": 35,
+      "seasonId": 11,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 437,
+      "leagueId": 36,
+      "seasonId": 11,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 438,
+      "leagueId": 37,
+      "seasonId": 11,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 439,
+      "leagueId": 38,
+      "seasonId": 11,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 440,
+      "leagueId": 39,
+      "seasonId": 11,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 441,
+      "leagueId": 40,
+      "seasonId": 11,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 442,
+      "leagueId": 42,
+      "seasonId": 11,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 443,
+      "leagueId": 43,
+      "seasonId": 11,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 444,
+      "leagueId": 44,
+      "seasonId": 11,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 445,
+      "leagueId": 45,
+      "seasonId": 11,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 446,
+      "leagueId": 46,
+      "seasonId": 11,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 447,
+      "leagueId": 47,
+      "seasonId": 11,
+      "titlesRewards": [
+        252
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 448,
+      "leagueId": 48,
+      "seasonId": 11,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 449,
+      "leagueId": 6,
+      "seasonId": 12,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 450,
+      "leagueId": 7,
+      "seasonId": 12,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 451,
+      "leagueId": 8,
+      "seasonId": 12,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 452,
+      "leagueId": 9,
+      "seasonId": 12,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 453,
+      "leagueId": 10,
+      "seasonId": 12,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 454,
+      "leagueId": 11,
+      "seasonId": 12,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 455,
+      "leagueId": 12,
+      "seasonId": 12,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 456,
+      "leagueId": 13,
+      "seasonId": 12,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 457,
+      "leagueId": 14,
+      "seasonId": 12,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 458,
+      "leagueId": 15,
+      "seasonId": 12,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 459,
+      "leagueId": 16,
+      "seasonId": 12,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 460,
+      "leagueId": 17,
+      "seasonId": 12,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 461,
+      "leagueId": 18,
+      "seasonId": 12,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 462,
+      "leagueId": 20,
+      "seasonId": 12,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 463,
+      "leagueId": 21,
+      "seasonId": 12,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 464,
+      "leagueId": 22,
+      "seasonId": 12,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 465,
+      "leagueId": 23,
+      "seasonId": 12,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 466,
+      "leagueId": 24,
+      "seasonId": 12,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 467,
+      "leagueId": 25,
+      "seasonId": 12,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 468,
+      "leagueId": 26,
+      "seasonId": 12,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 469,
+      "leagueId": 27,
+      "seasonId": 12,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 470,
+      "leagueId": 28,
+      "seasonId": 12,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 471,
+      "leagueId": 29,
+      "seasonId": 12,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 472,
+      "leagueId": 30,
+      "seasonId": 12,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 473,
+      "leagueId": 31,
+      "seasonId": 12,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 474,
+      "leagueId": 32,
+      "seasonId": 12,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 475,
+      "leagueId": 33,
+      "seasonId": 12,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 476,
+      "leagueId": 34,
+      "seasonId": 12,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 477,
+      "leagueId": 35,
+      "seasonId": 12,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 478,
+      "leagueId": 36,
+      "seasonId": 12,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 479,
+      "leagueId": 37,
+      "seasonId": 12,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 480,
+      "leagueId": 38,
+      "seasonId": 12,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 481,
+      "leagueId": 39,
+      "seasonId": 12,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 482,
+      "leagueId": 40,
+      "seasonId": 12,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 483,
+      "leagueId": 42,
+      "seasonId": 12,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 484,
+      "leagueId": 43,
+      "seasonId": 12,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 485,
+      "leagueId": 44,
+      "seasonId": 12,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 486,
+      "leagueId": 45,
+      "seasonId": 12,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 487,
+      "leagueId": 46,
+      "seasonId": 12,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 488,
+      "leagueId": 47,
+      "seasonId": 12,
+      "titlesRewards": [
+        252
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 489,
+      "leagueId": 48,
+      "seasonId": 12,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 490,
+      "leagueId": 6,
+      "seasonId": 13,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 491,
+      "leagueId": 7,
+      "seasonId": 13,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 492,
+      "leagueId": 8,
+      "seasonId": 13,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 493,
+      "leagueId": 9,
+      "seasonId": 13,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 494,
+      "leagueId": 10,
+      "seasonId": 13,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 495,
+      "leagueId": 11,
+      "seasonId": 13,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 496,
+      "leagueId": 12,
+      "seasonId": 13,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 497,
+      "leagueId": 13,
+      "seasonId": 13,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 498,
+      "leagueId": 14,
+      "seasonId": 13,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 499,
+      "leagueId": 15,
+      "seasonId": 13,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 500,
+      "leagueId": 16,
+      "seasonId": 13,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 501,
+      "leagueId": 17,
+      "seasonId": 13,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 502,
+      "leagueId": 18,
+      "seasonId": 13,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 503,
+      "leagueId": 20,
+      "seasonId": 13,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 504,
+      "leagueId": 21,
+      "seasonId": 13,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 505,
+      "leagueId": 22,
+      "seasonId": 13,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 506,
+      "leagueId": 23,
+      "seasonId": 13,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 507,
+      "leagueId": 24,
+      "seasonId": 13,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 508,
+      "leagueId": 25,
+      "seasonId": 13,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 509,
+      "leagueId": 26,
+      "seasonId": 13,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 510,
+      "leagueId": 27,
+      "seasonId": 13,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 511,
+      "leagueId": 28,
+      "seasonId": 13,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 512,
+      "leagueId": 29,
+      "seasonId": 13,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 513,
+      "leagueId": 30,
+      "seasonId": 13,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 514,
+      "leagueId": 31,
+      "seasonId": 13,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 515,
+      "leagueId": 32,
+      "seasonId": 13,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 516,
+      "leagueId": 33,
+      "seasonId": 13,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 517,
+      "leagueId": 34,
+      "seasonId": 13,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 518,
+      "leagueId": 35,
+      "seasonId": 13,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 519,
+      "leagueId": 36,
+      "seasonId": 13,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 520,
+      "leagueId": 37,
+      "seasonId": 13,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 521,
+      "leagueId": 38,
+      "seasonId": 13,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 522,
+      "leagueId": 39,
+      "seasonId": 13,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 523,
+      "leagueId": 40,
+      "seasonId": 13,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 524,
+      "leagueId": 42,
+      "seasonId": 13,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 525,
+      "leagueId": 43,
+      "seasonId": 13,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 526,
+      "leagueId": 44,
+      "seasonId": 13,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 527,
+      "leagueId": 45,
+      "seasonId": 13,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 528,
+      "leagueId": 46,
+      "seasonId": 13,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 529,
+      "leagueId": 47,
+      "seasonId": 13,
+      "titlesRewards": [
+        252
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 530,
+      "leagueId": 48,
+      "seasonId": 13,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 531,
+      "leagueId": 6,
+      "seasonId": 14,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 532,
+      "leagueId": 7,
+      "seasonId": 14,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 533,
+      "leagueId": 8,
+      "seasonId": 14,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 534,
+      "leagueId": 9,
+      "seasonId": 14,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 535,
+      "leagueId": 10,
+      "seasonId": 14,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 536,
+      "leagueId": 11,
+      "seasonId": 14,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 537,
+      "leagueId": 12,
+      "seasonId": 14,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 538,
+      "leagueId": 13,
+      "seasonId": 14,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 539,
+      "leagueId": 14,
+      "seasonId": 14,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 540,
+      "leagueId": 15,
+      "seasonId": 14,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 541,
+      "leagueId": 16,
+      "seasonId": 14,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 542,
+      "leagueId": 17,
+      "seasonId": 14,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 543,
+      "leagueId": 18,
+      "seasonId": 14,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 544,
+      "leagueId": 20,
+      "seasonId": 14,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 545,
+      "leagueId": 21,
+      "seasonId": 14,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 546,
+      "leagueId": 22,
+      "seasonId": 14,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 547,
+      "leagueId": 23,
+      "seasonId": 14,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 548,
+      "leagueId": 24,
+      "seasonId": 14,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 549,
+      "leagueId": 25,
+      "seasonId": 14,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 550,
+      "leagueId": 26,
+      "seasonId": 14,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 551,
+      "leagueId": 27,
+      "seasonId": 14,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 552,
+      "leagueId": 28,
+      "seasonId": 14,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 553,
+      "leagueId": 29,
+      "seasonId": 14,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 554,
+      "leagueId": 30,
+      "seasonId": 14,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 555,
+      "leagueId": 31,
+      "seasonId": 14,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 556,
+      "leagueId": 32,
+      "seasonId": 14,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 557,
+      "leagueId": 33,
+      "seasonId": 14,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 558,
+      "leagueId": 34,
+      "seasonId": 14,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 559,
+      "leagueId": 35,
+      "seasonId": 14,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 560,
+      "leagueId": 36,
+      "seasonId": 14,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 561,
+      "leagueId": 37,
+      "seasonId": 14,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 562,
+      "leagueId": 38,
+      "seasonId": 14,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 563,
+      "leagueId": 39,
+      "seasonId": 14,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 564,
+      "leagueId": 40,
+      "seasonId": 14,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 565,
+      "leagueId": 42,
+      "seasonId": 14,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 566,
+      "leagueId": 43,
+      "seasonId": 14,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 567,
+      "leagueId": 44,
+      "seasonId": 14,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 568,
+      "leagueId": 45,
+      "seasonId": 14,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 569,
+      "leagueId": 46,
+      "seasonId": 14,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 570,
+      "leagueId": 47,
+      "seasonId": 14,
+      "titlesRewards": [
+        252
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 571,
+      "leagueId": 48,
+      "seasonId": 14,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 572,
+      "leagueId": 6,
+      "seasonId": 15,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 573,
+      "leagueId": 7,
+      "seasonId": 15,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 574,
+      "leagueId": 8,
+      "seasonId": 15,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 575,
+      "leagueId": 9,
+      "seasonId": 15,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 576,
+      "leagueId": 10,
+      "seasonId": 15,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 577,
+      "leagueId": 11,
+      "seasonId": 15,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 578,
+      "leagueId": 12,
+      "seasonId": 15,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 579,
+      "leagueId": 13,
+      "seasonId": 15,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 580,
+      "leagueId": 14,
+      "seasonId": 15,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 581,
+      "leagueId": 15,
+      "seasonId": 15,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 582,
+      "leagueId": 16,
+      "seasonId": 15,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 583,
+      "leagueId": 17,
+      "seasonId": 15,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 584,
+      "leagueId": 18,
+      "seasonId": 15,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 585,
+      "leagueId": 20,
+      "seasonId": 15,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 586,
+      "leagueId": 21,
+      "seasonId": 15,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 587,
+      "leagueId": 22,
+      "seasonId": 15,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 588,
+      "leagueId": 23,
+      "seasonId": 15,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 589,
+      "leagueId": 24,
+      "seasonId": 15,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 590,
+      "leagueId": 25,
+      "seasonId": 15,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 591,
+      "leagueId": 26,
+      "seasonId": 15,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 592,
+      "leagueId": 27,
+      "seasonId": 15,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 593,
+      "leagueId": 28,
+      "seasonId": 15,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 594,
+      "leagueId": 29,
+      "seasonId": 15,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 595,
+      "leagueId": 30,
+      "seasonId": 15,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 596,
+      "leagueId": 31,
+      "seasonId": 15,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 597,
+      "leagueId": 32,
+      "seasonId": 15,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 598,
+      "leagueId": 33,
+      "seasonId": 15,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 599,
+      "leagueId": 34,
+      "seasonId": 15,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 600,
+      "leagueId": 35,
+      "seasonId": 15,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 601,
+      "leagueId": 36,
+      "seasonId": 15,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 602,
+      "leagueId": 37,
+      "seasonId": 15,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 603,
+      "leagueId": 38,
+      "seasonId": 15,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 604,
+      "leagueId": 39,
+      "seasonId": 15,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 605,
+      "leagueId": 40,
+      "seasonId": 15,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 606,
+      "leagueId": 42,
+      "seasonId": 15,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 607,
+      "leagueId": 43,
+      "seasonId": 15,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 608,
+      "leagueId": 44,
+      "seasonId": 15,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 609,
+      "leagueId": 45,
+      "seasonId": 15,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 610,
+      "leagueId": 46,
+      "seasonId": 15,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 611,
+      "leagueId": 47,
+      "seasonId": 15,
+      "titlesRewards": [
+        252
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 612,
+      "leagueId": 48,
+      "seasonId": 15,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 613,
+      "leagueId": 6,
+      "seasonId": 16,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 614,
+      "leagueId": 7,
+      "seasonId": 16,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 615,
+      "leagueId": 8,
+      "seasonId": 16,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 616,
+      "leagueId": 9,
+      "seasonId": 16,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 617,
+      "leagueId": 10,
+      "seasonId": 16,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 618,
+      "leagueId": 11,
+      "seasonId": 16,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 619,
+      "leagueId": 12,
+      "seasonId": 16,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 620,
+      "leagueId": 13,
+      "seasonId": 16,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 621,
+      "leagueId": 14,
+      "seasonId": 16,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 622,
+      "leagueId": 15,
+      "seasonId": 16,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 623,
+      "leagueId": 16,
+      "seasonId": 16,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 624,
+      "leagueId": 17,
+      "seasonId": 16,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 625,
+      "leagueId": 18,
+      "seasonId": 16,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 626,
+      "leagueId": 20,
+      "seasonId": 16,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 627,
+      "leagueId": 21,
+      "seasonId": 16,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 628,
+      "leagueId": 22,
+      "seasonId": 16,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 629,
+      "leagueId": 23,
+      "seasonId": 16,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 630,
+      "leagueId": 24,
+      "seasonId": 16,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 631,
+      "leagueId": 25,
+      "seasonId": 16,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 632,
+      "leagueId": 26,
+      "seasonId": 16,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 633,
+      "leagueId": 27,
+      "seasonId": 16,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 634,
+      "leagueId": 28,
+      "seasonId": 16,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 635,
+      "leagueId": 29,
+      "seasonId": 16,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 636,
+      "leagueId": 30,
+      "seasonId": 16,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 637,
+      "leagueId": 31,
+      "seasonId": 16,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 638,
+      "leagueId": 32,
+      "seasonId": 16,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 639,
+      "leagueId": 33,
+      "seasonId": 16,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 640,
+      "leagueId": 34,
+      "seasonId": 16,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 641,
+      "leagueId": 35,
+      "seasonId": 16,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 642,
+      "leagueId": 36,
+      "seasonId": 16,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 643,
+      "leagueId": 37,
+      "seasonId": 16,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 644,
+      "leagueId": 38,
+      "seasonId": 16,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 645,
+      "leagueId": 39,
+      "seasonId": 16,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 646,
+      "leagueId": 40,
+      "seasonId": 16,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 647,
+      "leagueId": 42,
+      "seasonId": 16,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 648,
+      "leagueId": 43,
+      "seasonId": 16,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 649,
+      "leagueId": 44,
+      "seasonId": 16,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 650,
+      "leagueId": 45,
+      "seasonId": 16,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 651,
+      "leagueId": 46,
+      "seasonId": 16,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 652,
+      "leagueId": 47,
+      "seasonId": 16,
+      "titlesRewards": [
+        252
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 653,
+      "leagueId": 48,
+      "seasonId": 16,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 654,
+      "leagueId": 6,
+      "seasonId": 17,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 655,
+      "leagueId": 7,
+      "seasonId": 17,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 656,
+      "leagueId": 8,
+      "seasonId": 17,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 657,
+      "leagueId": 9,
+      "seasonId": 17,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 658,
+      "leagueId": 10,
+      "seasonId": 17,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 659,
+      "leagueId": 11,
+      "seasonId": 17,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 660,
+      "leagueId": 12,
+      "seasonId": 17,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 661,
+      "leagueId": 13,
+      "seasonId": 17,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 662,
+      "leagueId": 14,
+      "seasonId": 17,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 663,
+      "leagueId": 15,
+      "seasonId": 17,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 664,
+      "leagueId": 16,
+      "seasonId": 17,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 665,
+      "leagueId": 17,
+      "seasonId": 17,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 666,
+      "leagueId": 18,
+      "seasonId": 17,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 667,
+      "leagueId": 20,
+      "seasonId": 17,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 668,
+      "leagueId": 21,
+      "seasonId": 17,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 669,
+      "leagueId": 22,
+      "seasonId": 17,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 670,
+      "leagueId": 23,
+      "seasonId": 17,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 671,
+      "leagueId": 24,
+      "seasonId": 17,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 672,
+      "leagueId": 25,
+      "seasonId": 17,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 673,
+      "leagueId": 26,
+      "seasonId": 17,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 674,
+      "leagueId": 27,
+      "seasonId": 17,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 675,
+      "leagueId": 28,
+      "seasonId": 17,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 676,
+      "leagueId": 29,
+      "seasonId": 17,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 677,
+      "leagueId": 30,
+      "seasonId": 17,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 678,
+      "leagueId": 31,
+      "seasonId": 17,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 679,
+      "leagueId": 32,
+      "seasonId": 17,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 680,
+      "leagueId": 33,
+      "seasonId": 17,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 681,
+      "leagueId": 34,
+      "seasonId": 17,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 682,
+      "leagueId": 35,
+      "seasonId": 17,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 683,
+      "leagueId": 36,
+      "seasonId": 17,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 684,
+      "leagueId": 37,
+      "seasonId": 17,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 685,
+      "leagueId": 38,
+      "seasonId": 17,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 686,
+      "leagueId": 39,
+      "seasonId": 17,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 687,
+      "leagueId": 40,
+      "seasonId": 17,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 688,
+      "leagueId": 42,
+      "seasonId": 17,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 689,
+      "leagueId": 43,
+      "seasonId": 17,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 690,
+      "leagueId": 44,
+      "seasonId": 17,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 691,
+      "leagueId": 45,
+      "seasonId": 17,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 692,
+      "leagueId": 46,
+      "seasonId": 17,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 693,
+      "leagueId": 47,
+      "seasonId": 17,
+      "titlesRewards": [
+        252
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 694,
+      "leagueId": 48,
+      "seasonId": 17,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 695,
+      "leagueId": 6,
+      "seasonId": 18,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 696,
+      "leagueId": 7,
+      "seasonId": 18,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 697,
+      "leagueId": 8,
+      "seasonId": 18,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 698,
+      "leagueId": 9,
+      "seasonId": 18,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 699,
+      "leagueId": 10,
+      "seasonId": 18,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 700,
+      "leagueId": 11,
+      "seasonId": 18,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 701,
+      "leagueId": 12,
+      "seasonId": 18,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 702,
+      "leagueId": 13,
+      "seasonId": 18,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 703,
+      "leagueId": 14,
+      "seasonId": 18,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 704,
+      "leagueId": 15,
+      "seasonId": 18,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 705,
+      "leagueId": 16,
+      "seasonId": 18,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 706,
+      "leagueId": 17,
+      "seasonId": 18,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 707,
+      "leagueId": 18,
+      "seasonId": 18,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 708,
+      "leagueId": 20,
+      "seasonId": 18,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 709,
+      "leagueId": 21,
+      "seasonId": 18,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 710,
+      "leagueId": 22,
+      "seasonId": 18,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 711,
+      "leagueId": 23,
+      "seasonId": 18,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 712,
+      "leagueId": 24,
+      "seasonId": 18,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 713,
+      "leagueId": 25,
+      "seasonId": 18,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 714,
+      "leagueId": 26,
+      "seasonId": 18,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 715,
+      "leagueId": 27,
+      "seasonId": 18,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 716,
+      "leagueId": 28,
+      "seasonId": 18,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 717,
+      "leagueId": 29,
+      "seasonId": 18,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 718,
+      "leagueId": 30,
+      "seasonId": 18,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 719,
+      "leagueId": 31,
+      "seasonId": 18,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 720,
+      "leagueId": 32,
+      "seasonId": 18,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 721,
+      "leagueId": 33,
+      "seasonId": 18,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 722,
+      "leagueId": 34,
+      "seasonId": 18,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 723,
+      "leagueId": 35,
+      "seasonId": 18,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 724,
+      "leagueId": 36,
+      "seasonId": 18,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 725,
+      "leagueId": 37,
+      "seasonId": 18,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 726,
+      "leagueId": 38,
+      "seasonId": 18,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 727,
+      "leagueId": 39,
+      "seasonId": 18,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 728,
+      "leagueId": 40,
+      "seasonId": 18,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 729,
+      "leagueId": 42,
+      "seasonId": 18,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 730,
+      "leagueId": 43,
+      "seasonId": 18,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 731,
+      "leagueId": 44,
+      "seasonId": 18,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 732,
+      "leagueId": 45,
+      "seasonId": 18,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 733,
+      "leagueId": 46,
+      "seasonId": 18,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 734,
+      "leagueId": 47,
+      "seasonId": 18,
+      "titlesRewards": [
+        252
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 735,
+      "leagueId": 48,
+      "seasonId": 18,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 736,
+      "leagueId": 6,
+      "seasonId": 19,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 737,
+      "leagueId": 7,
+      "seasonId": 19,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 738,
+      "leagueId": 8,
+      "seasonId": 19,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 739,
+      "leagueId": 9,
+      "seasonId": 19,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 740,
+      "leagueId": 10,
+      "seasonId": 19,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 746,
+      "leagueId": 16,
+      "seasonId": 19,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 747,
+      "leagueId": 17,
+      "seasonId": 19,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 748,
+      "leagueId": 18,
+      "seasonId": 19,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 749,
+      "leagueId": 20,
+      "seasonId": 19,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 750,
+      "leagueId": 21,
+      "seasonId": 19,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 756,
+      "leagueId": 27,
+      "seasonId": 19,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 757,
+      "leagueId": 28,
+      "seasonId": 19,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 758,
+      "leagueId": 29,
+      "seasonId": 19,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 759,
+      "leagueId": 30,
+      "seasonId": 19,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 760,
+      "leagueId": 31,
+      "seasonId": 19,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 765,
+      "leagueId": 36,
+      "seasonId": 19,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 766,
+      "leagueId": 37,
+      "seasonId": 19,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 767,
+      "leagueId": 38,
+      "seasonId": 19,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 768,
+      "leagueId": 39,
+      "seasonId": 19,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 769,
+      "leagueId": 40,
+      "seasonId": 19,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 770,
+      "leagueId": 42,
+      "seasonId": 19,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 771,
+      "leagueId": 43,
+      "seasonId": 19,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 772,
+      "leagueId": 44,
+      "seasonId": 19,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 773,
+      "leagueId": 45,
+      "seasonId": 19,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 774,
+      "leagueId": 46,
+      "seasonId": 19,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 775,
+      "leagueId": 47,
+      "seasonId": 19,
+      "titlesRewards": [
+        252
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 777,
+      "leagueId": 6,
+      "seasonId": 20,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 778,
+      "leagueId": 7,
+      "seasonId": 20,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 779,
+      "leagueId": 8,
+      "seasonId": 20,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 780,
+      "leagueId": 9,
+      "seasonId": 20,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 781,
+      "leagueId": 10,
+      "seasonId": 20,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 782,
+      "leagueId": 11,
+      "seasonId": 20,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 783,
+      "leagueId": 12,
+      "seasonId": 20,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 784,
+      "leagueId": 13,
+      "seasonId": 20,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 785,
+      "leagueId": 14,
+      "seasonId": 20,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 786,
+      "leagueId": 15,
+      "seasonId": 20,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 787,
+      "leagueId": 16,
+      "seasonId": 20,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 788,
+      "leagueId": 17,
+      "seasonId": 20,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 789,
+      "leagueId": 18,
+      "seasonId": 20,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 790,
+      "leagueId": 20,
+      "seasonId": 20,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 791,
+      "leagueId": 21,
+      "seasonId": 20,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 792,
+      "leagueId": 22,
+      "seasonId": 20,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 793,
+      "leagueId": 23,
+      "seasonId": 20,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 794,
+      "leagueId": 24,
+      "seasonId": 20,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 795,
+      "leagueId": 25,
+      "seasonId": 20,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 796,
+      "leagueId": 26,
+      "seasonId": 20,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 797,
+      "leagueId": 27,
+      "seasonId": 20,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 798,
+      "leagueId": 28,
+      "seasonId": 20,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 799,
+      "leagueId": 29,
+      "seasonId": 20,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 800,
+      "leagueId": 30,
+      "seasonId": 20,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 801,
+      "leagueId": 31,
+      "seasonId": 20,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 802,
+      "leagueId": 32,
+      "seasonId": 20,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 803,
+      "leagueId": 33,
+      "seasonId": 20,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 804,
+      "leagueId": 34,
+      "seasonId": 20,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 805,
+      "leagueId": 35,
+      "seasonId": 20,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 806,
+      "leagueId": 36,
+      "seasonId": 20,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 807,
+      "leagueId": 37,
+      "seasonId": 20,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 808,
+      "leagueId": 38,
+      "seasonId": 20,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 809,
+      "leagueId": 39,
+      "seasonId": 20,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 810,
+      "leagueId": 40,
+      "seasonId": 20,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 811,
+      "leagueId": 42,
+      "seasonId": 20,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 812,
+      "leagueId": 43,
+      "seasonId": 20,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 813,
+      "leagueId": 44,
+      "seasonId": 20,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 814,
+      "leagueId": 45,
+      "seasonId": 20,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 815,
+      "leagueId": 46,
+      "seasonId": 20,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 816,
+      "leagueId": 47,
+      "seasonId": 20,
+      "titlesRewards": [
+        252
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 817,
+      "leagueId": 48,
+      "seasonId": 20,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 818,
+      "leagueId": 6,
+      "seasonId": 21,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 819,
+      "leagueId": 7,
+      "seasonId": 21,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 820,
+      "leagueId": 8,
+      "seasonId": 21,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 821,
+      "leagueId": 9,
+      "seasonId": 21,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 822,
+      "leagueId": 10,
+      "seasonId": 21,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 823,
+      "leagueId": 11,
+      "seasonId": 21,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 824,
+      "leagueId": 12,
+      "seasonId": 21,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 825,
+      "leagueId": 13,
+      "seasonId": 21,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 826,
+      "leagueId": 14,
+      "seasonId": 21,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 827,
+      "leagueId": 15,
+      "seasonId": 21,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 828,
+      "leagueId": 16,
+      "seasonId": 21,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 829,
+      "leagueId": 17,
+      "seasonId": 21,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 830,
+      "leagueId": 18,
+      "seasonId": 21,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 831,
+      "leagueId": 20,
+      "seasonId": 21,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 832,
+      "leagueId": 21,
+      "seasonId": 21,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 833,
+      "leagueId": 22,
+      "seasonId": 21,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 834,
+      "leagueId": 23,
+      "seasonId": 21,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 835,
+      "leagueId": 24,
+      "seasonId": 21,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 836,
+      "leagueId": 25,
+      "seasonId": 21,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 837,
+      "leagueId": 26,
+      "seasonId": 21,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 838,
+      "leagueId": 27,
+      "seasonId": 21,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 839,
+      "leagueId": 28,
+      "seasonId": 21,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 840,
+      "leagueId": 29,
+      "seasonId": 21,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 841,
+      "leagueId": 30,
+      "seasonId": 21,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 842,
+      "leagueId": 31,
+      "seasonId": 21,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 843,
+      "leagueId": 32,
+      "seasonId": 21,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 844,
+      "leagueId": 33,
+      "seasonId": 21,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 845,
+      "leagueId": 34,
+      "seasonId": 21,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 846,
+      "leagueId": 35,
+      "seasonId": 21,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 847,
+      "leagueId": 36,
+      "seasonId": 21,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 848,
+      "leagueId": 37,
+      "seasonId": 21,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 849,
+      "leagueId": 38,
+      "seasonId": 21,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 850,
+      "leagueId": 39,
+      "seasonId": 21,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 851,
+      "leagueId": 40,
+      "seasonId": 21,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 852,
+      "leagueId": 42,
+      "seasonId": 21,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 853,
+      "leagueId": 43,
+      "seasonId": 21,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 854,
+      "leagueId": 44,
+      "seasonId": 21,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 855,
+      "leagueId": 45,
+      "seasonId": 21,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 856,
+      "leagueId": 46,
+      "seasonId": 21,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 857,
+      "leagueId": 47,
+      "seasonId": 21,
+      "titlesRewards": [
+        252
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 858,
+      "leagueId": 48,
+      "seasonId": 21,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 859,
+      "leagueId": 6,
+      "seasonId": 22,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 860,
+      "leagueId": 7,
+      "seasonId": 22,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 861,
+      "leagueId": 8,
+      "seasonId": 22,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 862,
+      "leagueId": 9,
+      "seasonId": 22,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 863,
+      "leagueId": 10,
+      "seasonId": 22,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 864,
+      "leagueId": 11,
+      "seasonId": 22,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 865,
+      "leagueId": 12,
+      "seasonId": 22,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 866,
+      "leagueId": 13,
+      "seasonId": 22,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 867,
+      "leagueId": 14,
+      "seasonId": 22,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 868,
+      "leagueId": 15,
+      "seasonId": 22,
+      "titlesRewards": [
+        247
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 869,
+      "leagueId": 16,
+      "seasonId": 22,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 870,
+      "leagueId": 17,
+      "seasonId": 22,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 871,
+      "leagueId": 18,
+      "seasonId": 22,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 872,
+      "leagueId": 20,
+      "seasonId": 22,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 873,
+      "leagueId": 21,
+      "seasonId": 22,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 874,
+      "leagueId": 22,
+      "seasonId": 22,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 875,
+      "leagueId": 23,
+      "seasonId": 22,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 876,
+      "leagueId": 24,
+      "seasonId": 22,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 877,
+      "leagueId": 25,
+      "seasonId": 22,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 878,
+      "leagueId": 26,
+      "seasonId": 22,
+      "titlesRewards": [
+        248
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 879,
+      "leagueId": 27,
+      "seasonId": 22,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 880,
+      "leagueId": 28,
+      "seasonId": 22,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 881,
+      "leagueId": 29,
+      "seasonId": 22,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 882,
+      "leagueId": 30,
+      "seasonId": 22,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 883,
+      "leagueId": 31,
+      "seasonId": 22,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 884,
+      "leagueId": 32,
+      "seasonId": 22,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 885,
+      "leagueId": 33,
+      "seasonId": 22,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 886,
+      "leagueId": 34,
+      "seasonId": 22,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 887,
+      "leagueId": 35,
+      "seasonId": 22,
+      "titlesRewards": [
+        249
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 888,
+      "leagueId": 36,
+      "seasonId": 22,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 889,
+      "leagueId": 37,
+      "seasonId": 22,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 890,
+      "leagueId": 38,
+      "seasonId": 22,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 891,
+      "leagueId": 39,
+      "seasonId": 22,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 892,
+      "leagueId": 40,
+      "seasonId": 22,
+      "titlesRewards": [
+        250
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 893,
+      "leagueId": 42,
+      "seasonId": 22,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 894,
+      "leagueId": 43,
+      "seasonId": 22,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 895,
+      "leagueId": 44,
+      "seasonId": 22,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 896,
+      "leagueId": 45,
+      "seasonId": 22,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 897,
+      "leagueId": 46,
+      "seasonId": 22,
+      "titlesRewards": [
+        251
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 898,
+      "leagueId": 47,
+      "seasonId": 22,
+      "titlesRewards": [
+        252
+      ]
+    },
+    {
+      "ClassType_": "ArenaLeagueReward",
+      "endSeasonRewards": true,
+      "id": 899,
+      "leagueId": 48,
+      "seasonId": 22,
+      "titlesRewards": [
+        249
+      ]
+    }
+  ]
+}

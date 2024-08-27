@@ -1,0 +1,2120 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.houses",
+      "packageClass": "House",
+      "fields": [
+        {
+          "name": "typeId",
+          "type": "Integer"
+        },
+        {
+          "name": "defaultPrice",
+          "type": "Integer"
+        },
+        {
+          "name": "nameId",
+          "type": "I18n"
+        },
+        {
+          "name": "descriptionId",
+          "type": "I18n"
+        },
+        {
+          "name": "gfxId",
+          "type": "Integer"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 16,
+      "nameId": 2523,
+      "typeId": 8
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 16,
+      "nameId": 2290,
+      "typeId": 9
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 16,
+      "nameId": 2326,
+      "typeId": 10
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 16,
+      "nameId": 2555,
+      "typeId": 11
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 16,
+      "nameId": 2556,
+      "typeId": 12
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 16,
+      "nameId": 2321,
+      "typeId": 13
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 16,
+      "nameId": 2322,
+      "typeId": 14
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 16,
+      "nameId": 2319,
+      "typeId": 15
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 16,
+      "nameId": 2320,
+      "typeId": 16
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 16,
+      "nameId": 2323,
+      "typeId": 17
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 16,
+      "nameId": 2324,
+      "typeId": 18
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 16,
+      "nameId": 2553,
+      "typeId": 19
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 16,
+      "nameId": 2315,
+      "typeId": 20
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 16,
+      "nameId": 2544,
+      "typeId": 21
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 16,
+      "nameId": 2546,
+      "typeId": 22
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 16,
+      "nameId": 2316,
+      "typeId": 23
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 13,
+      "nameId": 2345,
+      "typeId": 36
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 13,
+      "nameId": 2209,
+      "typeId": 53
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 13,
+      "nameId": 2208,
+      "typeId": 54
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 13,
+      "nameId": 2473,
+      "typeId": 55
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2500000,
+      "descriptionId": 0,
+      "gfxId": 14,
+      "nameId": 2211,
+      "typeId": 56
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2500000,
+      "descriptionId": 0,
+      "gfxId": 14,
+      "nameId": 2448,
+      "typeId": 57
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 3000000,
+      "descriptionId": 0,
+      "gfxId": 15,
+      "nameId": 2474,
+      "typeId": 58
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 3000000,
+      "descriptionId": 0,
+      "gfxId": 15,
+      "nameId": 2475,
+      "typeId": 59
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 16,
+      "nameId": 2466,
+      "typeId": 60
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 16,
+      "nameId": 2374,
+      "typeId": 61
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 16,
+      "nameId": 2376,
+      "typeId": 87
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 16,
+      "nameId": 2449,
+      "typeId": 88
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 26,
+      "nameId": 2309,
+      "typeId": 109
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 26,
+      "nameId": 2554,
+      "typeId": 110
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 26,
+      "nameId": 2552,
+      "typeId": 111
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 26,
+      "nameId": 2372,
+      "typeId": 113
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 26,
+      "nameId": 2549,
+      "typeId": 116
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 26,
+      "nameId": 2550,
+      "typeId": 117
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 26,
+      "nameId": 2254,
+      "typeId": 118
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 26,
+      "nameId": 2548,
+      "typeId": 119
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 26,
+      "nameId": 2526,
+      "typeId": 120
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 26,
+      "nameId": 2293,
+      "typeId": 121
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 26,
+      "nameId": 2527,
+      "typeId": 122
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 26,
+      "nameId": 2529,
+      "typeId": 124
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 23,
+      "nameId": 2304,
+      "typeId": 137
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2500000,
+      "descriptionId": 0,
+      "gfxId": 24,
+      "nameId": 2273,
+      "typeId": 141
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 23,
+      "nameId": 2512,
+      "typeId": 158
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 23,
+      "nameId": 2280,
+      "typeId": 159
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 23,
+      "nameId": 2497,
+      "typeId": 160
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2500000,
+      "descriptionId": 0,
+      "gfxId": 24,
+      "nameId": 2496,
+      "typeId": 161
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2500000,
+      "descriptionId": 0,
+      "gfxId": 24,
+      "nameId": 2495,
+      "typeId": 162
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 3000000,
+      "descriptionId": 0,
+      "gfxId": 25,
+      "nameId": 2251,
+      "typeId": 163
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 3000000,
+      "descriptionId": 0,
+      "gfxId": 25,
+      "nameId": 2249,
+      "typeId": 164
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 26,
+      "nameId": 2492,
+      "typeId": 166
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 23,
+      "nameId": 2256,
+      "typeId": 169
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 3000000,
+      "descriptionId": 0,
+      "gfxId": 25,
+      "nameId": 2257,
+      "typeId": 174
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 23,
+      "nameId": 2357,
+      "typeId": 191
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 3000000,
+      "descriptionId": 0,
+      "gfxId": 25,
+      "nameId": 2537,
+      "typeId": 206
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 26,
+      "nameId": 2540,
+      "typeId": 209
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 26,
+      "nameId": 2263,
+      "typeId": 210
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 32,
+      "nameId": 2330,
+      "typeId": 213
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 32,
+      "nameId": 2328,
+      "typeId": 214
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1000000,
+      "descriptionId": 0,
+      "gfxId": 30,
+      "nameId": 2408,
+      "typeId": 215
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1000000,
+      "descriptionId": 0,
+      "gfxId": 30,
+      "nameId": 2368,
+      "typeId": 216
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1000000,
+      "descriptionId": 0,
+      "gfxId": 30,
+      "nameId": 2406,
+      "typeId": 217
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1000000,
+      "descriptionId": 0,
+      "gfxId": 30,
+      "nameId": 2407,
+      "typeId": 218
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1000000,
+      "descriptionId": 0,
+      "gfxId": 30,
+      "nameId": 2317,
+      "typeId": 219
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1000000,
+      "descriptionId": 0,
+      "gfxId": 30,
+      "nameId": 2564,
+      "typeId": 220
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 32,
+      "nameId": 2331,
+      "typeId": 227
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 32,
+      "nameId": 2332,
+      "typeId": 228
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 32,
+      "nameId": 2353,
+      "typeId": 231
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1000000,
+      "descriptionId": 0,
+      "gfxId": 19,
+      "nameId": 2437,
+      "typeId": 232
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1000000,
+      "descriptionId": 0,
+      "gfxId": 19,
+      "nameId": 2573,
+      "typeId": 233
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1000000,
+      "descriptionId": 0,
+      "gfxId": 20,
+      "nameId": 2571,
+      "typeId": 234
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 21,
+      "nameId": 2348,
+      "typeId": 235
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2500000,
+      "descriptionId": 0,
+      "gfxId": 22,
+      "nameId": 2341,
+      "typeId": 236
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1000000,
+      "descriptionId": 0,
+      "gfxId": 17,
+      "nameId": 2344,
+      "typeId": 237
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1000000,
+      "descriptionId": 0,
+      "gfxId": 17,
+      "nameId": 2342,
+      "typeId": 239
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1500000,
+      "descriptionId": 0,
+      "gfxId": 18,
+      "nameId": 2380,
+      "typeId": 249
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 18,
+      "nameId": 2513,
+      "typeId": 255
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1500000,
+      "descriptionId": 0,
+      "gfxId": 18,
+      "nameId": 2279,
+      "typeId": 257
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1000000,
+      "descriptionId": 0,
+      "gfxId": 33,
+      "nameId": 2278,
+      "typeId": 258
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 34,
+      "nameId": 2509,
+      "typeId": 259
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 3000000,
+      "descriptionId": 0,
+      "gfxId": 35,
+      "nameId": 2292,
+      "typeId": 260
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 38,
+      "nameId": 2294,
+      "typeId": 261
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1500000,
+      "descriptionId": 0,
+      "gfxId": 37,
+      "nameId": 2289,
+      "typeId": 262
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1000000,
+      "descriptionId": 0,
+      "gfxId": 36,
+      "nameId": 2291,
+      "typeId": 263
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1500000,
+      "descriptionId": 0,
+      "gfxId": 27,
+      "nameId": 2524,
+      "typeId": 264
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1500000,
+      "descriptionId": 0,
+      "gfxId": 27,
+      "nameId": 2525,
+      "typeId": 265
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 29,
+      "nameId": 2519,
+      "typeId": 266
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 29,
+      "nameId": 2520,
+      "typeId": 267
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2500000,
+      "descriptionId": 0,
+      "gfxId": 28,
+      "nameId": 2521,
+      "typeId": 268
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2500000,
+      "descriptionId": 0,
+      "gfxId": 28,
+      "nameId": 2522,
+      "typeId": 269
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1000000,
+      "descriptionId": 0,
+      "gfxId": 2,
+      "nameId": 2352,
+      "typeId": 270
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1000000,
+      "descriptionId": 0,
+      "gfxId": 2,
+      "nameId": 2301,
+      "typeId": 271
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1000000,
+      "descriptionId": 0,
+      "gfxId": 2,
+      "nameId": 2302,
+      "typeId": 272
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1500000,
+      "descriptionId": 0,
+      "gfxId": 2,
+      "nameId": 2533,
+      "typeId": 273
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1500000,
+      "descriptionId": 0,
+      "gfxId": 2,
+      "nameId": 2300,
+      "typeId": 274
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1500000,
+      "descriptionId": 0,
+      "gfxId": 2,
+      "nameId": 2531,
+      "typeId": 275
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1500000,
+      "descriptionId": 0,
+      "gfxId": 2,
+      "nameId": 2532,
+      "typeId": 276
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2500000,
+      "descriptionId": 0,
+      "gfxId": 3,
+      "nameId": 2299,
+      "typeId": 277
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2500000,
+      "descriptionId": 0,
+      "gfxId": 3,
+      "nameId": 2530,
+      "typeId": 278
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 3500000,
+      "descriptionId": 0,
+      "gfxId": 4,
+      "nameId": 2444,
+      "typeId": 279
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 3500000,
+      "descriptionId": 0,
+      "gfxId": 4,
+      "nameId": 2238,
+      "typeId": 280
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1000000,
+      "descriptionId": 0,
+      "gfxId": 6,
+      "nameId": 2391,
+      "typeId": 281
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1000000,
+      "descriptionId": 0,
+      "gfxId": 6,
+      "nameId": 2390,
+      "typeId": 282
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1000000,
+      "descriptionId": 0,
+      "gfxId": 9,
+      "nameId": 2433,
+      "typeId": 283
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1500000,
+      "descriptionId": 0,
+      "gfxId": 6,
+      "nameId": 2224,
+      "typeId": 284
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1500000,
+      "descriptionId": 0,
+      "gfxId": 6,
+      "nameId": 2415,
+      "typeId": 285
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1000000,
+      "descriptionId": 0,
+      "gfxId": 6,
+      "nameId": 2414,
+      "typeId": 286
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1000000,
+      "descriptionId": 0,
+      "gfxId": 6,
+      "nameId": 2413,
+      "typeId": 287
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 8,
+      "nameId": 2482,
+      "typeId": 288
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 8,
+      "nameId": 2392,
+      "typeId": 289
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 8,
+      "nameId": 2434,
+      "typeId": 290
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1500000,
+      "descriptionId": 0,
+      "gfxId": 7,
+      "nameId": 2446,
+      "typeId": 291
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 7,
+      "nameId": 2226,
+      "typeId": 292
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1500000,
+      "descriptionId": 0,
+      "gfxId": 7,
+      "nameId": 2365,
+      "typeId": 293
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1500000,
+      "descriptionId": 0,
+      "gfxId": 7,
+      "nameId": 2393,
+      "typeId": 294
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1000000,
+      "descriptionId": 0,
+      "gfxId": 7,
+      "nameId": 2241,
+      "typeId": 295
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1000000,
+      "descriptionId": 0,
+      "gfxId": 8,
+      "nameId": 2233,
+      "typeId": 296
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1500000,
+      "descriptionId": 0,
+      "gfxId": 8,
+      "nameId": 2452,
+      "typeId": 297
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1500000,
+      "descriptionId": 0,
+      "gfxId": 7,
+      "nameId": 2245,
+      "typeId": 298
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5500000,
+      "descriptionId": 0,
+      "gfxId": 22,
+      "nameId": 2423,
+      "typeId": 299
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 4500000,
+      "descriptionId": 0,
+      "gfxId": 21,
+      "nameId": 116477,
+      "typeId": 300
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1000000,
+      "descriptionId": 0,
+      "gfxId": 5,
+      "nameId": 2325,
+      "typeId": 301
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1000000,
+      "descriptionId": 0,
+      "gfxId": 5,
+      "nameId": 2476,
+      "typeId": 302
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1500000,
+      "descriptionId": 0,
+      "gfxId": 10,
+      "nameId": 2220,
+      "typeId": 303
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1500000,
+      "descriptionId": 0,
+      "gfxId": 10,
+      "nameId": 2450,
+      "typeId": 304
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1500000,
+      "descriptionId": 0,
+      "gfxId": 10,
+      "nameId": 2219,
+      "typeId": 305
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1500000,
+      "descriptionId": 0,
+      "gfxId": 10,
+      "nameId": 2478,
+      "typeId": 306
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 11,
+      "nameId": 2479,
+      "typeId": 307
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 11,
+      "nameId": 2236,
+      "typeId": 308
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 11,
+      "nameId": 2235,
+      "typeId": 309
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 11,
+      "nameId": 2212,
+      "typeId": 310
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2500000,
+      "descriptionId": 0,
+      "gfxId": 12,
+      "nameId": 2213,
+      "typeId": 311
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 3000000,
+      "descriptionId": 0,
+      "gfxId": 12,
+      "nameId": 2215,
+      "typeId": 312
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2500000,
+      "descriptionId": 0,
+      "gfxId": 12,
+      "nameId": 2234,
+      "typeId": 313
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 60000000,
+      "descriptionId": 0,
+      "gfxId": 22,
+      "nameId": 2445,
+      "typeId": 314
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 4000000,
+      "descriptionId": 0,
+      "gfxId": 7,
+      "nameId": 2217,
+      "typeId": 316
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 39,
+      "nameId": 2419,
+      "typeId": 317
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 39,
+      "nameId": 2420,
+      "typeId": 318
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 39,
+      "nameId": 2488,
+      "typeId": 320
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2500000,
+      "descriptionId": 0,
+      "gfxId": 40,
+      "nameId": 2485,
+      "typeId": 321
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2500000,
+      "descriptionId": 0,
+      "gfxId": 40,
+      "nameId": 2232,
+      "typeId": 322
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2500000,
+      "descriptionId": 0,
+      "gfxId": 40,
+      "nameId": 2421,
+      "typeId": 323
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2500000,
+      "descriptionId": 0,
+      "gfxId": 40,
+      "nameId": 2484,
+      "typeId": 324
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 3000000,
+      "descriptionId": 0,
+      "gfxId": 41,
+      "nameId": 2432,
+      "typeId": 325
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 3000000,
+      "descriptionId": 0,
+      "gfxId": 41,
+      "nameId": 2493,
+      "typeId": 326
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 3000000,
+      "descriptionId": 0,
+      "gfxId": 41,
+      "nameId": 2243,
+      "typeId": 327
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 3000000,
+      "descriptionId": 0,
+      "gfxId": 41,
+      "nameId": 2240,
+      "typeId": 328
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 42,
+      "nameId": 2363,
+      "typeId": 329
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 42,
+      "nameId": 2360,
+      "typeId": 330
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 42,
+      "nameId": 2362,
+      "typeId": 331
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 42,
+      "nameId": 2358,
+      "typeId": 332
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 42,
+      "nameId": 2379,
+      "typeId": 333
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 42,
+      "nameId": 2431,
+      "typeId": 334
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 42,
+      "nameId": 2361,
+      "typeId": 335
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 42,
+      "nameId": 2354,
+      "typeId": 336
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 42,
+      "nameId": 2483,
+      "typeId": 337
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 42,
+      "nameId": 2355,
+      "typeId": 338
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 42,
+      "nameId": 2364,
+      "typeId": 339
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 39,
+      "nameId": 2260,
+      "typeId": 340
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1000000,
+      "descriptionId": 0,
+      "gfxId": 43,
+      "nameId": 2356,
+      "typeId": 341
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1000000,
+      "descriptionId": 0,
+      "gfxId": 43,
+      "nameId": 2441,
+      "typeId": 342
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1000000,
+      "descriptionId": 0,
+      "gfxId": 43,
+      "nameId": 2442,
+      "typeId": 343
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1000000,
+      "descriptionId": 0,
+      "gfxId": 43,
+      "nameId": 2443,
+      "typeId": 344
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 44,
+      "nameId": 2416,
+      "typeId": 345
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 44,
+      "nameId": 2500,
+      "typeId": 346
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 44,
+      "nameId": 2503,
+      "typeId": 347
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 44,
+      "nameId": 2264,
+      "typeId": 348
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 3000000,
+      "descriptionId": 0,
+      "gfxId": 45,
+      "nameId": 2440,
+      "typeId": 349
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 3000000,
+      "descriptionId": 0,
+      "gfxId": 45,
+      "nameId": 2439,
+      "typeId": 350
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 3000000,
+      "descriptionId": 0,
+      "gfxId": 45,
+      "nameId": 2494,
+      "typeId": 351
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 3000000,
+      "descriptionId": 0,
+      "gfxId": 45,
+      "nameId": 2247,
+      "typeId": 352
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 45000000,
+      "descriptionId": 0,
+      "gfxId": 50,
+      "nameId": 2422,
+      "typeId": 353
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 46,
+      "nameId": 2427,
+      "typeId": 354
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 46,
+      "nameId": 2428,
+      "typeId": 355
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2500000,
+      "descriptionId": 0,
+      "gfxId": 47,
+      "nameId": 2429,
+      "typeId": 356
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 3000000,
+      "descriptionId": 0,
+      "gfxId": 48,
+      "nameId": 2424,
+      "typeId": 357
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 3000000,
+      "descriptionId": 0,
+      "gfxId": 48,
+      "nameId": 2426,
+      "typeId": 358
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 49,
+      "nameId": 2425,
+      "typeId": 359
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1000000,
+      "descriptionId": 0,
+      "gfxId": 2,
+      "nameId": 94476,
+      "typeId": 362
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1000000,
+      "descriptionId": 0,
+      "gfxId": 2,
+      "nameId": 94474,
+      "typeId": 363
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1000000,
+      "descriptionId": 0,
+      "gfxId": 2,
+      "nameId": 94472,
+      "typeId": 364
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1500000,
+      "descriptionId": 0,
+      "gfxId": 2,
+      "nameId": 94471,
+      "typeId": 365
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1500000,
+      "descriptionId": 0,
+      "gfxId": 2,
+      "nameId": 94470,
+      "typeId": 366
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1500000,
+      "descriptionId": 0,
+      "gfxId": 2,
+      "nameId": 94469,
+      "typeId": 367
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1500000,
+      "descriptionId": 0,
+      "gfxId": 2,
+      "nameId": 94468,
+      "typeId": 368
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2500000,
+      "descriptionId": 0,
+      "gfxId": 3,
+      "nameId": 94478,
+      "typeId": 369
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2500000,
+      "descriptionId": 0,
+      "gfxId": 3,
+      "nameId": 94467,
+      "typeId": 370
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1000000,
+      "descriptionId": 0,
+      "gfxId": 19,
+      "nameId": 94466,
+      "typeId": 371
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1000000,
+      "descriptionId": 0,
+      "gfxId": 19,
+      "nameId": 94475,
+      "typeId": 372
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 21,
+      "nameId": 94473,
+      "typeId": 373
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2500000,
+      "descriptionId": 0,
+      "gfxId": 22,
+      "nameId": 94477,
+      "typeId": 374
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2500000,
+      "descriptionId": 0,
+      "gfxId": 2,
+      "nameId": 347438,
+      "typeId": 376
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2500000,
+      "descriptionId": 0,
+      "gfxId": 2,
+      "nameId": 347440,
+      "typeId": 377
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2500000,
+      "descriptionId": 0,
+      "gfxId": 2,
+      "nameId": 347439,
+      "typeId": 378
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2500000,
+      "descriptionId": 0,
+      "gfxId": 2,
+      "nameId": 347441,
+      "typeId": 379
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2500000,
+      "descriptionId": 0,
+      "gfxId": 2,
+      "nameId": 347437,
+      "typeId": 380
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2500000,
+      "descriptionId": 0,
+      "gfxId": 2,
+      "nameId": 347436,
+      "typeId": 381
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2500000,
+      "descriptionId": 0,
+      "gfxId": 2,
+      "nameId": 347435,
+      "typeId": 382
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1000000,
+      "descriptionId": 0,
+      "gfxId": 51,
+      "nameId": 387045,
+      "typeId": 383
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1000000,
+      "descriptionId": 0,
+      "gfxId": 51,
+      "nameId": 387048,
+      "typeId": 384
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1500000,
+      "descriptionId": 0,
+      "gfxId": 51,
+      "nameId": 387047,
+      "typeId": 385
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 51,
+      "nameId": 387046,
+      "typeId": 386
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1000000,
+      "descriptionId": 0,
+      "gfxId": 36,
+      "nameId": 666639,
+      "typeId": 388
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1500000,
+      "descriptionId": 0,
+      "gfxId": 37,
+      "nameId": 666640,
+      "typeId": 389
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 38,
+      "nameId": 666644,
+      "typeId": 390
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1000000,
+      "descriptionId": 0,
+      "gfxId": 33,
+      "nameId": 666643,
+      "typeId": 391
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 34,
+      "nameId": 666641,
+      "typeId": 392
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 3000000,
+      "descriptionId": 0,
+      "gfxId": 35,
+      "nameId": 666642,
+      "typeId": 393
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1000000,
+      "descriptionId": 0,
+      "gfxId": 2,
+      "nameId": 750638,
+      "typeId": 394
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1000000,
+      "descriptionId": 0,
+      "gfxId": 2,
+      "nameId": 750644,
+      "typeId": 395
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1500000,
+      "descriptionId": 0,
+      "gfxId": 2,
+      "nameId": 750648,
+      "typeId": 396
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1500000,
+      "descriptionId": 0,
+      "gfxId": 2,
+      "nameId": 750652,
+      "typeId": 397
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2500000,
+      "descriptionId": 0,
+      "gfxId": 3,
+      "nameId": 750681,
+      "typeId": 398
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2500000,
+      "descriptionId": 0,
+      "gfxId": 3,
+      "nameId": 750682,
+      "typeId": 399
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 3500000,
+      "descriptionId": 0,
+      "gfxId": 4,
+      "nameId": 750684,
+      "typeId": 400
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1500000,
+      "descriptionId": 0,
+      "gfxId": 27,
+      "nameId": 843247,
+      "typeId": 401
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1500000,
+      "descriptionId": 0,
+      "gfxId": 27,
+      "nameId": 843248,
+      "typeId": 402
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 29,
+      "nameId": 843249,
+      "typeId": 403
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 29,
+      "nameId": 843250,
+      "typeId": 404
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2500000,
+      "descriptionId": 0,
+      "gfxId": 28,
+      "nameId": 843251,
+      "typeId": 405
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2500000,
+      "descriptionId": 0,
+      "gfxId": 28,
+      "nameId": 843252,
+      "typeId": 406
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2500000,
+      "descriptionId": 0,
+      "gfxId": 55,
+      "nameId": 874124,
+      "typeId": 407
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 3500000,
+      "descriptionId": 0,
+      "gfxId": 54,
+      "nameId": 874136,
+      "typeId": 408
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 4500000,
+      "descriptionId": 0,
+      "gfxId": 52,
+      "nameId": 875252,
+      "typeId": 409
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 53,
+      "nameId": 875417,
+      "typeId": 410
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 53,
+      "nameId": 875418,
+      "typeId": 411
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 56,
+      "nameId": 875679,
+      "typeId": 412
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 56,
+      "nameId": 875680,
+      "typeId": 413
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 26,
+      "nameId": 919207,
+      "typeId": 414
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 26,
+      "nameId": 919210,
+      "typeId": 415
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 26,
+      "nameId": 919225,
+      "typeId": 416
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 26,
+      "nameId": 919226,
+      "typeId": 417
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 26,
+      "nameId": 919232,
+      "typeId": 418
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 26,
+      "nameId": 919234,
+      "typeId": 419
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 26,
+      "nameId": 919705,
+      "typeId": 420
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 26,
+      "nameId": 919237,
+      "typeId": 421
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 26,
+      "nameId": 919238,
+      "typeId": 422
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2500000,
+      "descriptionId": 0,
+      "gfxId": 25,
+      "nameId": 919481,
+      "typeId": 423
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2500000,
+      "descriptionId": 0,
+      "gfxId": 25,
+      "nameId": 919482,
+      "typeId": 424
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2500000,
+      "descriptionId": 0,
+      "gfxId": 24,
+      "nameId": 919278,
+      "typeId": 425
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2500000,
+      "descriptionId": 0,
+      "gfxId": 24,
+      "nameId": 919296,
+      "typeId": 426
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2500000,
+      "descriptionId": 0,
+      "gfxId": 24,
+      "nameId": 919305,
+      "typeId": 427
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 24,
+      "nameId": 919483,
+      "typeId": 428
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2500000,
+      "descriptionId": 0,
+      "gfxId": 24,
+      "nameId": 919311,
+      "typeId": 429
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2500000,
+      "descriptionId": 0,
+      "gfxId": 24,
+      "nameId": 919312,
+      "typeId": 430
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2500000,
+      "descriptionId": 0,
+      "gfxId": 24,
+      "nameId": 919314,
+      "typeId": 431
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2500000,
+      "descriptionId": 0,
+      "gfxId": 24,
+      "nameId": 919315,
+      "typeId": 432
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1500000,
+      "descriptionId": 0,
+      "gfxId": 23,
+      "nameId": 919485,
+      "typeId": 433
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1500000,
+      "descriptionId": 0,
+      "gfxId": 23,
+      "nameId": 919486,
+      "typeId": 434
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 16,
+      "nameId": 920202,
+      "typeId": 435
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 16,
+      "nameId": 920206,
+      "typeId": 436
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 16,
+      "nameId": 920211,
+      "typeId": 437
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 16,
+      "nameId": 920218,
+      "typeId": 438
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 16,
+      "nameId": 920219,
+      "typeId": 439
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 16,
+      "nameId": 920220,
+      "typeId": 440
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 5000000,
+      "descriptionId": 0,
+      "gfxId": 16,
+      "nameId": 920221,
+      "typeId": 441
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2500000,
+      "descriptionId": 0,
+      "gfxId": 15,
+      "nameId": 920222,
+      "typeId": 442
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2500000,
+      "descriptionId": 0,
+      "gfxId": 15,
+      "nameId": 920223,
+      "typeId": 443
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2500000,
+      "descriptionId": 0,
+      "gfxId": 14,
+      "nameId": 920225,
+      "typeId": 444
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 2000000,
+      "descriptionId": 0,
+      "gfxId": 14,
+      "nameId": 920226,
+      "typeId": 445
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1500000,
+      "descriptionId": 0,
+      "gfxId": 13,
+      "nameId": 920227,
+      "typeId": 446
+    },
+    {
+      "ClassType_": "House",
+      "defaultPrice": 1500000,
+      "descriptionId": 0,
+      "gfxId": 13,
+      "nameId": 920228,
+      "typeId": 447
+    }
+  ]
+}

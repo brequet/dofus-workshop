@@ -1,0 +1,872 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.optionalFeatures",
+      "packageClass": "CustomModeBreedSpell",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "pairId",
+          "type": "Integer"
+        },
+        {
+          "name": "breedId",
+          "type": "Integer"
+        },
+        {
+          "name": "isInitialSpell",
+          "type": "Boolean"
+        },
+        {
+          "name": "isHidden",
+          "type": "Boolean"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 9,
+      "id": 26091,
+      "isHidden": false,
+      "isInitialSpell": true,
+      "pairId": 145
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 10,
+      "id": 26096,
+      "isHidden": false,
+      "isInitialSpell": true,
+      "pairId": 154
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 9,
+      "id": 26101,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 147
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 9,
+      "id": 26102,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 146
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 9,
+      "id": 26104,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 149
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 9,
+      "id": 26110,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 148
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 10,
+      "id": 26116,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 153
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 10,
+      "id": 26117,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 151
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 10,
+      "id": 26118,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 152
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 10,
+      "id": 26122,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 150
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 10,
+      "id": 26125,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 155
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 6,
+      "id": 26131,
+      "isHidden": false,
+      "isInitialSpell": true,
+      "pairId": 156
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 6,
+      "id": 26134,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 159
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 6,
+      "id": 26135,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 158
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 6,
+      "id": 26136,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 157
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 6,
+      "id": 26147,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 160
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 7,
+      "id": 26151,
+      "isHidden": false,
+      "isInitialSpell": true,
+      "pairId": 161
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 7,
+      "id": 26158,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 162
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 7,
+      "id": 26166,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 163
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 7,
+      "id": 26170,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 164
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 7,
+      "id": 26175,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 165
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 3,
+      "id": 26177,
+      "isHidden": false,
+      "isInitialSpell": true,
+      "pairId": 168
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 3,
+      "id": 26184,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 169
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 3,
+      "id": 26188,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 170
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 3,
+      "id": 26189,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 171
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 3,
+      "id": 26194,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 172
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 16,
+      "id": 26219,
+      "isHidden": false,
+      "isInitialSpell": true,
+      "pairId": 177
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 16,
+      "id": 26225,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 178
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 16,
+      "id": 26226,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 175
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 16,
+      "id": 26227,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 176
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 16,
+      "id": 26229,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 174
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 16,
+      "id": 26230,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 173
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 1,
+      "id": 26257,
+      "isHidden": false,
+      "isInitialSpell": true,
+      "pairId": 179
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 1,
+      "id": 26258,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 180
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 1,
+      "id": 26259,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 181
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 1,
+      "id": 26260,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 182
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 1,
+      "id": 26266,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 183
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 8,
+      "id": 26285,
+      "isHidden": false,
+      "isInitialSpell": true,
+      "pairId": 184
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 8,
+      "id": 26289,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 185
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 8,
+      "id": 26290,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 186
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 8,
+      "id": 26291,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 187
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 8,
+      "id": 26292,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 188
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 11,
+      "id": 26306,
+      "isHidden": false,
+      "isInitialSpell": true,
+      "pairId": 189
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 11,
+      "id": 26317,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 191
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 11,
+      "id": 26318,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 190
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 11,
+      "id": 26319,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 192
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 11,
+      "id": 26320,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 193
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 11,
+      "id": 26321,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 194
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 14,
+      "id": 26332,
+      "isHidden": false,
+      "isInitialSpell": true,
+      "pairId": 195
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 14,
+      "id": 26644,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 196
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 14,
+      "id": 26645,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 197
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 14,
+      "id": 26646,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 198
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 14,
+      "id": 26647,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 199
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 14,
+      "id": 26802,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 200
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 17,
+      "id": 27502,
+      "isHidden": false,
+      "isInitialSpell": true,
+      "pairId": 201
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 4,
+      "id": 27514,
+      "isHidden": false,
+      "isInitialSpell": true,
+      "pairId": 207
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 17,
+      "id": 27525,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 204
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 17,
+      "id": 27526,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 205
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 17,
+      "id": 27528,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 202
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 17,
+      "id": 27529,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 203
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 17,
+      "id": 27530,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 206
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 4,
+      "id": 27545,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 208
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 4,
+      "id": 27546,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 209
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 4,
+      "id": 27547,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 210
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 4,
+      "id": 27548,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 211
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 20,
+      "id": 27599,
+      "isHidden": false,
+      "isInitialSpell": true,
+      "pairId": 217
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 20,
+      "id": 27602,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 218
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 20,
+      "id": 27603,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 219
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 20,
+      "id": 27604,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 220
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 20,
+      "id": 27605,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 221
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 2,
+      "id": 27631,
+      "isHidden": false,
+      "isInitialSpell": true,
+      "pairId": 212
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 2,
+      "id": 27641,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 213
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 2,
+      "id": 27642,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 215
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 2,
+      "id": 27643,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 214
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 2,
+      "id": 27644,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 216
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 13,
+      "id": 27665,
+      "isHidden": false,
+      "isInitialSpell": true,
+      "pairId": 222
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 13,
+      "id": 27673,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 223
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 13,
+      "id": 27674,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 224
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 13,
+      "id": 27675,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 225
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 13,
+      "id": 27676,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 226
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 13,
+      "id": 27694,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 227
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 5,
+      "id": 27709,
+      "isHidden": false,
+      "isInitialSpell": true,
+      "pairId": 228
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 5,
+      "id": 27716,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 230
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 5,
+      "id": 27717,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 229
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 18,
+      "id": 27726,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 235
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 18,
+      "id": 27727,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 234
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 18,
+      "id": 27728,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 237
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 18,
+      "id": 27729,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 236
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 5,
+      "id": 27730,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 231
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 18,
+      "id": 27731,
+      "isHidden": false,
+      "isInitialSpell": true,
+      "pairId": 233
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 5,
+      "id": 27762,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 232
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 18,
+      "id": 27786,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 238
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 15,
+      "id": 27821,
+      "isHidden": false,
+      "isInitialSpell": true,
+      "pairId": 251
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 15,
+      "id": 27830,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 252
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 15,
+      "id": 27831,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 253
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 15,
+      "id": 27832,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 254
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 15,
+      "id": 27833,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 255
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 15,
+      "id": 27842,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 256
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 12,
+      "id": 27865,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 258
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 12,
+      "id": 27867,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 261
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 12,
+      "id": 27886,
+      "isHidden": false,
+      "isInitialSpell": true,
+      "pairId": 257
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 12,
+      "id": 27907,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 259
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 12,
+      "id": 27908,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 260
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 12,
+      "id": 27912,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 262
+    },
+    {
+      "ClassType_": "CustomModeBreedSpell",
+      "breedId": 7,
+      "id": 28423,
+      "isHidden": false,
+      "isInitialSpell": false,
+      "pairId": 263
+    }
+  ]
+}

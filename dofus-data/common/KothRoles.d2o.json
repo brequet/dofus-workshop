@@ -1,0 +1,66 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.alliance",
+      "packageClass": "KothRole",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "nameId",
+          "type": "I18n"
+        },
+        {
+          "name": "isDefault",
+          "type": "Boolean"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "KothRole",
+      "id": 3,
+      "isDefault": false,
+      "nameId": 976384
+    },
+    {
+      "ClassType_": "KothRole",
+      "id": 4,
+      "isDefault": false,
+      "nameId": 976386
+    },
+    {
+      "ClassType_": "KothRole",
+      "id": 5,
+      "isDefault": false,
+      "nameId": 976388
+    },
+    {
+      "ClassType_": "KothRole",
+      "id": 7,
+      "isDefault": false,
+      "nameId": 976398
+    },
+    {
+      "ClassType_": "KothRole",
+      "id": 8,
+      "isDefault": true,
+      "nameId": 976400
+    },
+    {
+      "ClassType_": "KothRole",
+      "id": 6,
+      "isDefault": false,
+      "nameId": 976396
+    },
+    {
+      "ClassType_": "KothRole",
+      "id": 2,
+      "isDefault": false,
+      "nameId": 976375
+    }
+  ]
+}

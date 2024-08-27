@@ -1,0 +1,2187 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.world",
+      "packageClass": "Dungeon",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "nameId",
+          "type": "I18n"
+        },
+        {
+          "name": "optimalPlayerLevel",
+          "type": "Integer"
+        },
+        {
+          "name": "mapIds",
+          "type": "Vector",
+          "subtype": {
+            "name": "Vector.\u003cNumber\u003e",
+            "type": "Number"
+          }
+        },
+        {
+          "name": "entranceMapId",
+          "type": "Number"
+        },
+        {
+          "name": "exitMapId",
+          "type": "Number"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 120063489,
+      "exitMapId": 120063489,
+      "id": 1,
+      "mapIds": [
+        121373185,
+        121374209,
+        121375233,
+        121373187,
+        121374211
+      ],
+      "nameId": 752265,
+      "optimalPlayerLevel": 30
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 158334976,
+      "exitMapId": 158334976,
+      "id": 3,
+      "mapIds": [
+        159121408,
+        159122432,
+        159123456,
+        159124480,
+        159125512,
+        159121410,
+        159122434,
+        159123458,
+        159124482,
+        159121412,
+        159122436,
+        159123460,
+        159124484,
+        159121414,
+        159122438,
+        159123462,
+        159124486,
+        159121666,
+        159124488
+      ],
+      "nameId": 220621,
+      "optimalPlayerLevel": 110
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 34473220,
+      "exitMapId": 34476294,
+      "id": 4,
+      "mapIds": [
+        34473476,
+        34473474
+      ],
+      "nameId": 220628,
+      "optimalPlayerLevel": 120
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 72221696,
+      "exitMapId": 72221696,
+      "id": 6,
+      "mapIds": [
+        72352768,
+        72353792,
+        72351744,
+        72354816,
+        72355840,
+        72356864,
+        72357888,
+        72358912,
+        72359936,
+        72360960,
+        72361984,
+        72359170,
+        72358146
+      ],
+      "nameId": 232658,
+      "optimalPlayerLevel": 100
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 198967296,
+      "exitMapId": 86248450,
+      "id": 7,
+      "mapIds": [
+        198968320,
+        198969344,
+        198970368,
+        198971392,
+        198972416
+      ],
+      "nameId": 802290,
+      "optimalPlayerLevel": 120
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 192937992,
+      "exitMapId": 192937992,
+      "id": 8,
+      "mapIds": [
+        190448640,
+        190317568,
+        190318592,
+        190449664,
+        190316544
+      ],
+      "nameId": 752266,
+      "optimalPlayerLevel": 20
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 147851777,
+      "exitMapId": 147851777,
+      "id": 9,
+      "mapIds": [
+        149684224,
+        149685248,
+        149686272,
+        149687296,
+        149688320
+      ],
+      "nameId": 507470,
+      "optimalPlayerLevel": 90
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 149422080,
+      "exitMapId": 149422080,
+      "id": 10,
+      "mapIds": [
+        149423104,
+        149424128,
+        149425152,
+        149426176,
+        149427200
+      ],
+      "nameId": 507472,
+      "optimalPlayerLevel": 140
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 166985728,
+      "exitMapId": 166985728,
+      "id": 11,
+      "mapIds": [
+        166986754,
+        166987778,
+        166988802,
+        166989826,
+        166986752,
+        166987776,
+        166988800,
+        166989824,
+        166990848,
+        166985730
+      ],
+      "nameId": 659094,
+      "optimalPlayerLevel": 60
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 104862211,
+      "exitMapId": 104862211,
+      "id": 13,
+      "mapIds": [
+        104595969,
+        104596993,
+        104598017,
+        104599041,
+        104595971,
+        104596995,
+        104599043
+      ],
+      "nameId": 220636,
+      "optimalPlayerLevel": 50
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 172493057,
+      "exitMapId": 172493057,
+      "id": 14,
+      "mapIds": [
+        104333825,
+        104334849,
+        104335873,
+        104336897,
+        104333827
+      ],
+      "nameId": 727405,
+      "optimalPlayerLevel": 180
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 171706891,
+      "exitMapId": 171706891,
+      "id": 15,
+      "mapIds": [
+        155715584,
+        155716610,
+        155717632,
+        155719680,
+        155713536,
+        155714560,
+        155716608,
+        155718656
+      ],
+      "nameId": 725760,
+      "optimalPlayerLevel": 100
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 106694158,
+      "exitMapId": 68420613,
+      "id": 17,
+      "mapIds": [
+        116654593,
+        116655617,
+        116656641,
+        116657665,
+        116654595
+      ],
+      "nameId": 290061,
+      "optimalPlayerLevel": 80
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 185861634,
+      "exitMapId": 185861634,
+      "id": 18,
+      "mapIds": [
+        106958848,
+        106959872,
+        106957830,
+        106957832,
+        106955776,
+        106956800,
+        106957824,
+        106960896,
+        106954752,
+        106959874,
+        106957826,
+        106957828
+      ],
+      "nameId": 659247,
+      "optimalPlayerLevel": 70
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 190056961,
+      "exitMapId": 190056961,
+      "id": 19,
+      "mapIds": [
+        193726464,
+        193727488,
+        193728512,
+        193729536,
+        193725440,
+        193727490
+      ],
+      "nameId": 751358,
+      "optimalPlayerLevel": 20
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 88086786,
+      "exitMapId": 88086786,
+      "id": 21,
+      "mapIds": [
+        87295489,
+        87296513,
+        87297537,
+        87294467,
+        87295491,
+        87296515,
+        87294469,
+        87295493,
+        87296517,
+        87297541,
+        87294471,
+        87294465
+      ],
+      "nameId": 220650,
+      "optimalPlayerLevel": 50
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 181146624,
+      "exitMapId": 181146624,
+      "id": 22,
+      "mapIds": [
+        182327297,
+        182326273,
+        182325249,
+        182324225,
+        182323201,
+        182323203,
+        182322177,
+        182322179,
+        182190081,
+        182191105,
+        182192129
+      ],
+      "nameId": 726568,
+      "optimalPlayerLevel": 180
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 88084997,
+      "exitMapId": 88084997,
+      "id": 24,
+      "mapIds": [
+        98566657,
+        98567681,
+        98566659,
+        98567683,
+        98568707,
+        98566661,
+        98567685,
+        98568709,
+        98566663,
+        98567687,
+        98568705
+      ],
+      "nameId": 220705,
+      "optimalPlayerLevel": 60
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 161295,
+      "exitMapId": 161295,
+      "id": 25,
+      "mapIds": [
+        5244416,
+        5242883,
+        5244419,
+        5242886,
+        5243139
+      ],
+      "nameId": 220707,
+      "optimalPlayerLevel": 50
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 156499971,
+      "exitMapId": 156499971,
+      "id": 27,
+      "mapIds": [
+        157549568,
+        157550592,
+        157551616,
+        157552640,
+        157548544
+      ],
+      "nameId": 557506,
+      "optimalPlayerLevel": 60
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 25693696,
+      "exitMapId": 25693696,
+      "id": 28,
+      "mapIds": [
+        21497856,
+        21499904,
+        21496834,
+        21497858,
+        21495808
+      ],
+      "nameId": 220623,
+      "optimalPlayerLevel": 160
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 139784,
+      "exitMapId": 139265,
+      "id": 30,
+      "mapIds": [
+        107217920,
+        107218944,
+        107219968,
+        107220992,
+        107222016,
+        107223040,
+        107224064,
+        107225088,
+        107226112,
+        107227136,
+        107228160,
+        107216896
+      ],
+      "nameId": 220626,
+      "optimalPlayerLevel": 100
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 162056,
+      "exitMapId": 162056,
+      "id": 31,
+      "mapIds": [
+        26739712,
+        26740736,
+        26738688
+      ],
+      "nameId": 220620,
+      "optimalPlayerLevel": 180
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 185861122,
+      "exitMapId": 185861122,
+      "id": 32,
+      "mapIds": [
+        64750592,
+        64751616,
+        64752640,
+        64753664,
+        64749568
+      ],
+      "nameId": 94594,
+      "optimalPlayerLevel": 50
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 96993793,
+      "exitMapId": 185862148,
+      "id": 33,
+      "mapIds": [
+        96994817,
+        96995841,
+        96996865,
+        96997889,
+        96997891,
+        96998913,
+        96998915,
+        96993797,
+        96994821,
+        96995845,
+        96996869,
+        96996871,
+        96997893,
+        96997895,
+        96998917
+      ],
+      "nameId": 220652,
+      "optimalPlayerLevel": 50
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 139723265,
+      "exitMapId": 139723265,
+      "id": 34,
+      "mapIds": [
+        163581440,
+        163582464,
+        163579392,
+        163580416,
+        163578368
+      ],
+      "nameId": 94596,
+      "optimalPlayerLevel": 40
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 177079296,
+      "exitMapId": 177079296,
+      "id": 35,
+      "mapIds": [
+        176950272,
+        176951296,
+        176948224,
+        176949248,
+        176947200
+      ],
+      "nameId": 220709,
+      "optimalPlayerLevel": 70
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 66061569,
+      "exitMapId": 66061569,
+      "id": 36,
+      "mapIds": [
+        66586112,
+        66587136,
+        66588160,
+        66589184,
+        66585088
+      ],
+      "nameId": 220632,
+      "optimalPlayerLevel": 50
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 66192641,
+      "exitMapId": 66192641,
+      "id": 37,
+      "mapIds": [
+        66847744,
+        66848768,
+        66849792,
+        66850816,
+        66846720
+      ],
+      "nameId": 220624,
+      "optimalPlayerLevel": 110
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 66060545,
+      "exitMapId": 66060545,
+      "id": 38,
+      "mapIds": [
+        66323456,
+        66324480,
+        66325504,
+        66326528,
+        66322432
+      ],
+      "nameId": 94600,
+      "optimalPlayerLevel": 180
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 22546944,
+      "exitMapId": 22546944,
+      "id": 39,
+      "mapIds": [
+        22283264,
+        22282242,
+        22283266,
+        22284290,
+        22282240
+      ],
+      "nameId": 220622,
+      "optimalPlayerLevel": 70
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 89916416,
+      "exitMapId": 89916416,
+      "id": 41,
+      "mapIds": [
+        22806530,
+        22807554,
+        22808578,
+        22809602,
+        22808576
+      ],
+      "nameId": 220706,
+      "optimalPlayerLevel": 110
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 216402698,
+      "exitMapId": 218632194,
+      "id": 42,
+      "mapIds": [
+        218632192,
+        218631168,
+        218630144,
+        218629120,
+        218628096
+      ],
+      "nameId": 925278,
+      "optimalPlayerLevel": 110
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 216927751,
+      "exitMapId": 218894338,
+      "id": 43,
+      "mapIds": [
+        218894336,
+        218891264,
+        218892288,
+        218893312,
+        218890240
+      ],
+      "nameId": 925277,
+      "optimalPlayerLevel": 110
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 101714451,
+      "exitMapId": 101714451,
+      "id": 44,
+      "mapIds": [
+        102760961,
+        102761985,
+        102763009,
+        102764033,
+        102760963
+      ],
+      "nameId": 967396,
+      "optimalPlayerLevel": 150
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 88080387,
+      "exitMapId": 88080899,
+      "id": 45,
+      "mapIds": [
+        94109696,
+        94110720,
+        94111744,
+        94111746,
+        94112768,
+        94113792,
+        94114816,
+        94115840
+      ],
+      "nameId": 220656,
+      "optimalPlayerLevel": 40
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 63310595,
+      "exitMapId": 63310595,
+      "id": 46,
+      "mapIds": [
+        107483136,
+        107486208,
+        107485184,
+        107479040,
+        107480064,
+        107481088,
+        107482112,
+        107484160
+      ],
+      "nameId": 94588,
+      "optimalPlayerLevel": 120
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 87032320,
+      "exitMapId": 82314753,
+      "id": 47,
+      "mapIds": [
+        87034368,
+        87035392,
+        87032322,
+        87033346,
+        87035394,
+        87033344
+      ],
+      "nameId": 220657,
+      "optimalPlayerLevel": 40
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 96338944,
+      "exitMapId": 88082705,
+      "id": 48,
+      "mapIds": [
+        96338946,
+        96206850,
+        96206852,
+        96206848,
+        96207874,
+        96208898,
+        96209922
+      ],
+      "nameId": 220658,
+      "optimalPlayerLevel": 40
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 166985728,
+      "exitMapId": 166985728,
+      "id": 49,
+      "mapIds": [
+        166990850
+      ],
+      "nameId": 220617,
+      "optimalPlayerLevel": 120
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 96338944,
+      "exitMapId": 10231814,
+      "id": 50,
+      "mapIds": [
+        96209926,
+        96207876,
+        96206854,
+        96207878,
+        96208902,
+        96338948,
+        96338950
+      ],
+      "nameId": 150238,
+      "optimalPlayerLevel": 120
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 63964672,
+      "exitMapId": 63964672,
+      "id": 51,
+      "mapIds": [
+        89391106,
+        89394178,
+        89392130,
+        89391104,
+        89392128
+      ],
+      "nameId": 140357,
+      "optimalPlayerLevel": 140
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 99614979,
+      "exitMapId": 99614979,
+      "id": 52,
+      "mapIds": [
+        116392448,
+        116393472,
+        116394496,
+        116395520,
+        116392450
+      ],
+      "nameId": 285400,
+      "optimalPlayerLevel": 60
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 34473476,
+      "exitMapId": 34476294,
+      "id": 53,
+      "mapIds": [
+        34472450
+      ],
+      "nameId": 141203,
+      "optimalPlayerLevel": 160
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 54176049,
+      "exitMapId": 54175024,
+      "id": 54,
+      "mapIds": [
+        55050242,
+        55052290,
+        55052288,
+        55050240,
+        55053312
+      ],
+      "nameId": 94625,
+      "optimalPlayerLevel": 120
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 55836672,
+      "exitMapId": 55836672,
+      "id": 55,
+      "mapIds": [
+        56099840,
+        56100864,
+        56101888,
+        56102912,
+        56098816
+      ],
+      "nameId": 220704,
+      "optimalPlayerLevel": 140
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 54163796,
+      "exitMapId": 54165334,
+      "id": 56,
+      "mapIds": [
+        56361984,
+        56363008,
+        56364032,
+        56365056,
+        56360960
+      ],
+      "nameId": 757204,
+      "optimalPlayerLevel": 150
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 56890883,
+      "exitMapId": 54170450,
+      "id": 57,
+      "mapIds": [
+        57149697,
+        57151233,
+        57152769,
+        57154305,
+        57155841,
+        57148161,
+        57279745
+      ],
+      "nameId": 220708,
+      "optimalPlayerLevel": 160
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 59510784,
+      "exitMapId": 60031488,
+      "id": 58,
+      "mapIds": [
+        59515138,
+        59516162,
+        59517186,
+        59512832,
+        59513856,
+        59514880,
+        59515904,
+        59516928,
+        59517952,
+        59518976,
+        59511808
+      ],
+      "nameId": 194798,
+      "optimalPlayerLevel": 170
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 60036612,
+      "exitMapId": 60036612,
+      "id": 59,
+      "mapIds": [
+        62916608,
+        62917632,
+        62918656,
+        62919680,
+        62915584
+      ],
+      "nameId": 220619,
+      "optimalPlayerLevel": 180
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 54164293,
+      "exitMapId": 54164807,
+      "id": 60,
+      "mapIds": [
+        61867008,
+        61868032,
+        61868034,
+        61868036,
+        61998084,
+        61998082,
+        61998338,
+        61998340,
+        61865984
+      ],
+      "nameId": 220627,
+      "optimalPlayerLevel": 190
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 62129672,
+      "exitMapId": 54165323,
+      "id": 61,
+      "mapIds": [
+        62131720,
+        62132744,
+        62133768,
+        62134792,
+        62135816,
+        62130696
+      ],
+      "nameId": 220615,
+      "optimalPlayerLevel": 190
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 54159661,
+      "exitMapId": 54159661,
+      "id": 62,
+      "mapIds": [
+        57935617,
+        57936641,
+        57937665,
+        57938689,
+        57934593
+      ],
+      "nameId": 220631,
+      "optimalPlayerLevel": 190
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 101187584,
+      "exitMapId": 101187584,
+      "id": 66,
+      "mapIds": [
+        101188608,
+        101189632,
+        101190656,
+        101191680,
+        101192704,
+        101193728
+      ],
+      "nameId": 272350,
+      "optimalPlayerLevel": 100
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 108793118,
+      "exitMapId": 108793118,
+      "id": 67,
+      "mapIds": [
+        110100480,
+        110101504,
+        110102528,
+        110103552,
+        110100482,
+        110101506
+      ],
+      "nameId": 272349,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 108925717,
+      "exitMapId": 108925717,
+      "id": 68,
+      "mapIds": [
+        110362624,
+        110363648,
+        110364672,
+        110365696,
+        110362626,
+        110363650
+      ],
+      "nameId": 272348,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 108927238,
+      "exitMapId": 108927238,
+      "id": 69,
+      "mapIds": [
+        109838849,
+        109839873,
+        109840897,
+        109841921,
+        109840899
+      ],
+      "nameId": 272347,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 108794630,
+      "exitMapId": 108794630,
+      "id": 70,
+      "mapIds": [
+        109576705,
+        109577729,
+        109578753,
+        109579777,
+        109576707
+      ],
+      "nameId": 272345,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 112460048,
+      "exitMapId": 112460048,
+      "id": 71,
+      "mapIds": [
+        112198145,
+        112199169,
+        112200193,
+        112201217,
+        112202241,
+        112203523,
+        112203265,
+        112203269,
+        112203271,
+        112203521,
+        112204545,
+        112204289,
+        112204293,
+        112204295
+      ],
+      "nameId": 272346,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 117965057,
+      "exitMapId": 117965057,
+      "id": 72,
+      "mapIds": [
+        118226944,
+        118227968,
+        118228992,
+        118230016,
+        118231040,
+        118229250,
+        118229252
+      ],
+      "nameId": 454739,
+      "optimalPlayerLevel": 100
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 117706767,
+      "exitMapId": 117706767,
+      "id": 73,
+      "mapIds": [
+        119276033,
+        119277057,
+        119278081,
+        119276035,
+        119277059
+      ],
+      "nameId": 454740,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 121636870,
+      "exitMapId": 121636870,
+      "id": 74,
+      "mapIds": [
+        123207680,
+        123208704,
+        123209728,
+        123210752,
+        123211776,
+        123212800
+      ],
+      "nameId": 454736,
+      "optimalPlayerLevel": 190
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 125829633,
+      "exitMapId": 125829633,
+      "id": 75,
+      "mapIds": [
+        125830657,
+        125831681,
+        125829635,
+        125830659,
+        125831683
+      ],
+      "nameId": 454735,
+      "optimalPlayerLevel": 160
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 129499136,
+      "exitMapId": 129236992,
+      "id": 76,
+      "mapIds": [
+        129500160
+      ],
+      "nameId": 454738,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 130285568,
+      "exitMapId": 129368578,
+      "id": 77,
+      "mapIds": [
+        130286592
+      ],
+      "nameId": 454737,
+      "optimalPlayerLevel": 100
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 130547712,
+      "exitMapId": 129238529,
+      "id": 79,
+      "mapIds": [
+        130548736
+      ],
+      "nameId": 454734,
+      "optimalPlayerLevel": 150
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 133171202,
+      "exitMapId": 133171202,
+      "id": 80,
+      "mapIds": [
+        132907008,
+        132908032,
+        132909056,
+        132910080,
+        132911104
+      ],
+      "nameId": 454729,
+      "optimalPlayerLevel": 130
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 136577024,
+      "exitMapId": 134221826,
+      "id": 81,
+      "mapIds": [
+        136578048
+      ],
+      "nameId": 454732,
+      "optimalPlayerLevel": 130
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 136839168,
+      "exitMapId": 135269891,
+      "id": 82,
+      "mapIds": [
+        136840192
+      ],
+      "nameId": 454733,
+      "optimalPlayerLevel": 180
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 136056074,
+      "exitMapId": 136056074,
+      "id": 83,
+      "mapIds": [
+        137101312,
+        137102336
+      ],
+      "nameId": 454730,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 140641537,
+      "exitMapId": 140641537,
+      "id": 84,
+      "mapIds": [
+        140771328,
+        140772352,
+        140773376,
+        140774400,
+        140775424,
+        140776448
+      ],
+      "nameId": 482278,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 144969990,
+      "exitMapId": 144969990,
+      "id": 85,
+      "mapIds": [
+        143138823
+      ],
+      "nameId": 470122,
+      "optimalPlayerLevel": 120
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 144707846,
+      "exitMapId": 144707846,
+      "id": 86,
+      "mapIds": [
+        143917569
+      ],
+      "nameId": 470121,
+      "optimalPlayerLevel": 170
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 144445702,
+      "exitMapId": 144445702,
+      "id": 87,
+      "mapIds": [
+        143393281
+      ],
+      "nameId": 470120,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 146676736,
+      "exitMapId": 103549440,
+      "id": 88,
+      "mapIds": [
+        146675712,
+        146674688,
+        146673664,
+        146671616,
+        146670592,
+        146672640,
+        146672898
+      ],
+      "nameId": 485717,
+      "optimalPlayerLevel": 40
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 149159936,
+      "exitMapId": 147853312,
+      "id": 89,
+      "mapIds": [
+        149160960,
+        149161984,
+        149163008,
+        149164032,
+        149165056
+      ],
+      "nameId": 512394,
+      "optimalPlayerLevel": 90
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 153881600,
+      "exitMapId": 153881600,
+      "id": 90,
+      "mapIds": [
+        152829952,
+        152830976,
+        152832000,
+        152833024,
+        152834048
+      ],
+      "nameId": 554465,
+      "optimalPlayerLevel": 10
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 158078976,
+      "exitMapId": 158078976,
+      "id": 91,
+      "mapIds": [
+        157024256,
+        157025280,
+        157026304,
+        157027328,
+        157028352
+      ],
+      "nameId": 563306,
+      "optimalPlayerLevel": 90
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 156499968,
+      "exitMapId": 156499968,
+      "id": 92,
+      "mapIds": [
+        157286400,
+        157287424,
+        157288448,
+        157289472,
+        157290496
+      ],
+      "nameId": 561280,
+      "optimalPlayerLevel": 100
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 161742848,
+      "exitMapId": 161744896,
+      "id": 93,
+      "mapIds": [
+        161743872
+      ],
+      "nameId": 605686,
+      "optimalPlayerLevel": 110
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 160960771,
+      "exitMapId": 162006016,
+      "id": 94,
+      "mapIds": [
+        162004992
+      ],
+      "nameId": 605687,
+      "optimalPlayerLevel": 160
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 160565248,
+      "exitMapId": 160432128,
+      "id": 95,
+      "mapIds": [
+        160564224
+      ],
+      "nameId": 605685,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 182452224,
+      "exitMapId": 172757504,
+      "id": 96,
+      "mapIds": [
+        182453248,
+        182454272,
+        182455296,
+        182456320
+      ],
+      "nameId": 625710,
+      "optimalPlayerLevel": 186
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 169084930,
+      "exitMapId": 169084930,
+      "id": 97,
+      "mapIds": [
+        169869312,
+        169870336,
+        169871360,
+        169872384,
+        169873408
+      ],
+      "nameId": 649892,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 168560640,
+      "exitMapId": 168560640,
+      "id": 98,
+      "mapIds": [
+        169345024,
+        169346048,
+        169347072,
+        169348096,
+        169349120
+      ],
+      "nameId": 649891,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 168820736,
+      "exitMapId": 168820736,
+      "id": 99,
+      "mapIds": [
+        169607168,
+        169608192,
+        169609216,
+        169610240,
+        169611264
+      ],
+      "nameId": 649893,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 173280513,
+      "exitMapId": 173280513,
+      "id": 100,
+      "mapIds": [
+        174326272,
+        174327296,
+        174328320,
+        174329344,
+        174330368
+      ],
+      "nameId": 765263,
+      "optimalPlayerLevel": 80
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 173540352,
+      "exitMapId": 173540352,
+      "id": 101,
+      "mapIds": [
+        174067200,
+        174068736,
+        174070272,
+        174064128,
+        174065664
+      ],
+      "nameId": 697799,
+      "optimalPlayerLevel": 130
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 174850048,
+      "exitMapId": 174850048,
+      "id": 102,
+      "mapIds": [
+        175902208,
+        176030208,
+        175899136,
+        175900160,
+        175901184
+      ],
+      "nameId": 711420,
+      "optimalPlayerLevel": 170
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 175637504,
+      "exitMapId": 175637504,
+      "id": 103,
+      "mapIds": [
+        176160768,
+        176161792,
+        176162816,
+        176163840,
+        176164864
+      ],
+      "nameId": 711419,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 179438082,
+      "exitMapId": 179438082,
+      "id": 104,
+      "mapIds": [
+        179568640,
+        179569664,
+        179570688,
+        179571712,
+        179572736
+      ],
+      "nameId": 721683,
+      "optimalPlayerLevel": 190
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 181797888,
+      "exitMapId": 181797888,
+      "id": 105,
+      "mapIds": [
+        181665792,
+        181666816,
+        181667840,
+        181668864,
+        181669888,
+        181670912
+      ],
+      "nameId": 726579,
+      "optimalPlayerLevel": 90
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 179831808,
+      "exitMapId": 179831808,
+      "id": 106,
+      "mapIds": [
+        182714368,
+        182715392,
+        182716416,
+        182717440,
+        182718464
+      ],
+      "nameId": 726799,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 183501836,
+      "exitMapId": 183501836,
+      "id": 107,
+      "mapIds": [
+        184690945,
+        184689921,
+        184688385,
+        184687361,
+        184686337
+      ],
+      "nameId": 732919,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 186384896,
+      "exitMapId": 186384896,
+      "id": 108,
+      "mapIds": [
+        187432960,
+        187433984,
+        187435008,
+        187436032,
+        187437056
+      ],
+      "nameId": 744300,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 183108098,
+      "exitMapId": 183108098,
+      "id": 109,
+      "mapIds": [
+        187957506,
+        187957508,
+        187957248,
+        187957510,
+        187957512
+      ],
+      "nameId": 744768,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 194779138,
+      "exitMapId": 194779138,
+      "id": 110,
+      "mapIds": [
+        195035136,
+        195036160,
+        195037184,
+        195038208,
+        195039232
+      ],
+      "nameId": 759633,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 197133314,
+      "exitMapId": 197133314,
+      "id": 111,
+      "mapIds": [
+        197660672,
+        197659648,
+        197658624,
+        197657600,
+        197656576
+      ],
+      "nameId": 789095,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 197526528,
+      "exitMapId": 197526528,
+      "id": 112,
+      "mapIds": [
+        197394432,
+        197395456,
+        197396480,
+        197397504,
+        197398528
+      ],
+      "nameId": 789947,
+      "optimalPlayerLevel": 130
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 196346371,
+      "exitMapId": 196346371,
+      "id": 113,
+      "mapIds": [
+        106430464,
+        106431488,
+        106432512,
+        106433536,
+        106434560
+      ],
+      "nameId": 789304,
+      "optimalPlayerLevel": 60
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 197918722,
+      "exitMapId": 197918722,
+      "id": 114,
+      "mapIds": [
+        198706176,
+        198707200,
+        198708224,
+        198709248,
+        198705152
+      ],
+      "nameId": 802369,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 84411905,
+      "exitMapId": 199495682,
+      "id": 115,
+      "mapIds": [
+        199491584,
+        199492608,
+        199493632,
+        199494656,
+        199495680
+      ],
+      "nameId": 803379,
+      "optimalPlayerLevel": 100
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 84411397,
+      "exitMapId": 84411397,
+      "id": 116,
+      "mapIds": [
+        199753728,
+        199754752,
+        199755776,
+        199756800,
+        199757824
+      ],
+      "nameId": 803409,
+      "optimalPlayerLevel": 70
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 201328640,
+      "exitMapId": 201328640,
+      "id": 117,
+      "mapIds": [
+        202638336,
+        202639360,
+        202640384,
+        202641408,
+        202637312
+      ],
+      "nameId": 821293,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 202115584,
+      "exitMapId": 202115584,
+      "id": 118,
+      "mapIds": [
+        203161600,
+        203162624,
+        203163648,
+        203164672,
+        203165696
+      ],
+      "nameId": 821294,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 201851392,
+      "exitMapId": 201851392,
+      "id": 119,
+      "mapIds": [
+        203423744,
+        203424768,
+        203425792,
+        203426816,
+        203427840
+      ],
+      "nameId": 821295,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 201591809,
+      "exitMapId": 201591809,
+      "id": 120,
+      "mapIds": [
+        202375168,
+        202376192,
+        202377216,
+        202378240,
+        202379264
+      ],
+      "nameId": 821296,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 204604416,
+      "exitMapId": 204604416,
+      "id": 121,
+      "mapIds": [
+        204472320,
+        204473344,
+        204474368,
+        204475392,
+        204476416
+      ],
+      "nameId": 827980,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 209191685,
+      "exitMapId": 209191685,
+      "id": 122,
+      "mapIds": [
+        207880192,
+        207881216,
+        207882240,
+        207883264,
+        207884288
+      ],
+      "nameId": 841884,
+      "optimalPlayerLevel": 140
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 204999425,
+      "exitMapId": 204999425,
+      "id": 123,
+      "mapIds": [
+        208143360,
+        208144384,
+        208145408,
+        208146432,
+        208142336
+      ],
+      "nameId": 845108,
+      "optimalPlayerLevel": 130
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 206177797,
+      "exitMapId": 206177797,
+      "id": 124,
+      "mapIds": [
+        208404480,
+        208405504,
+        208406528,
+        208407552,
+        208408576
+      ],
+      "nameId": 847310,
+      "optimalPlayerLevel": 140
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 205521925,
+      "exitMapId": 205521925,
+      "id": 125,
+      "mapIds": [
+        208666624,
+        208667648,
+        208668672,
+        208669696,
+        208670720
+      ],
+      "nameId": 848217,
+      "optimalPlayerLevel": 110
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 205260802,
+      "exitMapId": 205260802,
+      "id": 126,
+      "mapIds": [
+        208928768,
+        208929792,
+        208930816,
+        208931840,
+        208932864
+      ],
+      "nameId": 848678,
+      "optimalPlayerLevel": 130
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 207095299,
+      "exitMapId": 207095299,
+      "id": 131,
+      "mapIds": [
+        210239488,
+        210240512,
+        210241536,
+        210242560,
+        210243584
+      ],
+      "nameId": 853405,
+      "optimalPlayerLevel": 170
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 206832641,
+      "exitMapId": 206832641,
+      "id": 132,
+      "mapIds": [
+        209977344,
+        209978368,
+        209979392,
+        209980416,
+        209981440
+      ],
+      "nameId": 854259,
+      "optimalPlayerLevel": 160
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 210633732,
+      "exitMapId": 211552256,
+      "id": 133,
+      "mapIds": [
+        211551232,
+        211550208
+      ],
+      "nameId": 873152,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 210765572,
+      "exitMapId": 211552256,
+      "id": 134,
+      "mapIds": [
+        211813376,
+        211812352
+      ],
+      "nameId": 873153,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 214961664,
+      "exitMapId": 214961664,
+      "id": 135,
+      "mapIds": [
+        215482368,
+        215483392,
+        215484416,
+        215485440,
+        215486464
+      ],
+      "nameId": 899938,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 219939328,
+      "exitMapId": 219939328,
+      "id": 136,
+      "mapIds": [
+        220463104,
+        220464128,
+        220465152,
+        220466176,
+        220467200
+      ],
+      "nameId": 925292,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 104071939,
+      "exitMapId": 104071939,
+      "id": 138,
+      "mapIds": [
+        221774336,
+        221775360,
+        221776384,
+        221777408,
+        221778432
+      ],
+      "nameId": 936693,
+      "optimalPlayerLevel": 40
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 221250562,
+      "exitMapId": 221250562,
+      "id": 139,
+      "mapIds": [
+        220725761,
+        220726785,
+        220727809,
+        220728833,
+        220729857
+      ],
+      "nameId": 937489,
+      "optimalPlayerLevel": 150
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 224660233,
+      "exitMapId": 223875074,
+      "id": 140,
+      "mapIds": [
+        223870976,
+        223872000,
+        223873024,
+        223874048,
+        223875072
+      ],
+      "nameId": 969526,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 225313792,
+      "exitMapId": 225185794,
+      "id": 141,
+      "mapIds": [
+        225181696,
+        225182720,
+        225183744,
+        225184768,
+        225185792
+      ],
+      "nameId": 977014,
+      "optimalPlayerLevel": 190
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 223350028,
+      "exitMapId": 224137218,
+      "id": 142,
+      "mapIds": [
+        224133120,
+        224134144,
+        224135168,
+        224136192,
+        224137216
+      ],
+      "nameId": 981870,
+      "optimalPlayerLevel": 50
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 96338944,
+      "exitMapId": 10231814,
+      "id": 143,
+      "mapIds": [
+        232790529,
+        232791553
+      ],
+      "nameId": 1078950,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 120063489,
+      "exitMapId": 120063489,
+      "id": 144,
+      "mapIds": [
+        232784389,
+        232785413
+      ],
+      "nameId": 1068792,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 149422080,
+      "exitMapId": 149422080,
+      "id": 145,
+      "mapIds": [
+        232791559,
+        232790535
+      ],
+      "nameId": 1068794,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 88086786,
+      "exitMapId": 88086786,
+      "id": 146,
+      "mapIds": [
+        232790533,
+        232791557
+      ],
+      "nameId": 1068795,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 198967296,
+      "exitMapId": 86248450,
+      "id": 147,
+      "mapIds": [
+        232788489,
+        232789513
+      ],
+      "nameId": 1068796,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 34473220,
+      "exitMapId": 34476294,
+      "id": 148,
+      "mapIds": [
+        232788487,
+        232789511
+      ],
+      "nameId": 1068797,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 158334976,
+      "exitMapId": 158334976,
+      "id": 149,
+      "mapIds": [
+        232790537,
+        232791561
+      ],
+      "nameId": 1068798,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 192937992,
+      "exitMapId": 192937992,
+      "id": 150,
+      "mapIds": [
+        232784385,
+        232785409
+      ],
+      "nameId": 1068638,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 166985728,
+      "exitMapId": 166985728,
+      "id": 151,
+      "mapIds": [
+        232788485,
+        232789509
+      ],
+      "nameId": 1068799,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 216927751,
+      "exitMapId": 218894338,
+      "id": 152,
+      "mapIds": [
+        232789507
+      ],
+      "nameId": 1068800,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 104862211,
+      "exitMapId": 104862211,
+      "id": 153,
+      "mapIds": [
+        232784393,
+        232785417
+      ],
+      "nameId": 1068801,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 185861634,
+      "exitMapId": 185861634,
+      "id": 154,
+      "mapIds": [
+        232786433,
+        232787457
+      ],
+      "nameId": 1068802,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 216402698,
+      "exitMapId": 218632194,
+      "id": 155,
+      "mapIds": [
+        232790531,
+        232791555
+      ],
+      "nameId": 1068791,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 171706891,
+      "exitMapId": 171706891,
+      "id": 156,
+      "mapIds": [
+        232786439
+      ],
+      "nameId": 1068790,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 87032320,
+      "exitMapId": 82314753,
+      "id": 157,
+      "mapIds": [
+        232786435,
+        232787459
+      ],
+      "nameId": 1068789,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 139784,
+      "exitMapId": 139265,
+      "id": 158,
+      "mapIds": [
+        232787465
+      ],
+      "nameId": 1068788,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 156499968,
+      "exitMapId": 156499968,
+      "id": 159,
+      "mapIds": [
+        232788481,
+        232789505
+      ],
+      "nameId": 1068787,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 190056961,
+      "exitMapId": 190056961,
+      "id": 160,
+      "mapIds": [
+        232784387,
+        232785411
+      ],
+      "nameId": 1068786,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 88080387,
+      "exitMapId": 88080899,
+      "id": 161,
+      "mapIds": [
+        232785415
+      ],
+      "nameId": 1068785,
+      "optimalPlayerLevel": 200
+    },
+    {
+      "ClassType_": "Dungeon",
+      "entranceMapId": 72221696,
+      "exitMapId": 72221696,
+      "id": 162,
+      "mapIds": [
+        232787461
+      ],
+      "nameId": 1068803,
+      "optimalPlayerLevel": 200
+    }
+  ]
+}

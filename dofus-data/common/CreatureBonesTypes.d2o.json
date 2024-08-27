@@ -1,0 +1,75 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.appearance",
+      "packageClass": "CreatureBoneType",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "creatureBoneId",
+          "type": "Integer"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "CreatureBoneType",
+      "creatureBoneId": 1747,
+      "id": 1
+    },
+    {
+      "ClassType_": "CreatureBoneType",
+      "creatureBoneId": 1765,
+      "id": 2
+    },
+    {
+      "ClassType_": "CreatureBoneType",
+      "creatureBoneId": 1748,
+      "id": 3
+    },
+    {
+      "ClassType_": "CreatureBoneType",
+      "creatureBoneId": 2247,
+      "id": 7
+    },
+    {
+      "ClassType_": "CreatureBoneType",
+      "creatureBoneId": 1765,
+      "id": 4
+    },
+    {
+      "ClassType_": "CreatureBoneType",
+      "creatureBoneId": 1749,
+      "id": 5
+    },
+    {
+      "ClassType_": "CreatureBoneType",
+      "creatureBoneId": 666,
+      "id": 0
+    },
+    {
+      "ClassType_": "CreatureBoneType",
+      "creatureBoneId": 1749,
+      "id": 6
+    },
+    {
+      "ClassType_": "CreatureBoneType",
+      "creatureBoneId": 666,
+      "id": 8
+    },
+    {
+      "ClassType_": "CreatureBoneType",
+      "creatureBoneId": 1813,
+      "id": 9
+    },
+    {
+      "ClassType_": "CreatureBoneType",
+      "creatureBoneId": 1965,
+      "id": 10
+    }
+  ]
+}

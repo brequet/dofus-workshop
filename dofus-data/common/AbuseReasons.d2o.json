@@ -1,0 +1,60 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.abuse",
+      "packageClass": "AbuseReasons",
+      "fields": [
+        {
+          "name": "abuseReasonId",
+          "type": "Integer"
+        },
+        {
+          "name": "mask",
+          "type": "Integer"
+        },
+        {
+          "name": "reasonTextId",
+          "type": "I18n"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "AbuseReasons",
+      "abuseReasonId": 1,
+      "mask": 1,
+      "reasonTextId": 3
+    },
+    {
+      "ClassType_": "AbuseReasons",
+      "abuseReasonId": 2,
+      "mask": 3,
+      "reasonTextId": 4
+    },
+    {
+      "ClassType_": "AbuseReasons",
+      "abuseReasonId": 3,
+      "mask": 1,
+      "reasonTextId": 1
+    },
+    {
+      "ClassType_": "AbuseReasons",
+      "abuseReasonId": 4,
+      "mask": 1,
+      "reasonTextId": 5
+    },
+    {
+      "ClassType_": "AbuseReasons",
+      "abuseReasonId": 5,
+      "mask": 1,
+      "reasonTextId": 6
+    },
+    {
+      "ClassType_": "AbuseReasons",
+      "abuseReasonId": 6,
+      "mask": 1,
+      "reasonTextId": 2
+    }
+  ]
+}

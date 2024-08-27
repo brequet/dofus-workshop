@@ -1,0 +1,4010 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.items",
+      "packageClass": "RandomDropItem",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "itemId",
+          "type": "Integer"
+        },
+        {
+          "name": "probability",
+          "type": "Number"
+        },
+        {
+          "name": "minQuantity",
+          "type": "Integer"
+        },
+        {
+          "name": "maxQuantity",
+          "type": "Integer"
+        }
+      ]
+    },
+    "2": {
+      "packageName": "com.ankamagames.dofus.datacenter.items",
+      "packageClass": "RandomDropGroup",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "name",
+          "type": "String"
+        },
+        {
+          "name": "description",
+          "type": "String"
+        },
+        {
+          "name": "randomDropItems",
+          "type": "Vector",
+          "subtype": {
+            "name": "Vector.\u003ccom.ankamagames.dofus.datacenter.items::RandomDropItem\u003e",
+            "type": "1"
+          }
+        },
+        {
+          "name": "displayContent",
+          "type": "Boolean"
+        },
+        {
+          "name": "displayChances",
+          "type": "Boolean"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "Boîte de récompense pour les songes infinis.",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 80,
+      "name": "PSI 1-1 Narkasseth Onirique",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4870,
+          "itemId": 21964,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 70
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4869,
+          "itemId": 22058,
+          "maxQuantity": 20,
+          "minQuantity": 20,
+          "probability": 50
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4868,
+          "itemId": 22058,
+          "maxQuantity": 4,
+          "minQuantity": 4,
+          "probability": 150
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4856,
+          "itemId": 22058,
+          "maxQuantity": 2,
+          "minQuantity": 2,
+          "probability": 300
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4871,
+          "itemId": 21970,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 430
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "Boîte de récompense pour les songes infinis.",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 81,
+      "name": "PSI 2-1 Narkasseth Fantastique",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4873,
+          "itemId": 22058,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 150
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4876,
+          "itemId": 21973,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 430
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4872,
+          "itemId": 22058,
+          "maxQuantity": 5,
+          "minQuantity": 5,
+          "probability": 300
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4875,
+          "itemId": 21965,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 70
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4874,
+          "itemId": 22058,
+          "maxQuantity": 50,
+          "minQuantity": 50,
+          "probability": 50
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "Boîte de récompense pour les songes infinis.",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 82,
+      "name": "PSI 3-1 Narkasseth Imaginaire",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4902,
+          "itemId": 22058,
+          "maxQuantity": 150,
+          "minQuantity": 150,
+          "probability": 50
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4900,
+          "itemId": 22058,
+          "maxQuantity": 15,
+          "minQuantity": 15,
+          "probability": 300
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4904,
+          "itemId": 21976,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 420
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4901,
+          "itemId": 22058,
+          "maxQuantity": 30,
+          "minQuantity": 30,
+          "probability": 160
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4903,
+          "itemId": 21966,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 70
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "Boîte de récompense pour les songes infinis.",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 83,
+      "name": "PSI 4-1 Narkasseth Brumeuse",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4928,
+          "itemId": 21979,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 11565
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4925,
+          "itemId": 22058,
+          "maxQuantity": 60,
+          "minQuantity": 60,
+          "probability": 5000
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4924,
+          "itemId": 22058,
+          "maxQuantity": 30,
+          "minQuantity": 30,
+          "probability": 10000
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4927,
+          "itemId": 21967,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1800
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4952,
+          "itemId": 22416,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 45
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4926,
+          "itemId": 22058,
+          "maxQuantity": 300,
+          "minQuantity": 300,
+          "probability": 1500
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4931,
+          "itemId": 20649,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 45
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4930,
+          "itemId": 20654,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 45
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "Boîte de récompense pour les songes infinis.",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 84,
+      "name": "PSI 1-2 Narkofret Onirique",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4880,
+          "itemId": 21965,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 70
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4879,
+          "itemId": 22058,
+          "maxQuantity": 50,
+          "minQuantity": 50,
+          "probability": 50
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4881,
+          "itemId": 21971,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 430
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4877,
+          "itemId": 22058,
+          "maxQuantity": 5,
+          "minQuantity": 5,
+          "probability": 300
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4878,
+          "itemId": 22058,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 150
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "Boîte de récompense pour les songes infinis.",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 85,
+      "name": "PSI 2-2 Narkofret Fantastique",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4890,
+          "itemId": 21974,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 420
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4888,
+          "itemId": 22058,
+          "maxQuantity": 150,
+          "minQuantity": 150,
+          "probability": 60
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4887,
+          "itemId": 22058,
+          "maxQuantity": 30,
+          "minQuantity": 30,
+          "probability": 150
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4889,
+          "itemId": 21966,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 70
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4861,
+          "itemId": 22058,
+          "maxQuantity": 15,
+          "minQuantity": 15,
+          "probability": 300
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "Boîte de récompense pour les songes infinis.",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 86,
+      "name": "PSI 3-2 Narkofret Imaginaire",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4914,
+          "itemId": 20653,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 45
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4912,
+          "itemId": 20966,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 150
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4908,
+          "itemId": 22058,
+          "maxQuantity": 300,
+          "minQuantity": 300,
+          "probability": 1500
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4906,
+          "itemId": 22058,
+          "maxQuantity": 30,
+          "minQuantity": 30,
+          "probability": 10000
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4913,
+          "itemId": 20652,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 45
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4907,
+          "itemId": 22058,
+          "maxQuantity": 60,
+          "minQuantity": 60,
+          "probability": 5000
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 6911,
+          "itemId": 20648,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 45
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4910,
+          "itemId": 21977,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 11415
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4909,
+          "itemId": 21967,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1800
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "Boîte de récompense pour les songes infinis.",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 87,
+      "name": "PSI 4-2 Narkofret Brumeux",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4938,
+          "itemId": 20965,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 150
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4939,
+          "itemId": 20651,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 45
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4940,
+          "itemId": 20650,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 45
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4935,
+          "itemId": 21968,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1800
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4934,
+          "itemId": 22058,
+          "maxQuantity": 1000,
+          "minQuantity": 1000,
+          "probability": 2500
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4933,
+          "itemId": 22058,
+          "maxQuantity": 200,
+          "minQuantity": 200,
+          "probability": 5000
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4951,
+          "itemId": 22418,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 45
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4936,
+          "itemId": 21980,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 11415
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4932,
+          "itemId": 22058,
+          "maxQuantity": 100,
+          "minQuantity": 100,
+          "probability": 9000
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "Boîte de récompense pour les songes infinis.",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 88,
+      "name": "PSI 1-3 Narkès Onirique",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4885,
+          "itemId": 21972,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 420
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4882,
+          "itemId": 22058,
+          "maxQuantity": 30,
+          "minQuantity": 30,
+          "probability": 160
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4883,
+          "itemId": 22058,
+          "maxQuantity": 150,
+          "minQuantity": 150,
+          "probability": 50
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4864,
+          "itemId": 22058,
+          "maxQuantity": 15,
+          "minQuantity": 15,
+          "probability": 300
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4884,
+          "itemId": 21966,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 70
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "Boîte de récompense pour les songes infinis.",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 89,
+      "name": "PSI 2-3 Narkès Fantastique",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4892,
+          "itemId": 22058,
+          "maxQuantity": 60,
+          "minQuantity": 60,
+          "probability": 5000
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4895,
+          "itemId": 21975,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 11415
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4897,
+          "itemId": 20964,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 150
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4898,
+          "itemId": 20659,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 45
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 6910,
+          "itemId": 20657,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 45
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4865,
+          "itemId": 22058,
+          "maxQuantity": 30,
+          "minQuantity": 30,
+          "probability": 10000
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4894,
+          "itemId": 21967,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1800
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4893,
+          "itemId": 22058,
+          "maxQuantity": 300,
+          "minQuantity": 300,
+          "probability": 1500
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4899,
+          "itemId": 20656,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 45
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "Boîte de récompense pour les songes infinis.",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 90,
+      "name": "PSI 3-3 Narkès Imaginaire",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4915,
+          "itemId": 22058,
+          "maxQuantity": 100,
+          "minQuantity": 100,
+          "probability": 10000
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4953,
+          "itemId": 22415,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 45
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4916,
+          "itemId": 22058,
+          "maxQuantity": 200,
+          "minQuantity": 200,
+          "probability": 5000
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4923,
+          "itemId": 20655,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 45
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4919,
+          "itemId": 21978,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 11415
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4917,
+          "itemId": 22058,
+          "maxQuantity": 1000,
+          "minQuantity": 1000,
+          "probability": 1500
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4922,
+          "itemId": 20661,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 45
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4918,
+          "itemId": 21968,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1800
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4921,
+          "itemId": 20967,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 150
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "Boîte de récompense pour les songes infinis.",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 91,
+      "name": "PSI 4-3 Narkès Brumeuse",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4943,
+          "itemId": 22058,
+          "maxQuantity": 2500,
+          "minQuantity": 2500,
+          "probability": 1600
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4941,
+          "itemId": 22058,
+          "maxQuantity": 250,
+          "minQuantity": 250,
+          "probability": 10000
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4950,
+          "itemId": 22417,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 45
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4945,
+          "itemId": 21981,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 11415
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4948,
+          "itemId": 20660,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 45
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4949,
+          "itemId": 20658,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 45
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4944,
+          "itemId": 21969,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1850
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 4942,
+          "itemId": 22058,
+          "maxQuantity": 500,
+          "minQuantity": 500,
+          "probability": 5000
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": false,
+      "displayContent": true,
+      "id": 109,
+      "name": "Minouki mystère",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5185,
+          "itemId": 24980,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5186,
+          "itemId": 24981,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5187,
+          "itemId": 24982,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5188,
+          "itemId": 24983,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5189,
+          "itemId": 24984,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5184,
+          "itemId": 24979,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 110,
+      "name": "Rékloot Blé",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5191,
+          "itemId": 2018,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5190,
+          "itemId": 289,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 111,
+      "name": "Rékloot Orge",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5193,
+          "itemId": 2032,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5192,
+          "itemId": 400,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 112,
+      "name": "Rékloot Avoine",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5194,
+          "itemId": 533,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5195,
+          "itemId": 2036,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 113,
+      "name": "Rékloot Houblon",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5197,
+          "itemId": 2021,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5196,
+          "itemId": 401,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 114,
+      "name": "Rékloot Lin",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5199,
+          "itemId": 2026,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5198,
+          "itemId": 423,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 115,
+      "name": "Rékloot Ortie",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5201,
+          "itemId": 16378,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5200,
+          "itemId": 421,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 116,
+      "name": "Rékloot Sauge",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5203,
+          "itemId": 16379,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5202,
+          "itemId": 428,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 117,
+      "name": "Rékloot Trèfle",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5205,
+          "itemId": 16380,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5204,
+          "itemId": 395,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 118,
+      "name": "Rékloot Menthe",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5206,
+          "itemId": 380,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5207,
+          "itemId": 16381,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 119,
+      "name": "Rékloot Orchidée",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5208,
+          "itemId": 593,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5209,
+          "itemId": 16382,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 120,
+      "name": "Rékloot Goujon",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5210,
+          "itemId": 1782,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5211,
+          "itemId": 1790,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 121,
+      "name": "Rékloot Greuvette",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5213,
+          "itemId": 1786,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5212,
+          "itemId": 598,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 122,
+      "name": "Rékloot Truite",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5214,
+          "itemId": 1844,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5215,
+          "itemId": 1846,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 123,
+      "name": "Rékloot Crabe",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5217,
+          "itemId": 1759,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5216,
+          "itemId": 1757,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 124,
+      "name": "Rékloot Poisson-Chaton",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5219,
+          "itemId": 1762,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5218,
+          "itemId": 603,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 125,
+      "name": "Rékloot Poisson Pané",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5220,
+          "itemId": 1750,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5221,
+          "itemId": 1754,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 126,
+      "name": "Rékloot Carpe",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5223,
+          "itemId": 1796,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5222,
+          "itemId": 1794,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 127,
+      "name": "Rékloot Sardine",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5225,
+          "itemId": 1807,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5224,
+          "itemId": 1805,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 128,
+      "name": "Rékloot Brochet",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5227,
+          "itemId": 1849,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5226,
+          "itemId": 1847,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 129,
+      "name": "Rékloot Kralamoure",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5228,
+          "itemId": 600,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5229,
+          "itemId": 1799,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 130,
+      "name": "Rékloot Frêne",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5231,
+          "itemId": 16909,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5230,
+          "itemId": 303,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 131,
+      "name": "Rékloot Châtaignier",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5232,
+          "itemId": 473,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5233,
+          "itemId": 16910,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 132,
+      "name": "Rékloot Noyer",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5234,
+          "itemId": 476,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5235,
+          "itemId": 16911,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 133,
+      "name": "Rékloot Chêne",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5237,
+          "itemId": 16912,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5236,
+          "itemId": 460,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 134,
+      "name": "Rékloot Bombu",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5239,
+          "itemId": 16913,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5238,
+          "itemId": 2358,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 135,
+      "name": "Rékloot Érable",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5241,
+          "itemId": 16914,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5240,
+          "itemId": 471,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 136,
+      "name": "Rékloot Oliviolet",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5242,
+          "itemId": 2357,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5243,
+          "itemId": 16915,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 137,
+      "name": "Rékloot Fer",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5245,
+          "itemId": 312,
+          "maxQuantity": 20,
+          "minQuantity": 20,
+          "probability": 10
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5244,
+          "itemId": 312,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 90
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 138,
+      "name": "Rékloot Cuivre",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5247,
+          "itemId": 441,
+          "maxQuantity": 20,
+          "minQuantity": 20,
+          "probability": 10
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5246,
+          "itemId": 441,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 90
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 139,
+      "name": "Rékloot Bronze",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5248,
+          "itemId": 442,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 90
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5249,
+          "itemId": 442,
+          "maxQuantity": 20,
+          "minQuantity": 20,
+          "probability": 10
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 140,
+      "name": "Rékloot Kobalte",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5250,
+          "itemId": 443,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 90
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5251,
+          "itemId": 443,
+          "maxQuantity": 20,
+          "minQuantity": 20,
+          "probability": 10
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 141,
+      "name": "Rékloot Manganèse",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5253,
+          "itemId": 445,
+          "maxQuantity": 20,
+          "minQuantity": 20,
+          "probability": 10
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5252,
+          "itemId": 445,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 90
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 142,
+      "name": "Boîte à cartes",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5258,
+          "itemId": 24753,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": -1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5259,
+          "itemId": 24754,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": -1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5260,
+          "itemId": 24755,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": -1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5261,
+          "itemId": 24778,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": -1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5262,
+          "itemId": 24785,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": -1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5263,
+          "itemId": 24787,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": -1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5264,
+          "itemId": 24789,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": -1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5265,
+          "itemId": 24799,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": -1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5266,
+          "itemId": 24801,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": -1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5267,
+          "itemId": 24807,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": -1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5268,
+          "itemId": 24808,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": -1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5257,
+          "itemId": 24752,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": -1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5256,
+          "itemId": 24734,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": -1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5255,
+          "itemId": 24726,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": -1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5254,
+          "itemId": 24601,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": -1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 143,
+      "name": "Rékloot Seigle",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5270,
+          "itemId": 2029,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5269,
+          "itemId": 532,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 144,
+      "name": "Rékloot Riz",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5271,
+          "itemId": 7018,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5272,
+          "itemId": 16452,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 145,
+      "name": "Rékloot Malt",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5273,
+          "itemId": 405,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5274,
+          "itemId": 16453,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 146,
+      "name": "Rékloot Chanvre",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5275,
+          "itemId": 425,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5276,
+          "itemId": 2035,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 147,
+      "name": "Rékloot Maïs",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5277,
+          "itemId": 16454,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5278,
+          "itemId": 16455,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 148,
+      "name": "Rékloot Millet",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5280,
+          "itemId": 16457,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5279,
+          "itemId": 16456,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 149,
+      "name": "Rékloot Frostiz",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5281,
+          "itemId": 11109,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5282,
+          "itemId": 11499,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 150,
+      "name": "Rékloot Edelweiss",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5284,
+          "itemId": 16383,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5283,
+          "itemId": 594,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 151,
+      "name": "Rékloot Pandouille",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5286,
+          "itemId": 7059,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5285,
+          "itemId": 16384,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 152,
+      "name": "Rékloot Ginseng",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5288,
+          "itemId": 16385,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5287,
+          "itemId": 16386,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 153,
+      "name": "Rékloot Belladone",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5290,
+          "itemId": 16387,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5289,
+          "itemId": 16388,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 154,
+      "name": "Rékloot Mandragore",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5292,
+          "itemId": 16389,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5291,
+          "itemId": 16390,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 155,
+      "name": "Rékloot Perce Neige",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5293,
+          "itemId": 11501,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5294,
+          "itemId": 11102,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 156,
+      "name": "Rékloot Anguille",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5296,
+          "itemId": 16462,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5295,
+          "itemId": 16461,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 157,
+      "name": "Rékloot Dorade",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5297,
+          "itemId": 16463,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5298,
+          "itemId": 16464,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 158,
+      "name": "Rékloot Perche",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5299,
+          "itemId": 1801,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5300,
+          "itemId": 1803,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 159,
+      "name": "Rékloot Raie",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5302,
+          "itemId": 1788,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5301,
+          "itemId": 1784,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 160,
+      "name": "Rékloot Lotte",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5303,
+          "itemId": 16465,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5304,
+          "itemId": 16466,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 161,
+      "name": "Rékloot Requin",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5305,
+          "itemId": 602,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5306,
+          "itemId": 1853,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 162,
+      "name": "Rékloot Bar",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5308,
+          "itemId": 1792,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5307,
+          "itemId": 1779,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 163,
+      "name": "Rékloot Morue",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5309,
+          "itemId": 16467,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5310,
+          "itemId": 16468,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 164,
+      "name": "Rékloot Tanche",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5311,
+          "itemId": 16469,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5312,
+          "itemId": 16470,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 165,
+      "name": "Rékloot Espadon",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5313,
+          "itemId": 16471,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5314,
+          "itemId": 16472,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 166,
+      "name": "Rékloot Poisskaille",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5315,
+          "itemId": 11106,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5316,
+          "itemId": 11500,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 167,
+      "name": "Rékloot If",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5317,
+          "itemId": 461,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5318,
+          "itemId": 16916,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 168,
+      "name": "Rékloot Bambou",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5319,
+          "itemId": 7013,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5320,
+          "itemId": 16917,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 169,
+      "name": "Rékloot Merisier",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5321,
+          "itemId": 474,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5322,
+          "itemId": 16918,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 170,
+      "name": "Rékloot Noisetier",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5324,
+          "itemId": 16919,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5323,
+          "itemId": 16488,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 171,
+      "name": "Rékloot Ébène",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5325,
+          "itemId": 449,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5326,
+          "itemId": 16920,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 172,
+      "name": "Rékloot Kaliptus",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5327,
+          "itemId": 7925,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5328,
+          "itemId": 16921,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 173,
+      "name": "Rékloot Charme",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5330,
+          "itemId": 16922,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5329,
+          "itemId": 472,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 174,
+      "name": "Rékloot Bambou Sombre",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5331,
+          "itemId": 7016,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5332,
+          "itemId": 16923,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 175,
+      "name": "Rékloot Orme",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5333,
+          "itemId": 470,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5334,
+          "itemId": 16924,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 176,
+      "name": "Rékloot Bambou Sacré",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5335,
+          "itemId": 7014,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5336,
+          "itemId": 16925,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 177,
+      "name": "Rékloot Tremble",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5337,
+          "itemId": 11107,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5338,
+          "itemId": 16926,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 178,
+      "name": "Rékloot Silicate",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5339,
+          "itemId": 7032,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 90
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5340,
+          "itemId": 7032,
+          "maxQuantity": 20,
+          "minQuantity": 20,
+          "probability": 10
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 179,
+      "name": "Rékloot Étain",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5341,
+          "itemId": 444,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 90
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5342,
+          "itemId": 444,
+          "maxQuantity": 20,
+          "minQuantity": 20,
+          "probability": 10
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 180,
+      "name": "Rékloot Argent",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5343,
+          "itemId": 350,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 90
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5344,
+          "itemId": 350,
+          "maxQuantity": 20,
+          "minQuantity": 20,
+          "probability": 10
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 181,
+      "name": "Rékloot Bauxite",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5345,
+          "itemId": 446,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 90
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5346,
+          "itemId": 446,
+          "maxQuantity": 20,
+          "minQuantity": 20,
+          "probability": 10
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 182,
+      "name": "Rékloot Or",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5348,
+          "itemId": 313,
+          "maxQuantity": 20,
+          "minQuantity": 20,
+          "probability": 10
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5347,
+          "itemId": 313,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 90
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 183,
+      "name": "Rékloot Dolomite",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5349,
+          "itemId": 7033,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 90
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5350,
+          "itemId": 7033,
+          "maxQuantity": 20,
+          "minQuantity": 20,
+          "probability": 10
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 184,
+      "name": "Rékloot Obsidienne",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5351,
+          "itemId": 11110,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 90
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5352,
+          "itemId": 11110,
+          "maxQuantity": 20,
+          "minQuantity": 20,
+          "probability": 10
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 185,
+      "name": "Rékloot Écume de Mer",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5353,
+          "itemId": 17995,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 90
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5354,
+          "itemId": 17995,
+          "maxQuantity": 20,
+          "minQuantity": 20,
+          "probability": 10
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 186,
+      "name": "Rékloot Cristal Liquide",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5356,
+          "itemId": 23902,
+          "maxQuantity": 20,
+          "minQuantity": 20,
+          "probability": 10
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5355,
+          "itemId": 23902,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 90
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 187,
+      "name": "Rékloot Cristal Pliable",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5358,
+          "itemId": 23903,
+          "maxQuantity": 20,
+          "minQuantity": 20,
+          "probability": 10
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5357,
+          "itemId": 23903,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 90
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 188,
+      "name": "Rékloot Pichon d'Encre",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5359,
+          "itemId": 23825,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 90
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5360,
+          "itemId": 23825,
+          "maxQuantity": 20,
+          "minQuantity": 20,
+          "probability": 10
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 189,
+      "name": "Rékloot Tulipe en papier",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5362,
+          "itemId": 23824,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 90
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5361,
+          "itemId": 23824,
+          "maxQuantity": 20,
+          "minQuantity": 20,
+          "probability": 10
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 190,
+      "name": "Rékloot Viande Intangible",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5364,
+          "itemId": 17421,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5363,
+          "itemId": 16663,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 191,
+      "name": "Rékloot Viande Hachée et Faisandée",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 6388,
+          "itemId": 17125,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5366,
+          "itemId": 17421,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5365,
+          "itemId": 17123,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 49
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 6387,
+          "itemId": 17124,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 49
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 193,
+      "name": "Rékloot Viande Frelatée",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5370,
+          "itemId": 17127,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5369,
+          "itemId": 17126,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 194,
+      "name": "Rékloot Viande Minérale",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5372,
+          "itemId": 17129,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5371,
+          "itemId": 17128,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 195,
+      "name": "Rékloot Viande Tendre",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5374,
+          "itemId": 17131,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5373,
+          "itemId": 17130,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 196,
+      "name": "Rékloot Viande Ladre",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5376,
+          "itemId": 17133,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5375,
+          "itemId": 17132,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 197,
+      "name": "Rékloot Viande Avariée",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5378,
+          "itemId": 17135,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5377,
+          "itemId": 17134,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 198,
+      "name": "Rékloot Viande Sanguinolente",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5380,
+          "itemId": 17137,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5379,
+          "itemId": 17136,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 199,
+      "name": "Rékloot Viande Rassie",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5381,
+          "itemId": 17138,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5382,
+          "itemId": 17139,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 200,
+      "name": "Rékloot Viande Exsudative",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5383,
+          "itemId": 17140,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5384,
+          "itemId": 17141,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 201,
+      "name": "Rékloot Viande Séchée",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5385,
+          "itemId": 17142,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5386,
+          "itemId": 17143,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 202,
+      "name": "Rékloot Viande Saignante",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5387,
+          "itemId": 17144,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5388,
+          "itemId": 17145,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 203,
+      "name": "Rékloot Viande Persillée",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5390,
+          "itemId": 17147,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5389,
+          "itemId": 17146,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 204,
+      "name": "Rékloot Viande Macérée",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5392,
+          "itemId": 17149,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5391,
+          "itemId": 17148,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 205,
+      "name": "Rékloot Viande de Brousse",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5393,
+          "itemId": 17150,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5394,
+          "itemId": 17151,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 206,
+      "name": "Rékloot Viande Fraîche",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5396,
+          "itemId": 17153,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5395,
+          "itemId": 17152,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 207,
+      "name": "Rékloot Viande Maigre",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5397,
+          "itemId": 17154,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5398,
+          "itemId": 17155,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 208,
+      "name": "Rékloot Viande Gâtée",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5399,
+          "itemId": 17156,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5400,
+          "itemId": 17157,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 209,
+      "name": "Rékloot Viande Noire",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5401,
+          "itemId": 17158,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5402,
+          "itemId": 17159,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 210,
+      "name": "Rékloot Viande Goûtue",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5403,
+          "itemId": 17160,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5404,
+          "itemId": 17161,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": false,
+      "displayContent": true,
+      "id": 229,
+      "name": "Croquettes Quintessence de Kwakarticho",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5719,
+          "itemId": 27013,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 6918,
+          "itemId": 30124,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 6919,
+          "itemId": 30125,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 6920,
+          "itemId": 30123,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5718,
+          "itemId": 27012,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5717,
+          "itemId": 27011,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5716,
+          "itemId": 27010,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5715,
+          "itemId": 27009,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5714,
+          "itemId": 27008,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": false,
+      "displayContent": true,
+      "id": 230,
+      "name": "Croquettes Quintessence de Poukachi",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5720,
+          "itemId": 26994,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5725,
+          "itemId": 26999,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5721,
+          "itemId": 26995,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5722,
+          "itemId": 26996,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5723,
+          "itemId": 26997,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5724,
+          "itemId": 26998,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": false,
+      "displayContent": true,
+      "id": 231,
+      "name": "Croquettes Quintessence de Magicrabe",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 6917,
+          "itemId": 30126,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5726,
+          "itemId": 27000,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5727,
+          "itemId": 27001,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5728,
+          "itemId": 27002,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5729,
+          "itemId": 27003,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5730,
+          "itemId": 27004,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5731,
+          "itemId": 27005,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5732,
+          "itemId": 27006,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5733,
+          "itemId": 27007,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 6912,
+          "itemId": 30122,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": false,
+      "displayContent": true,
+      "id": 232,
+      "name": "Croquettes Quintessence de Bakushana",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5741,
+          "itemId": 27019,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5736,
+          "itemId": 27014,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5742,
+          "itemId": 27020,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5737,
+          "itemId": 27015,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5738,
+          "itemId": 27016,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5739,
+          "itemId": 27017,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 5740,
+          "itemId": 27018,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 253,
+      "name": "Rékloot Pin",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 6384,
+          "itemId": 27375,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 99
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": true,
+      "displayContent": true,
+      "id": 254,
+      "name": "Rékloot Cendrepierre",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 6386,
+          "itemId": 27621,
+          "maxQuantity": 20,
+          "minQuantity": 20,
+          "probability": 10
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 6385,
+          "itemId": 27621,
+          "maxQuantity": 10,
+          "minQuantity": 10,
+          "probability": 90
+        }
+      ]
+    },
+    {
+      "ClassType_": "RandomDropGroup",
+      "description": "",
+      "displayChances": false,
+      "displayContent": true,
+      "id": 316,
+      "name": "Récompense quête des 20 ans",
+      "randomDropItems": [
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 6909,
+          "itemId": 30113,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": -1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 6907,
+          "itemId": 21517,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": -1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 6921,
+          "itemId": 21488,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": -1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 6922,
+          "itemId": 30168,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": -1
+        },
+        {
+          "ClassType_": "RandomDropItem",
+          "id": 7015,
+          "itemId": 30226,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "probability": -1
+        }
+      ]
+    }
+  ]
+}

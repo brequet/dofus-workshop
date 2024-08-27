@@ -1,0 +1,80 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.misc",
+      "packageClass": "Month",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "nameId",
+          "type": "I18n"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "Month",
+      "id": 0,
+      "nameId": 7427
+    },
+    {
+      "ClassType_": "Month",
+      "id": 1,
+      "nameId": 7423
+    },
+    {
+      "ClassType_": "Month",
+      "id": 2,
+      "nameId": 7431
+    },
+    {
+      "ClassType_": "Month",
+      "id": 3,
+      "nameId": 7425
+    },
+    {
+      "ClassType_": "Month",
+      "id": 4,
+      "nameId": 7430
+    },
+    {
+      "ClassType_": "Month",
+      "id": 5,
+      "nameId": 7429
+    },
+    {
+      "ClassType_": "Month",
+      "id": 6,
+      "nameId": 296533
+    },
+    {
+      "ClassType_": "Month",
+      "id": 7,
+      "nameId": 7424
+    },
+    {
+      "ClassType_": "Month",
+      "id": 8,
+      "nameId": 7434
+    },
+    {
+      "ClassType_": "Month",
+      "id": 9,
+      "nameId": 7433
+    },
+    {
+      "ClassType_": "Month",
+      "id": 10,
+      "nameId": 7432
+    },
+    {
+      "ClassType_": "Month",
+      "id": 11,
+      "nameId": 7426
+    }
+  ]
+}

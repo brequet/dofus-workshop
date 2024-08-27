@@ -1,0 +1,70 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.appearance",
+      "packageClass": "TitleCategory",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "nameId",
+          "type": "I18n"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "TitleCategory",
+      "id": 1,
+      "nameId": 323097
+    },
+    {
+      "ClassType_": "TitleCategory",
+      "id": 4,
+      "nameId": 323099
+    },
+    {
+      "ClassType_": "TitleCategory",
+      "id": 5,
+      "nameId": 323098
+    },
+    {
+      "ClassType_": "TitleCategory",
+      "id": 6,
+      "nameId": 323101
+    },
+    {
+      "ClassType_": "TitleCategory",
+      "id": 7,
+      "nameId": 824803
+    },
+    {
+      "ClassType_": "TitleCategory",
+      "id": 8,
+      "nameId": 323103
+    },
+    {
+      "ClassType_": "TitleCategory",
+      "id": 9,
+      "nameId": 323102
+    },
+    {
+      "ClassType_": "TitleCategory",
+      "id": 10,
+      "nameId": 550559
+    },
+    {
+      "ClassType_": "TitleCategory",
+      "id": 11,
+      "nameId": 717016
+    },
+    {
+      "ClassType_": "TitleCategory",
+      "id": 12,
+      "nameId": 766825
+    }
+  ]
+}

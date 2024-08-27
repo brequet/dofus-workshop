@@ -1,0 +1,330 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.arena",
+      "packageClass": "ArenaLeague",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "nameId",
+          "type": "I18n"
+        },
+        {
+          "name": "ornamentId",
+          "type": "Integer"
+        },
+        {
+          "name": "icon",
+          "type": "String"
+        },
+        {
+          "name": "illus",
+          "type": "String"
+        },
+        {
+          "name": "isLastLeague",
+          "type": "Boolean"
+        },
+        {
+          "name": "lowRatingBound",
+          "type": "Integer"
+        },
+        {
+          "name": "highRatingBound",
+          "type": "Integer"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "ArenaLeague",
+      "highRatingBound": 419,
+      "icon": "icon_kolizeum02",
+      "id": 6,
+      "illus": "tx_illu_arena_02",
+      "isLastLeague": false,
+      "lowRatingBound": 0,
+      "nameId": 1048152,
+      "ornamentId": 127
+    },
+    {
+      "ClassType_": "ArenaLeague",
+      "highRatingBound": 569,
+      "icon": "icon_kolizeum02",
+      "id": 7,
+      "illus": "tx_illu_arena_02",
+      "isLastLeague": false,
+      "lowRatingBound": 370,
+      "nameId": 1048153,
+      "ornamentId": 127
+    },
+    {
+      "ClassType_": "ArenaLeague",
+      "highRatingBound": 719,
+      "icon": "icon_kolizeum02",
+      "id": 8,
+      "illus": "tx_illu_arena_02",
+      "isLastLeague": false,
+      "lowRatingBound": 520,
+      "nameId": 1048154,
+      "ornamentId": 127
+    },
+    {
+      "ClassType_": "ArenaLeague",
+      "highRatingBound": 869,
+      "icon": "icon_kolizeum02",
+      "id": 9,
+      "illus": "tx_illu_arena_02",
+      "isLastLeague": false,
+      "lowRatingBound": 670,
+      "nameId": 1048157,
+      "ornamentId": 127
+    },
+    {
+      "ClassType_": "ArenaLeague",
+      "highRatingBound": 1019,
+      "icon": "icon_kolizeum02",
+      "id": 10,
+      "illus": "tx_illu_arena_02",
+      "isLastLeague": false,
+      "lowRatingBound": 820,
+      "nameId": 1048156,
+      "ornamentId": 127
+    },
+    {
+      "ClassType_": "ArenaLeague",
+      "highRatingBound": 1169,
+      "icon": "icon_kolizeum03",
+      "id": 16,
+      "illus": "tx_illu_arena_03",
+      "isLastLeague": false,
+      "lowRatingBound": 970,
+      "nameId": 766756,
+      "ornamentId": 128
+    },
+    {
+      "ClassType_": "ArenaLeague",
+      "highRatingBound": 1319,
+      "icon": "icon_kolizeum03",
+      "id": 17,
+      "illus": "tx_illu_arena_03",
+      "isLastLeague": false,
+      "lowRatingBound": 1120,
+      "nameId": 766758,
+      "ornamentId": 128
+    },
+    {
+      "ClassType_": "ArenaLeague",
+      "highRatingBound": 1469,
+      "icon": "icon_kolizeum03",
+      "id": 18,
+      "illus": "tx_illu_arena_03",
+      "isLastLeague": false,
+      "lowRatingBound": 1270,
+      "nameId": 766760,
+      "ornamentId": 128
+    },
+    {
+      "ClassType_": "ArenaLeague",
+      "highRatingBound": 1619,
+      "icon": "icon_kolizeum03",
+      "id": 20,
+      "illus": "tx_illu_arena_03",
+      "isLastLeague": false,
+      "lowRatingBound": 1420,
+      "nameId": 766764,
+      "ornamentId": 128
+    },
+    {
+      "ClassType_": "ArenaLeague",
+      "highRatingBound": 1769,
+      "icon": "icon_kolizeum03",
+      "id": 21,
+      "illus": "tx_illu_arena_03",
+      "isLastLeague": false,
+      "lowRatingBound": 1570,
+      "nameId": 766766,
+      "ornamentId": 128
+    },
+    {
+      "ClassType_": "ArenaLeague",
+      "highRatingBound": 1919,
+      "icon": "icon_kolizeum04",
+      "id": 27,
+      "illus": "tx_illu_arena_04",
+      "isLastLeague": false,
+      "lowRatingBound": 1720,
+      "nameId": 766780,
+      "ornamentId": 129
+    },
+    {
+      "ClassType_": "ArenaLeague",
+      "highRatingBound": 2069,
+      "icon": "icon_kolizeum04",
+      "id": 28,
+      "illus": "tx_illu_arena_04",
+      "isLastLeague": false,
+      "lowRatingBound": 1870,
+      "nameId": 766782,
+      "ornamentId": 129
+    },
+    {
+      "ClassType_": "ArenaLeague",
+      "highRatingBound": 2219,
+      "icon": "icon_kolizeum04",
+      "id": 29,
+      "illus": "tx_illu_arena_04",
+      "isLastLeague": false,
+      "lowRatingBound": 2020,
+      "nameId": 766784,
+      "ornamentId": 129
+    },
+    {
+      "ClassType_": "ArenaLeague",
+      "highRatingBound": 2369,
+      "icon": "icon_kolizeum04",
+      "id": 30,
+      "illus": "tx_illu_arena_04",
+      "isLastLeague": false,
+      "lowRatingBound": 2170,
+      "nameId": 766786,
+      "ornamentId": 129
+    },
+    {
+      "ClassType_": "ArenaLeague",
+      "highRatingBound": 2519,
+      "icon": "icon_kolizeum04",
+      "id": 31,
+      "illus": "tx_illu_arena_04",
+      "isLastLeague": false,
+      "lowRatingBound": 2320,
+      "nameId": 766788,
+      "ornamentId": 129
+    },
+    {
+      "ClassType_": "ArenaLeague",
+      "highRatingBound": 2669,
+      "icon": "icon_kolizeum05",
+      "id": 36,
+      "illus": "tx_illu_arena_05",
+      "isLastLeague": false,
+      "lowRatingBound": 2470,
+      "nameId": 1048158,
+      "ornamentId": 130
+    },
+    {
+      "ClassType_": "ArenaLeague",
+      "highRatingBound": 2819,
+      "icon": "icon_kolizeum05",
+      "id": 37,
+      "illus": "tx_illu_arena_05",
+      "isLastLeague": false,
+      "lowRatingBound": 2620,
+      "nameId": 1048159,
+      "ornamentId": 130
+    },
+    {
+      "ClassType_": "ArenaLeague",
+      "highRatingBound": 2969,
+      "icon": "icon_kolizeum05",
+      "id": 38,
+      "illus": "tx_illu_arena_05",
+      "isLastLeague": false,
+      "lowRatingBound": 2770,
+      "nameId": 1048160,
+      "ornamentId": 130
+    },
+    {
+      "ClassType_": "ArenaLeague",
+      "highRatingBound": 3119,
+      "icon": "icon_kolizeum05",
+      "id": 39,
+      "illus": "tx_illu_arena_05",
+      "isLastLeague": false,
+      "lowRatingBound": 2920,
+      "nameId": 1048161,
+      "ornamentId": 130
+    },
+    {
+      "ClassType_": "ArenaLeague",
+      "highRatingBound": 3269,
+      "icon": "icon_kolizeum05",
+      "id": 40,
+      "illus": "tx_illu_arena_05",
+      "isLastLeague": false,
+      "lowRatingBound": 3070,
+      "nameId": 1048162,
+      "ornamentId": 130
+    },
+    {
+      "ClassType_": "ArenaLeague",
+      "highRatingBound": 3419,
+      "icon": "icon_kolizeum06",
+      "id": 42,
+      "illus": "tx_illu_arena_06",
+      "isLastLeague": false,
+      "lowRatingBound": 3220,
+      "nameId": 766811,
+      "ornamentId": 131
+    },
+    {
+      "ClassType_": "ArenaLeague",
+      "highRatingBound": 3569,
+      "icon": "icon_kolizeum06",
+      "id": 43,
+      "illus": "tx_illu_arena_06",
+      "isLastLeague": false,
+      "lowRatingBound": 3370,
+      "nameId": 766813,
+      "ornamentId": 131
+    },
+    {
+      "ClassType_": "ArenaLeague",
+      "highRatingBound": 3719,
+      "icon": "icon_kolizeum06",
+      "id": 44,
+      "illus": "tx_illu_arena_06",
+      "isLastLeague": false,
+      "lowRatingBound": 3520,
+      "nameId": 766815,
+      "ornamentId": 131
+    },
+    {
+      "ClassType_": "ArenaLeague",
+      "highRatingBound": 3869,
+      "icon": "icon_kolizeum06",
+      "id": 45,
+      "illus": "tx_illu_arena_06",
+      "isLastLeague": false,
+      "lowRatingBound": 3670,
+      "nameId": 766817,
+      "ornamentId": 131
+    },
+    {
+      "ClassType_": "ArenaLeague",
+      "highRatingBound": 4000,
+      "icon": "icon_kolizeum06",
+      "id": 46,
+      "illus": "tx_illu_arena_06",
+      "isLastLeague": false,
+      "lowRatingBound": 3820,
+      "nameId": 766819,
+      "ornamentId": 131
+    },
+    {
+      "ClassType_": "ArenaLeague",
+      "highRatingBound": 4001,
+      "icon": "icon_kolizeum07",
+      "id": 47,
+      "illus": "tx_illu_arena_07",
+      "isLastLeague": true,
+      "lowRatingBound": 3999,
+      "nameId": 766821,
+      "ornamentId": 132
+    }
+  ]
+}

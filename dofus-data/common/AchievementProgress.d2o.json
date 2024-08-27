@@ -1,0 +1,84 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.temporis",
+      "packageClass": "AchievementProgress",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "name",
+          "type": "String"
+        },
+        {
+          "name": "seasonId",
+          "type": "Integer"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "AchievementProgress",
+      "id": 2,
+      "name": "Temporis 4",
+      "seasonId": 5
+    },
+    {
+      "ClassType_": "AchievementProgress",
+      "id": 3,
+      "name": "Temporis 5",
+      "seasonId": 14
+    },
+    {
+      "ClassType_": "AchievementProgress",
+      "id": 4,
+      "name": "Temporis 6",
+      "seasonId": 16
+    },
+    {
+      "ClassType_": "AchievementProgress",
+      "id": 5,
+      "name": "Temporis 8",
+      "seasonId": 24
+    },
+    {
+      "ClassType_": "AchievementProgress",
+      "id": 6,
+      "name": "Expédition 1",
+      "seasonId": 25
+    },
+    {
+      "ClassType_": "AchievementProgress",
+      "id": 7,
+      "name": "Saison kolizéum 1",
+      "seasonId": 28
+    },
+    {
+      "ClassType_": "AchievementProgress",
+      "id": 8,
+      "name": "Saison kolizéum Beta",
+      "seasonId": 29
+    },
+    {
+      "ClassType_": "AchievementProgress",
+      "id": 11,
+      "name": "Expédition 2",
+      "seasonId": 59
+    },
+    {
+      "ClassType_": "AchievementProgress",
+      "id": 12,
+      "name": "Saison kolizéum 2",
+      "seasonId": 60
+    },
+    {
+      "ClassType_": "AchievementProgress",
+      "id": 13,
+      "name": "Saison kolizéum 3",
+      "seasonId": 61
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.alliance",
+      "packageClass": "AllianceRank",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "nameId",
+          "type": "I18n"
+        },
+        {
+          "name": "order",
+          "type": "Integer"
+        },
+        {
+          "name": "isModifiable",
+          "type": "Boolean"
+        },
+        {
+          "name": "gfxId",
+          "type": "Integer"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "AllianceRank",
+      "gfxId": 116,
+      "id": 1,
+      "isModifiable": false,
+      "nameId": 966475,
+      "order": 0
+    },
+    {
+      "ClassType_": "AllianceRank",
+      "gfxId": 115,
+      "id": 2,
+      "isModifiable": true,
+      "nameId": 966481,
+      "order": 1
+    },
+    {
+      "ClassType_": "AllianceRank",
+      "gfxId": 114,
+      "id": 3,
+      "isModifiable": true,
+      "nameId": 966487,
+      "order": 2
+    },
+    {
+      "ClassType_": "AllianceRank",
+      "gfxId": 117,
+      "id": 4,
+      "isModifiable": false,
+      "nameId": 966493,
+      "order": 3
+    }
+  ]
+}

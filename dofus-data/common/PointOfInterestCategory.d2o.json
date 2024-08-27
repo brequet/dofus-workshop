@@ -1,0 +1,45 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.quest.treasureHunt",
+      "packageClass": "PointOfInterestCategory",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "actionLabelId",
+          "type": "I18n"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "PointOfInterestCategory",
+      "actionLabelId": 0,
+      "id": 1
+    },
+    {
+      "ClassType_": "PointOfInterestCategory",
+      "actionLabelId": 0,
+      "id": 2
+    },
+    {
+      "ClassType_": "PointOfInterestCategory",
+      "actionLabelId": 0,
+      "id": 3
+    },
+    {
+      "ClassType_": "PointOfInterestCategory",
+      "actionLabelId": 0,
+      "id": 4
+    },
+    {
+      "ClassType_": "PointOfInterestCategory",
+      "actionLabelId": 0,
+      "id": 5
+    }
+  ]
+}

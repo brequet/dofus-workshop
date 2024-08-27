@@ -1,0 +1,138 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.progression",
+      "packageClass": "ActivitySuggestionsCategory",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "nameId",
+          "type": "I18n"
+        },
+        {
+          "name": "parentId",
+          "type": "Integer"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "ActivitySuggestionsCategory",
+      "id": 4,
+      "nameId": 876091,
+      "parentId": 0
+    },
+    {
+      "ClassType_": "ActivitySuggestionsCategory",
+      "id": 5,
+      "nameId": 859953,
+      "parentId": 0
+    },
+    {
+      "ClassType_": "ActivitySuggestionsCategory",
+      "id": 6,
+      "nameId": 860258,
+      "parentId": 0
+    },
+    {
+      "ClassType_": "ActivitySuggestionsCategory",
+      "id": 7,
+      "nameId": 886302,
+      "parentId": 0
+    },
+    {
+      "ClassType_": "ActivitySuggestionsCategory",
+      "id": 8,
+      "nameId": 859956,
+      "parentId": 0
+    },
+    {
+      "ClassType_": "ActivitySuggestionsCategory",
+      "id": 9,
+      "nameId": 859957,
+      "parentId": 0
+    },
+    {
+      "ClassType_": "ActivitySuggestionsCategory",
+      "id": 10,
+      "nameId": 859958,
+      "parentId": 0
+    },
+    {
+      "ClassType_": "ActivitySuggestionsCategory",
+      "id": 12,
+      "nameId": 876092,
+      "parentId": 0
+    },
+    {
+      "ClassType_": "ActivitySuggestionsCategory",
+      "id": 13,
+      "nameId": 859990,
+      "parentId": 0
+    },
+    {
+      "ClassType_": "ActivitySuggestionsCategory",
+      "id": 14,
+      "nameId": 860259,
+      "parentId": 0
+    },
+    {
+      "ClassType_": "ActivitySuggestionsCategory",
+      "id": 15,
+      "nameId": 860358,
+      "parentId": 0
+    },
+    {
+      "ClassType_": "ActivitySuggestionsCategory",
+      "id": 31,
+      "nameId": 868948,
+      "parentId": 8
+    },
+    {
+      "ClassType_": "ActivitySuggestionsCategory",
+      "id": 32,
+      "nameId": 868949,
+      "parentId": 8
+    },
+    {
+      "ClassType_": "ActivitySuggestionsCategory",
+      "id": 33,
+      "nameId": 868950,
+      "parentId": 8
+    },
+    {
+      "ClassType_": "ActivitySuggestionsCategory",
+      "id": 34,
+      "nameId": 868951,
+      "parentId": 8
+    },
+    {
+      "ClassType_": "ActivitySuggestionsCategory",
+      "id": 35,
+      "nameId": 868952,
+      "parentId": 8
+    },
+    {
+      "ClassType_": "ActivitySuggestionsCategory",
+      "id": 36,
+      "nameId": 868953,
+      "parentId": 9
+    },
+    {
+      "ClassType_": "ActivitySuggestionsCategory",
+      "id": 37,
+      "nameId": 868954,
+      "parentId": 9
+    },
+    {
+      "ClassType_": "ActivitySuggestionsCategory",
+      "id": 38,
+      "nameId": 868955,
+      "parentId": 9
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.items",
+      "packageClass": "PresetIcon",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "order",
+          "type": "Integer"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "PresetIcon",
+      "id": 0,
+      "order": 0
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 21,
+      "order": 1
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 2,
+      "order": 2
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 22,
+      "order": 3
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 23,
+      "order": 4
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 24,
+      "order": 5
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 25,
+      "order": 6
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 1,
+      "order": 7
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 6,
+      "order": 8
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 7,
+      "order": 9
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 8,
+      "order": 10
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 9,
+      "order": 11
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 10,
+      "order": 12
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 11,
+      "order": 13
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 12,
+      "order": 14
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 3,
+      "order": 15
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 4,
+      "order": 16
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 5,
+      "order": 17
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 15,
+      "order": 18
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 17,
+      "order": 19
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 26,
+      "order": 20
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 13,
+      "order": 21
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 14,
+      "order": 22
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 16,
+      "order": 23
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 18,
+      "order": 24
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 19,
+      "order": 25
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 20,
+      "order": 26
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 27,
+      "order": 27
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 28,
+      "order": 28
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 29,
+      "order": 29
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 30,
+      "order": 30
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 31,
+      "order": 31
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 32,
+      "order": 32
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 33,
+      "order": 33
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 34,
+      "order": 34
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 35,
+      "order": 35
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 36,
+      "order": 36
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 37,
+      "order": 37
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 38,
+      "order": 38
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 39,
+      "order": 39
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 40,
+      "order": 40
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 41,
+      "order": 41
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 42,
+      "order": 42
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 43,
+      "order": 43
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 44,
+      "order": 44
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 45,
+      "order": 45
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 46,
+      "order": 46
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 47,
+      "order": 47
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 48,
+      "order": 48
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 49,
+      "order": 49
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 50,
+      "order": 50
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 51,
+      "order": 51
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 52,
+      "order": 52
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 53,
+      "order": 53
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 54,
+      "order": 54
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 55,
+      "order": 55
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 56,
+      "order": 56
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 57,
+      "order": 57
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 58,
+      "order": 58
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 59,
+      "order": 59
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 60,
+      "order": 60
+    },
+    {
+      "ClassType_": "PresetIcon",
+      "id": 61,
+      "order": 61
+    }
+  ]
+}

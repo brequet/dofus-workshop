@@ -1,0 +1,114 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.mounts",
+      "packageClass": "RideFood",
+      "fields": [
+        {
+          "name": "gid",
+          "type": "Integer"
+        },
+        {
+          "name": "typeId",
+          "type": "Integer"
+        },
+        {
+          "name": "familyId",
+          "type": "Integer"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "RideFood",
+      "familyId": 1,
+      "gid": 19349,
+      "typeId": 0
+    },
+    {
+      "ClassType_": "RideFood",
+      "familyId": 5,
+      "gid": 19349,
+      "typeId": 0
+    },
+    {
+      "ClassType_": "RideFood",
+      "familyId": 1,
+      "gid": 0,
+      "typeId": 41
+    },
+    {
+      "ClassType_": "RideFood",
+      "familyId": 1,
+      "gid": 0,
+      "typeId": 62
+    },
+    {
+      "ClassType_": "RideFood",
+      "familyId": 1,
+      "gid": 0,
+      "typeId": 63
+    },
+    {
+      "ClassType_": "RideFood",
+      "familyId": 1,
+      "gid": 0,
+      "typeId": 64
+    },
+    {
+      "ClassType_": "RideFood",
+      "familyId": 1,
+      "gid": 7903,
+      "typeId": 0
+    },
+    {
+      "ClassType_": "RideFood",
+      "familyId": 1,
+      "gid": 7904,
+      "typeId": 0
+    },
+    {
+      "ClassType_": "RideFood",
+      "familyId": 5,
+      "gid": 0,
+      "typeId": 41
+    },
+    {
+      "ClassType_": "RideFood",
+      "familyId": 5,
+      "gid": 0,
+      "typeId": 63
+    },
+    {
+      "ClassType_": "RideFood",
+      "familyId": 6,
+      "gid": 19349,
+      "typeId": 0
+    },
+    {
+      "ClassType_": "RideFood",
+      "familyId": 1,
+      "gid": 28294,
+      "typeId": 0
+    },
+    {
+      "ClassType_": "RideFood",
+      "familyId": 5,
+      "gid": 28294,
+      "typeId": 0
+    },
+    {
+      "ClassType_": "RideFood",
+      "familyId": 6,
+      "gid": 28294,
+      "typeId": 0
+    },
+    {
+      "ClassType_": "RideFood",
+      "familyId": 6,
+      "gid": 14635,
+      "typeId": 0
+    }
+  ]
+}

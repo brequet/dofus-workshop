@@ -1,0 +1,755 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.world",
+      "packageClass": "WorldMap",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "nameId",
+          "type": "I18n"
+        },
+        {
+          "name": "origineX",
+          "type": "Integer"
+        },
+        {
+          "name": "origineY",
+          "type": "Integer"
+        },
+        {
+          "name": "mapWidth",
+          "type": "Number"
+        },
+        {
+          "name": "mapHeight",
+          "type": "Number"
+        },
+        {
+          "name": "viewableEverywhere",
+          "type": "Boolean"
+        },
+        {
+          "name": "minScale",
+          "type": "Number"
+        },
+        {
+          "name": "maxScale",
+          "type": "Number"
+        },
+        {
+          "name": "startScale",
+          "type": "Number"
+        },
+        {
+          "name": "totalWidth",
+          "type": "Integer"
+        },
+        {
+          "name": "totalHeight",
+          "type": "Integer"
+        },
+        {
+          "name": "zoom",
+          "type": "Vector",
+          "subtype": {
+            "name": "Vector.\u003cString\u003e",
+            "type": "String"
+          }
+        },
+        {
+          "name": "visibleOnMap",
+          "type": "Boolean"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "WorldMap",
+      "id": 1,
+      "mapHeight": 49.7000008,
+      "mapWidth": 69.5,
+      "maxScale": 1,
+      "minScale": 0.200000003,
+      "nameId": 868482,
+      "origineX": 6480,
+      "origineY": 4944,
+      "startScale": 0.600000024,
+      "totalHeight": 8000,
+      "totalWidth": 10000,
+      "viewableEverywhere": true,
+      "visibleOnMap": true,
+      "zoom": [
+        "1",
+        "0.8",
+        "0.6",
+        "0.4",
+        "0.2"
+      ]
+    },
+    {
+      "ClassType_": "WorldMap",
+      "id": 2,
+      "mapHeight": 260,
+      "mapWidth": 380,
+      "maxScale": 1,
+      "minScale": 0.25,
+      "nameId": 460805,
+      "origineX": 1800,
+      "origineY": 1940,
+      "startScale": 0.25,
+      "totalHeight": 3904,
+      "totalWidth": 4750,
+      "viewableEverywhere": true,
+      "visibleOnMap": true,
+      "zoom": [
+        "1",
+        "0.75",
+        "0.5",
+        "0.25"
+      ]
+    },
+    {
+      "ClassType_": "WorldMap",
+      "id": 3,
+      "mapHeight": 87,
+      "mapWidth": 117,
+      "maxScale": 1,
+      "minScale": 0.899999976,
+      "nameId": 460804,
+      "origineX": -117,
+      "origineY": 1827,
+      "startScale": 1,
+      "totalHeight": 2907,
+      "totalWidth": 2463,
+      "viewableEverywhere": true,
+      "visibleOnMap": false,
+      "zoom": [
+        "1",
+        "0.75",
+        "0.5",
+        "0.25"
+      ]
+    },
+    {
+      "ClassType_": "WorldMap",
+      "id": 4,
+      "mapHeight": 150,
+      "mapWidth": 210,
+      "maxScale": 1,
+      "minScale": 0.370000005,
+      "nameId": 460803,
+      "origineX": 9130,
+      "origineY": 2980,
+      "startScale": 1,
+      "totalHeight": 1820,
+      "totalWidth": 2463,
+      "viewableEverywhere": true,
+      "visibleOnMap": false,
+      "zoom": [
+        "1",
+        "0.75",
+        "0.5",
+        "0.25"
+      ]
+    },
+    {
+      "ClassType_": "WorldMap",
+      "id": 5,
+      "mapHeight": 150,
+      "mapWidth": 211,
+      "maxScale": 1,
+      "minScale": 0.349999994,
+      "nameId": 460801,
+      "origineX": 900,
+      "origineY": -4330,
+      "startScale": 1,
+      "totalHeight": 2000,
+      "totalWidth": 3200,
+      "viewableEverywhere": true,
+      "visibleOnMap": false,
+      "zoom": [
+        "1",
+        "0.75",
+        "0.5",
+        "0.25"
+      ]
+    },
+    {
+      "ClassType_": "WorldMap",
+      "id": 6,
+      "mapHeight": 150,
+      "mapWidth": 210,
+      "maxScale": 1,
+      "minScale": 0.370000005,
+      "nameId": 460802,
+      "origineX": 3770,
+      "origineY": 9900,
+      "startScale": 1,
+      "totalHeight": 2100,
+      "totalWidth": 2100,
+      "viewableEverywhere": true,
+      "visibleOnMap": false,
+      "zoom": [
+        "1",
+        "0.75",
+        "0.5",
+        "0.25"
+      ]
+    },
+    {
+      "ClassType_": "WorldMap",
+      "id": 7,
+      "mapHeight": 150,
+      "mapWidth": 210,
+      "maxScale": 1,
+      "minScale": 0.5,
+      "nameId": 868483,
+      "origineX": 17214,
+      "origineY": 11845,
+      "startScale": 1,
+      "totalHeight": 1400,
+      "totalWidth": 1800,
+      "viewableEverywhere": true,
+      "visibleOnMap": false,
+      "zoom": [
+        "1",
+        "0.75",
+        "0.5",
+        "0.25"
+      ]
+    },
+    {
+      "ClassType_": "WorldMap",
+      "id": 8,
+      "mapHeight": 184,
+      "mapWidth": 260,
+      "maxScale": 1,
+      "minScale": 0.5,
+      "nameId": 962154,
+      "origineX": 9860,
+      "origineY": 11200,
+      "startScale": 1,
+      "totalHeight": 2162,
+      "totalWidth": 2840,
+      "viewableEverywhere": true,
+      "visibleOnMap": true,
+      "zoom": [
+        "1",
+        "0.75",
+        "0.5",
+        "0.25"
+      ]
+    },
+    {
+      "ClassType_": "WorldMap",
+      "id": 9,
+      "mapHeight": 182,
+      "mapWidth": 257,
+      "maxScale": 1,
+      "minScale": 0.5,
+      "nameId": 962155,
+      "origineX": 7454,
+      "origineY": -5652,
+      "startScale": 1,
+      "totalHeight": 2162,
+      "totalWidth": 2840,
+      "viewableEverywhere": true,
+      "visibleOnMap": true,
+      "zoom": [
+        "1",
+        "0.75",
+        "0.5",
+        "0.25"
+      ]
+    },
+    {
+      "ClassType_": "WorldMap",
+      "id": 10,
+      "mapHeight": 150,
+      "mapWidth": 209,
+      "maxScale": 1,
+      "minScale": 0.25,
+      "nameId": 460807,
+      "origineX": 12855,
+      "origineY": -1225,
+      "startScale": 1,
+      "totalHeight": 2804,
+      "totalWidth": 3559,
+      "viewableEverywhere": true,
+      "visibleOnMap": true,
+      "zoom": [
+        "1",
+        "0.75",
+        "0.5",
+        "0.25"
+      ]
+    },
+    {
+      "ClassType_": "WorldMap",
+      "id": 11,
+      "mapHeight": 148,
+      "mapWidth": 207,
+      "maxScale": 1,
+      "minScale": 0.449999988,
+      "nameId": 460808,
+      "origineX": 0,
+      "origineY": 0,
+      "startScale": 1,
+      "totalHeight": 1530,
+      "totalWidth": 2120,
+      "viewableEverywhere": false,
+      "visibleOnMap": false,
+      "zoom": [
+        "1",
+        "0.75",
+        "0.5",
+        "0.25"
+      ]
+    },
+    {
+      "ClassType_": "WorldMap",
+      "id": 12,
+      "mapHeight": 65.5,
+      "mapWidth": 91.5,
+      "maxScale": 1,
+      "minScale": 0.5,
+      "nameId": 868480,
+      "origineX": 6882,
+      "origineY": 6108,
+      "startScale": 0.5,
+      "totalHeight": 1904,
+      "totalWidth": 2500,
+      "viewableEverywhere": true,
+      "visibleOnMap": true,
+      "zoom": [
+        "1",
+        "0.75",
+        "0.5",
+        "0.25"
+      ]
+    },
+    {
+      "ClassType_": "WorldMap",
+      "id": 13,
+      "mapHeight": 147,
+      "mapWidth": 204,
+      "maxScale": 1,
+      "minScale": 0.5,
+      "nameId": 460811,
+      "origineX": 2678,
+      "origineY": 1925,
+      "startScale": 0.5,
+      "totalHeight": 2589,
+      "totalWidth": 4089,
+      "viewableEverywhere": false,
+      "visibleOnMap": true,
+      "zoom": [
+        "1",
+        "0.75",
+        "0.5",
+        "0.25"
+      ]
+    },
+    {
+      "ClassType_": "WorldMap",
+      "id": 14,
+      "mapHeight": 147,
+      "mapWidth": 204,
+      "maxScale": 1,
+      "minScale": 0.25,
+      "nameId": 460809,
+      "origineX": 1050,
+      "origineY": 1440,
+      "startScale": 0.5,
+      "totalHeight": 3904,
+      "totalWidth": 4750,
+      "viewableEverywhere": false,
+      "visibleOnMap": true,
+      "zoom": [
+        "1",
+        "0.75",
+        "0.5",
+        "0.25"
+      ]
+    },
+    {
+      "ClassType_": "WorldMap",
+      "id": 15,
+      "mapHeight": 147,
+      "mapWidth": 204,
+      "maxScale": 1,
+      "minScale": 0.25,
+      "nameId": 470194,
+      "origineX": 1248,
+      "origineY": 1543,
+      "startScale": 0.5,
+      "totalHeight": 3576,
+      "totalWidth": 4171,
+      "viewableEverywhere": false,
+      "visibleOnMap": true,
+      "zoom": [
+        "1",
+        "0.75",
+        "0.5",
+        "0.25"
+      ]
+    },
+    {
+      "ClassType_": "WorldMap",
+      "id": 16,
+      "mapHeight": 146,
+      "mapWidth": 203,
+      "maxScale": 1,
+      "minScale": 0.25,
+      "nameId": 611315,
+      "origineX": 3200,
+      "origineY": 4200,
+      "startScale": 0.5,
+      "totalHeight": 5584,
+      "totalWidth": 5069,
+      "viewableEverywhere": false,
+      "visibleOnMap": true,
+      "zoom": [
+        "1",
+        "0.75",
+        "0.5",
+        "0.25"
+      ]
+    },
+    {
+      "ClassType_": "WorldMap",
+      "id": 17,
+      "mapHeight": 122,
+      "mapWidth": 150,
+      "maxScale": 1,
+      "minScale": 0.370000005,
+      "nameId": 868479,
+      "origineX": -1810,
+      "origineY": -2950,
+      "startScale": 1,
+      "totalHeight": 1719,
+      "totalWidth": 3333,
+      "viewableEverywhere": false,
+      "visibleOnMap": true,
+      "zoom": [
+        "1",
+        "0.75",
+        "0.5",
+        "0.25"
+      ]
+    },
+    {
+      "ClassType_": "WorldMap",
+      "id": 18,
+      "mapHeight": 225,
+      "mapWidth": 415,
+      "maxScale": 1,
+      "minScale": 0.370000005,
+      "nameId": 868478,
+      "origineX": -3000,
+      "origineY": 17820,
+      "startScale": 1,
+      "totalHeight": 2357,
+      "totalWidth": 3529,
+      "viewableEverywhere": false,
+      "visibleOnMap": true,
+      "zoom": [
+        "1",
+        "0.75",
+        "0.5",
+        "0.25"
+      ]
+    },
+    {
+      "ClassType_": "WorldMap",
+      "id": 19,
+      "mapHeight": 65.5,
+      "mapWidth": 91.5,
+      "maxScale": 1,
+      "minScale": 0.5,
+      "nameId": 734790,
+      "origineX": 0,
+      "origineY": 0,
+      "startScale": 0.5,
+      "totalHeight": 1904,
+      "totalWidth": 2500,
+      "viewableEverywhere": false,
+      "visibleOnMap": false,
+      "zoom": [
+        "1",
+        "0.75",
+        "0.5",
+        "0.25"
+      ]
+    },
+    {
+      "ClassType_": "WorldMap",
+      "id": 20,
+      "mapHeight": 122,
+      "mapWidth": 150,
+      "maxScale": 1,
+      "minScale": 0.370000005,
+      "nameId": 868477,
+      "origineX": 8385,
+      "origineY": 10700,
+      "startScale": 1,
+      "totalHeight": 1719,
+      "totalWidth": 3333,
+      "viewableEverywhere": false,
+      "visibleOnMap": true,
+      "zoom": [
+        "1",
+        "0.75",
+        "0.5",
+        "0.25"
+      ]
+    },
+    {
+      "ClassType_": "WorldMap",
+      "id": 21,
+      "mapHeight": 205,
+      "mapWidth": 286,
+      "maxScale": 1,
+      "minScale": 0.25,
+      "nameId": 868476,
+      "origineX": 2268,
+      "origineY": 2565,
+      "startScale": 0.5,
+      "totalHeight": 2802,
+      "totalWidth": 3560,
+      "viewableEverywhere": false,
+      "visibleOnMap": true,
+      "zoom": [
+        "1",
+        "0.75",
+        "0.5",
+        "0.25"
+      ]
+    },
+    {
+      "ClassType_": "WorldMap",
+      "id": 22,
+      "mapHeight": 114,
+      "mapWidth": 164,
+      "maxScale": 1,
+      "minScale": 0.25,
+      "nameId": 868475,
+      "origineX": 14604,
+      "origineY": 2635,
+      "startScale": 0.5,
+      "totalHeight": 1719,
+      "totalWidth": 2016,
+      "viewableEverywhere": false,
+      "visibleOnMap": true,
+      "zoom": [
+        "1",
+        "0.75",
+        "0.5",
+        "0.25"
+      ]
+    },
+    {
+      "ClassType_": "WorldMap",
+      "id": 23,
+      "mapHeight": 65.5,
+      "mapWidth": 91.5,
+      "maxScale": 1,
+      "minScale": 0.25,
+      "nameId": 816358,
+      "origineX": 1208,
+      "origineY": 800,
+      "startScale": 0.5,
+      "totalHeight": 1904,
+      "totalWidth": 2500,
+      "viewableEverywhere": false,
+      "visibleOnMap": false,
+      "zoom": [
+        "1",
+        "0.75",
+        "0.5",
+        "0.25"
+      ]
+    },
+    {
+      "ClassType_": "WorldMap",
+      "id": 24,
+      "mapHeight": 195,
+      "mapWidth": 289,
+      "maxScale": 1,
+      "minScale": 0.25,
+      "nameId": 868491,
+      "origineX": 790,
+      "origineY": 1165,
+      "startScale": 0.5,
+      "totalHeight": 2170,
+      "totalWidth": 2840,
+      "viewableEverywhere": false,
+      "visibleOnMap": true,
+      "zoom": [
+        "1",
+        "0.75",
+        "0.5",
+        "0.25"
+      ]
+    },
+    {
+      "ClassType_": "WorldMap",
+      "id": 25,
+      "mapHeight": 182,
+      "mapWidth": 260,
+      "maxScale": 1,
+      "minScale": 0.25,
+      "nameId": 868490,
+      "origineX": 775,
+      "origineY": 718,
+      "startScale": 0.5,
+      "totalHeight": 2162,
+      "totalWidth": 2840,
+      "viewableEverywhere": false,
+      "visibleOnMap": true,
+      "zoom": [
+        "1",
+        "0.75",
+        "0.5",
+        "0.25"
+      ]
+    },
+    {
+      "ClassType_": "WorldMap",
+      "id": 26,
+      "mapHeight": 185,
+      "mapWidth": 258,
+      "maxScale": 1,
+      "minScale": 0.25,
+      "nameId": 868489,
+      "origineX": 770,
+      "origineY": 717,
+      "startScale": 0.5,
+      "totalHeight": 2170,
+      "totalWidth": 2840,
+      "viewableEverywhere": false,
+      "visibleOnMap": true,
+      "zoom": [
+        "1",
+        "0.75",
+        "0.5",
+        "0.25"
+      ]
+    },
+    {
+      "ClassType_": "WorldMap",
+      "id": 27,
+      "mapHeight": 183,
+      "mapWidth": 257,
+      "maxScale": 1,
+      "minScale": 0.25,
+      "nameId": 868488,
+      "origineX": 775,
+      "origineY": 1266,
+      "startScale": 0.5,
+      "totalHeight": 2162,
+      "totalWidth": 2840,
+      "viewableEverywhere": false,
+      "visibleOnMap": true,
+      "zoom": [
+        "1",
+        "0.75",
+        "0.5",
+        "0.25"
+      ]
+    },
+    {
+      "ClassType_": "WorldMap",
+      "id": 28,
+      "mapHeight": 251.699997,
+      "mapWidth": 352,
+      "maxScale": 1,
+      "minScale": 0.25,
+      "nameId": 877836,
+      "origineX": 1960,
+      "origineY": 1390,
+      "startScale": 0.5,
+      "totalHeight": 2900,
+      "totalWidth": 4000,
+      "viewableEverywhere": true,
+      "visibleOnMap": true,
+      "zoom": [
+        "1",
+        "0.75",
+        "0.5",
+        "0.25"
+      ]
+    },
+    {
+      "ClassType_": "WorldMap",
+      "id": 29,
+      "mapHeight": 150,
+      "mapWidth": 210,
+      "maxScale": 1,
+      "minScale": 0.5,
+      "nameId": 893852,
+      "origineX": 422,
+      "origineY": 880,
+      "startScale": 1,
+      "totalHeight": 1400,
+      "totalWidth": 1800,
+      "viewableEverywhere": false,
+      "visibleOnMap": false,
+      "zoom": [
+        "1",
+        "0.75",
+        "0.5",
+        "0.25"
+      ]
+    },
+    {
+      "ClassType_": "WorldMap",
+      "id": 30,
+      "mapHeight": 183,
+      "mapWidth": 257,
+      "maxScale": 1,
+      "minScale": 0.5,
+      "nameId": 927158,
+      "origineX": 773,
+      "origineY": 532,
+      "startScale": 1,
+      "totalHeight": 2162,
+      "totalWidth": 2840,
+      "viewableEverywhere": false,
+      "visibleOnMap": true,
+      "zoom": [
+        "1",
+        "0.75",
+        "0.5",
+        "0.25"
+      ]
+    },
+    {
+      "ClassType_": "WorldMap",
+      "id": 31,
+      "mapHeight": 185,
+      "mapWidth": 257.5,
+      "maxScale": 1,
+      "minScale": 0.5,
+      "nameId": 980753,
+      "origineX": -6953,
+      "origineY": 13663,
+      "startScale": 1,
+      "totalHeight": 2881,
+      "totalWidth": 2840,
+      "viewableEverywhere": false,
+      "visibleOnMap": true,
+      "zoom": [
+        "1",
+        "0.75",
+        "0.5",
+        "0.25"
+      ]
+    }
+  ]
+}

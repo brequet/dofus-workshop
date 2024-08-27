@@ -1,0 +1,77 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.misc",
+      "packageClass": "CensoredContent",
+      "fields": [
+        {
+          "name": "lang",
+          "type": "String"
+        },
+        {
+          "name": "type",
+          "type": "Integer"
+        },
+        {
+          "name": "oldValue",
+          "type": "Integer"
+        },
+        {
+          "name": "newValue",
+          "type": "Integer"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "CensoredContent",
+      "lang": "pt",
+      "newValue": 292,
+      "oldValue": 12,
+      "type": 1
+    },
+    {
+      "ClassType_": "CensoredContent",
+      "lang": "pt",
+      "newValue": 292,
+      "oldValue": 12,
+      "type": 1
+    },
+    {
+      "ClassType_": "CensoredContent",
+      "lang": "pt",
+      "newValue": 2805,
+      "oldValue": 12,
+      "type": 1
+    },
+    {
+      "ClassType_": "CensoredContent",
+      "lang": "pt",
+      "newValue": 2806,
+      "oldValue": 12,
+      "type": 1
+    },
+    {
+      "ClassType_": "CensoredContent",
+      "lang": "pt",
+      "newValue": 6904,
+      "oldValue": 268,
+      "type": 1
+    },
+    {
+      "ClassType_": "CensoredContent",
+      "lang": "pt",
+      "newValue": 8523,
+      "oldValue": 22,
+      "type": 1
+    },
+    {
+      "ClassType_": "CensoredContent",
+      "lang": "pt",
+      "newValue": 7213,
+      "oldValue": 7,
+      "type": 1
+    }
+  ]
+}

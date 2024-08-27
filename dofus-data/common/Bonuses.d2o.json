@@ -1,0 +1,5605 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.bonus",
+      "packageClass": "Bonus",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "type",
+          "type": "UnsignedInteger"
+        },
+        {
+          "name": "amount",
+          "type": "Integer"
+        },
+        {
+          "name": "criterionsIds",
+          "type": "Vector",
+          "subtype": {
+            "name": "Vector.\u003cint\u003e",
+            "type": "Integer"
+          }
+        }
+      ]
+    },
+    "2": {
+      "packageName": "com.ankamagames.dofus.datacenter.bonus",
+      "packageClass": "MonsterXPBonus",
+      "fields": [
+        {
+          "name": "amount",
+          "type": "Integer"
+        },
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "criterionsIds",
+          "type": "Vector",
+          "subtype": {
+            "name": "Vector.\u003cint\u003e",
+            "type": "Integer"
+          }
+        },
+        {
+          "name": "type",
+          "type": "UnsignedInteger"
+        }
+      ]
+    },
+    "3": {
+      "packageName": "com.ankamagames.dofus.datacenter.bonus",
+      "packageClass": "QuestXPBonus",
+      "fields": [
+        {
+          "name": "amount",
+          "type": "Integer"
+        },
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "criterionsIds",
+          "type": "Vector",
+          "subtype": {
+            "name": "Vector.\u003cint\u003e",
+            "type": "Integer"
+          }
+        },
+        {
+          "name": "type",
+          "type": "UnsignedInteger"
+        }
+      ]
+    },
+    "4": {
+      "packageName": "com.ankamagames.dofus.datacenter.bonus",
+      "packageClass": "QuestKamasBonus",
+      "fields": [
+        {
+          "name": "amount",
+          "type": "Integer"
+        },
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "criterionsIds",
+          "type": "Vector",
+          "subtype": {
+            "name": "Vector.\u003cint\u003e",
+            "type": "Integer"
+          }
+        },
+        {
+          "name": "type",
+          "type": "UnsignedInteger"
+        }
+      ]
+    },
+    "5": {
+      "packageName": "com.ankamagames.dofus.datacenter.bonus",
+      "packageClass": "MountBonus",
+      "fields": [
+        {
+          "name": "amount",
+          "type": "Integer"
+        },
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "criterionsIds",
+          "type": "Vector",
+          "subtype": {
+            "name": "Vector.\u003cint\u003e",
+            "type": "Integer"
+          }
+        },
+        {
+          "name": "type",
+          "type": "UnsignedInteger"
+        }
+      ]
+    },
+    "6": {
+      "packageName": "com.ankamagames.dofus.datacenter.bonus",
+      "packageClass": "MonsterStarRateBonus",
+      "fields": [
+        {
+          "name": "amount",
+          "type": "Integer"
+        },
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "criterionsIds",
+          "type": "Vector",
+          "subtype": {
+            "name": "Vector.\u003cint\u003e",
+            "type": "Integer"
+          }
+        },
+        {
+          "name": "type",
+          "type": "UnsignedInteger"
+        }
+      ]
+    },
+    "7": {
+      "packageName": "com.ankamagames.dofus.datacenter.bonus",
+      "packageClass": "MonsterDropChanceBonus",
+      "fields": [
+        {
+          "name": "amount",
+          "type": "Integer"
+        },
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "criterionsIds",
+          "type": "Vector",
+          "subtype": {
+            "name": "Vector.\u003cint\u003e",
+            "type": "Integer"
+          }
+        },
+        {
+          "name": "type",
+          "type": "UnsignedInteger"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "Bonus",
+      "amount": 50,
+      "criterionsIds": [],
+      "id": 2,
+      "type": 2
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        13,
+        365,
+        366,
+        367,
+        368,
+        369,
+        370,
+        371,
+        372,
+        373,
+        374
+      ],
+      "id": 15,
+      "type": 12
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 10,
+      "criterionsIds": [
+        2977,
+        2978,
+        2979,
+        2980,
+        2981,
+        2982,
+        2983,
+        2984,
+        2985,
+        2986,
+        2987,
+        2988,
+        2989
+      ],
+      "id": 5,
+      "type": 10
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        19
+      ],
+      "id": 19,
+      "type": 7
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 75,
+      "criterionsIds": [
+        773
+      ],
+      "id": 226,
+      "type": 16
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        88
+      ],
+      "id": 49,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        9
+      ],
+      "id": 3,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 25,
+      "criterionsIds": [
+        98
+      ],
+      "id": 55,
+      "type": 19
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 200,
+      "criterionsIds": [
+        162,
+        2928,
+        2929,
+        2930,
+        2931,
+        2932,
+        2933,
+        2934,
+        2935,
+        2936,
+        2937,
+        2938,
+        2939,
+        2940,
+        2941,
+        2942,
+        2943,
+        2944,
+        2945
+      ],
+      "id": 85,
+      "type": 6
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 200,
+      "criterionsIds": [
+        59,
+        2888,
+        2889,
+        2890,
+        2891,
+        2892,
+        2893,
+        2894,
+        2895,
+        2896,
+        2897,
+        2898,
+        2899,
+        2900,
+        2901,
+        2902,
+        2903,
+        2904,
+        2905,
+        2906,
+        2907
+      ],
+      "id": 36,
+      "type": 6
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        84,
+        354,
+        355,
+        356,
+        357,
+        358,
+        359,
+        360,
+        361,
+        362,
+        363,
+        364
+      ],
+      "id": 44,
+      "type": 12
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        2146,
+        2147,
+        2148,
+        2149,
+        2150,
+        2151,
+        2152,
+        2153,
+        2154,
+        2155,
+        2156,
+        2157
+      ],
+      "id": 461,
+      "type": 12
+    },
+    {
+      "ClassType_": "QuestXPBonus",
+      "amount": 100,
+      "criterionsIds": [],
+      "id": 46,
+      "type": 14
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        2440,
+        2441,
+        2442,
+        2443,
+        2444,
+        2445,
+        2446,
+        2447,
+        2448,
+        2449,
+        2450,
+        2451,
+        2452,
+        2453,
+        2454,
+        2455,
+        2456,
+        2457,
+        2458,
+        2459,
+        2460,
+        2461,
+        2462,
+        2463,
+        2464,
+        2465,
+        2466,
+        2467,
+        2468,
+        2469
+      ],
+      "id": 462,
+      "type": 12
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 100,
+      "criterionsIds": [
+        287
+      ],
+      "id": 53,
+      "type": 8
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        2158,
+        2159,
+        2160,
+        2161,
+        2162,
+        2163,
+        2164,
+        2165,
+        2166,
+        2167,
+        2168,
+        2169
+      ],
+      "id": 464,
+      "type": 12
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        107
+      ],
+      "id": 62,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        80,
+        82,
+        83,
+        79,
+        81
+      ],
+      "id": 43,
+      "type": 5
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 50,
+      "criterionsIds": [
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        1190,
+        1813,
+        1814,
+        2135
+      ],
+      "id": 66,
+      "type": 1
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        2410,
+        2411,
+        2412,
+        2413,
+        2414,
+        2415,
+        2416,
+        2417,
+        2418,
+        2419,
+        2420,
+        2421,
+        2422,
+        2423,
+        2424,
+        2425,
+        2426,
+        2427,
+        2428,
+        2429,
+        2430,
+        2431,
+        2432,
+        2433,
+        2434,
+        2435,
+        2436,
+        2437,
+        2438,
+        2439
+      ],
+      "id": 465,
+      "type": 12
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        2170,
+        2171,
+        2172,
+        2173,
+        2174,
+        2175,
+        2176,
+        2177,
+        2178,
+        2179,
+        2180,
+        2181
+      ],
+      "id": 466,
+      "type": 12
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        2380,
+        2381,
+        2382,
+        2383,
+        2384,
+        2385,
+        2386,
+        2387,
+        2388,
+        2389,
+        2390,
+        2391,
+        2392,
+        2393,
+        2394,
+        2395,
+        2396,
+        2397,
+        2398,
+        2399,
+        2400,
+        2401,
+        2402,
+        2403,
+        2404,
+        2405,
+        2406,
+        2407,
+        2408,
+        2409
+      ],
+      "id": 467,
+      "type": 12
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        2182,
+        2183,
+        2184,
+        2185,
+        2186,
+        2187,
+        2188,
+        2189,
+        2190,
+        2191,
+        2192,
+        2193
+      ],
+      "id": 468,
+      "type": 12
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 25,
+      "criterionsIds": [
+        1831,
+        1832,
+        1833,
+        1834
+      ],
+      "id": 390,
+      "type": 16
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        2350,
+        2351,
+        2352,
+        2353,
+        2354,
+        2355,
+        2356,
+        2357,
+        2358,
+        2359,
+        2360,
+        2361,
+        2362,
+        2363,
+        2364,
+        2365,
+        2366,
+        2367,
+        2368,
+        2369,
+        2370,
+        2371,
+        2372,
+        2373,
+        2374,
+        2375,
+        2376,
+        2377,
+        2378,
+        2379
+      ],
+      "id": 469,
+      "type": 12
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        2194,
+        2195,
+        2196,
+        2197,
+        2198,
+        2199,
+        2200,
+        2201,
+        2202,
+        2203,
+        2204
+      ],
+      "id": 470,
+      "type": 12
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        2335,
+        2336,
+        2337,
+        2338,
+        2339,
+        2340,
+        2341,
+        2342,
+        2343,
+        2344,
+        2345,
+        2346,
+        2347,
+        2348,
+        2349
+      ],
+      "id": 471,
+      "type": 12
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        2205,
+        2206,
+        2207,
+        2208,
+        2209,
+        2210,
+        2211,
+        2212,
+        2213,
+        2214,
+        2215
+      ],
+      "id": 472,
+      "type": 12
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        2320,
+        2321,
+        2322,
+        2323,
+        2324,
+        2325,
+        2326,
+        2327,
+        2328,
+        2329,
+        2330,
+        2331,
+        2332,
+        2333,
+        2334
+      ],
+      "id": 473,
+      "type": 12
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 50,
+      "criterionsIds": [
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        1191,
+        1811,
+        1812,
+        2136
+      ],
+      "id": 67,
+      "type": 16
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        2216,
+        2217,
+        2218,
+        2219,
+        2220,
+        2221,
+        2222,
+        2223,
+        2224,
+        2225,
+        2226
+      ],
+      "id": 474,
+      "type": 12
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        2305,
+        2306,
+        2307,
+        2308,
+        2309,
+        2310,
+        2311,
+        2312,
+        2313,
+        2314,
+        2315,
+        2316,
+        2317,
+        2318,
+        2319
+      ],
+      "id": 475,
+      "type": 12
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        2227,
+        2228,
+        2229,
+        2230,
+        2231,
+        2232,
+        2233,
+        2234,
+        2235,
+        2236,
+        2237
+      ],
+      "id": 476,
+      "type": 12
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        137
+      ],
+      "id": 72,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        2290,
+        2291,
+        2292,
+        2293,
+        2294,
+        2295,
+        2296,
+        2297,
+        2298,
+        2299,
+        2300,
+        2301,
+        2302,
+        2303,
+        2304
+      ],
+      "id": 477,
+      "type": 12
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        2238,
+        2239,
+        2240,
+        2241,
+        2242,
+        2243,
+        2244,
+        2245,
+        2246,
+        2247,
+        2248
+      ],
+      "id": 478,
+      "type": 12
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        141,
+        385,
+        386,
+        387,
+        388,
+        389,
+        390,
+        391,
+        392,
+        393,
+        394
+      ],
+      "id": 76,
+      "type": 12
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        2275,
+        2276,
+        2277,
+        2278,
+        2279,
+        2280,
+        2281,
+        2282,
+        2283,
+        2284,
+        2285,
+        2286,
+        2287,
+        2288,
+        2289
+      ],
+      "id": 479,
+      "type": 12
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        2249,
+        2250,
+        2251,
+        2252,
+        2253,
+        2254,
+        2255,
+        2256,
+        2257,
+        2258,
+        2259
+      ],
+      "id": 480,
+      "type": 12
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        2260,
+        2261,
+        2262,
+        2263,
+        2264,
+        2265,
+        2266,
+        2267,
+        2268,
+        2269,
+        2270,
+        2271,
+        2272,
+        2273,
+        2274
+      ],
+      "id": 481,
+      "type": 12
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        58
+      ],
+      "id": 35,
+      "type": 5
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 10,
+      "criterionsIds": [
+        2966
+      ],
+      "id": 501,
+      "type": 19
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        164
+      ],
+      "id": 87,
+      "type": 7
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 25,
+      "criterionsIds": [
+        2030
+      ],
+      "id": 403,
+      "type": 1
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 25,
+      "criterionsIds": [
+        2475
+      ],
+      "id": 483,
+      "type": 19
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        109
+      ],
+      "id": 64,
+      "type": 5
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 50,
+      "criterionsIds": [
+        2477
+      ],
+      "id": 485,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 50,
+      "criterionsIds": [
+        2478
+      ],
+      "id": 486,
+      "type": 1
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        2502,
+        2503,
+        2504,
+        2505,
+        2506,
+        2507,
+        2508,
+        2509,
+        2510,
+        2511,
+        2512,
+        2513,
+        2514,
+        2515,
+        2516
+      ],
+      "id": 488,
+      "type": 12
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        2490,
+        2491,
+        2492,
+        2493,
+        2494,
+        2495,
+        2496,
+        2497,
+        2498,
+        2499,
+        2500,
+        2501
+      ],
+      "id": 487,
+      "type": 12
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 75,
+      "criterionsIds": [
+        22,
+        2518
+      ],
+      "id": 22,
+      "type": 16
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 15,
+      "criterionsIds": [
+        21
+      ],
+      "id": 21,
+      "type": 10
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        139,
+        2519,
+        2520
+      ],
+      "id": 74,
+      "type": 5
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        166,
+        2523,
+        2524
+      ],
+      "id": 89,
+      "type": 5
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [],
+      "id": 463,
+      "type": 12
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 30,
+      "criterionsIds": [
+        75
+      ],
+      "id": 39,
+      "type": 16
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        2555,
+        2556
+      ],
+      "id": 503,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 75,
+      "criterionsIds": [],
+      "id": 4,
+      "type": 17
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        2474
+      ],
+      "id": 482,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        2531
+      ],
+      "id": 494,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        74
+      ],
+      "id": 38,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        54,
+        55
+      ],
+      "id": 32,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        1552,
+        1553,
+        1554
+      ],
+      "id": 13,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        101
+      ],
+      "id": 58,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        169
+      ],
+      "id": 92,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        2544
+      ],
+      "id": 495,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 20,
+      "criterionsIds": [
+        2545
+      ],
+      "id": 496,
+      "type": 11
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        2546,
+        2547
+      ],
+      "id": 498,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        2548,
+        2549
+      ],
+      "id": 499,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 200,
+      "criterionsIds": [],
+      "id": 65,
+      "type": 13
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 100,
+      "criterionsIds": [
+        12
+      ],
+      "id": 14,
+      "type": 16
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 15,
+      "criterionsIds": [
+        154
+      ],
+      "id": 82,
+      "type": 10
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 15,
+      "criterionsIds": [
+        2476
+      ],
+      "id": 484,
+      "type": 31
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 15,
+      "criterionsIds": [
+        2560
+      ],
+      "id": 504,
+      "type": 31
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 15,
+      "criterionsIds": [
+        2550
+      ],
+      "id": 500,
+      "type": 31
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 15,
+      "criterionsIds": [
+        2530
+      ],
+      "id": 493,
+      "type": 31
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 100,
+      "criterionsIds": [],
+      "id": 492,
+      "type": 33
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 100,
+      "criterionsIds": [],
+      "id": 497,
+      "type": 34
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 15,
+      "criterionsIds": [
+        104
+      ],
+      "id": 61,
+      "type": 10
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 50,
+      "criterionsIds": [],
+      "id": 502,
+      "type": 30
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 100,
+      "criterionsIds": [
+        174
+      ],
+      "id": 98,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 100,
+      "criterionsIds": [],
+      "id": 100,
+      "type": 25
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        1465,
+        1469,
+        2536,
+        2537
+      ],
+      "id": 186,
+      "type": 26
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        200,
+        375,
+        376,
+        377,
+        378,
+        379,
+        380,
+        381,
+        382,
+        383,
+        384
+      ],
+      "id": 104,
+      "type": 12
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 100,
+      "criterionsIds": [
+        286
+      ],
+      "id": 106,
+      "type": 8
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        204
+      ],
+      "id": 109,
+      "type": 5
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        1488,
+        1489,
+        1490,
+        1491
+      ],
+      "id": 124,
+      "type": 26
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        429
+      ],
+      "id": 143,
+      "type": 5
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 25,
+      "criterionsIds": [
+        473
+      ],
+      "id": 162,
+      "type": 19
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 700,
+      "criterionsIds": [
+        1880,
+        1881
+      ],
+      "id": 397,
+      "type": 3
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 25,
+      "criterionsIds": [
+        2031
+      ],
+      "id": 404,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 50,
+      "criterionsIds": [
+        60,
+        2631,
+        2632,
+        2633
+      ],
+      "id": 37,
+      "type": 1
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 150,
+      "criterionsIds": [
+        143
+      ],
+      "id": 78,
+      "type": 17
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 50,
+      "criterionsIds": [
+        284,
+        282,
+        283,
+        285,
+        1242
+      ],
+      "id": 122,
+      "type": 2
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 100,
+      "criterionsIds": [
+        89
+      ],
+      "id": 50,
+      "type": 16
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 100,
+      "criterionsIds": [
+        1498,
+        1499,
+        1500,
+        1501,
+        1502,
+        1503,
+        1504,
+        1505,
+        1506,
+        1507,
+        1508,
+        1509,
+        1510,
+        1511,
+        1512,
+        1513,
+        1514,
+        1515,
+        1516,
+        1517,
+        1518,
+        1519,
+        1520,
+        1521,
+        1522,
+        1523,
+        1524,
+        1525,
+        1526,
+        1527,
+        1528,
+        1529,
+        1530,
+        1531,
+        1532,
+        1533,
+        1534,
+        1535,
+        1536,
+        1537
+      ],
+      "id": 126,
+      "type": 26
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 20,
+      "criterionsIds": [
+        31
+      ],
+      "id": 27,
+      "type": 11
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 200,
+      "criterionsIds": [
+        395
+      ],
+      "id": 127,
+      "type": 3
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 100,
+      "criterionsIds": [],
+      "id": 128,
+      "type": 8
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 25,
+      "criterionsIds": [
+        2032
+      ],
+      "id": 405,
+      "type": 1
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        552,
+        2634,
+        2635,
+        2636,
+        2637
+      ],
+      "id": 197,
+      "type": 17
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 50,
+      "criterionsIds": [
+        424,
+        2521,
+        2522,
+        2638,
+        2639,
+        2640,
+        2641,
+        2642,
+        2643,
+        2644,
+        2645
+      ],
+      "id": 142,
+      "type": 16
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 20,
+      "criterionsIds": [
+        403
+      ],
+      "id": 135,
+      "type": 11
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        404,
+        405,
+        406,
+        407,
+        408,
+        409,
+        410,
+        411,
+        412,
+        413,
+        414
+      ],
+      "id": 136,
+      "type": 12
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 25,
+      "criterionsIds": [
+        2033
+      ],
+      "id": 406,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 100,
+      "criterionsIds": [
+        202
+      ],
+      "id": 107,
+      "type": 1
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        517
+      ],
+      "id": 179,
+      "type": 5
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 20,
+      "criterionsIds": [
+        2526
+      ],
+      "id": 490,
+      "type": 11
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        2527,
+        2528
+      ],
+      "id": 491,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        455
+      ],
+      "id": 156,
+      "type": 5
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        416
+      ],
+      "id": 138,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 150,
+      "criterionsIds": [
+        452
+      ],
+      "id": 153,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        498
+      ],
+      "id": 172,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        1542,
+        1544,
+        1545
+      ],
+      "id": 144,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        456
+      ],
+      "id": 157,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 300,
+      "criterionsIds": [],
+      "id": 158,
+      "type": 20
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 100,
+      "criterionsIds": [],
+      "id": 159,
+      "type": 21
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        1540,
+        1541
+      ],
+      "id": 110,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        399
+      ],
+      "id": 132,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 200,
+      "criterionsIds": [
+        199
+      ],
+      "id": 103,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        279,
+        280
+      ],
+      "id": 120,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        1496,
+        1497,
+        2532,
+        2533
+      ],
+      "id": 123,
+      "type": 26
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        478
+      ],
+      "id": 167,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        1474,
+        1475
+      ],
+      "id": 125,
+      "type": 26
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        481,
+        482,
+        483,
+        484,
+        485,
+        486,
+        487,
+        488,
+        489,
+        490,
+        491,
+        492
+      ],
+      "id": 169,
+      "type": 12
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        1462,
+        2534,
+        2535
+      ],
+      "id": 149,
+      "type": 26
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 150,
+      "criterionsIds": [
+        175
+      ],
+      "id": 99,
+      "type": 17
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        2564,
+        2565
+      ],
+      "id": 507,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 100,
+      "criterionsIds": [
+        516
+      ],
+      "id": 178,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        401
+      ],
+      "id": 133,
+      "type": 17
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 150,
+      "criterionsIds": [
+        520
+      ],
+      "id": 182,
+      "type": 8
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 200,
+      "criterionsIds": [
+        445,
+        2858,
+        2859,
+        2860,
+        2861,
+        2862,
+        2863,
+        2864,
+        2865,
+        2866,
+        2867,
+        2868,
+        2869,
+        2870,
+        2871,
+        2872,
+        2873,
+        2874,
+        2875,
+        2876,
+        2877,
+        2878,
+        2879,
+        2880,
+        2881,
+        2882,
+        2883,
+        2884,
+        2885,
+        2886,
+        2887
+      ],
+      "id": 150,
+      "type": 6
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 10,
+      "criterionsIds": [
+        2562
+      ],
+      "id": 506,
+      "type": 19
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 15,
+      "criterionsIds": [
+        2525
+      ],
+      "id": 489,
+      "type": 31
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 100,
+      "criterionsIds": [],
+      "id": 505,
+      "type": 32
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 15,
+      "criterionsIds": [
+        501
+      ],
+      "id": 175,
+      "type": 10
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 15,
+      "criterionsIds": [
+        201
+      ],
+      "id": 105,
+      "type": 10
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 15,
+      "criterionsIds": [
+        447
+      ],
+      "id": 152,
+      "type": 10
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 200,
+      "criterionsIds": [
+        2582,
+        2583,
+        2584,
+        2585,
+        2586
+      ],
+      "id": 509,
+      "type": 3
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 150,
+      "criterionsIds": [
+        2588
+      ],
+      "id": 510,
+      "type": 17
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 20,
+      "criterionsIds": [
+        2971
+      ],
+      "id": 514,
+      "type": 35
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        561
+      ],
+      "id": 198,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        562,
+        563,
+        564,
+        565,
+        566,
+        567,
+        568,
+        569,
+        570,
+        571,
+        572
+      ],
+      "id": 199,
+      "type": 12
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 25,
+      "criterionsIds": [
+        902
+      ],
+      "id": 277,
+      "type": 19
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        665
+      ],
+      "id": 203,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 150,
+      "criterionsIds": [
+        824,
+        825
+      ],
+      "id": 242,
+      "type": 8
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 700,
+      "criterionsIds": [
+        2022
+      ],
+      "id": 401,
+      "type": 3
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 700,
+      "criterionsIds": [
+        2021
+      ],
+      "id": 400,
+      "type": 3
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 100,
+      "criterionsIds": [
+        687
+      ],
+      "id": 211,
+      "type": 8
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 300,
+      "criterionsIds": [
+        2020
+      ],
+      "id": 399,
+      "type": 3
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        573
+      ],
+      "id": 200,
+      "type": 5
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        897
+      ],
+      "id": 272,
+      "type": 5
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        1563,
+        1564
+      ],
+      "id": 273,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        1546,
+        1547
+      ],
+      "id": 222,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        2590,
+        2591
+      ],
+      "id": 512,
+      "type": 26
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        681
+      ],
+      "id": 207,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        2598
+      ],
+      "id": 513,
+      "type": 17
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        821
+      ],
+      "id": 239,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        774
+      ],
+      "id": 227,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        694
+      ],
+      "id": 216,
+      "type": 5
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        543,
+        544
+      ],
+      "id": 192,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        781,
+        782,
+        783,
+        784,
+        785,
+        786,
+        787,
+        788,
+        789,
+        790,
+        791
+      ],
+      "id": 230,
+      "type": 12
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        1463,
+        1467,
+        2538,
+        2539
+      ],
+      "id": 215,
+      "type": 26
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 100,
+      "criterionsIds": [
+        2972
+      ],
+      "id": 522,
+      "type": 22
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 25,
+      "criterionsIds": [
+        815
+      ],
+      "id": 235,
+      "type": 19
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        1472,
+        1473,
+        2540,
+        2541
+      ],
+      "id": 245,
+      "type": 26
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        893,
+        894
+      ],
+      "id": 269,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        1494,
+        1495
+      ],
+      "id": 278,
+      "type": 26
+    },
+    {
+      "ClassType_": "QuestKamasBonus",
+      "amount": 100,
+      "criterionsIds": [],
+      "id": 246,
+      "type": 15
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 15,
+      "criterionsIds": [
+        574
+      ],
+      "id": 201,
+      "type": 10
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 100,
+      "criterionsIds": [
+        844
+      ],
+      "id": 250,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        546,
+        2694,
+        2695,
+        2696,
+        2697,
+        2698,
+        2699,
+        2700
+      ],
+      "id": 194,
+      "type": 5
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        686
+      ],
+      "id": 210,
+      "type": 5
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        2579,
+        2580
+      ],
+      "id": 508,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 10,
+      "criterionsIds": [
+        2974
+      ],
+      "id": 524,
+      "type": 10
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 25,
+      "criterionsIds": [
+        857
+      ],
+      "id": 253,
+      "type": 19
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 10,
+      "criterionsIds": [
+        2975
+      ],
+      "id": 525,
+      "type": 19
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 50,
+      "criterionsIds": [
+        2599,
+        2600,
+        2601,
+        2602
+      ],
+      "id": 515,
+      "type": 2
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 50,
+      "criterionsIds": [
+        671,
+        672,
+        676
+      ],
+      "id": 206,
+      "type": 2
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        820
+      ],
+      "id": 238,
+      "type": 5
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        874,
+        875,
+        876,
+        877,
+        878,
+        879,
+        880,
+        881,
+        882,
+        883,
+        884
+      ],
+      "id": 261,
+      "type": 12
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 150,
+      "criterionsIds": [
+        2603
+      ],
+      "id": 516,
+      "type": 17
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        886
+      ],
+      "id": 263,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 20,
+      "criterionsIds": [
+        888
+      ],
+      "id": 265,
+      "type": 11
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 100,
+      "criterionsIds": [
+        889
+      ],
+      "id": 266,
+      "type": 8
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 25,
+      "criterionsIds": [],
+      "id": 518,
+      "type": 2
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        10,
+        2654
+      ],
+      "id": 12,
+      "type": 5
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 10,
+      "criterionsIds": [
+        896
+      ],
+      "id": 271,
+      "type": 10
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        868,
+        870
+      ],
+      "id": 258,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 15,
+      "criterionsIds": [
+        858
+      ],
+      "id": 254,
+      "type": 10
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 10,
+      "criterionsIds": [
+        2604,
+        2605
+      ],
+      "id": 517,
+      "type": 19
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 15,
+      "criterionsIds": [
+        2589
+      ],
+      "id": 511,
+      "type": 31
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 10,
+      "criterionsIds": [
+        2967
+      ],
+      "id": 519,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 20,
+      "criterionsIds": [
+        2969
+      ],
+      "id": 521,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 15,
+      "criterionsIds": [
+        2968
+      ],
+      "id": 520,
+      "type": 16
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 15,
+      "criterionsIds": [
+        771
+      ],
+      "id": 224,
+      "type": 10
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 75,
+      "criterionsIds": [],
+      "id": 189,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 100,
+      "criterionsIds": [
+        551
+      ],
+      "id": 196,
+      "type": 1
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 15,
+      "criterionsIds": [
+        836
+      ],
+      "id": 248,
+      "type": 10
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 10,
+      "criterionsIds": [
+        2976
+      ],
+      "id": 526,
+      "type": 31
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        807,
+        808
+      ],
+      "id": 233,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 400,
+      "criterionsIds": [
+        2973
+      ],
+      "id": 523,
+      "type": 20
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 400,
+      "criterionsIds": [],
+      "id": 282,
+      "type": 9
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        934,
+        940,
+        933,
+        2673,
+        2674
+      ],
+      "id": 283,
+      "type": 5
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 200,
+      "criterionsIds": [
+        2729,
+        2730,
+        2731,
+        2732,
+        2733,
+        2734,
+        2735,
+        2736,
+        2737,
+        2738,
+        2739,
+        2740,
+        2741,
+        2742,
+        2743,
+        2744,
+        2745,
+        2746,
+        2747,
+        2748,
+        2749,
+        2750,
+        2751,
+        2752,
+        2753,
+        2754,
+        2755,
+        2756,
+        2757,
+        2758,
+        2759,
+        2760,
+        2761,
+        2762,
+        2763,
+        2764,
+        2765,
+        2766,
+        2767,
+        2768,
+        2769,
+        2770,
+        2771,
+        2772,
+        2773,
+        2774,
+        2775,
+        2776,
+        2777,
+        2778,
+        2779,
+        2780,
+        2781,
+        2782,
+        2783,
+        2784,
+        2785,
+        2786,
+        2787,
+        2788,
+        2789,
+        2790,
+        2791,
+        2792,
+        2793,
+        2794,
+        2795,
+        2796,
+        2797,
+        2798,
+        2799,
+        2800,
+        2801,
+        2802,
+        2803,
+        2804,
+        2805,
+        2806,
+        2807,
+        2808,
+        2809,
+        2810,
+        2811,
+        2812,
+        2813,
+        2814,
+        2815,
+        2816,
+        2817,
+        2818,
+        2819,
+        2820,
+        2821,
+        2822,
+        2823,
+        2824,
+        2825,
+        2826,
+        2827,
+        2828,
+        2829,
+        2830,
+        2831,
+        2832,
+        2833,
+        2834,
+        2835,
+        2836,
+        2837,
+        2838,
+        2839,
+        2840,
+        2841,
+        2842,
+        2843,
+        2844,
+        2845,
+        2846,
+        2847,
+        2848,
+        2849,
+        2850,
+        2851,
+        2852,
+        2853,
+        2854,
+        2855,
+        2856,
+        2857
+      ],
+      "id": 286,
+      "type": 6
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 100,
+      "criterionsIds": [
+        943
+      ],
+      "id": 287,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 10000,
+      "criterionsIds": [],
+      "id": 402,
+      "type": 18
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 25,
+      "criterionsIds": [
+        1169,
+        1170,
+        1171,
+        1172
+      ],
+      "id": 365,
+      "type": 1
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        1099
+      ],
+      "id": 346,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        947,
+        948,
+        949,
+        950,
+        951,
+        952,
+        953,
+        954,
+        955,
+        956,
+        957,
+        958
+      ],
+      "id": 292,
+      "type": 12
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 25,
+      "criterionsIds": [
+        2034
+      ],
+      "id": 407,
+      "type": 1
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 20,
+      "criterionsIds": [
+        960
+      ],
+      "id": 294,
+      "type": 11
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 25,
+      "criterionsIds": [
+        2035
+      ],
+      "id": 408,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 25,
+      "criterionsIds": [
+        2037
+      ],
+      "id": 410,
+      "type": 1
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        964
+      ],
+      "id": 298,
+      "type": 5
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        970
+      ],
+      "id": 302,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        946
+      ],
+      "id": 291,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        1026
+      ],
+      "id": 324,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        1065,
+        1066
+      ],
+      "id": 337,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 200,
+      "criterionsIds": [
+        1125
+      ],
+      "id": 349,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        1159
+      ],
+      "id": 361,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        1182
+      ],
+      "id": 372,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 20,
+      "criterionsIds": [
+        996,
+        997
+      ],
+      "id": 317,
+      "type": 11
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        1558,
+        1557
+      ],
+      "id": 319,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        1461,
+        1466,
+        2542,
+        2543
+      ],
+      "id": 366,
+      "type": 26
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 50,
+      "criterionsIds": [
+        1003,
+        1004,
+        1005,
+        1006,
+        1007,
+        1008
+      ],
+      "id": 322,
+      "type": 2
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        1015,
+        1016,
+        1017,
+        1018,
+        1019,
+        1020,
+        1021,
+        1022,
+        1023,
+        1024,
+        1025
+      ],
+      "id": 323,
+      "type": 12
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        986
+      ],
+      "id": 313,
+      "type": 5
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 150,
+      "criterionsIds": [
+        977
+      ],
+      "id": 307,
+      "type": 8
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        1464,
+        1468
+      ],
+      "id": 311,
+      "type": 26
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        1179,
+        2552
+      ],
+      "id": 369,
+      "type": 5
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        994
+      ],
+      "id": 315,
+      "type": 5
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 100,
+      "criterionsIds": [
+        1037
+      ],
+      "id": 333,
+      "type": 8
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        1470,
+        1471,
+        2553,
+        2554
+      ],
+      "id": 328,
+      "type": 26
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        1059,
+        2606
+      ],
+      "id": 335,
+      "type": 5
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 200,
+      "criterionsIds": [
+        1180,
+        2908,
+        2909,
+        2910,
+        2911,
+        2912,
+        2913,
+        2914,
+        2915,
+        2916,
+        2917,
+        2918,
+        2919,
+        2920,
+        2921,
+        2922,
+        2923,
+        2924,
+        2925,
+        2926,
+        2927
+      ],
+      "id": 370,
+      "type": 6
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 15,
+      "criterionsIds": [
+        962
+      ],
+      "id": 296,
+      "type": 10
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        963,
+        2965
+      ],
+      "id": 297,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 15,
+      "criterionsIds": [
+        995
+      ],
+      "id": 316,
+      "type": 10
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 15,
+      "criterionsIds": [
+        1167
+      ],
+      "id": 363,
+      "type": 10
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        1104,
+        1105,
+        1106,
+        1107,
+        1108,
+        1109,
+        1110,
+        1111,
+        1112,
+        1113,
+        1114,
+        1115,
+        1116,
+        1117,
+        1118,
+        1119,
+        1120,
+        1121,
+        1122,
+        1123,
+        1124,
+        2119
+      ],
+      "id": 348,
+      "type": 5
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 100,
+      "criterionsIds": [
+        1129
+      ],
+      "id": 353,
+      "type": 7
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 150,
+      "criterionsIds": [
+        1157
+      ],
+      "id": 358,
+      "type": 8
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 35,
+      "criterionsIds": [
+        2036
+      ],
+      "id": 409,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 100,
+      "criterionsIds": [
+        1075
+      ],
+      "id": 342,
+      "type": 16
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 2,
+      "criterionsIds": [
+        1664,
+        1665,
+        1666,
+        1667,
+        1668,
+        1669,
+        1670,
+        1671,
+        1672,
+        1673,
+        1674,
+        1675,
+        1676,
+        1677,
+        1678,
+        1679,
+        1680,
+        1681,
+        1682,
+        1683,
+        1684,
+        1685,
+        1686,
+        1687,
+        1688,
+        1689,
+        1690,
+        1691,
+        1692,
+        1693,
+        1694,
+        1695,
+        1696,
+        1697,
+        1698,
+        1699,
+        1700,
+        1701,
+        1702,
+        1703,
+        1704,
+        1705,
+        1706,
+        1707,
+        1708,
+        1709,
+        1710,
+        1711,
+        1712,
+        1713,
+        1714,
+        1715,
+        1716,
+        1717,
+        1718,
+        1719,
+        1720,
+        1721,
+        1722,
+        1723,
+        1724,
+        1725,
+        1726,
+        1727,
+        1728,
+        1729,
+        1730,
+        1731,
+        1732,
+        1733
+      ],
+      "id": 382,
+      "type": 12
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        153,
+        2144
+      ],
+      "id": 81,
+      "type": 5
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 300,
+      "criterionsIds": [
+        2093,
+        2094,
+        2095,
+        2096,
+        2097,
+        2098,
+        2099
+      ],
+      "id": 444,
+      "type": 3
+    },
+    {
+      "ClassType_": "QuestXPBonus",
+      "amount": 100,
+      "criterionsIds": [
+        1192,
+        1193
+      ],
+      "id": 378,
+      "type": 14
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        1734,
+        1735,
+        1736,
+        1737,
+        1738,
+        1739,
+        1740,
+        1741,
+        1742,
+        1743,
+        1744,
+        1745,
+        1746,
+        1747,
+        1748,
+        1749,
+        1750,
+        1751,
+        1752,
+        1753,
+        1754,
+        1755,
+        1756,
+        1757,
+        1758,
+        1759,
+        1760,
+        1761,
+        1762,
+        1763,
+        1764,
+        1765,
+        1766,
+        1767,
+        1768,
+        1769,
+        1770,
+        1771,
+        1772,
+        1773,
+        1774,
+        1775,
+        1776,
+        1777,
+        1778,
+        1779,
+        1780,
+        1781,
+        1782,
+        1783,
+        1784,
+        1785,
+        1786,
+        1787,
+        1788,
+        1789,
+        1790,
+        1791,
+        1792,
+        1793,
+        1794,
+        1795,
+        1796,
+        1797,
+        1798,
+        1799,
+        1800,
+        1801,
+        1802,
+        1803,
+        1804
+      ],
+      "id": 383,
+      "type": 12
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 50,
+      "criterionsIds": [
+        1807
+      ],
+      "id": 384,
+      "type": 1
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 100,
+      "criterionsIds": [
+        2108
+      ],
+      "id": 453,
+      "type": 6
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 1,
+      "criterionsIds": [
+        2109
+      ],
+      "id": 454,
+      "type": 5
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 25,
+      "criterionsIds": [
+        2039
+      ],
+      "id": 412,
+      "type": 1
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 100,
+      "criterionsIds": [],
+      "id": 388,
+      "type": 29
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 25,
+      "criterionsIds": [
+        2046
+      ],
+      "id": 419,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 25,
+      "criterionsIds": [
+        2067
+      ],
+      "id": 439,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 25,
+      "criterionsIds": [
+        2594,
+        2595,
+        2596,
+        2597
+      ],
+      "id": 432,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 25,
+      "criterionsIds": [
+        2041
+      ],
+      "id": 414,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 50,
+      "criterionsIds": [
+        2100
+      ],
+      "id": 445,
+      "type": 1
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 200,
+      "criterionsIds": [
+        2102,
+        2946,
+        2947,
+        2948,
+        2949,
+        2950,
+        2951,
+        2952,
+        2953,
+        2954,
+        2955,
+        2956,
+        2957,
+        2958,
+        2959,
+        2960,
+        2961,
+        2962,
+        2963,
+        2964
+      ],
+      "id": 447,
+      "type": 6
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 50,
+      "criterionsIds": [
+        2104
+      ],
+      "id": 449,
+      "type": 16
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 100,
+      "criterionsIds": [
+        2106
+      ],
+      "id": 451,
+      "type": 13
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 100,
+      "criterionsIds": [
+        521,
+        2575
+      ],
+      "id": 183,
+      "type": 1
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 100,
+      "criterionsIds": [
+        2074,
+        2075,
+        2076,
+        2077,
+        2078,
+        2079,
+        2080,
+        2081,
+        2082,
+        2083,
+        2084,
+        2085,
+        2086,
+        2087,
+        2088,
+        2089,
+        2090,
+        2091,
+        2092
+      ],
+      "id": 443,
+      "type": 2
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 25,
+      "criterionsIds": [
+        2057
+      ],
+      "id": 429,
+      "type": 16
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 150,
+      "criterionsIds": [
+        24
+      ],
+      "id": 24,
+      "type": 17
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 25,
+      "criterionsIds": [
+        2050
+      ],
+      "id": 422,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 25,
+      "criterionsIds": [
+        2051
+      ],
+      "id": 423,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 100,
+      "criterionsIds": [
+        8
+      ],
+      "id": 11,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 25,
+      "criterionsIds": [
+        2052
+      ],
+      "id": 424,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 25,
+      "criterionsIds": [
+        2053
+      ],
+      "id": 425,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 25,
+      "criterionsIds": [
+        2054
+      ],
+      "id": 426,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 25,
+      "criterionsIds": [
+        2056
+      ],
+      "id": 428,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 25,
+      "criterionsIds": [
+        2055
+      ],
+      "id": 427,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 25,
+      "criterionsIds": [
+        2058
+      ],
+      "id": 430,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 25,
+      "criterionsIds": [
+        2038
+      ],
+      "id": 411,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 50,
+      "criterionsIds": [
+        1808,
+        2561
+      ],
+      "id": 385,
+      "type": 16
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 150,
+      "criterionsIds": [
+        2103
+      ],
+      "id": 448,
+      "type": 8
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 75,
+      "criterionsIds": [
+        276
+      ],
+      "id": 119,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 25,
+      "criterionsIds": [
+        2059
+      ],
+      "id": 431,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 25,
+      "criterionsIds": [
+        2040,
+        2072,
+        2592,
+        2593
+      ],
+      "id": 413,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 25,
+      "criterionsIds": [
+        2061
+      ],
+      "id": 433,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 75,
+      "criterionsIds": [
+        1034
+      ],
+      "id": 330,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 50,
+      "criterionsIds": [
+        25,
+        26,
+        27,
+        37,
+        38,
+        39,
+        40,
+        36,
+        2141
+      ],
+      "id": 25,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 50,
+      "criterionsIds": [
+        28,
+        29,
+        30,
+        42,
+        43,
+        44,
+        45,
+        41,
+        2142
+      ],
+      "id": 26,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 100,
+      "criterionsIds": [
+        167
+      ],
+      "id": 90,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 50,
+      "criterionsIds": [
+        102
+      ],
+      "id": 59,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 50,
+      "criterionsIds": [
+        33,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51
+      ],
+      "id": 29,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 75,
+      "criterionsIds": [
+        203
+      ],
+      "id": 108,
+      "type": 16
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 150,
+      "criterionsIds": [
+        1459,
+        1460,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226,
+        227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233,
+        236,
+        237,
+        238,
+        239,
+        240,
+        241,
+        242,
+        243,
+        244,
+        245,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254,
+        255,
+        257,
+        258,
+        259,
+        260,
+        261,
+        262,
+        263,
+        264,
+        265,
+        266,
+        267,
+        235,
+        1565,
+        256,
+        1572,
+        1566,
+        1567,
+        2026,
+        1202,
+        1203,
+        1204,
+        1205,
+        1206,
+        1207,
+        1208,
+        1209,
+        1210,
+        1211,
+        1213,
+        1219,
+        1220,
+        1221,
+        1222,
+        1223,
+        1224,
+        1225,
+        1226,
+        1235,
+        1236,
+        1237,
+        1238,
+        1241,
+        1573,
+        1574,
+        1656,
+        1657,
+        1660,
+        1661,
+        1805,
+        1815,
+        1816,
+        1817,
+        1818,
+        1819,
+        1827,
+        1839,
+        1840,
+        1841,
+        1850,
+        1851,
+        1852,
+        1853,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2027,
+        2024,
+        234,
+        2129,
+        2130,
+        2131
+      ],
+      "id": 111,
+      "type": 17
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 100,
+      "criterionsIds": [
+        274
+      ],
+      "id": 117,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 50,
+      "criterionsIds": [
+        275
+      ],
+      "id": 118,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 100,
+      "criterionsIds": [
+        475
+      ],
+      "id": 164,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 75,
+      "criterionsIds": [
+        446
+      ],
+      "id": 151,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 75,
+      "criterionsIds": [
+        499
+      ],
+      "id": 173,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 75,
+      "criterionsIds": [],
+      "id": 188,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 50,
+      "criterionsIds": [
+        176,
+        178,
+        179,
+        182,
+        185,
+        187,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        2114
+      ],
+      "id": 101,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 75,
+      "criterionsIds": [
+        1873,
+        1874,
+        1875,
+        1876,
+        575,
+        576,
+        577,
+        578,
+        579,
+        580,
+        581,
+        582,
+        583,
+        584,
+        585,
+        586,
+        587,
+        588,
+        589,
+        590,
+        591,
+        592,
+        593,
+        594,
+        595,
+        596,
+        597,
+        598,
+        599,
+        600,
+        601,
+        602,
+        603,
+        604,
+        605,
+        607,
+        608,
+        609,
+        610,
+        611,
+        612,
+        613,
+        615,
+        616,
+        617,
+        618,
+        619,
+        620,
+        621,
+        622,
+        623,
+        624,
+        625,
+        626,
+        627,
+        628,
+        629,
+        630,
+        631,
+        632,
+        633,
+        634,
+        635,
+        636,
+        637,
+        638,
+        639,
+        640,
+        641,
+        642,
+        643,
+        644,
+        645,
+        646,
+        647,
+        648,
+        649,
+        650,
+        651,
+        652,
+        653,
+        654,
+        655,
+        656,
+        657,
+        658,
+        659,
+        660,
+        661,
+        662,
+        663,
+        664,
+        1060,
+        1061,
+        1062,
+        1063,
+        1064,
+        1568,
+        1569,
+        1570,
+        1571,
+        606,
+        1195,
+        1196,
+        1200,
+        1201,
+        1232,
+        1214,
+        1215,
+        1216,
+        1217,
+        1218,
+        1227,
+        1228,
+        1229,
+        1230,
+        1233,
+        1234,
+        1239,
+        1240,
+        614,
+        1575,
+        1576,
+        1577,
+        1658,
+        1659,
+        1662,
+        1663,
+        1806,
+        1820,
+        1821,
+        1822,
+        1823,
+        1824,
+        1828,
+        1842,
+        1843,
+        1844,
+        1845,
+        1846,
+        1847,
+        1854,
+        1855,
+        1856,
+        1857,
+        1867,
+        1868,
+        1869,
+        1870,
+        1871,
+        1872,
+        2019,
+        2025,
+        2028,
+        2132,
+        2133,
+        2134
+      ],
+      "id": 202,
+      "type": 1
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 150,
+      "criterionsIds": [
+        701
+      ],
+      "id": 219,
+      "type": 17
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 50,
+      "criterionsIds": [
+        706,
+        708,
+        709,
+        710,
+        711,
+        712,
+        713,
+        714,
+        715,
+        716,
+        736,
+        737,
+        738,
+        739,
+        740,
+        741,
+        742,
+        743,
+        744,
+        745,
+        746,
+        747,
+        748,
+        749,
+        750,
+        751,
+        719,
+        1578,
+        1579,
+        1580,
+        1581,
+        1825,
+        1848,
+        707,
+        2138,
+        2139
+      ],
+      "id": 220,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 50,
+      "criterionsIds": [
+        721,
+        723,
+        724,
+        725,
+        726,
+        727,
+        728,
+        729,
+        730,
+        731,
+        752,
+        722,
+        732,
+        753,
+        754,
+        755,
+        756,
+        757,
+        758,
+        759,
+        760,
+        761,
+        762,
+        763,
+        764,
+        765,
+        766,
+        767,
+        1582,
+        1583,
+        1584,
+        1585,
+        1826,
+        1849,
+        2137,
+        2140
+      ],
+      "id": 221,
+      "type": 16
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        108
+      ],
+      "id": 63,
+      "type": 17
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 50,
+      "criterionsIds": [
+        91,
+        92,
+        93,
+        94,
+        95,
+        96
+      ],
+      "id": 52,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 50,
+      "criterionsIds": [
+        20
+      ],
+      "id": 20,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 100,
+      "criterionsIds": [
+        1183
+      ],
+      "id": 373,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 50,
+      "criterionsIds": [
+        465
+      ],
+      "id": 161,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 50,
+      "criterionsIds": [
+        85,
+        2610,
+        2611,
+        2612,
+        2613,
+        2614,
+        2615,
+        2616,
+        2617,
+        2618,
+        2619
+      ],
+      "id": 45,
+      "type": 16
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 150,
+      "criterionsIds": [
+        32,
+        2470,
+        2471,
+        2472,
+        2473
+      ],
+      "id": 28,
+      "type": 17
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 50,
+      "criterionsIds": [
+        144
+      ],
+      "id": 79,
+      "type": 16
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        156
+      ],
+      "id": 84,
+      "type": 17
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 50,
+      "criterionsIds": [
+        165
+      ],
+      "id": 88,
+      "type": 16
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 150,
+      "criterionsIds": [
+        77
+      ],
+      "id": 41,
+      "type": 17
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 50,
+      "criterionsIds": [
+        398,
+        2620,
+        2621,
+        2622,
+        2623,
+        2624
+      ],
+      "id": 131,
+      "type": 16
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        273,
+        2479,
+        2480,
+        2481,
+        2482,
+        2483,
+        2484,
+        2485,
+        2486,
+        2487,
+        2488,
+        2489
+      ],
+      "id": 116,
+      "type": 17
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 75,
+      "criterionsIds": [
+        7
+      ],
+      "id": 10,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 100,
+      "criterionsIds": [
+        56
+      ],
+      "id": 33,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 50,
+      "criterionsIds": [
+        268,
+        2625,
+        2626,
+        2627,
+        2628,
+        2629,
+        2630
+      ],
+      "id": 112,
+      "type": 16
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 150,
+      "criterionsIds": [
+        87,
+        2517
+      ],
+      "id": 48,
+      "type": 17
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 75,
+      "criterionsIds": [
+        2
+      ],
+      "id": 1,
+      "type": 1
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 150,
+      "criterionsIds": [
+        136
+      ],
+      "id": 71,
+      "type": 17
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 100,
+      "criterionsIds": [
+        103
+      ],
+      "id": 60,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 100,
+      "criterionsIds": [
+        128
+      ],
+      "id": 68,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 50,
+      "criterionsIds": [
+        130,
+        2655,
+        2656,
+        2657,
+        2658
+      ],
+      "id": 70,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 50,
+      "criterionsIds": [
+        502
+      ],
+      "id": 176,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 100,
+      "criterionsIds": [
+        440
+      ],
+      "id": 146,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 50,
+      "criterionsIds": [
+        147
+      ],
+      "id": 80,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 30,
+      "criterionsIds": [
+        23
+      ],
+      "id": 23,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 75,
+      "criterionsIds": [
+        78
+      ],
+      "id": 42,
+      "type": 1
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        494,
+        496
+      ],
+      "id": 171,
+      "type": 17
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 100,
+      "criterionsIds": [
+        500
+      ],
+      "id": 174,
+      "type": 1
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 150,
+      "criterionsIds": [
+        515,
+        2529
+      ],
+      "id": 177,
+      "type": 17
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 75,
+      "criterionsIds": [
+        99
+      ],
+      "id": 56,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 50,
+      "criterionsIds": [
+        173
+      ],
+      "id": 97,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 50,
+      "criterionsIds": [
+        397
+      ],
+      "id": 130,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 75,
+      "criterionsIds": [
+        97
+      ],
+      "id": 54,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 50,
+      "criterionsIds": [
+        435
+      ],
+      "id": 145,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 100,
+      "criterionsIds": [
+        772
+      ],
+      "id": 225,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 50,
+      "criterionsIds": [
+        138
+      ],
+      "id": 73,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 50,
+      "criterionsIds": [
+        140
+      ],
+      "id": 75,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 50,
+      "criterionsIds": [
+        775,
+        2686,
+        2687,
+        2688
+      ],
+      "id": 228,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 75,
+      "criterionsIds": [
+        163,
+        2551
+      ],
+      "id": 86,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 50,
+      "criterionsIds": [
+        523
+      ],
+      "id": 185,
+      "type": 1
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        423
+      ],
+      "id": 141,
+      "type": 17
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 100,
+      "criterionsIds": [
+        170
+      ],
+      "id": 93,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 50,
+      "criterionsIds": [
+        52,
+        2607,
+        2608,
+        2609
+      ],
+      "id": 31,
+      "type": 1
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 150,
+      "criterionsIds": [
+        522
+      ],
+      "id": 184,
+      "type": 17
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        4
+      ],
+      "id": 7,
+      "type": 17
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 150,
+      "criterionsIds": [
+        690,
+        2559,
+        2558,
+        2557
+      ],
+      "id": 214,
+      "type": 17
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 100,
+      "criterionsIds": [
+        402
+      ],
+      "id": 134,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 75,
+      "criterionsIds": [
+        198
+      ],
+      "id": 102,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 75,
+      "criterionsIds": [
+        281,
+        2563
+      ],
+      "id": 121,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 100,
+      "criterionsIds": [
+        415
+      ],
+      "id": 137,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 100,
+      "criterionsIds": [
+        454
+      ],
+      "id": 155,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 75,
+      "criterionsIds": [
+        422
+      ],
+      "id": 140,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 75,
+      "criterionsIds": [
+        493
+      ],
+      "id": 170,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 50,
+      "criterionsIds": [
+        474,
+        2566,
+        2567,
+        2568,
+        2569
+      ],
+      "id": 163,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 50,
+      "criterionsIds": [
+        2570,
+        2571,
+        2572,
+        2573,
+        2574
+      ],
+      "id": 181,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 100,
+      "criterionsIds": [
+        518
+      ],
+      "id": 180,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 75,
+      "criterionsIds": [
+        550
+      ],
+      "id": 195,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 75,
+      "criterionsIds": [
+        689,
+        2581
+      ],
+      "id": 213,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 50,
+      "criterionsIds": [
+        666
+      ],
+      "id": 204,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 75,
+      "criterionsIds": [
+        542
+      ],
+      "id": 191,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 100,
+      "criterionsIds": [
+        668
+      ],
+      "id": 205,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 50,
+      "criterionsIds": [
+        479
+      ],
+      "id": 168,
+      "type": 1
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 150,
+      "criterionsIds": [
+        171
+      ],
+      "id": 95,
+      "type": 17
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 75,
+      "criterionsIds": [
+        270,
+        2145
+      ],
+      "id": 114,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 75,
+      "criterionsIds": [
+        819
+      ],
+      "id": 237,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 50,
+      "criterionsIds": [
+        826,
+        827,
+        828,
+        829,
+        830
+      ],
+      "id": 243,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 100,
+      "criterionsIds": [
+        859
+      ],
+      "id": 255,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 75,
+      "criterionsIds": [
+        873
+      ],
+      "id": 260,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 75,
+      "criterionsIds": [
+        770
+      ],
+      "id": 223,
+      "type": 1
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 150,
+      "criterionsIds": [
+        887
+      ],
+      "id": 264,
+      "type": 17
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 50,
+      "criterionsIds": [
+        796,
+        793,
+        794,
+        795,
+        797
+      ],
+      "id": 232,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 100,
+      "criterionsIds": [
+        1036
+      ],
+      "id": 332,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 100,
+      "criterionsIds": [
+        1076
+      ],
+      "id": 343,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 100,
+      "criterionsIds": [
+        1077
+      ],
+      "id": 344,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 50,
+      "criterionsIds": [
+        1101,
+        1102,
+        2118
+      ],
+      "id": 347,
+      "type": 16
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 150,
+      "criterionsIds": [
+        1127
+      ],
+      "id": 351,
+      "type": 17
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 75,
+      "criterionsIds": [
+        1000
+      ],
+      "id": 320,
+      "type": 16
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 75,
+      "criterionsIds": [],
+      "id": 327,
+      "type": 28
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 75,
+      "criterionsIds": [
+        1177
+      ],
+      "id": 367,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 75,
+      "criterionsIds": [
+        1130
+      ],
+      "id": 355,
+      "type": 16
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 75,
+      "criterionsIds": [
+        2101
+      ],
+      "id": 446,
+      "type": 17
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 150,
+      "criterionsIds": [
+        453
+      ],
+      "id": 154,
+      "type": 17
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        809
+      ],
+      "id": 234,
+      "type": 17
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 100,
+      "criterionsIds": [
+        823
+      ],
+      "id": 241,
+      "type": 16
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        2029,
+        2659,
+        2660,
+        2661,
+        2662
+      ],
+      "id": 257,
+      "type": 17
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 50,
+      "criterionsIds": [
+        696
+      ],
+      "id": 218,
+      "type": 16
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        1136,
+        2663,
+        2664,
+        2665,
+        2666
+      ],
+      "id": 357,
+      "type": 17
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 50,
+      "criterionsIds": [
+        837,
+        2667,
+        2668
+      ],
+      "id": 249,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 50,
+      "criterionsIds": [
+        852,
+        2669,
+        2670,
+        2671,
+        2672
+      ],
+      "id": 252,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 100,
+      "criterionsIds": [
+        682
+      ],
+      "id": 208,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 100,
+      "criterionsIds": [
+        899
+      ],
+      "id": 274,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 100,
+      "criterionsIds": [
+        979
+      ],
+      "id": 309,
+      "type": 16
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 150,
+      "criterionsIds": [
+        942
+      ],
+      "id": 285,
+      "type": 17
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 100,
+      "criterionsIds": [
+        1188
+      ],
+      "id": 377,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 50,
+      "criterionsIds": [
+        860,
+        2678,
+        2679,
+        2680,
+        2681
+      ],
+      "id": 256,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 50,
+      "criterionsIds": [
+        987,
+        2682,
+        2683,
+        2684,
+        2685
+      ],
+      "id": 288,
+      "type": 16
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 150,
+      "criterionsIds": [
+        998
+      ],
+      "id": 318,
+      "type": 17
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 100,
+      "criterionsIds": [
+        967
+      ],
+      "id": 300,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 50,
+      "criterionsIds": [
+        1033
+      ],
+      "id": 329,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 50,
+      "criterionsIds": [
+        1160,
+        2689,
+        2690,
+        2691,
+        2692
+      ],
+      "id": 362,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 100,
+      "criterionsIds": [
+        1178
+      ],
+      "id": 368,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 50,
+      "criterionsIds": [
+        895,
+        2693
+      ],
+      "id": 270,
+      "type": 1
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 150,
+      "criterionsIds": [
+        831
+      ],
+      "id": 244,
+      "type": 17
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 100,
+      "criterionsIds": [
+        1186
+      ],
+      "id": 376,
+      "type": 1
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        968
+      ],
+      "id": 301,
+      "type": 17
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 50,
+      "criterionsIds": [
+        1835,
+        1836
+      ],
+      "id": 280,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 50,
+      "criterionsIds": [
+        944,
+        2701,
+        2702,
+        2703,
+        2704
+      ],
+      "id": 289,
+      "type": 1
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 150,
+      "criterionsIds": [
+        901
+      ],
+      "id": 276,
+      "type": 17
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        945,
+        2705,
+        2706,
+        2707,
+        2708
+      ],
+      "id": 290,
+      "type": 17
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 50,
+      "criterionsIds": [
+        2576,
+        2577,
+        2578,
+        2646,
+        2647,
+        2648,
+        2649,
+        2650,
+        2651,
+        2652,
+        2653
+      ],
+      "id": 306,
+      "type": 1
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 150,
+      "criterionsIds": [
+        1027
+      ],
+      "id": 325,
+      "type": 17
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 50,
+      "criterionsIds": [
+        2121,
+        2709,
+        2710,
+        2711
+      ],
+      "id": 456,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 50,
+      "criterionsIds": [
+        1078
+      ],
+      "id": 345,
+      "type": 1
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        1168,
+        2587,
+        2712,
+        2713
+      ],
+      "id": 364,
+      "type": 17
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 50,
+      "criterionsIds": [
+        1131,
+        2717,
+        2718,
+        2719
+      ],
+      "id": 356,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 50,
+      "criterionsIds": [
+        890,
+        2720,
+        2721,
+        2722,
+        2723,
+        2724
+      ],
+      "id": 267,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 50,
+      "criterionsIds": [
+        965
+      ],
+      "id": 299,
+      "type": 16
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 50,
+      "criterionsIds": [
+        1181
+      ],
+      "id": 371,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 50,
+      "criterionsIds": [
+        2125
+      ],
+      "id": 457,
+      "type": 1
+    },
+    {
+      "ClassType_": "MonsterDropChanceBonus",
+      "amount": 50,
+      "criterionsIds": [
+        992,
+        2725,
+        2726,
+        2727
+      ],
+      "id": 314,
+      "type": 16
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        1068,
+        1069,
+        1070
+      ],
+      "id": 338,
+      "type": 17
+    },
+    {
+      "ClassType_": "MonsterXPBonus",
+      "amount": 50,
+      "criterionsIds": [
+        2110,
+        2111,
+        2112,
+        2113,
+        2714,
+        2715,
+        2716
+      ],
+      "id": 455,
+      "type": 1
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 150,
+      "criterionsIds": [
+        780,
+        2728
+      ],
+      "id": 229,
+      "type": 17
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        1810,
+        2675,
+        2676,
+        2677
+      ],
+      "id": 387,
+      "type": 17
+    },
+    {
+      "ClassType_": "Bonus",
+      "amount": 125,
+      "criterionsIds": [
+        1560,
+        1561
+      ],
+      "id": 77,
+      "type": 7
+    }
+  ]
+}

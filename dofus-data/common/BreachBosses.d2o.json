@@ -1,0 +1,2470 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.misc",
+      "packageClass": "BreachBoss",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "monsterId",
+          "type": "Integer"
+        },
+        {
+          "name": "category",
+          "type": "Integer"
+        },
+        {
+          "name": "apparitionCriterion",
+          "type": "String"
+        },
+        {
+          "name": "accessCriterion",
+          "type": "String"
+        },
+        {
+          "name": "incompatibleBosses",
+          "type": "Vector",
+          "subtype": {
+            "name": "Vector.\u003cint\u003e",
+            "type": "Integer"
+          }
+        },
+        {
+          "name": "rewardId",
+          "type": "UnsignedInteger"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=1083",
+      "apparitionCriterion": "Sc!8067\u0026Wf\u003e149",
+      "category": 4,
+      "id": 117,
+      "incompatibleBosses": [
+        78,
+        80,
+        81,
+        84,
+        85,
+        87,
+        103,
+        107,
+        112,
+        117,
+        123,
+        138,
+        143,
+        144,
+        113
+      ],
+      "monsterId": 3651,
+      "rewardId": 39
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=1088",
+      "apparitionCriterion": "Sc!8039\u0026Wf\u003e99",
+      "category": 3,
+      "id": 118,
+      "incompatibleBosses": [
+        78,
+        80,
+        81,
+        84,
+        85,
+        87,
+        103,
+        107,
+        112,
+        118,
+        123,
+        138,
+        143,
+        144,
+        113
+      ],
+      "monsterId": 3652,
+      "rewardId": 384
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=1118",
+      "apparitionCriterion": "Sc!8106\u0026Wf\u003e179",
+      "category": 5,
+      "id": 120,
+      "incompatibleBosses": [
+        120,
+        113
+      ],
+      "monsterId": 3752,
+      "rewardId": 51
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=1123",
+      "apparitionCriterion": "Sc!8051\u0026Wf\u003e129",
+      "category": 4,
+      "id": 121,
+      "incompatibleBosses": [
+        121,
+        113
+      ],
+      "monsterId": 3753,
+      "rewardId": 373
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=1161",
+      "apparitionCriterion": "Sc!8108\u0026Wf\u003e169",
+      "category": 5,
+      "id": 124,
+      "incompatibleBosses": [
+        124,
+        113
+      ],
+      "monsterId": 3849,
+      "rewardId": 47
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=1166",
+      "apparitionCriterion": "Sc!8058\u0026Wf\u003e119",
+      "category": 4,
+      "id": 125,
+      "incompatibleBosses": [
+        125,
+        113
+      ],
+      "monsterId": 3852,
+      "rewardId": 376
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=1184",
+      "apparitionCriterion": "Sc!8009\u0026Wf\u003e49",
+      "category": 2,
+      "id": 126,
+      "incompatibleBosses": [
+        126
+      ],
+      "monsterId": 3945,
+      "rewardId": 9
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=1195",
+      "apparitionCriterion": "Sc!8046\u0026Wf\u003e89",
+      "category": 3,
+      "id": 127,
+      "incompatibleBosses": [
+        78,
+        80,
+        81,
+        84,
+        85,
+        87,
+        103,
+        107,
+        112,
+        123,
+        127,
+        138,
+        143,
+        144,
+        164
+      ],
+      "monsterId": 3996,
+      "rewardId": 14
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=33",
+      "apparitionCriterion": "Sc!8010\u0026Wf\u003e49",
+      "category": 2,
+      "id": 128,
+      "incompatibleBosses": [
+        128
+      ],
+      "monsterId": 4051,
+      "rewardId": 381
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=60",
+      "apparitionCriterion": "Sc!8031\u0026Wf\u003e59",
+      "category": 3,
+      "id": 20,
+      "incompatibleBosses": [
+        20
+      ],
+      "monsterId": 85,
+      "rewardId": 26
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=60",
+      "apparitionCriterion": "Sc!8030\u0026Wf\u003e59",
+      "category": 3,
+      "id": 21,
+      "incompatibleBosses": [
+        21
+      ],
+      "monsterId": 86,
+      "rewardId": 23
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=22",
+      "apparitionCriterion": "Sc!8027\u0026Wf\u003e99",
+      "category": 3,
+      "id": 23,
+      "incompatibleBosses": [
+        23
+      ],
+      "monsterId": 113,
+      "rewardId": 10
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=37",
+      "apparitionCriterion": "Sc!8002\u0026Wf\u003e49",
+      "category": 2,
+      "id": 25,
+      "incompatibleBosses": [
+        25
+      ],
+      "monsterId": 147,
+      "rewardId": 371
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=53",
+      "apparitionCriterion": "Sc!8052\u0026Wf\u003e139",
+      "category": 4,
+      "id": 32,
+      "incompatibleBosses": [
+        32
+      ],
+      "monsterId": 257,
+      "rewardId": 34
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=52",
+      "apparitionCriterion": "Sc!8085\u0026Wf\u003e179",
+      "category": 5,
+      "id": 38,
+      "incompatibleBosses": [
+        38,
+        78,
+        80,
+        81,
+        84,
+        85,
+        87,
+        103,
+        107,
+        112,
+        123,
+        138,
+        143,
+        144
+      ],
+      "monsterId": 478,
+      "rewardId": 15
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=69",
+      "apparitionCriterion": "Sc!8075\u0026Wf\u003e119",
+      "category": 4,
+      "id": 44,
+      "incompatibleBosses": [
+        44,
+        170,
+        171
+      ],
+      "monsterId": 780,
+      "rewardId": 38
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=5194",
+      "apparitionCriterion": "Sc!8071\u0026Wf\u003e109",
+      "category": 4,
+      "id": 54,
+      "incompatibleBosses": [
+        54
+      ],
+      "monsterId": 939,
+      "rewardId": 391
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=5188",
+      "apparitionCriterion": "Sc!8070\u0026Wf\u003e109",
+      "category": 4,
+      "id": 55,
+      "incompatibleBosses": [
+        55
+      ],
+      "monsterId": 940,
+      "rewardId": 390
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=1409",
+      "apparitionCriterion": "Sc!8068\u0026Wf\u003e109",
+      "category": 4,
+      "id": 131,
+      "incompatibleBosses": [
+        78,
+        80,
+        81,
+        84,
+        85,
+        87,
+        103,
+        107,
+        112,
+        123,
+        131,
+        138,
+        143,
+        144,
+        113
+      ],
+      "monsterId": 4278,
+      "rewardId": 389
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=1536",
+      "apparitionCriterion": "Sc!8056\u0026Wf\u003e129",
+      "category": 4,
+      "id": 135,
+      "incompatibleBosses": [
+        135,
+        89
+      ],
+      "monsterId": 4609,
+      "rewardId": 32
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=47",
+      "apparitionCriterion": "Sc!8076\u0026Wf\u003e149",
+      "category": 4,
+      "id": 56,
+      "incompatibleBosses": [
+        56
+      ],
+      "monsterId": 943,
+      "rewardId": 40
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=62",
+      "apparitionCriterion": "Sc!8007\u0026Wf\u003e49",
+      "category": 2,
+      "id": 57,
+      "incompatibleBosses": [
+        57
+      ],
+      "monsterId": 1027,
+      "rewardId": 374
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=27",
+      "apparitionCriterion": "Sc!8091\u0026Wf\u003e149",
+      "category": 5,
+      "id": 58,
+      "incompatibleBosses": [
+        58
+      ],
+      "monsterId": 1045,
+      "rewardId": 53
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=26",
+      "apparitionCriterion": "Sc!8033\u0026Wf\u003e69",
+      "category": 3,
+      "id": 59,
+      "incompatibleBosses": [
+        59
+      ],
+      "monsterId": 1051,
+      "rewardId": 16
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=61",
+      "apparitionCriterion": "Sc!8074\u0026Wf\u003e109",
+      "category": 4,
+      "id": 60,
+      "incompatibleBosses": [
+        60
+      ],
+      "monsterId": 1071,
+      "rewardId": 28
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=65",
+      "apparitionCriterion": "Sc!8081\u0026Wf\u003e139",
+      "category": 4,
+      "id": 61,
+      "incompatibleBosses": [
+        61
+      ],
+      "monsterId": 1072,
+      "rewardId": 55
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=65",
+      "apparitionCriterion": "Sc!8083\u0026Wf\u003e139",
+      "category": 4,
+      "id": 63,
+      "incompatibleBosses": [
+        63
+      ],
+      "monsterId": 1086,
+      "rewardId": 43
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=55",
+      "apparitionCriterion": "Sc!8100\u0026Wf\u003e179",
+      "category": 5,
+      "id": 65,
+      "incompatibleBosses": [
+        65,
+        157,
+        171,
+        170
+      ],
+      "monsterId": 1159,
+      "rewardId": 67
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=31",
+      "apparitionCriterion": "Sc!8105\u0026Wf\u003e169",
+      "category": 5,
+      "id": 83,
+      "incompatibleBosses": [
+        83,
+        112,
+        150
+      ],
+      "monsterId": 2967,
+      "rewardId": 63
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=23",
+      "apparitionCriterion": "Sc!8093\u0026Wf\u003e179",
+      "category": 5,
+      "id": 84,
+      "incompatibleBosses": [
+        32,
+        35,
+        84,
+        156,
+        26,
+        38
+      ],
+      "monsterId": 2968,
+      "rewardId": 66
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=134",
+      "apparitionCriterion": "Sc!8087\u0026Wf\u003e189",
+      "category": 5,
+      "id": 95,
+      "incompatibleBosses": [
+        95
+      ],
+      "monsterId": 3234,
+      "rewardId": 71
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=1148",
+      "apparitionCriterion": "Sc!8034\u0026Wf\u003e99\u0026Sc=967",
+      "category": 3,
+      "id": 103,
+      "incompatibleBosses": [
+        103,
+        26,
+        38
+      ],
+      "monsterId": 3306,
+      "rewardId": 378
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=1003",
+      "apparitionCriterion": "Sc!8048\u0026Wf\u003e79",
+      "category": 3,
+      "id": 109,
+      "incompatibleBosses": [
+        109,
+        164
+      ],
+      "monsterId": 3460,
+      "rewardId": 27
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=1013",
+      "apparitionCriterion": "Sc!8042\u0026Wf\u003e99\u0026Wf\u003c401",
+      "category": 3,
+      "id": 110,
+      "incompatibleBosses": [
+        110,
+        65,
+        105
+      ],
+      "monsterId": 3476,
+      "rewardId": 31
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=1055",
+      "apparitionCriterion": "Sc!8090\u0026Wf\u003e159",
+      "category": 5,
+      "id": 113,
+      "incompatibleBosses": [
+        113,
+        118,
+        117,
+        116,
+        121,
+        120,
+        119,
+        125,
+        124,
+        123,
+        131,
+        130,
+        129,
+        171,
+        170
+      ],
+      "monsterId": 3556,
+      "rewardId": 50
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=1040",
+      "apparitionCriterion": "Sc!8099\u0026Wf\u003e189",
+      "category": 5,
+      "id": 114,
+      "incompatibleBosses": [
+        114,
+        77,
+        145,
+        164
+      ],
+      "monsterId": 3564,
+      "rewardId": 72
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=1061",
+      "apparitionCriterion": "Sc!8060\u0026Wf\u003e129",
+      "category": 4,
+      "id": 115,
+      "incompatibleBosses": [
+        115
+      ],
+      "monsterId": 3618,
+      "rewardId": 42
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=1529",
+      "apparitionCriterion": "Sc!8040\u0026Wf\u003e79",
+      "category": 3,
+      "id": 136,
+      "incompatibleBosses": [
+        78,
+        80,
+        81,
+        84,
+        85,
+        87,
+        103,
+        107,
+        112,
+        123,
+        136,
+        138,
+        143,
+        144
+      ],
+      "monsterId": 4621,
+      "rewardId": 61
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=1555",
+      "apparitionCriterion": "Sc!8103\u0026Wf\u003e169",
+      "category": 5,
+      "id": 137,
+      "incompatibleBosses": [
+        137
+      ],
+      "monsterId": 4726,
+      "rewardId": 52
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=1582",
+      "apparitionCriterion": "Sc!8086\u0026Wf\u003e189",
+      "category": 5,
+      "id": 139,
+      "incompatibleBosses": [
+        106,
+        139
+      ],
+      "monsterId": 4803,
+      "rewardId": 78
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=1593",
+      "apparitionCriterion": "Sc!8023\u0026Wf\u003e89",
+      "category": 3,
+      "id": 140,
+      "incompatibleBosses": [
+        140
+      ],
+      "monsterId": 4860,
+      "rewardId": 29
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=2082",
+      "apparitionCriterion": "Sc!8128\u0026Wf\u003e219\u0026Sc=945",
+      "category": 6,
+      "id": 150,
+      "incompatibleBosses": [
+        65,
+        41,
+        150,
+        164
+      ],
+      "monsterId": 5666,
+      "rewardId": 311
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=2075",
+      "apparitionCriterion": "Sc!8054\u0026Wf\u003e129\u0026Sc=945",
+      "category": 4,
+      "id": 151,
+      "incompatibleBosses": [
+        78,
+        80,
+        81,
+        84,
+        85,
+        87,
+        103,
+        107,
+        112,
+        123,
+        138,
+        143,
+        144,
+        150,
+        151,
+        65,
+        164
+      ],
+      "monsterId": 5664,
+      "rewardId": 310
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=2072",
+      "apparitionCriterion": "Sc!8041\u0026Wf\u003e59\u0026Sc=945",
+      "category": 3,
+      "id": 152,
+      "incompatibleBosses": [
+        152
+      ],
+      "monsterId": 5653,
+      "rewardId": 309
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=2106",
+      "apparitionCriterion": "Sc!8137\u0026Wf\u003e219",
+      "category": 6,
+      "id": 153,
+      "incompatibleBosses": [
+        153
+      ],
+      "monsterId": 5806,
+      "rewardId": 318
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=2128",
+      "apparitionCriterion": "Sc!8026\u0026Wf\u003e69",
+      "category": 3,
+      "id": 154,
+      "incompatibleBosses": [
+        154
+      ],
+      "monsterId": 5823,
+      "rewardId": 319
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=2115",
+      "apparitionCriterion": "Sc!8036\u0026Wf\u003e99",
+      "category": 3,
+      "id": 155,
+      "incompatibleBosses": [
+        155
+      ],
+      "monsterId": 5819,
+      "rewardId": 320
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=2278",
+      "apparitionCriterion": "Sc!8126\u0026Wf\u003e239",
+      "category": 6,
+      "id": 156,
+      "incompatibleBosses": [
+        156,
+        143,
+        144,
+        164
+      ],
+      "monsterId": 5990,
+      "rewardId": 386
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=2264",
+      "apparitionCriterion": "Sc!8118\u0026Wf\u003e239",
+      "category": 6,
+      "id": 157,
+      "incompatibleBosses": [
+        157,
+        65,
+        143,
+        144
+      ],
+      "monsterId": 6014,
+      "rewardId": 377
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=60",
+      "apparitionCriterion": "Sc!8028\u0026Wf\u003e59",
+      "category": 3,
+      "id": 19,
+      "incompatibleBosses": [
+        19
+      ],
+      "monsterId": 58,
+      "rewardId": 25
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=32",
+      "apparitionCriterion": "Sc!8064\u0026Wf\u003e119",
+      "category": 4,
+      "id": 24,
+      "incompatibleBosses": [
+        24
+      ],
+      "monsterId": 121,
+      "rewardId": 385
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=35",
+      "apparitionCriterion": "Sc!8018\u0026Wf\u003e89",
+      "category": 3,
+      "id": 26,
+      "incompatibleBosses": [
+        26,
+        78,
+        80,
+        81,
+        84,
+        85,
+        87,
+        103,
+        107,
+        112,
+        123,
+        138,
+        143,
+        144
+      ],
+      "monsterId": 173,
+      "rewardId": 35
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=57",
+      "apparitionCriterion": "Sc!8047\u0026Wf\u003e59",
+      "category": 3,
+      "id": 27,
+      "incompatibleBosses": [
+        27
+      ],
+      "monsterId": 180,
+      "rewardId": 398
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=485",
+      "apparitionCriterion": "Sc!8044\u0026Wf\u003e99",
+      "category": 3,
+      "id": 28,
+      "incompatibleBosses": [
+        28
+      ],
+      "monsterId": 226,
+      "rewardId": 33
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=1398",
+      "apparitionCriterion": "Sc!8123\u0026Wf\u003e89",
+      "category": 3,
+      "id": 29,
+      "incompatibleBosses": [
+        29
+      ],
+      "monsterId": 230,
+      "rewardId": 22
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=39",
+      "apparitionCriterion": "Sc!8043\u0026Wf\u003e99",
+      "category": 3,
+      "id": 30,
+      "incompatibleBosses": [
+        30
+      ],
+      "monsterId": 232,
+      "rewardId": 36
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=43",
+      "apparitionCriterion": "Sc!8006\u0026Wf\u003e49",
+      "category": 2,
+      "id": 31,
+      "incompatibleBosses": [
+        31
+      ],
+      "monsterId": 252,
+      "rewardId": 13
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=25",
+      "apparitionCriterion": "Sc!8062\u0026Wf\u003e109",
+      "category": 4,
+      "id": 33,
+      "incompatibleBosses": [
+        33
+      ],
+      "monsterId": 289,
+      "rewardId": 383
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=73",
+      "apparitionCriterion": "Sc!8079\u0026Wf\u003e119",
+      "category": 4,
+      "id": 34,
+      "incompatibleBosses": [
+        34
+      ],
+      "monsterId": 382,
+      "rewardId": 12
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=63",
+      "apparitionCriterion": "Sc!8098\u0026Wf\u003e169",
+      "category": 5,
+      "id": 80,
+      "incompatibleBosses": [
+        61,
+        62,
+        63,
+        64,
+        105,
+        80,
+        112,
+        150,
+        26,
+        38,
+        164
+      ],
+      "monsterId": 2924,
+      "rewardId": 60
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=60",
+      "apparitionCriterion": "Sc!8029\u0026Wf\u003e59",
+      "category": 3,
+      "id": 36,
+      "incompatibleBosses": [
+        36
+      ],
+      "monsterId": 430,
+      "rewardId": 24
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=34",
+      "apparitionCriterion": "Sc!8016\u0026Wf\u003e49",
+      "category": 2,
+      "id": 37,
+      "incompatibleBosses": [
+        37
+      ],
+      "monsterId": 457,
+      "rewardId": 4
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=41",
+      "apparitionCriterion": "Sc!8024\u0026Wf\u003e69",
+      "category": 3,
+      "id": 42,
+      "incompatibleBosses": [
+        42
+      ],
+      "monsterId": 669,
+      "rewardId": 20
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=29",
+      "apparitionCriterion": "Sc!8037\u0026Wf\u003e99",
+      "category": 3,
+      "id": 43,
+      "incompatibleBosses": [
+        43
+      ],
+      "monsterId": 670,
+      "rewardId": 382
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=38",
+      "apparitionCriterion": "Sc!8004\u0026Wf\u003e49",
+      "category": 2,
+      "id": 45,
+      "incompatibleBosses": [
+        45
+      ],
+      "monsterId": 792,
+      "rewardId": 372
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=48",
+      "apparitionCriterion": "Sc!8015\u0026Wf\u003e49",
+      "category": 2,
+      "id": 46,
+      "incompatibleBosses": [
+        46
+      ],
+      "monsterId": 797,
+      "rewardId": 393
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=40",
+      "apparitionCriterion": "Sc!8017\u0026Wf\u003e49",
+      "category": 2,
+      "id": 47,
+      "incompatibleBosses": [
+        47
+      ],
+      "monsterId": 799,
+      "rewardId": 396
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=71",
+      "apparitionCriterion": "Sc!8097\u0026Wf\u003e159",
+      "category": 5,
+      "id": 49,
+      "incompatibleBosses": [
+        49
+      ],
+      "monsterId": 827,
+      "rewardId": 46
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=51",
+      "apparitionCriterion": "Sc!8053\u0026Wf\u003e119",
+      "category": 4,
+      "id": 50,
+      "incompatibleBosses": [
+        50,
+        164
+      ],
+      "monsterId": 854,
+      "rewardId": 37
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=54",
+      "apparitionCriterion": "Sc!8012\u0026Wf\u003e49",
+      "category": 2,
+      "id": 53,
+      "incompatibleBosses": [
+        53
+      ],
+      "monsterId": 928,
+      "rewardId": 387
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=65",
+      "apparitionCriterion": "Sc!8082\u0026Wf\u003e139",
+      "category": 4,
+      "id": 62,
+      "incompatibleBosses": [
+        62
+      ],
+      "monsterId": 1085,
+      "rewardId": 54
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=65",
+      "apparitionCriterion": "Sc!8080\u0026Wf\u003e139",
+      "category": 4,
+      "id": 64,
+      "incompatibleBosses": [
+        64
+      ],
+      "monsterId": 1087,
+      "rewardId": 397
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=430",
+      "apparitionCriterion": "Sc!8014\u0026Wf\u003e49\u0026Sc=996",
+      "category": 2,
+      "id": 66,
+      "incompatibleBosses": [
+        66
+      ],
+      "monsterId": 1179,
+      "rewardId": 392
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=36",
+      "apparitionCriterion": "Sc!8019\u0026Wf\u003e59",
+      "category": 3,
+      "id": 67,
+      "incompatibleBosses": [
+        67
+      ],
+      "monsterId": 1184,
+      "rewardId": 367
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=36",
+      "apparitionCriterion": "Sc!8020\u0026Wf\u003e59",
+      "category": 3,
+      "id": 68,
+      "incompatibleBosses": [
+        68
+      ],
+      "monsterId": 1185,
+      "rewardId": 368
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=36",
+      "apparitionCriterion": "Sc!8021\u0026Wf\u003e59",
+      "category": 3,
+      "id": 69,
+      "incompatibleBosses": [
+        69
+      ],
+      "monsterId": 1186,
+      "rewardId": 369
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=36",
+      "apparitionCriterion": "Sc!8022\u0026Wf\u003e59",
+      "category": 3,
+      "id": 70,
+      "incompatibleBosses": [
+        70
+      ],
+      "monsterId": 1187,
+      "rewardId": 370
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=21",
+      "apparitionCriterion": "Sc!8050\u0026Wf\u003e119",
+      "category": 4,
+      "id": 71,
+      "incompatibleBosses": [
+        71
+      ],
+      "monsterId": 1188,
+      "rewardId": 21
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=59",
+      "apparitionCriterion": "Sc!8096\u0026Wf\u003e139",
+      "category": 5,
+      "id": 76,
+      "incompatibleBosses": [
+        76
+      ],
+      "monsterId": 2848,
+      "rewardId": 48
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=72",
+      "apparitionCriterion": "Sc!8072\u0026Wf\u003e119",
+      "category": 4,
+      "id": 77,
+      "incompatibleBosses": [
+        64,
+        61,
+        62,
+        63,
+        77,
+        112,
+        150,
+        114
+      ],
+      "monsterId": 2854,
+      "rewardId": 56
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=58",
+      "apparitionCriterion": "Sc!8049\u0026Wf\u003e149",
+      "category": 4,
+      "id": 79,
+      "incompatibleBosses": [
+        79,
+        164
+      ],
+      "monsterId": 2877,
+      "rewardId": 57
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=486",
+      "apparitionCriterion": "Sc!8089\u0026Wf\u003e189",
+      "category": 5,
+      "id": 81,
+      "incompatibleBosses": [
+        81,
+        23,
+        28,
+        33,
+        34,
+        35,
+        37,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        46,
+        47,
+        48,
+        49,
+        51,
+        57,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        77,
+        79,
+        83,
+        85,
+        89,
+        93,
+        94,
+        95,
+        96,
+        104,
+        106,
+        109,
+        110,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        121,
+        123,
+        126,
+        127,
+        129,
+        131,
+        132,
+        134,
+        136,
+        137,
+        138,
+        139,
+        140,
+        142,
+        143,
+        144,
+        145,
+        26,
+        38
+      ],
+      "monsterId": 2942,
+      "rewardId": 76
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=56",
+      "apparitionCriterion": "Sc!8035\u0026Wf\u003e59",
+      "category": 3,
+      "id": 82,
+      "incompatibleBosses": [
+        82
+      ],
+      "monsterId": 2960,
+      "rewardId": 380
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=66",
+      "apparitionCriterion": "Sc!8001\u0026Wf\u003e49",
+      "category": 2,
+      "id": 85,
+      "incompatibleBosses": [
+        85,
+        26,
+        38
+      ],
+      "monsterId": 2975,
+      "rewardId": 3
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=30",
+      "apparitionCriterion": "Sc!8092\u0026Wf\u003e189",
+      "category": 5,
+      "id": 86,
+      "incompatibleBosses": [
+        86
+      ],
+      "monsterId": 2986,
+      "rewardId": 70
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=30",
+      "apparitionCriterion": "Sc!8101\u0026Wf\u003e189",
+      "category": 5,
+      "id": 87,
+      "incompatibleBosses": [
+        87,
+        26,
+        38
+      ],
+      "monsterId": 2992,
+      "rewardId": 74
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=67",
+      "apparitionCriterion": "Sc!8011\u0026Wf\u003e49",
+      "category": 2,
+      "id": 88,
+      "incompatibleBosses": [
+        88
+      ],
+      "monsterId": 2995,
+      "rewardId": 17
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=64",
+      "apparitionCriterion": "Sc!8045\u0026Wf\u003e69",
+      "category": 3,
+      "id": 89,
+      "incompatibleBosses": [
+        89,
+        158,
+        135
+      ],
+      "monsterId": 3100,
+      "rewardId": 388
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=49",
+      "apparitionCriterion": "Sc!8005\u0026Wf\u003e49",
+      "category": 2,
+      "id": 96,
+      "incompatibleBosses": [
+        96
+      ],
+      "monsterId": 3238,
+      "rewardId": 11
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=50",
+      "apparitionCriterion": "Sc!8000\u0026Wf\u003e49",
+      "category": 2,
+      "id": 48,
+      "incompatibleBosses": [
+        48,
+        164
+      ],
+      "monsterId": 800,
+      "rewardId": 8
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=435",
+      "apparitionCriterion": "Sc!8066\u0026Wf\u003e109\u0026Sc=996",
+      "category": 4,
+      "id": 51,
+      "incompatibleBosses": [
+        51,
+        164
+      ],
+      "monsterId": 872,
+      "rewardId": 19
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=440",
+      "apparitionCriterion": "Sc!8102\u0026Wf\u003e179\u0026Sc=996",
+      "category": 5,
+      "id": 72,
+      "incompatibleBosses": [
+        72
+      ],
+      "monsterId": 1194,
+      "rewardId": 41
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=20",
+      "apparitionCriterion": "Sc!8088\u0026Wf\u003e189",
+      "category": 5,
+      "id": 78,
+      "incompatibleBosses": [
+        78,
+        80,
+        26,
+        38
+      ],
+      "monsterId": 2864,
+      "rewardId": 75
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=882",
+      "apparitionCriterion": "Sc!8121\u0026Wf\u003e199",
+      "category": 6,
+      "id": 104,
+      "incompatibleBosses": [
+        104,
+        112,
+        150,
+        164
+      ],
+      "monsterId": 3384,
+      "rewardId": 81
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=872",
+      "apparitionCriterion": "Sc!8125\u0026Wf\u003e199",
+      "category": 6,
+      "id": 105,
+      "incompatibleBosses": [
+        105,
+        112,
+        150,
+        81,
+        107,
+        61,
+        62,
+        63,
+        64,
+        110,
+        132,
+        168,
+        144,
+        138
+      ],
+      "monsterId": 3391,
+      "rewardId": 77
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=887",
+      "apparitionCriterion": "Sc!8127\u0026Wf\u003e199",
+      "category": 6,
+      "id": 106,
+      "incompatibleBosses": [
+        139,
+        78,
+        80,
+        81,
+        84,
+        85,
+        87,
+        103,
+        106,
+        107,
+        112,
+        123,
+        138,
+        143,
+        144
+      ],
+      "monsterId": 3397,
+      "rewardId": 79
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=877",
+      "apparitionCriterion": "Sc!8135\u0026Wf\u003e199",
+      "category": 6,
+      "id": 107,
+      "incompatibleBosses": [
+        19,
+        20,
+        21,
+        24,
+        27,
+        28,
+        29,
+        30,
+        33,
+        34,
+        35,
+        36,
+        37,
+        39,
+        41,
+        42,
+        43,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        56,
+        156,
+        157,
+        160,
+        158,
+        58,
+        59,
+        60,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        72,
+        77,
+        79,
+        80,
+        82,
+        83,
+        84,
+        85,
+        88,
+        93,
+        94,
+        107,
+        109,
+        110,
+        114,
+        116,
+        119,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        131,
+        132,
+        133,
+        134,
+        139,
+        142,
+        144,
+        150,
+        151,
+        152,
+        162,
+        26,
+        38,
+        164
+      ],
+      "monsterId": 3409,
+      "rewardId": 80
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=892",
+      "apparitionCriterion": "Sc!8114\u0026Wf\u003e209",
+      "category": 6,
+      "id": 108,
+      "incompatibleBosses": [
+        78,
+        80,
+        81,
+        84,
+        85,
+        87,
+        103,
+        107,
+        108,
+        112,
+        123,
+        138,
+        143,
+        144,
+        161
+      ],
+      "monsterId": 3416,
+      "rewardId": 83
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=1019",
+      "apparitionCriterion": "Sc!8124\u0026Wf\u003e199",
+      "category": 6,
+      "id": 112,
+      "incompatibleBosses": [
+        112,
+        145,
+        26,
+        38,
+        164
+      ],
+      "monsterId": 3534,
+      "rewardId": 82
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=1078",
+      "apparitionCriterion": "Sc!8132\u0026Wf\u003e239",
+      "category": 6,
+      "id": 116,
+      "incompatibleBosses": [
+        116,
+        113
+      ],
+      "monsterId": 3648,
+      "rewardId": 59
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=1108",
+      "apparitionCriterion": "Sc!8130\u0026Wf\u003e239",
+      "category": 6,
+      "id": 119,
+      "incompatibleBosses": [
+        106,
+        119,
+        164,
+        113
+      ],
+      "monsterId": 3726,
+      "rewardId": 68
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=1156",
+      "apparitionCriterion": "Sc!8138\u0026Wf\u003e239",
+      "category": 6,
+      "id": 123,
+      "incompatibleBosses": [
+        138,
+        157,
+        156,
+        158,
+        160,
+        161,
+        163,
+        19,
+        20,
+        21,
+        24,
+        27,
+        28,
+        29,
+        30,
+        33,
+        34,
+        35,
+        36,
+        37,
+        39,
+        41,
+        42,
+        43,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        56,
+        58,
+        59,
+        60,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        72,
+        77,
+        79,
+        80,
+        82,
+        83,
+        84,
+        85,
+        88,
+        93,
+        94,
+        109,
+        110,
+        114,
+        116,
+        119,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        131,
+        132,
+        133,
+        134,
+        139,
+        142,
+        144,
+        150,
+        151,
+        152,
+        26,
+        38,
+        113
+      ],
+      "monsterId": 3835,
+      "rewardId": 64
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=1437",
+      "apparitionCriterion": "Sc!8113\u0026Wf\u003e239",
+      "category": 6,
+      "id": 129,
+      "incompatibleBosses": [
+        113,
+        163,
+        161,
+        129,
+        164
+      ],
+      "monsterId": 4263,
+      "rewardId": 62
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=1478",
+      "apparitionCriterion": "Sc!8116\u0026Wf\u003e219",
+      "category": 6,
+      "id": 132,
+      "incompatibleBosses": [
+        65,
+        132,
+        164,
+        105
+      ],
+      "monsterId": 4444,
+      "rewardId": 85
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=1471",
+      "apparitionCriterion": "Sc!8122\u0026Wf\u003e219",
+      "category": 6,
+      "id": 133,
+      "incompatibleBosses": [
+        133
+      ],
+      "monsterId": 4453,
+      "rewardId": 87
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=1464",
+      "apparitionCriterion": "Sc!8112\u0026Wf\u003e219\u0026Wf\u003c401",
+      "category": 6,
+      "id": 134,
+      "incompatibleBosses": [
+        78,
+        80,
+        81,
+        84,
+        85,
+        85,
+        87,
+        103,
+        107,
+        112,
+        123,
+        138,
+        143,
+        144,
+        134,
+        164
+      ],
+      "monsterId": 4460,
+      "rewardId": 86
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=1562",
+      "apparitionCriterion": "Sc!8136\u0026Wf\u003e219",
+      "category": 6,
+      "id": 138,
+      "incompatibleBosses": [
+        138,
+        152,
+        123,
+        164,
+        26,
+        38,
+        19,
+        20,
+        21,
+        24,
+        27,
+        28,
+        29,
+        30,
+        33,
+        34,
+        35,
+        36,
+        37,
+        39,
+        41,
+        42,
+        43,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        56,
+        58,
+        59,
+        60,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        72,
+        77,
+        79,
+        80,
+        82,
+        83,
+        84,
+        85,
+        88,
+        93,
+        94,
+        109,
+        110,
+        114,
+        116,
+        119,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        131,
+        132,
+        133,
+        134,
+        139,
+        142,
+        144,
+        150,
+        151,
+        153,
+        154,
+        156,
+        157,
+        158,
+        160,
+        161,
+        162,
+        163,
+        168,
+        169,
+        170,
+        171,
+        164,
+        105
+      ],
+      "monsterId": 4744,
+      "rewardId": 65
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=1605",
+      "apparitionCriterion": "Sc!8109\u0026Wf\u003e209",
+      "category": 6,
+      "id": 141,
+      "incompatibleBosses": [
+        141
+      ],
+      "monsterId": 4882,
+      "rewardId": 69
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=1623",
+      "apparitionCriterion": "Sc!8119\u0026Wf\u003e209",
+      "category": 6,
+      "id": 142,
+      "incompatibleBosses": [
+        78,
+        80,
+        81,
+        84,
+        85,
+        87,
+        103,
+        107,
+        112,
+        123,
+        138,
+        142,
+        143,
+        144,
+        164
+      ],
+      "monsterId": 4967,
+      "rewardId": 84
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=1634",
+      "apparitionCriterion": "Sc!8134\u0026Wf\u003e229",
+      "category": 6,
+      "id": 143,
+      "incompatibleBosses": [
+        143,
+        19,
+        20,
+        21,
+        24,
+        27,
+        28,
+        29,
+        30,
+        33,
+        34,
+        35,
+        36,
+        37,
+        39,
+        41,
+        42,
+        43,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        56,
+        58,
+        59,
+        60,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        72,
+        77,
+        79,
+        80,
+        82,
+        83,
+        84,
+        85,
+        88,
+        93,
+        94,
+        109,
+        110,
+        114,
+        116,
+        119,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        131,
+        132,
+        133,
+        134,
+        139,
+        142,
+        144,
+        150,
+        151,
+        152,
+        153,
+        154,
+        156,
+        157,
+        158,
+        160,
+        161,
+        162,
+        163,
+        168,
+        169,
+        170,
+        171,
+        26,
+        38
+      ],
+      "monsterId": 5100,
+      "rewardId": 88
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=1641",
+      "apparitionCriterion": "Sc!8111\u0026Wf\u003e229",
+      "category": 6,
+      "id": 144,
+      "incompatibleBosses": [
+        19,
+        20,
+        21,
+        24,
+        27,
+        28,
+        29,
+        30,
+        33,
+        34,
+        35,
+        36,
+        37,
+        39,
+        41,
+        42,
+        43,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        56,
+        58,
+        59,
+        60,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        72,
+        77,
+        79,
+        80,
+        82,
+        83,
+        84,
+        85,
+        88,
+        93,
+        94,
+        109,
+        110,
+        114,
+        116,
+        119,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        131,
+        132,
+        133,
+        134,
+        139,
+        142,
+        144,
+        150,
+        151,
+        152,
+        153,
+        154,
+        156,
+        157,
+        158,
+        160,
+        161,
+        162,
+        163,
+        168,
+        169,
+        170,
+        171,
+        26,
+        38,
+        164,
+        105
+      ],
+      "monsterId": 5110,
+      "rewardId": 89
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=1695",
+      "apparitionCriterion": "Sc!8117\u0026Wf\u003e209",
+      "category": 6,
+      "id": 145,
+      "incompatibleBosses": [
+        112,
+        145,
+        150,
+        64,
+        61,
+        62,
+        63,
+        114
+      ],
+      "monsterId": 5319,
+      "rewardId": 73
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=2257",
+      "apparitionCriterion": "Sc!8115\u0026Wf\u003e239",
+      "category": 6,
+      "id": 158,
+      "incompatibleBosses": [
+        158,
+        143,
+        144
+      ],
+      "monsterId": 6026,
+      "rewardId": 375
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=2271",
+      "apparitionCriterion": "Sc!8133\u0026Wf\u003e239",
+      "category": 6,
+      "id": 160,
+      "incompatibleBosses": [
+        160,
+        152,
+        143,
+        144
+      ],
+      "monsterId": 5955,
+      "rewardId": 394
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=3020",
+      "apparitionCriterion": "Sc!8065\u0026Wf\u003e129",
+      "category": 4,
+      "id": 161,
+      "incompatibleBosses": [
+        161,
+        108,
+        163,
+        129
+      ],
+      "monsterId": 6256,
+      "rewardId": 352
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=3037",
+      "apparitionCriterion": "Sc!8055\u0026Wf\u003e109",
+      "category": 4,
+      "id": 162,
+      "incompatibleBosses": [
+        162,
+        107,
+        164
+      ],
+      "monsterId": 6326,
+      "rewardId": 351
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=3027",
+      "apparitionCriterion": "Sc!8057\u0026Wf\u003e139",
+      "category": 4,
+      "id": 163,
+      "incompatibleBosses": [
+        163,
+        158,
+        157,
+        156,
+        160,
+        151,
+        115,
+        78,
+        77,
+        30,
+        108,
+        164,
+        125,
+        124,
+        123,
+        153,
+        104,
+        83,
+        133,
+        79,
+        131,
+        144,
+        143,
+        132,
+        114,
+        138,
+        81,
+        76,
+        80,
+        86,
+        150,
+        28,
+        110,
+        107,
+        129,
+        106,
+        105,
+        112,
+        119,
+        134,
+        169,
+        168,
+        161
+      ],
+      "monsterId": 6249,
+      "rewardId": 354
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=3004",
+      "apparitionCriterion": "Sc!8077\u0026Wf\u003e129",
+      "category": 4,
+      "id": 164,
+      "incompatibleBosses": [
+        112,
+        114,
+        48,
+        50,
+        51,
+        79,
+        80,
+        107,
+        109,
+        119,
+        127,
+        129,
+        130,
+        132,
+        134,
+        142,
+        144,
+        150,
+        151,
+        156,
+        162,
+        163,
+        168,
+        164
+      ],
+      "monsterId": 6218,
+      "rewardId": 353
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=3011",
+      "apparitionCriterion": "Sc!8073\u0026Wf\u003e139",
+      "category": 4,
+      "id": 165,
+      "incompatibleBosses": [
+        165
+      ],
+      "monsterId": 6204,
+      "rewardId": 395
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=3011",
+      "apparitionCriterion": "Sc!8059\u0026Wf\u003e139",
+      "category": 4,
+      "id": 166,
+      "incompatibleBosses": [
+        166
+      ],
+      "monsterId": 6212,
+      "rewardId": 379
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=3062",
+      "apparitionCriterion": "Sc!8094\u0026Wf\u003e169",
+      "category": 5,
+      "id": 168,
+      "incompatibleBosses": [
+        78,
+        80,
+        81,
+        84,
+        85,
+        87,
+        103,
+        107,
+        112,
+        123,
+        138,
+        143,
+        144,
+        168,
+        65,
+        164,
+        105
+      ],
+      "monsterId": 6394,
+      "rewardId": 355
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=3071",
+      "apparitionCriterion": "Sc!8104\u0026Wf\u003e159",
+      "category": 5,
+      "id": 169,
+      "incompatibleBosses": [
+        169
+      ],
+      "monsterId": 6388,
+      "rewardId": 356
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=3083",
+      "apparitionCriterion": "Sc!8131\u0026Wf\u003e229",
+      "category": 6,
+      "id": 170,
+      "incompatibleBosses": [
+        170,
+        171,
+        113,
+        44,
+        65
+      ],
+      "monsterId": 6472,
+      "rewardId": 358
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=3090",
+      "apparitionCriterion": "Sc!8129\u0026Wf\u003e229",
+      "category": 6,
+      "id": 171,
+      "incompatibleBosses": [
+        171,
+        170,
+        113,
+        44,
+        65
+      ],
+      "monsterId": 6478,
+      "rewardId": 357
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=5069",
+      "apparitionCriterion": "Sc!8120\u0026Wf\u003e229",
+      "category": 6,
+      "id": 172,
+      "incompatibleBosses": [
+        172
+      ],
+      "monsterId": 6654,
+      "rewardId": 359
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=5166",
+      "apparitionCriterion": "Sc!8038\u0026Wf\u003e229",
+      "category": 6,
+      "id": 173,
+      "incompatibleBosses": [
+        85,
+        87,
+        107,
+        112,
+        123,
+        138,
+        143,
+        144,
+        173,
+        164
+      ],
+      "monsterId": 6792,
+      "rewardId": 360
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=5211",
+      "apparitionCriterion": "Sc!8061\u0026Wf\u003e149",
+      "category": 4,
+      "id": 174,
+      "incompatibleBosses": [
+        174
+      ],
+      "monsterId": 107,
+      "rewardId": 364
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=5213",
+      "apparitionCriterion": "Sc!8008\u0026Wf\u003e39",
+      "category": 2,
+      "id": 175,
+      "incompatibleBosses": [
+        175
+      ],
+      "monsterId": 6903,
+      "rewardId": 365
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=5809",
+      "apparitionCriterion": "Sc!8110\u0026Wf\u003e229",
+      "category": 6,
+      "id": 176,
+      "incompatibleBosses": [
+        176,
+        157,
+        138
+      ],
+      "monsterId": 7210,
+      "rewardId": 363
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=5821",
+      "apparitionCriterion": "Sc!8084\u0026Wf\u003e189",
+      "category": 5,
+      "id": 177,
+      "incompatibleBosses": [
+        177
+      ],
+      "monsterId": 7219,
+      "rewardId": 361
+    },
+    {
+      "ClassType_": "BreachBoss",
+      "accessCriterion": "OA=5911",
+      "apparitionCriterion": "Sc!8013\u0026Wf\u003e49",
+      "category": 2,
+      "id": 178,
+      "incompatibleBosses": [
+        178
+      ],
+      "monsterId": 7197,
+      "rewardId": 366
+    }
+  ]
+}

@@ -1,0 +1,1854 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.breach",
+      "packageClass": "BreachWorldMapCoordinate",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "mapStage",
+          "type": "Integer"
+        },
+        {
+          "name": "mapCoordinateX",
+          "type": "Integer"
+        },
+        {
+          "name": "mapCoordinateY",
+          "type": "Integer"
+        },
+        {
+          "name": "unexploredMapIcon",
+          "type": "Integer"
+        },
+        {
+          "name": "exploredMapIcon",
+          "type": "Integer"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 458,
+      "id": 11,
+      "mapCoordinateX": -8,
+      "mapCoordinateY": 8,
+      "mapStage": 199,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 459,
+      "id": 12,
+      "mapCoordinateX": -6,
+      "mapCoordinateY": 10,
+      "mapStage": 200,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 458,
+      "id": 13,
+      "mapCoordinateX": -5,
+      "mapCoordinateY": 10,
+      "mapStage": 201,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 460,
+      "id": 14,
+      "mapCoordinateX": -4,
+      "mapCoordinateY": 10,
+      "mapStage": 202,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 458,
+      "id": 15,
+      "mapCoordinateX": -3,
+      "mapCoordinateY": 10,
+      "mapStage": 203,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 458,
+      "id": 16,
+      "mapCoordinateX": -2,
+      "mapCoordinateY": 10,
+      "mapStage": 204,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 459,
+      "id": 17,
+      "mapCoordinateX": -2,
+      "mapCoordinateY": 9,
+      "mapStage": 205,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 459,
+      "id": 18,
+      "mapCoordinateX": -1,
+      "mapCoordinateY": 9,
+      "mapStage": 206,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 458,
+      "id": 19,
+      "mapCoordinateX": -1,
+      "mapCoordinateY": 10,
+      "mapStage": 207,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 460,
+      "id": 20,
+      "mapCoordinateX": 0,
+      "mapCoordinateY": 10,
+      "mapStage": 208,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 458,
+      "id": 21,
+      "mapCoordinateX": 0,
+      "mapCoordinateY": 9,
+      "mapStage": 209,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 460,
+      "id": 22,
+      "mapCoordinateX": 1,
+      "mapCoordinateY": 9,
+      "mapStage": 210,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 459,
+      "id": 23,
+      "mapCoordinateX": 1,
+      "mapCoordinateY": 10,
+      "mapStage": 211,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 460,
+      "id": 24,
+      "mapCoordinateX": 2,
+      "mapCoordinateY": 10,
+      "mapStage": 212,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 460,
+      "id": 25,
+      "mapCoordinateX": 3,
+      "mapCoordinateY": 10,
+      "mapStage": 213,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 458,
+      "id": 26,
+      "mapCoordinateX": 4,
+      "mapCoordinateY": 10,
+      "mapStage": 214,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 459,
+      "id": 27,
+      "mapCoordinateX": 4,
+      "mapCoordinateY": 9,
+      "mapStage": 215,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 460,
+      "id": 28,
+      "mapCoordinateX": 3,
+      "mapCoordinateY": 9,
+      "mapStage": 216,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 459,
+      "id": 29,
+      "mapCoordinateX": 2,
+      "mapCoordinateY": 9,
+      "mapStage": 217,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 459,
+      "id": 30,
+      "mapCoordinateX": 2,
+      "mapCoordinateY": 8,
+      "mapStage": 218,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 459,
+      "id": 31,
+      "mapCoordinateX": 3,
+      "mapCoordinateY": 8,
+      "mapStage": 219,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 460,
+      "id": 32,
+      "mapCoordinateX": 3,
+      "mapCoordinateY": 7,
+      "mapStage": 220,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 458,
+      "id": 33,
+      "mapCoordinateX": 4,
+      "mapCoordinateY": 7,
+      "mapStage": 221,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 458,
+      "id": 34,
+      "mapCoordinateX": 4,
+      "mapCoordinateY": 8,
+      "mapStage": 222,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 458,
+      "id": 35,
+      "mapCoordinateX": 5,
+      "mapCoordinateY": 8,
+      "mapStage": 223,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 460,
+      "id": 36,
+      "mapCoordinateX": 5,
+      "mapCoordinateY": 9,
+      "mapStage": 224,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 459,
+      "id": 37,
+      "mapCoordinateX": 6,
+      "mapCoordinateY": 9,
+      "mapStage": 225,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 458,
+      "id": 38,
+      "mapCoordinateX": 6,
+      "mapCoordinateY": 8,
+      "mapStage": 226,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 458,
+      "id": 39,
+      "mapCoordinateX": 6,
+      "mapCoordinateY": 7,
+      "mapStage": 227,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 460,
+      "id": 40,
+      "mapCoordinateX": 5,
+      "mapCoordinateY": 7,
+      "mapStage": 228,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 460,
+      "id": 41,
+      "mapCoordinateX": 5,
+      "mapCoordinateY": 6,
+      "mapStage": 229,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 461,
+      "id": 42,
+      "mapCoordinateX": 6,
+      "mapCoordinateY": 6,
+      "mapStage": 230,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 463,
+      "id": 43,
+      "mapCoordinateX": 6,
+      "mapCoordinateY": 5,
+      "mapStage": 231,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 463,
+      "id": 44,
+      "mapCoordinateX": 7,
+      "mapCoordinateY": 5,
+      "mapStage": 232,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 461,
+      "id": 45,
+      "mapCoordinateX": 7,
+      "mapCoordinateY": 6,
+      "mapStage": 233,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 462,
+      "id": 46,
+      "mapCoordinateX": 7,
+      "mapCoordinateY": 7,
+      "mapStage": 234,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 463,
+      "id": 47,
+      "mapCoordinateX": 7,
+      "mapCoordinateY": 8,
+      "mapStage": 235,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 462,
+      "id": 48,
+      "mapCoordinateX": 8,
+      "mapCoordinateY": 8,
+      "mapStage": 236,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 461,
+      "id": 49,
+      "mapCoordinateX": 8,
+      "mapCoordinateY": 7,
+      "mapStage": 237,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 463,
+      "id": 50,
+      "mapCoordinateX": 8,
+      "mapCoordinateY": 6,
+      "mapStage": 238,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 463,
+      "id": 51,
+      "mapCoordinateX": 9,
+      "mapCoordinateY": 6,
+      "mapStage": 239,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 463,
+      "id": 52,
+      "mapCoordinateX": 9,
+      "mapCoordinateY": 5,
+      "mapStage": 240,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 461,
+      "id": 53,
+      "mapCoordinateX": 8,
+      "mapCoordinateY": 5,
+      "mapStage": 241,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 461,
+      "id": 54,
+      "mapCoordinateX": 8,
+      "mapCoordinateY": 4,
+      "mapStage": 242,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 461,
+      "id": 55,
+      "mapCoordinateX": 8,
+      "mapCoordinateY": 3,
+      "mapStage": 243,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 462,
+      "id": 56,
+      "mapCoordinateX": 9,
+      "mapCoordinateY": 3,
+      "mapStage": 244,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 461,
+      "id": 57,
+      "mapCoordinateX": 9,
+      "mapCoordinateY": 4,
+      "mapStage": 245,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 461,
+      "id": 58,
+      "mapCoordinateX": 10,
+      "mapCoordinateY": 4,
+      "mapStage": 246,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 462,
+      "id": 59,
+      "mapCoordinateX": 10,
+      "mapCoordinateY": 3,
+      "mapStage": 247,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 462,
+      "id": 60,
+      "mapCoordinateX": 10,
+      "mapCoordinateY": 2,
+      "mapStage": 248,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 463,
+      "id": 61,
+      "mapCoordinateX": 10,
+      "mapCoordinateY": 1,
+      "mapStage": 249,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 461,
+      "id": 62,
+      "mapCoordinateX": 10,
+      "mapCoordinateY": 0,
+      "mapStage": 250,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 461,
+      "id": 63,
+      "mapCoordinateX": 9,
+      "mapCoordinateY": 0,
+      "mapStage": 251,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 461,
+      "id": 64,
+      "mapCoordinateX": 9,
+      "mapCoordinateY": 1,
+      "mapStage": 252,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 463,
+      "id": 65,
+      "mapCoordinateX": 9,
+      "mapCoordinateY": 2,
+      "mapStage": 253,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 461,
+      "id": 66,
+      "mapCoordinateX": 8,
+      "mapCoordinateY": 2,
+      "mapStage": 254,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 463,
+      "id": 67,
+      "mapCoordinateX": 8,
+      "mapCoordinateY": 1,
+      "mapStage": 255,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 463,
+      "id": 68,
+      "mapCoordinateX": 8,
+      "mapCoordinateY": 0,
+      "mapStage": 256,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 462,
+      "id": 69,
+      "mapCoordinateX": 8,
+      "mapCoordinateY": -1,
+      "mapStage": 257,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 461,
+      "id": 70,
+      "mapCoordinateX": 9,
+      "mapCoordinateY": -1,
+      "mapStage": 258,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 463,
+      "id": 71,
+      "mapCoordinateX": 10,
+      "mapCoordinateY": -1,
+      "mapStage": 259,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 462,
+      "id": 72,
+      "mapCoordinateX": 10,
+      "mapCoordinateY": -2,
+      "mapStage": 260,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 461,
+      "id": 73,
+      "mapCoordinateX": 9,
+      "mapCoordinateY": -2,
+      "mapStage": 261,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 461,
+      "id": 74,
+      "mapCoordinateX": 8,
+      "mapCoordinateY": -2,
+      "mapStage": 262,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 463,
+      "id": 75,
+      "mapCoordinateX": 8,
+      "mapCoordinateY": -3,
+      "mapStage": 263,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 463,
+      "id": 76,
+      "mapCoordinateX": 9,
+      "mapCoordinateY": -3,
+      "mapStage": 264,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 462,
+      "id": 77,
+      "mapCoordinateX": 9,
+      "mapCoordinateY": -4,
+      "mapStage": 265,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 463,
+      "id": 78,
+      "mapCoordinateX": 8,
+      "mapCoordinateY": -4,
+      "mapStage": 266,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 461,
+      "id": 79,
+      "mapCoordinateX": 8,
+      "mapCoordinateY": -5,
+      "mapStage": 267,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 463,
+      "id": 80,
+      "mapCoordinateX": 7,
+      "mapCoordinateY": -5,
+      "mapStage": 268,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 463,
+      "id": 81,
+      "mapCoordinateX": 6,
+      "mapCoordinateY": -5,
+      "mapStage": 269,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 451,
+      "id": 82,
+      "mapCoordinateX": 6,
+      "mapCoordinateY": -6,
+      "mapStage": 270,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 451,
+      "id": 83,
+      "mapCoordinateX": 5,
+      "mapCoordinateY": -6,
+      "mapStage": 271,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 453,
+      "id": 84,
+      "mapCoordinateX": 4,
+      "mapCoordinateY": -6,
+      "mapStage": 272,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 453,
+      "id": 85,
+      "mapCoordinateX": 3,
+      "mapCoordinateY": -6,
+      "mapStage": 273,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 452,
+      "id": 86,
+      "mapCoordinateX": 2,
+      "mapCoordinateY": -6,
+      "mapStage": 274,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 452,
+      "id": 87,
+      "mapCoordinateX": 2,
+      "mapCoordinateY": -7,
+      "mapStage": 275,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 453,
+      "id": 88,
+      "mapCoordinateX": 1,
+      "mapCoordinateY": -7,
+      "mapStage": 276,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 451,
+      "id": 89,
+      "mapCoordinateX": 1,
+      "mapCoordinateY": -6,
+      "mapStage": 277,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 451,
+      "id": 90,
+      "mapCoordinateX": 0,
+      "mapCoordinateY": -6,
+      "mapStage": 278,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 453,
+      "id": 91,
+      "mapCoordinateX": 0,
+      "mapCoordinateY": -7,
+      "mapStage": 279,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 452,
+      "id": 92,
+      "mapCoordinateX": -1,
+      "mapCoordinateY": -7,
+      "mapStage": 280,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 451,
+      "id": 93,
+      "mapCoordinateX": -1,
+      "mapCoordinateY": -6,
+      "mapStage": 281,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 451,
+      "id": 94,
+      "mapCoordinateX": -2,
+      "mapCoordinateY": -6,
+      "mapStage": 282,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 452,
+      "id": 95,
+      "mapCoordinateX": -2,
+      "mapCoordinateY": -7,
+      "mapStage": 283,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 452,
+      "id": 96,
+      "mapCoordinateX": -3,
+      "mapCoordinateY": -7,
+      "mapStage": 284,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 452,
+      "id": 97,
+      "mapCoordinateX": -3,
+      "mapCoordinateY": -6,
+      "mapStage": 285,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 451,
+      "id": 98,
+      "mapCoordinateX": -3,
+      "mapCoordinateY": -5,
+      "mapStage": 286,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 451,
+      "id": 99,
+      "mapCoordinateX": -4,
+      "mapCoordinateY": -5,
+      "mapStage": 287,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 453,
+      "id": 100,
+      "mapCoordinateX": -4,
+      "mapCoordinateY": -6,
+      "mapStage": 288,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 452,
+      "id": 101,
+      "mapCoordinateX": -5,
+      "mapCoordinateY": -6,
+      "mapStage": 289,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 453,
+      "id": 102,
+      "mapCoordinateX": -5,
+      "mapCoordinateY": -5,
+      "mapStage": 290,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 451,
+      "id": 103,
+      "mapCoordinateX": -6,
+      "mapCoordinateY": -5,
+      "mapStage": 291,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 451,
+      "id": 104,
+      "mapCoordinateX": -6,
+      "mapCoordinateY": -4,
+      "mapStage": 292,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 453,
+      "id": 105,
+      "mapCoordinateX": -5,
+      "mapCoordinateY": -4,
+      "mapStage": 293,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 452,
+      "id": 106,
+      "mapCoordinateX": -5,
+      "mapCoordinateY": -3,
+      "mapStage": 294,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 453,
+      "id": 107,
+      "mapCoordinateX": -6,
+      "mapCoordinateY": -3,
+      "mapStage": 295,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 451,
+      "id": 108,
+      "mapCoordinateX": -7,
+      "mapCoordinateY": -3,
+      "mapStage": 296,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 453,
+      "id": 109,
+      "mapCoordinateX": -7,
+      "mapCoordinateY": -2,
+      "mapStage": 297,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 452,
+      "id": 110,
+      "mapCoordinateX": -6,
+      "mapCoordinateY": -2,
+      "mapStage": 298,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 452,
+      "id": 111,
+      "mapCoordinateX": -6,
+      "mapCoordinateY": -1,
+      "mapStage": 299,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 452,
+      "id": 112,
+      "mapCoordinateX": -6,
+      "mapCoordinateY": 0,
+      "mapStage": 300,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 452,
+      "id": 113,
+      "mapCoordinateX": -6,
+      "mapCoordinateY": 1,
+      "mapStage": 301,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 451,
+      "id": 114,
+      "mapCoordinateX": -7,
+      "mapCoordinateY": 1,
+      "mapStage": 302,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 451,
+      "id": 115,
+      "mapCoordinateX": -7,
+      "mapCoordinateY": 0,
+      "mapStage": 303,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 451,
+      "id": 116,
+      "mapCoordinateX": -7,
+      "mapCoordinateY": -1,
+      "mapStage": 304,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 453,
+      "id": 117,
+      "mapCoordinateX": -8,
+      "mapCoordinateY": -1,
+      "mapStage": 305,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 452,
+      "id": 118,
+      "mapCoordinateX": -8,
+      "mapCoordinateY": 0,
+      "mapStage": 306,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 452,
+      "id": 119,
+      "mapCoordinateX": -8,
+      "mapCoordinateY": 1,
+      "mapStage": 307,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 451,
+      "id": 120,
+      "mapCoordinateX": -8,
+      "mapCoordinateY": 2,
+      "mapStage": 308,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 453,
+      "id": 121,
+      "mapCoordinateX": -7,
+      "mapCoordinateY": 2,
+      "mapStage": 309,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 451,
+      "id": 122,
+      "mapCoordinateX": -7,
+      "mapCoordinateY": 3,
+      "mapStage": 310,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 453,
+      "id": 123,
+      "mapCoordinateX": -7,
+      "mapCoordinateY": 4,
+      "mapStage": 311,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 453,
+      "id": 124,
+      "mapCoordinateX": -6,
+      "mapCoordinateY": 4,
+      "mapStage": 312,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 452,
+      "id": 125,
+      "mapCoordinateX": -6,
+      "mapCoordinateY": 3,
+      "mapStage": 313,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 451,
+      "id": 126,
+      "mapCoordinateX": -6,
+      "mapCoordinateY": 2,
+      "mapStage": 314,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 451,
+      "id": 127,
+      "mapCoordinateX": -5,
+      "mapCoordinateY": 2,
+      "mapStage": 315,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 451,
+      "id": 128,
+      "mapCoordinateX": -5,
+      "mapCoordinateY": 3,
+      "mapStage": 316,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 453,
+      "id": 129,
+      "mapCoordinateX": -4,
+      "mapCoordinateY": 3,
+      "mapStage": 317,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 452,
+      "id": 130,
+      "mapCoordinateX": -4,
+      "mapCoordinateY": 4,
+      "mapStage": 318,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 451,
+      "id": 131,
+      "mapCoordinateX": -5,
+      "mapCoordinateY": 4,
+      "mapStage": 319,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 451,
+      "id": 132,
+      "mapCoordinateX": -5,
+      "mapCoordinateY": 5,
+      "mapStage": 320,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 452,
+      "id": 133,
+      "mapCoordinateX": -6,
+      "mapCoordinateY": 5,
+      "mapStage": 321,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 452,
+      "id": 134,
+      "mapCoordinateX": -6,
+      "mapCoordinateY": 6,
+      "mapStage": 322,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 451,
+      "id": 135,
+      "mapCoordinateX": -5,
+      "mapCoordinateY": 6,
+      "mapStage": 323,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 453,
+      "id": 136,
+      "mapCoordinateX": -5,
+      "mapCoordinateY": 7,
+      "mapStage": 324,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 456,
+      "id": 137,
+      "mapCoordinateX": -4,
+      "mapCoordinateY": 7,
+      "mapStage": 325,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 456,
+      "id": 138,
+      "mapCoordinateX": -4,
+      "mapCoordinateY": 6,
+      "mapStage": 326,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 455,
+      "id": 139,
+      "mapCoordinateX": -4,
+      "mapCoordinateY": 5,
+      "mapStage": 327,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 456,
+      "id": 140,
+      "mapCoordinateX": -3,
+      "mapCoordinateY": 5,
+      "mapStage": 328,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 456,
+      "id": 141,
+      "mapCoordinateX": -3,
+      "mapCoordinateY": 4,
+      "mapStage": 329,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 455,
+      "id": 142,
+      "mapCoordinateX": -2,
+      "mapCoordinateY": 4,
+      "mapStage": 330,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 455,
+      "id": 143,
+      "mapCoordinateX": -2,
+      "mapCoordinateY": 5,
+      "mapStage": 331,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 457,
+      "id": 144,
+      "mapCoordinateX": -2,
+      "mapCoordinateY": 6,
+      "mapStage": 332,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 455,
+      "id": 145,
+      "mapCoordinateX": -3,
+      "mapCoordinateY": 6,
+      "mapStage": 333,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 455,
+      "id": 146,
+      "mapCoordinateX": -3,
+      "mapCoordinateY": 7,
+      "mapStage": 334,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 455,
+      "id": 147,
+      "mapCoordinateX": -2,
+      "mapCoordinateY": 7,
+      "mapStage": 335,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 457,
+      "id": 148,
+      "mapCoordinateX": -1,
+      "mapCoordinateY": 7,
+      "mapStage": 336,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 457,
+      "id": 149,
+      "mapCoordinateX": -1,
+      "mapCoordinateY": 6,
+      "mapStage": 337,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 456,
+      "id": 150,
+      "mapCoordinateX": -1,
+      "mapCoordinateY": 5,
+      "mapStage": 338,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 457,
+      "id": 151,
+      "mapCoordinateX": -1,
+      "mapCoordinateY": 4,
+      "mapStage": 339,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 457,
+      "id": 152,
+      "mapCoordinateX": 0,
+      "mapCoordinateY": 4,
+      "mapStage": 340,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 457,
+      "id": 153,
+      "mapCoordinateX": 0,
+      "mapCoordinateY": 5,
+      "mapStage": 341,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 455,
+      "id": 154,
+      "mapCoordinateX": 0,
+      "mapCoordinateY": 6,
+      "mapStage": 342,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 456,
+      "id": 155,
+      "mapCoordinateX": 1,
+      "mapCoordinateY": 6,
+      "mapStage": 343,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 455,
+      "id": 156,
+      "mapCoordinateX": 1,
+      "mapCoordinateY": 5,
+      "mapStage": 344,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 457,
+      "id": 157,
+      "mapCoordinateX": 1,
+      "mapCoordinateY": 4,
+      "mapStage": 345,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 455,
+      "id": 158,
+      "mapCoordinateX": 2,
+      "mapCoordinateY": 4,
+      "mapStage": 346,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 457,
+      "id": 159,
+      "mapCoordinateX": 2,
+      "mapCoordinateY": 5,
+      "mapStage": 347,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 455,
+      "id": 160,
+      "mapCoordinateX": 3,
+      "mapCoordinateY": 5,
+      "mapStage": 348,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 457,
+      "id": 161,
+      "mapCoordinateX": 3,
+      "mapCoordinateY": 4,
+      "mapStage": 349,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 456,
+      "id": 162,
+      "mapCoordinateX": 4,
+      "mapCoordinateY": 4,
+      "mapStage": 350,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 455,
+      "id": 163,
+      "mapCoordinateX": 4,
+      "mapCoordinateY": 3,
+      "mapStage": 351,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 455,
+      "id": 164,
+      "mapCoordinateX": 5,
+      "mapCoordinateY": 3,
+      "mapStage": 352,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 456,
+      "id": 165,
+      "mapCoordinateX": 5,
+      "mapCoordinateY": 2,
+      "mapStage": 353,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 456,
+      "id": 166,
+      "mapCoordinateX": 6,
+      "mapCoordinateY": 2,
+      "mapStage": 354,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 456,
+      "id": 167,
+      "mapCoordinateX": 6,
+      "mapCoordinateY": 1,
+      "mapStage": 355,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 455,
+      "id": 168,
+      "mapCoordinateX": 6,
+      "mapCoordinateY": 0,
+      "mapStage": 356,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 456,
+      "id": 169,
+      "mapCoordinateX": 6,
+      "mapCoordinateY": -1,
+      "mapStage": 357,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 457,
+      "id": 170,
+      "mapCoordinateX": 6,
+      "mapCoordinateY": -2,
+      "mapStage": 358,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 456,
+      "id": 171,
+      "mapCoordinateX": 5,
+      "mapCoordinateY": -2,
+      "mapStage": 359,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 455,
+      "id": 172,
+      "mapCoordinateX": 5,
+      "mapCoordinateY": -3,
+      "mapStage": 360,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 457,
+      "id": 173,
+      "mapCoordinateX": 4,
+      "mapCoordinateY": -3,
+      "mapStage": 361,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 456,
+      "id": 174,
+      "mapCoordinateX": 4,
+      "mapCoordinateY": -4,
+      "mapStage": 362,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 457,
+      "id": 175,
+      "mapCoordinateX": 3,
+      "mapCoordinateY": -4,
+      "mapStage": 363,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 456,
+      "id": 176,
+      "mapCoordinateX": 2,
+      "mapCoordinateY": -4,
+      "mapStage": 364,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 455,
+      "id": 177,
+      "mapCoordinateX": 1,
+      "mapCoordinateY": -4,
+      "mapStage": 365,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 456,
+      "id": 178,
+      "mapCoordinateX": 0,
+      "mapCoordinateY": -4,
+      "mapStage": 366,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 456,
+      "id": 179,
+      "mapCoordinateX": -1,
+      "mapCoordinateY": -4,
+      "mapStage": 367,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 457,
+      "id": 180,
+      "mapCoordinateX": -1,
+      "mapCoordinateY": -3,
+      "mapStage": 368,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 456,
+      "id": 181,
+      "mapCoordinateX": -2,
+      "mapCoordinateY": -3,
+      "mapStage": 369,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 457,
+      "id": 182,
+      "mapCoordinateX": -2,
+      "mapCoordinateY": -2,
+      "mapStage": 370,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 455,
+      "id": 183,
+      "mapCoordinateX": -3,
+      "mapCoordinateY": -2,
+      "mapStage": 371,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 457,
+      "id": 184,
+      "mapCoordinateX": -3,
+      "mapCoordinateY": -1,
+      "mapStage": 372,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 455,
+      "id": 185,
+      "mapCoordinateX": -3,
+      "mapCoordinateY": 0,
+      "mapStage": 373,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 455,
+      "id": 186,
+      "mapCoordinateX": -3,
+      "mapCoordinateY": 1,
+      "mapStage": 374,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 456,
+      "id": 187,
+      "mapCoordinateX": -2,
+      "mapCoordinateY": 1,
+      "mapStage": 375,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 457,
+      "id": 188,
+      "mapCoordinateX": -2,
+      "mapCoordinateY": 2,
+      "mapStage": 376,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 456,
+      "id": 189,
+      "mapCoordinateX": -1,
+      "mapCoordinateY": 2,
+      "mapStage": 377,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 457,
+      "id": 190,
+      "mapCoordinateX": 0,
+      "mapCoordinateY": 2,
+      "mapStage": 378,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 455,
+      "id": 191,
+      "mapCoordinateX": 1,
+      "mapCoordinateY": 2,
+      "mapStage": 379,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 455,
+      "id": 192,
+      "mapCoordinateX": 2,
+      "mapCoordinateY": 2,
+      "mapStage": 380,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 455,
+      "id": 193,
+      "mapCoordinateX": 2,
+      "mapCoordinateY": 1,
+      "mapStage": 381,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 457,
+      "id": 194,
+      "mapCoordinateX": 2,
+      "mapCoordinateY": 0,
+      "mapStage": 382,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 457,
+      "id": 195,
+      "mapCoordinateX": 3,
+      "mapCoordinateY": 0,
+      "mapStage": 383,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 455,
+      "id": 196,
+      "mapCoordinateX": 3,
+      "mapCoordinateY": -1,
+      "mapStage": 384,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 455,
+      "id": 197,
+      "mapCoordinateX": 2,
+      "mapCoordinateY": -1,
+      "mapStage": 385,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 456,
+      "id": 198,
+      "mapCoordinateX": 2,
+      "mapCoordinateY": -2,
+      "mapStage": 386,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 456,
+      "id": 199,
+      "mapCoordinateX": 1,
+      "mapCoordinateY": -2,
+      "mapStage": 387,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 455,
+      "id": 200,
+      "mapCoordinateX": 0,
+      "mapCoordinateY": -2,
+      "mapStage": 388,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 455,
+      "id": 201,
+      "mapCoordinateX": -1,
+      "mapCoordinateY": -2,
+      "mapStage": 389,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 457,
+      "id": 202,
+      "mapCoordinateX": -1,
+      "mapCoordinateY": -1,
+      "mapStage": 390,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 457,
+      "id": 203,
+      "mapCoordinateX": -2,
+      "mapCoordinateY": -1,
+      "mapStage": 391,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 455,
+      "id": 204,
+      "mapCoordinateX": -2,
+      "mapCoordinateY": 0,
+      "mapStage": 392,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 455,
+      "id": 205,
+      "mapCoordinateX": -1,
+      "mapCoordinateY": 0,
+      "mapStage": 393,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 457,
+      "id": 206,
+      "mapCoordinateX": -1,
+      "mapCoordinateY": 1,
+      "mapStage": 394,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 456,
+      "id": 207,
+      "mapCoordinateX": 0,
+      "mapCoordinateY": 1,
+      "mapStage": 395,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 456,
+      "id": 208,
+      "mapCoordinateX": 1,
+      "mapCoordinateY": 1,
+      "mapStage": 396,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 455,
+      "id": 209,
+      "mapCoordinateX": 1,
+      "mapCoordinateY": 0,
+      "mapStage": 397,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 457,
+      "id": 210,
+      "mapCoordinateX": 1,
+      "mapCoordinateY": -1,
+      "mapStage": 398,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 456,
+      "id": 211,
+      "mapCoordinateX": 0,
+      "mapCoordinateY": -1,
+      "mapStage": 399,
+      "unexploredMapIcon": 454
+    },
+    {
+      "ClassType_": "BreachWorldMapCoordinate",
+      "exploredMapIcon": 450,
+      "id": 212,
+      "mapCoordinateX": 0,
+      "mapCoordinateY": 0,
+      "mapStage": 400,
+      "unexploredMapIcon": 454
+    }
+  ]
+}

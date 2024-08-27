@@ -1,0 +1,261 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.notifications",
+      "packageClass": "Notification",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "titleId",
+          "type": "I18n"
+        },
+        {
+          "name": "messageId",
+          "type": "I18n"
+        },
+        {
+          "name": "iconId",
+          "type": "Integer"
+        },
+        {
+          "name": "typeId",
+          "type": "Integer"
+        },
+        {
+          "name": "trigger",
+          "type": "String"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "Notification",
+      "iconId": 0,
+      "id": 1,
+      "messageId": 7474,
+      "titleId": 7473,
+      "trigger": "",
+      "typeId": 1
+    },
+    {
+      "ClassType_": "Notification",
+      "iconId": 0,
+      "id": 2,
+      "messageId": 7442,
+      "titleId": 7441,
+      "trigger": "",
+      "typeId": 1
+    },
+    {
+      "ClassType_": "Notification",
+      "iconId": 0,
+      "id": 3,
+      "messageId": 7466,
+      "titleId": 7465,
+      "trigger": "",
+      "typeId": 1
+    },
+    {
+      "ClassType_": "Notification",
+      "iconId": 0,
+      "id": 4,
+      "messageId": 7458,
+      "titleId": 7457,
+      "trigger": "",
+      "typeId": 1
+    },
+    {
+      "ClassType_": "Notification",
+      "iconId": 0,
+      "id": 5,
+      "messageId": 765248,
+      "titleId": 7447,
+      "trigger": "",
+      "typeId": 1
+    },
+    {
+      "ClassType_": "Notification",
+      "iconId": 0,
+      "id": 6,
+      "messageId": 196404,
+      "titleId": 7475,
+      "trigger": "",
+      "typeId": 1
+    },
+    {
+      "ClassType_": "Notification",
+      "iconId": 0,
+      "id": 7,
+      "messageId": 7438,
+      "titleId": 7437,
+      "trigger": "",
+      "typeId": 1
+    },
+    {
+      "ClassType_": "Notification",
+      "iconId": 0,
+      "id": 8,
+      "messageId": 538571,
+      "titleId": 538575,
+      "trigger": "",
+      "typeId": 1
+    },
+    {
+      "ClassType_": "Notification",
+      "iconId": 0,
+      "id": 9,
+      "messageId": 7462,
+      "titleId": 7461,
+      "trigger": "",
+      "typeId": 1
+    },
+    {
+      "ClassType_": "Notification",
+      "iconId": 0,
+      "id": 10,
+      "messageId": 756779,
+      "titleId": 7489,
+      "trigger": "CharacterLevelUp",
+      "typeId": 1
+    },
+    {
+      "ClassType_": "Notification",
+      "iconId": 0,
+      "id": 11,
+      "messageId": 732669,
+      "titleId": 7491,
+      "trigger": "PlayerNewSpell",
+      "typeId": 1
+    },
+    {
+      "ClassType_": "Notification",
+      "iconId": 0,
+      "id": 12,
+      "messageId": 715406,
+      "titleId": 7485,
+      "trigger": "PlayerIsDead",
+      "typeId": 1
+    },
+    {
+      "ClassType_": "Notification",
+      "iconId": 0,
+      "id": 13,
+      "messageId": 424501,
+      "titleId": 7487,
+      "trigger": "PlayerIsDead",
+      "typeId": 1
+    },
+    {
+      "ClassType_": "Notification",
+      "iconId": 0,
+      "id": 14,
+      "messageId": 568687,
+      "titleId": 7483,
+      "trigger": "GameRolePlayPlayerLifeStatus,0:2",
+      "typeId": 1
+    },
+    {
+      "ClassType_": "Notification",
+      "iconId": 0,
+      "id": 15,
+      "messageId": 7482,
+      "titleId": 7481,
+      "trigger": "",
+      "typeId": 1
+    },
+    {
+      "ClassType_": "Notification",
+      "iconId": 0,
+      "id": 16,
+      "messageId": 7496,
+      "titleId": 7495,
+      "trigger": "",
+      "typeId": 1
+    },
+    {
+      "ClassType_": "Notification",
+      "iconId": 0,
+      "id": 22,
+      "messageId": 7452,
+      "titleId": 7451,
+      "trigger": "CreaturesMode",
+      "typeId": 1
+    },
+    {
+      "ClassType_": "Notification",
+      "iconId": 0,
+      "id": 23,
+      "messageId": 661455,
+      "titleId": 7435,
+      "trigger": "LifePointsRegenBegin",
+      "typeId": 1
+    },
+    {
+      "ClassType_": "Notification",
+      "iconId": 0,
+      "id": 24,
+      "messageId": 7444,
+      "titleId": 7443,
+      "trigger": "",
+      "typeId": 4
+    },
+    {
+      "ClassType_": "Notification",
+      "iconId": 0,
+      "id": 29,
+      "messageId": 7460,
+      "titleId": 7459,
+      "trigger": "OpenSmileys",
+      "typeId": 1
+    },
+    {
+      "ClassType_": "Notification",
+      "iconId": 1,
+      "id": 30,
+      "messageId": 7472,
+      "titleId": 76674,
+      "trigger": "",
+      "typeId": 4
+    },
+    {
+      "ClassType_": "Notification",
+      "iconId": 0,
+      "id": 33,
+      "messageId": 7480,
+      "titleId": 7479,
+      "trigger": "",
+      "typeId": 4
+    },
+    {
+      "ClassType_": "Notification",
+      "iconId": 0,
+      "id": 34,
+      "messageId": 322123,
+      "titleId": 823595,
+      "trigger": "",
+      "typeId": 4
+    },
+    {
+      "ClassType_": "Notification",
+      "iconId": 0,
+      "id": 36,
+      "messageId": 322121,
+      "titleId": 988546,
+      "trigger": "",
+      "typeId": 4
+    },
+    {
+      "ClassType_": "Notification",
+      "iconId": 4,
+      "id": 37,
+      "messageId": 756274,
+      "titleId": 756273,
+      "trigger": "",
+      "typeId": 4
+    }
+  ]
+}

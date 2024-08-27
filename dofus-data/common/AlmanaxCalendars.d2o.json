@@ -1,0 +1,3827 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.almanax",
+      "packageClass": "AlmanaxCalendar",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "nameId",
+          "type": "I18n"
+        },
+        {
+          "name": "descId",
+          "type": "I18n"
+        },
+        {
+          "name": "npcId",
+          "type": "Integer"
+        },
+        {
+          "name": "bonusesIds",
+          "type": "Vector",
+          "subtype": {
+            "name": "Vector.\u003cint\u003e",
+            "type": "Integer"
+          }
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        368
+      ],
+      "descId": 1055984,
+      "id": 1,
+      "nameId": 324635,
+      "npcId": 1736
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        4,
+        518
+      ],
+      "descId": 1056165,
+      "id": 2,
+      "nameId": 1056164,
+      "npcId": 1754
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        376
+      ],
+      "descId": 1056016,
+      "id": 3,
+      "nameId": 1056015,
+      "npcId": 1646
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        25,
+        26
+      ],
+      "descId": 1011631,
+      "id": 4,
+      "nameId": 955785,
+      "npcId": 1645
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        123
+      ],
+      "descId": 1077038,
+      "id": 5,
+      "nameId": 324611,
+      "npcId": 1644
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        27
+      ],
+      "descId": 324608,
+      "id": 6,
+      "nameId": 324607,
+      "npcId": 1643
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        454
+      ],
+      "descId": 1056019,
+      "id": 7,
+      "nameId": 1056018,
+      "npcId": 1642
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        29
+      ],
+      "descId": 1056020,
+      "id": 8,
+      "nameId": 324597,
+      "npcId": 1641
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        286
+      ],
+      "descId": 1056022,
+      "id": 9,
+      "nameId": 1056021,
+      "npcId": 1640
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [],
+      "descId": 1056024,
+      "id": 10,
+      "nameId": 1056023,
+      "npcId": 1639
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        32
+      ],
+      "descId": 1056025,
+      "id": 11,
+      "nameId": 324329,
+      "npcId": 1638
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        90
+      ],
+      "descId": 1056027,
+      "id": 12,
+      "nameId": 1056026,
+      "npcId": 1637
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [],
+      "descId": 1065113,
+      "id": 13,
+      "nameId": 1056028,
+      "npcId": 1636
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        301
+      ],
+      "descId": 1056031,
+      "id": 14,
+      "nameId": 1056030,
+      "npcId": 1635
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        137
+      ],
+      "descId": 1056033,
+      "id": 15,
+      "nameId": 1056032,
+      "npcId": 1634
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        280
+      ],
+      "descId": 1076433,
+      "id": 16,
+      "nameId": 324315,
+      "npcId": 1622
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        507
+      ],
+      "descId": 1056035,
+      "id": 17,
+      "nameId": 324317,
+      "npcId": 1623
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [],
+      "descId": 483658,
+      "id": 18,
+      "nameId": 324405,
+      "npcId": 1624
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        210
+      ],
+      "descId": 1056037,
+      "id": 19,
+      "nameId": 1056036,
+      "npcId": 1629
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        13
+      ],
+      "descId": 1080903,
+      "id": 20,
+      "nameId": 1056038,
+      "npcId": 1630
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        155
+      ],
+      "descId": 1056041,
+      "id": 21,
+      "nameId": 1056040,
+      "npcId": 1631
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        140
+      ],
+      "descId": 1056042,
+      "id": 22,
+      "nameId": 324361,
+      "npcId": 1632
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        126
+      ],
+      "descId": 324370,
+      "id": 23,
+      "nameId": 324369,
+      "npcId": 1633
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        43
+      ],
+      "descId": 1056043,
+      "id": 24,
+      "nameId": 324375,
+      "npcId": 1647
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        104,
+        478,
+        479
+      ],
+      "descId": 1056045,
+      "id": 25,
+      "nameId": 1056044,
+      "npcId": 1648
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        170
+      ],
+      "descId": 1056046,
+      "id": 26,
+      "nameId": 324385,
+      "npcId": 1649
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        163,
+        181
+      ],
+      "descId": 1056048,
+      "id": 27,
+      "nameId": 1056047,
+      "npcId": 1650
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        289
+      ],
+      "descId": 1056050,
+      "id": 28,
+      "nameId": 1056049,
+      "npcId": 1651
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        276
+      ],
+      "descId": 1056051,
+      "id": 29,
+      "nameId": 324351,
+      "npcId": 1652
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        62
+      ],
+      "descId": 1076498,
+      "id": 30,
+      "nameId": 1076502,
+      "npcId": 1653
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        180
+      ],
+      "descId": 1056054,
+      "id": 31,
+      "nameId": 1056053,
+      "npcId": 1654
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        297
+      ],
+      "descId": 1080904,
+      "id": 32,
+      "nameId": 1056055,
+      "npcId": 1655
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        290
+      ],
+      "descId": 1056058,
+      "id": 33,
+      "nameId": 1056057,
+      "npcId": 1656
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        53
+      ],
+      "descId": 324332,
+      "id": 34,
+      "nameId": 324331,
+      "npcId": 1657
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        183
+      ],
+      "descId": 1056060,
+      "id": 35,
+      "nameId": 1056059,
+      "npcId": 1658
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        55
+      ],
+      "descId": 544473,
+      "id": 36,
+      "nameId": 324343,
+      "npcId": 1659
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        322
+      ],
+      "descId": 1056062,
+      "id": 37,
+      "nameId": 1056061,
+      "npcId": 1660
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        449,
+        412,
+        431
+      ],
+      "descId": 1056064,
+      "id": 38,
+      "nameId": 1056063,
+      "npcId": 1661
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        58
+      ],
+      "descId": 1056065,
+      "id": 39,
+      "nameId": 324341,
+      "npcId": 1662
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        59
+      ],
+      "descId": 1056066,
+      "id": 40,
+      "nameId": 324489,
+      "npcId": 1663
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        306
+      ],
+      "descId": 1056067,
+      "id": 41,
+      "nameId": 324499,
+      "npcId": 1664
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        61
+      ],
+      "descId": 1056068,
+      "id": 42,
+      "nameId": 324495,
+      "npcId": 1665
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        508
+      ],
+      "descId": 1056070,
+      "id": 43,
+      "nameId": 1056069,
+      "npcId": 1666
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        195
+      ],
+      "descId": 1056072,
+      "id": 44,
+      "nameId": 1056071,
+      "npcId": 1667
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        370
+      ],
+      "descId": 1056074,
+      "id": 45,
+      "nameId": 1056073,
+      "npcId": 1668
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [],
+      "descId": 404653,
+      "id": 46,
+      "nameId": 324535,
+      "npcId": 1669
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        65
+      ],
+      "descId": 674070,
+      "id": 47,
+      "nameId": 674069,
+      "npcId": 1670
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        67,
+        66
+      ],
+      "descId": 324512,
+      "id": 48,
+      "nameId": 955786,
+      "npcId": 1671
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        213
+      ],
+      "descId": 1056075,
+      "id": 49,
+      "nameId": 324523,
+      "npcId": 1672
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        271
+      ],
+      "descId": 1056076,
+      "id": 50,
+      "nameId": 324437,
+      "npcId": 1673
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        509
+      ],
+      "descId": 1056078,
+      "id": 51,
+      "nameId": 1056077,
+      "npcId": 1674
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        325
+      ],
+      "descId": 1056079,
+      "id": 52,
+      "nameId": 324429,
+      "npcId": 1675
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        72
+      ],
+      "descId": 324426,
+      "id": 53,
+      "nameId": 324425,
+      "npcId": 1676
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        456
+      ],
+      "descId": 1056081,
+      "id": 54,
+      "nameId": 1056080,
+      "npcId": 1677
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        345
+      ],
+      "descId": 1056083,
+      "id": 55,
+      "nameId": 1056082,
+      "npcId": 1678
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        364
+      ],
+      "descId": 1056085,
+      "id": 56,
+      "nameId": 1056084,
+      "npcId": 1679
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        76,
+        468,
+        469
+      ],
+      "descId": 1056087,
+      "id": 57,
+      "nameId": 1056086,
+      "npcId": 1680
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [],
+      "descId": 324456,
+      "id": 58,
+      "nameId": 324455,
+      "npcId": 1681
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        204
+      ],
+      "descId": 1056089,
+      "id": 59,
+      "nameId": 1056088,
+      "npcId": 1682
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        510
+      ],
+      "descId": 1056090,
+      "id": 60,
+      "nameId": 324605,
+      "npcId": 1683
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        511
+      ],
+      "descId": 1056092,
+      "id": 61,
+      "nameId": 1056091,
+      "npcId": 1684
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [],
+      "descId": 779722,
+      "id": 62,
+      "nameId": 324615,
+      "npcId": 1685
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        455
+      ],
+      "descId": 1011657,
+      "id": 63,
+      "nameId": 324633,
+      "npcId": 1686
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        512
+      ],
+      "descId": 1077039,
+      "id": 64,
+      "nameId": 324627,
+      "npcId": 1687
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        81
+      ],
+      "descId": 961773,
+      "id": 65,
+      "nameId": 324643,
+      "npcId": 1688
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        82
+      ],
+      "descId": 1056096,
+      "id": 66,
+      "nameId": 324639,
+      "npcId": 1689
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        451,
+        413,
+        432
+      ],
+      "descId": 1056098,
+      "id": 67,
+      "nameId": 1056097,
+      "npcId": 1690
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        356
+      ],
+      "descId": 1056100,
+      "id": 68,
+      "nameId": 1056099,
+      "npcId": 1691
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        267
+      ],
+      "descId": 1056102,
+      "id": 69,
+      "nameId": 1056101,
+      "npcId": 1692
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        513
+      ],
+      "descId": 1056105,
+      "id": 70,
+      "nameId": 1056104,
+      "npcId": 1693
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        87
+      ],
+      "descId": 324552,
+      "id": 71,
+      "nameId": 324551,
+      "npcId": 1694
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        216
+      ],
+      "descId": 1056107,
+      "id": 72,
+      "nameId": 1056106,
+      "npcId": 1695
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        299
+      ],
+      "descId": 1056109,
+      "id": 73,
+      "nameId": 1056108,
+      "npcId": 1696
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        132
+      ],
+      "descId": 1056111,
+      "id": 74,
+      "nameId": 1056110,
+      "npcId": 1697
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        371
+      ],
+      "descId": 1056113,
+      "id": 75,
+      "nameId": 1056112,
+      "npcId": 1698
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        92
+      ],
+      "descId": 1056114,
+      "id": 76,
+      "nameId": 324579,
+      "npcId": 1699
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        63
+      ],
+      "descId": 1056116,
+      "id": 77,
+      "nameId": 1056115,
+      "npcId": 1700
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        514
+      ],
+      "descId": 1056118,
+      "id": 78,
+      "nameId": 1056117,
+      "npcId": 1701
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        457
+      ],
+      "descId": 1056120,
+      "id": 79,
+      "nameId": 1056119,
+      "npcId": 1702
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        515
+      ],
+      "descId": 1056122,
+      "id": 80,
+      "nameId": 1056121,
+      "npcId": 1703
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        238
+      ],
+      "descId": 1056124,
+      "id": 81,
+      "nameId": 1056123,
+      "npcId": 1704
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        98
+      ],
+      "descId": 324816,
+      "id": 82,
+      "nameId": 324815,
+      "npcId": 1705
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        191
+      ],
+      "descId": 1056126,
+      "id": 83,
+      "nameId": 1056125,
+      "npcId": 1706
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        100
+      ],
+      "descId": 324804,
+      "id": 84,
+      "nameId": 324803,
+      "npcId": 1707
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        101
+      ],
+      "descId": 1011666,
+      "id": 85,
+      "nameId": 324795,
+      "npcId": 1708
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        103
+      ],
+      "descId": 1056128,
+      "id": 86,
+      "nameId": 1056127,
+      "npcId": 1709
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        205
+      ],
+      "descId": 1056130,
+      "id": 87,
+      "nameId": 1056129,
+      "npcId": 1710
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        136,
+        472,
+        473
+      ],
+      "descId": 1056132,
+      "id": 88,
+      "nameId": 1056131,
+      "npcId": 1711
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        105
+      ],
+      "descId": 1056133,
+      "id": 89,
+      "nameId": 324785,
+      "npcId": 1712
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [],
+      "descId": 483660,
+      "id": 90,
+      "nameId": 324729,
+      "npcId": 1713
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        106
+      ],
+      "descId": 324736,
+      "id": 91,
+      "nameId": 324735,
+      "npcId": 1714
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        516
+      ],
+      "descId": 1056135,
+      "id": 92,
+      "nameId": 1056134,
+      "npcId": 1715
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        108
+      ],
+      "descId": 1011669,
+      "id": 93,
+      "nameId": 324745,
+      "npcId": 1716
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        109
+      ],
+      "descId": 324714,
+      "id": 94,
+      "nameId": 324713,
+      "npcId": 1717
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        319
+      ],
+      "descId": 1056136,
+      "id": 95,
+      "nameId": 324715,
+      "npcId": 1718
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        111
+      ],
+      "descId": 1011670,
+      "id": 96,
+      "nameId": 1056137,
+      "npcId": 1719
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        118
+      ],
+      "descId": 1056139,
+      "id": 97,
+      "nameId": 1056138,
+      "npcId": 1720
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        517
+      ],
+      "descId": 1056148,
+      "id": 98,
+      "nameId": 1056147,
+      "npcId": 1721
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        335
+      ],
+      "descId": 1056152,
+      "id": 99,
+      "nameId": 1056151,
+      "npcId": 1722
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        242
+      ],
+      "descId": 1056154,
+      "id": 100,
+      "nameId": 1056153,
+      "npcId": 1723
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        125
+      ],
+      "descId": 1077040,
+      "id": 101,
+      "nameId": 324421,
+      "npcId": 1724
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [],
+      "descId": 1065114,
+      "id": 102,
+      "nameId": 1056155,
+      "npcId": 1725
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [],
+      "descId": 324418,
+      "id": 103,
+      "nameId": 324417,
+      "npcId": 1726
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        117
+      ],
+      "descId": 1056157,
+      "id": 104,
+      "nameId": 324409,
+      "npcId": 1727
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        168
+      ],
+      "descId": 1056158,
+      "id": 105,
+      "nameId": 324411,
+      "npcId": 1728
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        36
+      ],
+      "descId": 1056160,
+      "id": 106,
+      "nameId": 1056159,
+      "npcId": 1729
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        120
+      ],
+      "descId": 324408,
+      "id": 107,
+      "nameId": 324407,
+      "npcId": 1730
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        314
+      ],
+      "descId": 1056161,
+      "id": 108,
+      "nameId": 324955,
+      "npcId": 1731
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        446,
+        414,
+        433
+      ],
+      "descId": 1067136,
+      "id": 109,
+      "nameId": 1056162,
+      "npcId": 1732
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        158,
+        159,
+        505
+      ],
+      "descId": 1055986,
+      "id": 113,
+      "nameId": 1055985,
+      "npcId": 1737
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        385
+      ],
+      "descId": 1055988,
+      "id": 114,
+      "nameId": 1055987,
+      "npcId": 1738
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        506
+      ],
+      "descId": 1055991,
+      "id": 115,
+      "nameId": 1055989,
+      "npcId": 1739
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        229
+      ],
+      "descId": 1055993,
+      "id": 116,
+      "nameId": 1055992,
+      "npcId": 1740
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        270
+      ],
+      "descId": 1055998,
+      "id": 117,
+      "nameId": 324937,
+      "npcId": 1741
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        194
+      ],
+      "descId": 1055999,
+      "id": 118,
+      "nameId": 324935,
+      "npcId": 1742
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        448
+      ],
+      "descId": 1056001,
+      "id": 119,
+      "nameId": 1056000,
+      "npcId": 1743
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        102
+      ],
+      "descId": 1056003,
+      "id": 120,
+      "nameId": 1056002,
+      "npcId": 1744
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        15,
+        461,
+        462
+      ],
+      "descId": 1056005,
+      "id": 121,
+      "nameId": 1056004,
+      "npcId": 1745
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        119
+      ],
+      "descId": 1056007,
+      "id": 122,
+      "nameId": 1056006,
+      "npcId": 1746
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        378
+      ],
+      "descId": 1043349,
+      "id": 123,
+      "nameId": 324969,
+      "npcId": 1747
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        19
+      ],
+      "descId": 324976,
+      "id": 124,
+      "nameId": 324975,
+      "npcId": 1748
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        445,
+        419,
+        439
+      ],
+      "descId": 1056009,
+      "id": 125,
+      "nameId": 1056008,
+      "npcId": 1749
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        244
+      ],
+      "descId": 1056011,
+      "id": 126,
+      "nameId": 1056010,
+      "npcId": 1750
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        121
+      ],
+      "descId": 1056012,
+      "id": 127,
+      "nameId": 324977,
+      "npcId": 1751
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        358
+      ],
+      "descId": 1056014,
+      "id": 128,
+      "nameId": 1056013,
+      "npcId": 1752
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        4,
+        518
+      ],
+      "descId": 1056167,
+      "id": 129,
+      "nameId": 1056166,
+      "npcId": 1754
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        4,
+        518
+      ],
+      "descId": 1056169,
+      "id": 130,
+      "nameId": 1056168,
+      "npcId": 1754
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        4,
+        518
+      ],
+      "descId": 1056171,
+      "id": 131,
+      "nameId": 1056170,
+      "npcId": 1754
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [],
+      "descId": 1067373,
+      "id": 132,
+      "nameId": 1055548,
+      "npcId": 1770
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        363
+      ],
+      "descId": 1055550,
+      "id": 133,
+      "nameId": 325003,
+      "npcId": 1771
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        24
+      ],
+      "descId": 1055552,
+      "id": 134,
+      "nameId": 1055551,
+      "npcId": 1772
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        320
+      ],
+      "descId": 1055553,
+      "id": 135,
+      "nameId": 324999,
+      "npcId": 1773
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        153
+      ],
+      "descId": 1055555,
+      "id": 136,
+      "nameId": 1055554,
+      "npcId": 1774
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [],
+      "descId": 1067383,
+      "id": 137,
+      "nameId": 324995,
+      "npcId": 1775
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        31
+      ],
+      "descId": 1055557,
+      "id": 138,
+      "nameId": 1055556,
+      "npcId": 1776
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        184
+      ],
+      "descId": 1055559,
+      "id": 139,
+      "nameId": 1055558,
+      "npcId": 1777
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        135
+      ],
+      "descId": 325046,
+      "id": 140,
+      "nameId": 325045,
+      "npcId": 1778
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        169,
+        474,
+        475
+      ],
+      "descId": 1055561,
+      "id": 141,
+      "nameId": 1055560,
+      "npcId": 1779
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        45
+      ],
+      "descId": 1055562,
+      "id": 142,
+      "nameId": 325049,
+      "npcId": 1780
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        138
+      ],
+      "descId": 1055563,
+      "id": 143,
+      "nameId": 325047,
+      "npcId": 1781
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        28
+      ],
+      "descId": 1055565,
+      "id": 144,
+      "nameId": 1055564,
+      "npcId": 1782
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        482
+      ],
+      "descId": 1055567,
+      "id": 145,
+      "nameId": 1055566,
+      "npcId": 1783
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        79
+      ],
+      "descId": 1055569,
+      "id": 146,
+      "nameId": 1055568,
+      "npcId": 1784
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        35
+      ],
+      "descId": 1055571,
+      "id": 147,
+      "nameId": 1055570,
+      "npcId": 1785
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        84
+      ],
+      "descId": 1055573,
+      "id": 148,
+      "nameId": 1055572,
+      "npcId": 1786
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        178
+      ],
+      "descId": 1055576,
+      "id": 149,
+      "nameId": 325031,
+      "npcId": 1787
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        451,
+        403,
+        422
+      ],
+      "descId": 1055578,
+      "id": 150,
+      "nameId": 1055577,
+      "npcId": 1788
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        88
+      ],
+      "descId": 1055581,
+      "id": 151,
+      "nameId": 324673,
+      "npcId": 1789
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        483
+      ],
+      "descId": 1055583,
+      "id": 152,
+      "nameId": 1055582,
+      "npcId": 1790
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        3
+      ],
+      "descId": 1055585,
+      "id": 153,
+      "nameId": 1055584,
+      "npcId": 1791
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        484
+      ],
+      "descId": 1055587,
+      "id": 154,
+      "nameId": 1055586,
+      "npcId": 1792
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        41
+      ],
+      "descId": 1055590,
+      "id": 155,
+      "nameId": 1055589,
+      "npcId": 1793
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        151
+      ],
+      "descId": 1011698,
+      "id": 156,
+      "nameId": 324683,
+      "npcId": 1794
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        38
+      ],
+      "descId": 1055592,
+      "id": 157,
+      "nameId": 1055591,
+      "npcId": 1795
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        277
+      ],
+      "descId": 1055594,
+      "id": 158,
+      "nameId": 1055593,
+      "npcId": 1796
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        154
+      ],
+      "descId": 1055595,
+      "id": 159,
+      "nameId": 324685,
+      "npcId": 1797
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        64
+      ],
+      "descId": 1055597,
+      "id": 160,
+      "nameId": 1055596,
+      "npcId": 1798
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        131
+      ],
+      "descId": 1055599,
+      "id": 161,
+      "nameId": 1055598,
+      "npcId": 1799
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        157
+      ],
+      "descId": 1055600,
+      "id": 162,
+      "nameId": 324751,
+      "npcId": 1800
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        486,
+        485
+      ],
+      "descId": 1055602,
+      "id": 163,
+      "nameId": 1055601,
+      "npcId": 1801
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        116,
+        122
+      ],
+      "descId": 1055603,
+      "id": 164,
+      "nameId": 1055604,
+      "npcId": 1802
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        384
+      ],
+      "descId": 1055606,
+      "id": 165,
+      "nameId": 1055605,
+      "npcId": 1803
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        10
+      ],
+      "descId": 1055608,
+      "id": 166,
+      "nameId": 1055607,
+      "npcId": 1804
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        85
+      ],
+      "descId": 1055610,
+      "id": 167,
+      "nameId": 1055609,
+      "npcId": 1805
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        152
+      ],
+      "descId": 1055611,
+      "id": 168,
+      "nameId": 324763,
+      "npcId": 1806
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        445,
+        404,
+        423
+      ],
+      "descId": 1055615,
+      "id": 169,
+      "nameId": 1055614,
+      "npcId": 1807
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        167
+      ],
+      "descId": 324842,
+      "id": 170,
+      "nameId": 324841,
+      "npcId": 1808
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        33
+      ],
+      "descId": 1055618,
+      "id": 171,
+      "nameId": 1055617,
+      "npcId": 1809
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        44,
+        487,
+        488
+      ],
+      "descId": 1055620,
+      "id": 172,
+      "nameId": 1055619,
+      "npcId": 1810
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        273
+      ],
+      "descId": 1055622,
+      "id": 173,
+      "nameId": 1055621,
+      "npcId": 1811
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        171
+      ],
+      "descId": 1011706,
+      "id": 174,
+      "nameId": 324835,
+      "npcId": 1812
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        172
+      ],
+      "descId": 1055623,
+      "id": 175,
+      "nameId": 324827,
+      "npcId": 1813
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        173
+      ],
+      "descId": 324830,
+      "id": 176,
+      "nameId": 324829,
+      "npcId": 1814
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [],
+      "descId": 1065111,
+      "id": 177,
+      "nameId": 1055624,
+      "npcId": 1815
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        175
+      ],
+      "descId": 1055656,
+      "id": 178,
+      "nameId": 324847,
+      "npcId": 1816
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        112
+      ],
+      "descId": 1055661,
+      "id": 179,
+      "nameId": 324843,
+      "npcId": 1817
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        37
+      ],
+      "descId": 1055665,
+      "id": 180,
+      "nameId": 1055664,
+      "npcId": 1818
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        222
+      ],
+      "descId": 1055666,
+      "id": 181,
+      "nameId": 324899,
+      "npcId": 1819
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        48
+      ],
+      "descId": 1055668,
+      "id": 182,
+      "nameId": 1055667,
+      "npcId": 1820
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        22
+      ],
+      "descId": 1055674,
+      "id": 183,
+      "nameId": 1055673,
+      "npcId": 1821
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        1
+      ],
+      "descId": 1055676,
+      "id": 184,
+      "nameId": 1055675,
+      "npcId": 1822
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        78
+      ],
+      "descId": 1055678,
+      "id": 185,
+      "nameId": 1055677,
+      "npcId": 1823
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        74
+      ],
+      "descId": 1055682,
+      "id": 186,
+      "nameId": 1055681,
+      "npcId": 1824
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        50
+      ],
+      "descId": 1055686,
+      "id": 187,
+      "nameId": 1055685,
+      "npcId": 1825
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        133
+      ],
+      "descId": 1055690,
+      "id": 188,
+      "nameId": 1055689,
+      "npcId": 1826
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        186
+      ],
+      "descId": 1067917,
+      "id": 189,
+      "nameId": 324907,
+      "npcId": 1827
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        11
+      ],
+      "descId": 1055697,
+      "id": 190,
+      "nameId": 1055696,
+      "npcId": 1828
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        189,
+        188,
+        2
+      ],
+      "descId": 1011715,
+      "id": 191,
+      "nameId": 955790,
+      "npcId": 1829
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [],
+      "descId": 1055702,
+      "id": 192,
+      "nameId": 324381,
+      "npcId": 1830
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        21
+      ],
+      "descId": 1054604,
+      "id": 193,
+      "nameId": 324395,
+      "npcId": 1831
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        71
+      ],
+      "descId": 1054605,
+      "id": 194,
+      "nameId": 324391,
+      "npcId": 1832
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        192
+      ],
+      "descId": 1068017,
+      "id": 195,
+      "nameId": 324363,
+      "npcId": 1833
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        20
+      ],
+      "descId": 1054628,
+      "id": 196,
+      "nameId": 1054627,
+      "npcId": 1834
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        449,
+        424,
+        405
+      ],
+      "descId": 1054640,
+      "id": 197,
+      "nameId": 1054639,
+      "npcId": 1835
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        294
+      ],
+      "descId": 1054642,
+      "id": 198,
+      "nameId": 1054641,
+      "npcId": 1836
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        197
+      ],
+      "descId": 1054644,
+      "id": 199,
+      "nameId": 1054643,
+      "npcId": 1837
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        142
+      ],
+      "descId": 1054646,
+      "id": 200,
+      "nameId": 1054645,
+      "npcId": 1838
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        198
+      ],
+      "descId": 324596,
+      "id": 201,
+      "nameId": 324595,
+      "npcId": 1839
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        199,
+        464,
+        465
+      ],
+      "descId": 1054647,
+      "id": 202,
+      "nameId": 1068032,
+      "npcId": 1840
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        89
+      ],
+      "descId": 1054732,
+      "id": 203,
+      "nameId": 324625,
+      "npcId": 1841
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        201
+      ],
+      "descId": 1054733,
+      "id": 204,
+      "nameId": 324631,
+      "npcId": 1842
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        202
+      ],
+      "descId": 1011720,
+      "id": 205,
+      "nameId": 324613,
+      "npcId": 1843
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        203
+      ],
+      "descId": 324620,
+      "id": 206,
+      "nameId": 324619,
+      "npcId": 1844
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        12
+      ],
+      "descId": 1054736,
+      "id": 207,
+      "nameId": 1054735,
+      "npcId": 1845
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        52
+      ],
+      "descId": 1054737,
+      "id": 208,
+      "nameId": 324481,
+      "npcId": 1846
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [],
+      "descId": 1067700,
+      "id": 209,
+      "nameId": 1067699,
+      "npcId": 1847
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        489
+      ],
+      "descId": 1055549,
+      "id": 210,
+      "nameId": 1054739,
+      "npcId": 1848
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        207
+      ],
+      "descId": 1054740,
+      "id": 211,
+      "nameId": 324441,
+      "npcId": 1849
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        60
+      ],
+      "descId": 1054742,
+      "id": 212,
+      "nameId": 1054741,
+      "npcId": 1850
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        453,
+        406,
+        425
+      ],
+      "descId": 1054745,
+      "id": 213,
+      "nameId": 1054744,
+      "npcId": 1851
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        68
+      ],
+      "descId": 1054747,
+      "id": 214,
+      "nameId": 1054746,
+      "npcId": 1852
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        211
+      ],
+      "descId": 324428,
+      "id": 215,
+      "nameId": 324427,
+      "npcId": 1853
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        70
+      ],
+      "descId": 1054749,
+      "id": 216,
+      "nameId": 1054748,
+      "npcId": 1854
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        176
+      ],
+      "descId": 1054750,
+      "id": 217,
+      "nameId": 324435,
+      "npcId": 1855
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        234
+      ],
+      "descId": 1054751,
+      "id": 218,
+      "nameId": 324549,
+      "npcId": 1856
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        366
+      ],
+      "descId": 1070540,
+      "id": 219,
+      "nameId": 324547,
+      "npcId": 1857
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        107
+      ],
+      "descId": 1054754,
+      "id": 220,
+      "nameId": 1054753,
+      "npcId": 1858
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        146
+      ],
+      "descId": 1054756,
+      "id": 221,
+      "nameId": 1054755,
+      "npcId": 1859
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        80
+      ],
+      "descId": 1054758,
+      "id": 222,
+      "nameId": 1054757,
+      "npcId": 1860
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        219
+      ],
+      "descId": 1011728,
+      "id": 223,
+      "nameId": 324501,
+      "npcId": 1861
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        23,
+        39
+      ],
+      "descId": 1054760,
+      "id": 224,
+      "nameId": 1054759,
+      "npcId": 1862
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        220,
+        221
+      ],
+      "descId": 1041788,
+      "id": 225,
+      "nameId": 955793,
+      "npcId": 1863
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        179
+      ],
+      "descId": 1054790,
+      "id": 226,
+      "nameId": 1054789,
+      "npcId": 1864
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        223
+      ],
+      "descId": 1011730,
+      "id": 227,
+      "nameId": 324487,
+      "npcId": 1865
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        490
+      ],
+      "descId": 1054798,
+      "id": 228,
+      "nameId": 1054797,
+      "npcId": 1866
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        346
+      ],
+      "descId": 1054390,
+      "id": 229,
+      "nameId": 1054392,
+      "npcId": 1867
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        226
+      ],
+      "descId": 1011732,
+      "id": 230,
+      "nameId": 324857,
+      "npcId": 1868
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        227
+      ],
+      "descId": 324854,
+      "id": 231,
+      "nameId": 324853,
+      "npcId": 1869
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        42
+      ],
+      "descId": 1054823,
+      "id": 232,
+      "nameId": 324877,
+      "npcId": 1870
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        95
+      ],
+      "descId": 1054912,
+      "id": 233,
+      "nameId": 324873,
+      "npcId": 1871
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        230,
+        466,
+        467
+      ],
+      "descId": 1054913,
+      "id": 234,
+      "nameId": 1054396,
+      "npcId": 1872
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        407,
+        427,
+        445
+      ],
+      "descId": 1054393,
+      "id": 235,
+      "nameId": 1054398,
+      "npcId": 1873
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        232
+      ],
+      "descId": 1011736,
+      "id": 236,
+      "nameId": 324887,
+      "npcId": 1874
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        233
+      ],
+      "descId": 1068519,
+      "id": 237,
+      "nameId": 324885,
+      "npcId": 1875
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        241
+      ],
+      "descId": 1054947,
+      "id": 238,
+      "nameId": 1054946,
+      "npcId": 1876
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        235
+      ],
+      "descId": 324882,
+      "id": 239,
+      "nameId": 324881,
+      "npcId": 1877
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        491
+      ],
+      "descId": 1054949,
+      "id": 240,
+      "nameId": 1054948,
+      "npcId": 1878
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        237
+      ],
+      "descId": 1011738,
+      "id": 241,
+      "nameId": 324913,
+      "npcId": 1879
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        174
+      ],
+      "descId": 1054955,
+      "id": 242,
+      "nameId": 1054954,
+      "npcId": 1880
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        239
+      ],
+      "descId": 1078598,
+      "id": 243,
+      "nameId": 324917,
+      "npcId": 1881
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        257
+      ],
+      "descId": 1054960,
+      "id": 244,
+      "nameId": 1054959,
+      "npcId": 1882
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [],
+      "descId": 1065112,
+      "id": 245,
+      "nameId": 1054961,
+      "npcId": 1883
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        218
+      ],
+      "descId": 1054964,
+      "id": 246,
+      "nameId": 1054963,
+      "npcId": 1884
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        243
+      ],
+      "descId": 1011741,
+      "id": 247,
+      "nameId": 324925,
+      "npcId": 1885
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        156
+      ],
+      "descId": 1054966,
+      "id": 248,
+      "nameId": 1054965,
+      "npcId": 1886
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        245
+      ],
+      "descId": 1068770,
+      "id": 249,
+      "nameId": 324929,
+      "npcId": 1887
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        246
+      ],
+      "descId": 324702,
+      "id": 250,
+      "nameId": 324701,
+      "npcId": 1888
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        357
+      ],
+      "descId": 1054968,
+      "id": 251,
+      "nameId": 1054967,
+      "npcId": 1889
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        287
+      ],
+      "descId": 1054395,
+      "id": 252,
+      "nameId": 1054394,
+      "npcId": 1890
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        347
+      ],
+      "descId": 1054389,
+      "id": 253,
+      "nameId": 324689,
+      "npcId": 1891
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        250
+      ],
+      "descId": 324744,
+      "id": 254,
+      "nameId": 324743,
+      "npcId": 1892
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        2,
+        253,
+        254
+      ],
+      "descId": 1076524,
+      "id": 256,
+      "nameId": 324733,
+      "npcId": 1923
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        255
+      ],
+      "descId": 1055750,
+      "id": 257,
+      "nameId": 324727,
+      "npcId": 1924
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        446,
+        408,
+        426
+      ],
+      "descId": 1055752,
+      "id": 258,
+      "nameId": 1055751,
+      "npcId": 1925
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        249
+      ],
+      "descId": 1055754,
+      "id": 259,
+      "nameId": 1055753,
+      "npcId": 1926
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        200
+      ],
+      "descId": 1055755,
+      "id": 260,
+      "nameId": 324789,
+      "npcId": 1927
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        258
+      ],
+      "descId": 1066094,
+      "id": 261,
+      "nameId": 324773,
+      "npcId": 1928
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        177
+      ],
+      "descId": 1055758,
+      "id": 262,
+      "nameId": 1055757,
+      "npcId": 1929
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [],
+      "descId": 483663,
+      "id": 263,
+      "nameId": 324781,
+      "npcId": 1930
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        260
+      ],
+      "descId": 1011747,
+      "id": 264,
+      "nameId": 324777,
+      "npcId": 1931
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        261,
+        480,
+        481
+      ],
+      "descId": 1055760,
+      "id": 265,
+      "nameId": 1055759,
+      "npcId": 1932
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        492
+      ],
+      "descId": 1058145,
+      "id": 266,
+      "nameId": 1055761,
+      "npcId": 1933
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        263
+      ],
+      "descId": 324824,
+      "id": 267,
+      "nameId": 324823,
+      "npcId": 1934
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        264
+      ],
+      "descId": 1011749,
+      "id": 268,
+      "nameId": 324819,
+      "npcId": 1935
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        317
+      ],
+      "descId": 1055768,
+      "id": 269,
+      "nameId": 324797,
+      "npcId": 1936
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [],
+      "descId": 325020,
+      "id": 270,
+      "nameId": 325019,
+      "npcId": 1937
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        266
+      ],
+      "descId": 1055779,
+      "id": 271,
+      "nameId": 325021,
+      "npcId": 1938
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        252
+      ],
+      "descId": 1055780,
+      "id": 272,
+      "nameId": 325027,
+      "npcId": 1939
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        453,
+        429,
+        409
+      ],
+      "descId": 1055782,
+      "id": 273,
+      "nameId": 1055781,
+      "npcId": 1940
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        269
+      ],
+      "descId": 1055788,
+      "id": 274,
+      "nameId": 325023,
+      "npcId": 1941
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        224
+      ],
+      "descId": 1055790,
+      "id": 275,
+      "nameId": 1055789,
+      "npcId": 1942
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        206
+      ],
+      "descId": 1055792,
+      "id": 276,
+      "nameId": 1055791,
+      "npcId": 1943
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        46
+      ],
+      "descId": 1055794,
+      "id": 277,
+      "nameId": 1055793,
+      "npcId": 1944
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        144
+      ],
+      "descId": 1055795,
+      "id": 278,
+      "nameId": 325011,
+      "npcId": 1945
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        182
+      ],
+      "descId": 1055797,
+      "id": 279,
+      "nameId": 1055796,
+      "npcId": 1946
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        56
+      ],
+      "descId": 1055798,
+      "id": 280,
+      "nameId": 325057,
+      "npcId": 1947
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        272
+      ],
+      "descId": 1055800,
+      "id": 281,
+      "nameId": 1055799,
+      "npcId": 1948
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        162
+      ],
+      "descId": 1055807,
+      "id": 282,
+      "nameId": 325061,
+      "npcId": 1949
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        278
+      ],
+      "descId": 560022,
+      "id": 283,
+      "nameId": 325063,
+      "npcId": 1950
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        114
+      ],
+      "descId": 1055818,
+      "id": 284,
+      "nameId": 1055817,
+      "npcId": 1951
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        493
+      ],
+      "descId": 1055835,
+      "id": 285,
+      "nameId": 1055834,
+      "npcId": 1952
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        208
+      ],
+      "descId": 1055842,
+      "id": 286,
+      "nameId": 325069,
+      "npcId": 1953
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        128
+      ],
+      "descId": 1055856,
+      "id": 287,
+      "nameId": 1055855,
+      "npcId": 1954
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [],
+      "descId": 483664,
+      "id": 288,
+      "nameId": 325053,
+      "npcId": 1955
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        283
+      ],
+      "descId": 325056,
+      "id": 289,
+      "nameId": 325055,
+      "npcId": 1956
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [],
+      "descId": 1077474,
+      "id": 290,
+      "nameId": 1077473,
+      "npcId": 1957
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        447
+      ],
+      "descId": 1055362,
+      "id": 291,
+      "nameId": 1055361,
+      "npcId": 1958
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        127,
+        282
+      ],
+      "descId": 1055374,
+      "id": 292,
+      "nameId": 1055373,
+      "npcId": 1959
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        97
+      ],
+      "descId": 1066250,
+      "id": 293,
+      "nameId": 1055389,
+      "npcId": 1960
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        274
+      ],
+      "descId": 1055391,
+      "id": 294,
+      "nameId": 1055392,
+      "npcId": 1961
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        130
+      ],
+      "descId": 1055393,
+      "id": 295,
+      "nameId": 324957,
+      "npcId": 1962
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        451,
+        410,
+        428
+      ],
+      "descId": 1055395,
+      "id": 296,
+      "nameId": 1055394,
+      "npcId": 1963
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        291
+      ],
+      "descId": 1055396,
+      "id": 297,
+      "nameId": 324951,
+      "npcId": 1964
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        292,
+        476,
+        477
+      ],
+      "descId": 1055404,
+      "id": 298,
+      "nameId": 1055403,
+      "npcId": 1965
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        309
+      ],
+      "descId": 1055416,
+      "id": 299,
+      "nameId": 324947,
+      "npcId": 1966
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        285
+      ],
+      "descId": 1055575,
+      "id": 300,
+      "nameId": 1055574,
+      "npcId": 1967
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        494
+      ],
+      "descId": 1055580,
+      "id": 301,
+      "nameId": 1055579,
+      "npcId": 1968
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        296
+      ],
+      "descId": 1055588,
+      "id": 302,
+      "nameId": 324371,
+      "npcId": 1969
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        332
+      ],
+      "descId": 1055613,
+      "id": 303,
+      "nameId": 1055612,
+      "npcId": 1970
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        298
+      ],
+      "descId": 1055616,
+      "id": 304,
+      "nameId": 324359,
+      "npcId": 1971
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        387
+      ],
+      "descId": 1055744,
+      "id": 305,
+      "nameId": 1055743,
+      "npcId": 1972
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        495
+      ],
+      "descId": 1055746,
+      "id": 306,
+      "nameId": 1055745,
+      "npcId": 1973
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        54
+      ],
+      "descId": 1055748,
+      "id": 307,
+      "nameId": 1055747,
+      "npcId": 1974
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        302
+      ],
+      "descId": 324480,
+      "id": 308,
+      "nameId": 324479,
+      "npcId": 1975
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [],
+      "descId": 1056172,
+      "id": 309,
+      "nameId": 1055886,
+      "npcId": 1976
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        313
+      ],
+      "descId": 1055889,
+      "id": 310,
+      "nameId": 1055888,
+      "npcId": 1977
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        145
+      ],
+      "descId": 1055945,
+      "id": 311,
+      "nameId": 1055944,
+      "npcId": 1978
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        256
+      ],
+      "descId": 1055966,
+      "id": 312,
+      "nameId": 1055965,
+      "npcId": 1979
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        307
+      ],
+      "descId": 1055994,
+      "id": 313,
+      "nameId": 324457,
+      "npcId": 1980
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        496
+      ],
+      "descId": 1055996,
+      "id": 314,
+      "nameId": 1055995,
+      "npcId": 1981
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        377
+      ],
+      "descId": 1055997,
+      "id": 315,
+      "nameId": 324465,
+      "npcId": 1982
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        446,
+        411,
+        430
+      ],
+      "descId": 1056095,
+      "id": 316,
+      "nameId": 1056094,
+      "npcId": 1983
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        124
+      ],
+      "descId": 1070842,
+      "id": 317,
+      "nameId": 324545,
+      "npcId": 1984
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        225
+      ],
+      "descId": 1055336,
+      "id": 318,
+      "nameId": 324543,
+      "npcId": 1985
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        288
+      ],
+      "descId": 1055860,
+      "id": 319,
+      "nameId": 324541,
+      "npcId": 2072
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        318
+      ],
+      "descId": 1055862,
+      "id": 320,
+      "nameId": 1055861,
+      "npcId": 2073
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        316
+      ],
+      "descId": 1055863,
+      "id": 321,
+      "nameId": 324521,
+      "npcId": 2074
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        497,
+        73,
+        75
+      ],
+      "descId": 1077485,
+      "id": 322,
+      "nameId": 1055864,
+      "npcId": 2075
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        342
+      ],
+      "descId": 1055867,
+      "id": 323,
+      "nameId": 1055866,
+      "npcId": 2076
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        498
+      ],
+      "descId": 1055868,
+      "id": 324,
+      "nameId": 324533,
+      "npcId": 2077
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        499
+      ],
+      "descId": 1055870,
+      "id": 325,
+      "nameId": 1055869,
+      "npcId": 2078
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        228
+      ],
+      "descId": 1055877,
+      "id": 326,
+      "nameId": 324525,
+      "npcId": 2079
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        500
+      ],
+      "descId": 1055880,
+      "id": 327,
+      "nameId": 1055879,
+      "npcId": 2080
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        323,
+        470,
+        471
+      ],
+      "descId": 1055882,
+      "id": 328,
+      "nameId": 1055881,
+      "npcId": 2081
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        324
+      ],
+      "descId": 1055902,
+      "id": 329,
+      "nameId": 324589,
+      "npcId": 2082
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        143
+      ],
+      "descId": 1055904,
+      "id": 330,
+      "nameId": 1055903,
+      "npcId": 2083
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        164
+      ],
+      "descId": 1055906,
+      "id": 331,
+      "nameId": 1055905,
+      "npcId": 2084
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        327
+      ],
+      "descId": 1011777,
+      "id": 332,
+      "nameId": 324583,
+      "npcId": 2085
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        311
+      ],
+      "descId": 1077036,
+      "id": 333,
+      "nameId": 324585,
+      "npcId": 2086
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        449,
+        390,
+        365
+      ],
+      "descId": 1055910,
+      "id": 334,
+      "nameId": 1055909,
+      "npcId": 2087
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        330
+      ],
+      "descId": 1055912,
+      "id": 335,
+      "nameId": 1055911,
+      "npcId": 2088
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        501
+      ],
+      "descId": 1076525,
+      "id": 336,
+      "nameId": 1055913,
+      "npcId": 2089
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        300
+      ],
+      "descId": 1055915,
+      "id": 337,
+      "nameId": 324573,
+      "npcId": 2090
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        333
+      ],
+      "descId": 324578,
+      "id": 338,
+      "nameId": 324577,
+      "npcId": 2091
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        329
+      ],
+      "descId": 1055916,
+      "id": 339,
+      "nameId": 324663,
+      "npcId": 2092
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        86
+      ],
+      "descId": 1055918,
+      "id": 340,
+      "nameId": 1055917,
+      "npcId": 2093
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        502
+      ],
+      "descId": 1076517,
+      "id": 341,
+      "nameId": 1055919,
+      "npcId": 2094
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        337
+      ],
+      "descId": 1055921,
+      "id": 342,
+      "nameId": 324659,
+      "npcId": 2095
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        99
+      ],
+      "descId": 1055922,
+      "id": 343,
+      "nameId": 324661,
+      "npcId": 2096
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        369
+      ],
+      "descId": 1055924,
+      "id": 344,
+      "nameId": 1055923,
+      "npcId": 2097
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        149
+      ],
+      "descId": 1077037,
+      "id": 345,
+      "nameId": 1055925,
+      "npcId": 2098
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        196
+      ],
+      "descId": 1055928,
+      "id": 346,
+      "nameId": 1055927,
+      "npcId": 2099
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        14
+      ],
+      "descId": 1055929,
+      "id": 347,
+      "nameId": 324649,
+      "npcId": 2100
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        344,
+        343
+      ],
+      "descId": 1055931,
+      "id": 348,
+      "nameId": 1055930,
+      "npcId": 2101
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        185
+      ],
+      "descId": 1055932,
+      "id": 349,
+      "nameId": 324641,
+      "npcId": 2102
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        49
+      ],
+      "descId": 1055933,
+      "id": 350,
+      "nameId": 324737,
+      "npcId": 2103
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        141
+      ],
+      "descId": 1067137,
+      "id": 351,
+      "nameId": 1055934,
+      "npcId": 2104
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [],
+      "descId": 483665,
+      "id": 352,
+      "nameId": 324725,
+      "npcId": 2105
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        93
+      ],
+      "descId": 1055937,
+      "id": 353,
+      "nameId": 1055936,
+      "npcId": 2106
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        349
+      ],
+      "descId": 1055938,
+      "id": 354,
+      "nameId": 324695,
+      "npcId": 2107
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        315
+      ],
+      "descId": 1055940,
+      "id": 355,
+      "nameId": 1055939,
+      "npcId": 2108
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        351
+      ],
+      "descId": 1011788,
+      "id": 356,
+      "nameId": 324687,
+      "npcId": 2109
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        248
+      ],
+      "descId": 1055941,
+      "id": 357,
+      "nameId": 324711,
+      "npcId": 2110
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        362
+      ],
+      "descId": 1055943,
+      "id": 358,
+      "nameId": 1055942,
+      "npcId": 2111
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        463
+      ],
+      "descId": 1055947,
+      "id": 359,
+      "nameId": 1055946,
+      "npcId": 2112
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        355
+      ],
+      "descId": 1011789,
+      "id": 360,
+      "nameId": 324811,
+      "npcId": 2113
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        328
+      ],
+      "descId": 1071053,
+      "id": 361,
+      "nameId": 1055948,
+      "npcId": 2114
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        348
+      ],
+      "descId": 1055951,
+      "id": 362,
+      "nameId": 1055950,
+      "npcId": 2115
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        7
+      ],
+      "descId": 1055953,
+      "id": 363,
+      "nameId": 1055952,
+      "npcId": 2116
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        445,
+        449,
+        453
+      ],
+      "descId": 1055954,
+      "id": 364,
+      "nameId": 956827,
+      "npcId": 2117
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        503
+      ],
+      "descId": 1080902,
+      "id": 365,
+      "nameId": 1055955,
+      "npcId": 2118
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        361
+      ],
+      "descId": 1055957,
+      "id": 366,
+      "nameId": 324779,
+      "npcId": 2119
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        161
+      ],
+      "descId": 1055958,
+      "id": 367,
+      "nameId": 324775,
+      "npcId": 2120
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        265
+      ],
+      "descId": 1055960,
+      "id": 368,
+      "nameId": 1055959,
+      "npcId": 2121
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        215
+      ],
+      "descId": 1055962,
+      "id": 369,
+      "nameId": 1055961,
+      "npcId": 2122
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        214
+      ],
+      "descId": 1078241,
+      "id": 370,
+      "nameId": 1055963,
+      "npcId": 2123
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        77
+      ],
+      "descId": 1055968,
+      "id": 371,
+      "nameId": 1055967,
+      "npcId": 2124
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        367
+      ],
+      "descId": 1055969,
+      "id": 372,
+      "nameId": 324871,
+      "npcId": 2125
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        134
+      ],
+      "descId": 1055970,
+      "id": 373,
+      "nameId": 324867,
+      "npcId": 2126
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        353
+      ],
+      "descId": 1055972,
+      "id": 374,
+      "nameId": 1055971,
+      "npcId": 2127
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        150
+      ],
+      "descId": 1055975,
+      "id": 375,
+      "nameId": 324861,
+      "npcId": 2128
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        110
+      ],
+      "descId": 1055977,
+      "id": 376,
+      "nameId": 1055976,
+      "npcId": 2129
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        372
+      ],
+      "descId": 1055978,
+      "id": 377,
+      "nameId": 324855,
+      "npcId": 2130
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        373
+      ],
+      "descId": 1055979,
+      "id": 378,
+      "nameId": 324851,
+      "npcId": 2131
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        338
+      ],
+      "descId": 1055981,
+      "id": 379,
+      "nameId": 1055980,
+      "npcId": 2132
+    },
+    {
+      "ClassType_": "AlmanaxCalendar",
+      "bonusesIds": [
+        504
+      ],
+      "descId": 1055983,
+      "id": 380,
+      "nameId": 1055982,
+      "npcId": 2133
+    }
+  ]
+}

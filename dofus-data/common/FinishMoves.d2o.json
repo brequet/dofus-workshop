@@ -1,0 +1,279 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.spells",
+      "packageClass": "FinishMove",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "duration",
+          "type": "Integer"
+        },
+        {
+          "name": "free",
+          "type": "Boolean"
+        },
+        {
+          "name": "nameId",
+          "type": "I18n"
+        },
+        {
+          "name": "category",
+          "type": "Integer"
+        },
+        {
+          "name": "spellLevel",
+          "type": "Integer"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "FinishMove",
+      "category": 1,
+      "duration": 4500,
+      "free": true,
+      "id": 1,
+      "nameId": 672184,
+      "spellLevel": 29064
+    },
+    {
+      "ClassType_": "FinishMove",
+      "category": 1,
+      "duration": 5000,
+      "free": false,
+      "id": 2,
+      "nameId": 672185,
+      "spellLevel": 29063
+    },
+    {
+      "ClassType_": "FinishMove",
+      "category": 1,
+      "duration": 5100,
+      "free": false,
+      "id": 5,
+      "nameId": 700918,
+      "spellLevel": 29217
+    },
+    {
+      "ClassType_": "FinishMove",
+      "category": 1,
+      "duration": 6000,
+      "free": false,
+      "id": 6,
+      "nameId": 700921,
+      "spellLevel": 29218
+    },
+    {
+      "ClassType_": "FinishMove",
+      "category": 1,
+      "duration": 7200,
+      "free": false,
+      "id": 7,
+      "nameId": 700920,
+      "spellLevel": 29219
+    },
+    {
+      "ClassType_": "FinishMove",
+      "category": 1,
+      "duration": 7500,
+      "free": false,
+      "id": 8,
+      "nameId": 700919,
+      "spellLevel": 29220
+    },
+    {
+      "ClassType_": "FinishMove",
+      "category": 1,
+      "duration": 5000,
+      "free": false,
+      "id": 10,
+      "nameId": 745162,
+      "spellLevel": 35914
+    },
+    {
+      "ClassType_": "FinishMove",
+      "category": 1,
+      "duration": 5000,
+      "free": false,
+      "id": 11,
+      "nameId": 745209,
+      "spellLevel": 35916
+    },
+    {
+      "ClassType_": "FinishMove",
+      "category": 1,
+      "duration": 5000,
+      "free": false,
+      "id": 14,
+      "nameId": 745234,
+      "spellLevel": 35917
+    },
+    {
+      "ClassType_": "FinishMove",
+      "category": 1,
+      "duration": 5000,
+      "free": false,
+      "id": 15,
+      "nameId": 745290,
+      "spellLevel": 35918
+    },
+    {
+      "ClassType_": "FinishMove",
+      "category": 1,
+      "duration": 5000,
+      "free": false,
+      "id": 18,
+      "nameId": 745300,
+      "spellLevel": 35919
+    },
+    {
+      "ClassType_": "FinishMove",
+      "category": 1,
+      "duration": 5000,
+      "free": false,
+      "id": 19,
+      "nameId": 745311,
+      "spellLevel": 35920
+    },
+    {
+      "ClassType_": "FinishMove",
+      "category": 1,
+      "duration": 5000,
+      "free": false,
+      "id": 20,
+      "nameId": 745318,
+      "spellLevel": 35921
+    },
+    {
+      "ClassType_": "FinishMove",
+      "category": 1,
+      "duration": 5000,
+      "free": false,
+      "id": 21,
+      "nameId": 745327,
+      "spellLevel": 35922
+    },
+    {
+      "ClassType_": "FinishMove",
+      "category": 1,
+      "duration": 5000,
+      "free": false,
+      "id": 27,
+      "nameId": 745335,
+      "spellLevel": 35923
+    },
+    {
+      "ClassType_": "FinishMove",
+      "category": 1,
+      "duration": 5000,
+      "free": false,
+      "id": 28,
+      "nameId": 745374,
+      "spellLevel": 35924
+    },
+    {
+      "ClassType_": "FinishMove",
+      "category": 1,
+      "duration": 5000,
+      "free": false,
+      "id": 30,
+      "nameId": 745388,
+      "spellLevel": 35925
+    },
+    {
+      "ClassType_": "FinishMove",
+      "category": 1,
+      "duration": 5000,
+      "free": false,
+      "id": 31,
+      "nameId": 745403,
+      "spellLevel": 35926
+    },
+    {
+      "ClassType_": "FinishMove",
+      "category": 1,
+      "duration": 7200,
+      "free": false,
+      "id": 32,
+      "nameId": 808746,
+      "spellLevel": 44862
+    },
+    {
+      "ClassType_": "FinishMove",
+      "category": 1,
+      "duration": 7200,
+      "free": false,
+      "id": 33,
+      "nameId": 837915,
+      "spellLevel": 48252
+    },
+    {
+      "ClassType_": "FinishMove",
+      "category": 1,
+      "duration": 5000,
+      "free": false,
+      "id": 34,
+      "nameId": 855938,
+      "spellLevel": 49778
+    },
+    {
+      "ClassType_": "FinishMove",
+      "category": 1,
+      "duration": 7200,
+      "free": false,
+      "id": 35,
+      "nameId": 898914,
+      "spellLevel": 52097
+    },
+    {
+      "ClassType_": "FinishMove",
+      "category": 1,
+      "duration": 7200,
+      "free": false,
+      "id": 36,
+      "nameId": 898915,
+      "spellLevel": 52095
+    },
+    {
+      "ClassType_": "FinishMove",
+      "category": 1,
+      "duration": 7200,
+      "free": false,
+      "id": 37,
+      "nameId": 898916,
+      "spellLevel": 52098
+    },
+    {
+      "ClassType_": "FinishMove",
+      "category": 1,
+      "duration": 7200,
+      "free": false,
+      "id": 38,
+      "nameId": 898995,
+      "spellLevel": 52096
+    },
+    {
+      "ClassType_": "FinishMove",
+      "category": 1,
+      "duration": 7200,
+      "free": false,
+      "id": 39,
+      "nameId": 898918,
+      "spellLevel": 52099
+    },
+    {
+      "ClassType_": "FinishMove",
+      "category": 1,
+      "duration": 5000,
+      "free": false,
+      "id": 40,
+      "nameId": 903499,
+      "spellLevel": 53645
+    }
+  ]
+}

@@ -1,0 +1,564 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.mounts",
+      "packageClass": "MountBone",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "MountBone",
+      "id": 7387
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 7835
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 5712
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 2710
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 6936
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 2443
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 5711
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 6339
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 7667
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 5652
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 5653
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 7537
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 5373
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 7010
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 6189
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 6371
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 6937
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 6239
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 8069
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 6370
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 7304
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 4113
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 2442
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 7570
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 5718
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 7965
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 5717
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 5924
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 5707
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 7847
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 2440
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 1659
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 4190
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 6502
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 6924
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 6940
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 6380
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 6926
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 5067
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 7766
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 5710
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 7003
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 2998
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 4183
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 5438
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 8148
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 6939
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 7631
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 7072
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 7005
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 2937
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 5494
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 8419
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 6925
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 4179
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 5103
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 6368
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 5448
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 6241
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 6382
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 5655
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 5619
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 7666
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 6938
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 1792
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 3629
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 4182
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 5714
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 8072
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 7046
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 639
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 7849
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 8200
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 7568
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 7628
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 5252
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 5644
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 2444
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 7665
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 8348
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 3025
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 6960
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 5713
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 5055
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 2013
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 6240
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 5605
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 4184
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 7846
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 1834
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 6923
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 6749
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 4180
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 7129
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 7834
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 7629
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 7848
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 3801
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 7850
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 6781
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 6221
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 7630
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 3798
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 2441
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 5439
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 3800
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 6338
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 6921
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 5023
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 3799
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 7644
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 6274
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 3582
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 7544
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 7001
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 5709
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 5716
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 4400
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 6922
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 5993
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 7966
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 6273
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 7323
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 5708
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 3588
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 8717
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 6275
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 6945
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 5493
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 6369
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 8832
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 5167
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 7664
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 1990
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 1824
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 5715
+    },
+    {
+      "ClassType_": "MountBone",
+      "id": 6268
+    }
+  ]
+}

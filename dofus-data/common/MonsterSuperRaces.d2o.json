@@ -1,0 +1,205 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.monsters",
+      "packageClass": "MonsterSuperRace",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "nameId",
+          "type": "I18n"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "MonsterSuperRace",
+      "id": 1,
+      "nameId": 7420
+    },
+    {
+      "ClassType_": "MonsterSuperRace",
+      "id": 2,
+      "nameId": 7418
+    },
+    {
+      "ClassType_": "MonsterSuperRace",
+      "id": 3,
+      "nameId": 7410
+    },
+    {
+      "ClassType_": "MonsterSuperRace",
+      "id": 4,
+      "nameId": 7408
+    },
+    {
+      "ClassType_": "MonsterSuperRace",
+      "id": 5,
+      "nameId": 658230
+    },
+    {
+      "ClassType_": "MonsterSuperRace",
+      "id": 6,
+      "nameId": 7421
+    },
+    {
+      "ClassType_": "MonsterSuperRace",
+      "id": 7,
+      "nameId": 7405
+    },
+    {
+      "ClassType_": "MonsterSuperRace",
+      "id": 8,
+      "nameId": 7407
+    },
+    {
+      "ClassType_": "MonsterSuperRace",
+      "id": 9,
+      "nameId": 7403
+    },
+    {
+      "ClassType_": "MonsterSuperRace",
+      "id": 10,
+      "nameId": 7419
+    },
+    {
+      "ClassType_": "MonsterSuperRace",
+      "id": 11,
+      "nameId": 7409
+    },
+    {
+      "ClassType_": "MonsterSuperRace",
+      "id": 12,
+      "nameId": 7417
+    },
+    {
+      "ClassType_": "MonsterSuperRace",
+      "id": 13,
+      "nameId": 7413
+    },
+    {
+      "ClassType_": "MonsterSuperRace",
+      "id": 14,
+      "nameId": 961919
+    },
+    {
+      "ClassType_": "MonsterSuperRace",
+      "id": 15,
+      "nameId": 7412
+    },
+    {
+      "ClassType_": "MonsterSuperRace",
+      "id": 16,
+      "nameId": 7404
+    },
+    {
+      "ClassType_": "MonsterSuperRace",
+      "id": 17,
+      "nameId": 7411
+    },
+    {
+      "ClassType_": "MonsterSuperRace",
+      "id": 18,
+      "nameId": 518729
+    },
+    {
+      "ClassType_": "MonsterSuperRace",
+      "id": 19,
+      "nameId": 7401
+    },
+    {
+      "ClassType_": "MonsterSuperRace",
+      "id": 20,
+      "nameId": 933879
+    },
+    {
+      "ClassType_": "MonsterSuperRace",
+      "id": 21,
+      "nameId": 7416
+    },
+    {
+      "ClassType_": "MonsterSuperRace",
+      "id": 22,
+      "nameId": 909626
+    },
+    {
+      "ClassType_": "MonsterSuperRace",
+      "id": 24,
+      "nameId": 281204
+    },
+    {
+      "ClassType_": "MonsterSuperRace",
+      "id": 25,
+      "nameId": 305659
+    },
+    {
+      "ClassType_": "MonsterSuperRace",
+      "id": 26,
+      "nameId": 332013
+    },
+    {
+      "ClassType_": "MonsterSuperRace",
+      "id": 27,
+      "nameId": 332014
+    },
+    {
+      "ClassType_": "MonsterSuperRace",
+      "id": 28,
+      "nameId": 332012
+    },
+    {
+      "ClassType_": "MonsterSuperRace",
+      "id": 29,
+      "nameId": 518738
+    },
+    {
+      "ClassType_": "MonsterSuperRace",
+      "id": 30,
+      "nameId": 698088
+    },
+    {
+      "ClassType_": "MonsterSuperRace",
+      "id": 34,
+      "nameId": 783482
+    },
+    {
+      "ClassType_": "MonsterSuperRace",
+      "id": 35,
+      "nameId": 783547
+    },
+    {
+      "ClassType_": "MonsterSuperRace",
+      "id": 37,
+      "nameId": 800405
+    },
+    {
+      "ClassType_": "MonsterSuperRace",
+      "id": 38,
+      "nameId": 818242
+    },
+    {
+      "ClassType_": "MonsterSuperRace",
+      "id": 41,
+      "nameId": 897188
+    },
+    {
+      "ClassType_": "MonsterSuperRace",
+      "id": 43,
+      "nameId": 948204
+    },
+    {
+      "ClassType_": "MonsterSuperRace",
+      "id": 44,
+      "nameId": 976865
+    },
+    {
+      "ClassType_": "MonsterSuperRace",
+      "id": 45,
+      "nameId": 1082083
+    }
+  ]
+}

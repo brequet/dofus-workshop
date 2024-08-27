@@ -1,0 +1,1470 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.sounds",
+      "packageClass": "SoundUiElement",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "name",
+          "type": "String"
+        },
+        {
+          "name": "hookId",
+          "type": "Integer"
+        },
+        {
+          "name": "file",
+          "type": "String"
+        }
+      ]
+    },
+    "2": {
+      "packageName": "com.ankamagames.dofus.datacenter.sounds",
+      "packageClass": "SoundUi",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "uiName",
+          "type": "String"
+        },
+        {
+          "name": "openFile",
+          "type": "String"
+        },
+        {
+          "name": "closeFile",
+          "type": "String"
+        },
+        {
+          "name": "subElements",
+          "type": "Vector",
+          "subtype": {
+            "name": "Vector.\u003cVector.\u003ccom.ankamagames.dofus.datacenter.sounds::SoundUi\u003e\u003e",
+            "type": "Vector",
+            "subtype": {
+              "name": "Vector.\u003ccom.ankamagames.dofus.datacenter.sounds::SoundUi\u003e",
+              "type": "2"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 0,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "contextMenu"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 1,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "readingBook"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 2,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "scroll"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 3,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "mapInfo"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 4,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "cinematicOverlay"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 5,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "externalnotification"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 6,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "payZone"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 7,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "cinematic"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 8,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "report"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 9,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "banner"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 10,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "smileys"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 11,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "zoomUi"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 12,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "mainMenu"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 13,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "hardcoreDeath"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 14,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "chat"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 15,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "buffUi"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 16,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "crafterForm"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 17,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "craftCoop"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 18,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "crafterXmlItem"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 19,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "decraft"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 20,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "smithMagic"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 21,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "craft"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 22,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "jobLevelUp"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 23,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "crafterList"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 24,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "smithMagicCoop"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 25,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "ArenaGameUi"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 26,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "characterSheetUi"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 27,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "statBoost"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 28,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "zaapiSelection"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 29,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "zaapSelection"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 30,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "cartographyUi"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 31,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "achievementTab"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 32,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "questTab"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 33,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "giftXmlItem"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 34,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "jobRecipeItem"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 35,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "titleTab"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 36,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "calendarTab"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 37,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "bestiaryTab"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 38,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "objectTab"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 39,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "jobCraftOptions"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 40,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "krosmasterTab"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 41,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "krosmasterCardViewer"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 42,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "emoteTab"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 43,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "alignmentTab"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 44,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "skillItem"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 45,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "spellTab"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 46,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "jobTab"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 47,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "book"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 48,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "fighterPvmXmlItem"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 49,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "fighterInfo"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 50,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "fightResult"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 51,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "challengeDisplay"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 52,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "buffs"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 53,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "turn"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 54,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "timeline"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 55,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "configModules"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 56,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "configCache"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 57,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "configShortcut"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 58,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "qualitySelection"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 59,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "configNotification"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 60,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "channelColorizedItem"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 61,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "configTheme"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 62,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "configChat"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 63,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "configShortcutPopup"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 64,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "configPerformance"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 65,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "configGeneral"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 66,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "configCompatibility"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 67,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "configSupport"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 68,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "configAudio"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 69,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "houseManager"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 70,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "houseSale"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 71,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "houseGuildManager"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 72,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "recipes"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 73,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "recipeItem"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 74,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "inputPopup"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 75,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "imagepopup"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 76,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "itemsSet"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 77,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "delayedclosurepopup"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 78,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "passwordMenu"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 79,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "secureMode"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 80,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "popup"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 81,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "payment"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 82,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "itemRecipes"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 83,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "largePopup"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 84,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "itemBoxPopup"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 85,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "queuePopup"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 86,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "pollPopup"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 87,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "itemBox"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 88,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "downloadUi"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 89,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "lockedPopup"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 90,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "secureModeIcon"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 91,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "checkboxPopup"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 92,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "gameMenu"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 93,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "feedUi"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 94,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "optionContainer"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 95,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "quantityPopup"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 96,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "betaMenu"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 97,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "webPortal"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 98,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "npcDialog"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 99,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "spellForgetItem"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 100,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "spellForget"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 101,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "spectatorUi"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 102,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "prismDefense"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 103,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "fightItem"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 104,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "levelUp"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 105,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "storage"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 106,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "equipment"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 107,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "bank"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 108,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "livingObject"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 109,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "preset"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 110,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "pvpArena"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 111,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "partyDisplay"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 112,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "teamSearch"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 113,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "partyMemberItem"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 114,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "partyJoin"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 115,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "tips"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 116,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "tutorial"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 117,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "cinematiqueIntro"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 118,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "serverPopup"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 119,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "pseudoChoice"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 120,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "tutorialSelection"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 121,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "serverImgXmlItem"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 122,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "secretPopup"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 123,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "unavailableCharacterPopup"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 124,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "characterCreation"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 125,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "serverListSelection"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 126,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "serverXmlItem"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 127,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "serverSelection"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 128,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "giftMenu"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 129,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "serverForm"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 130,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "characterSelection"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 131,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "loginThirdParty"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 132,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "characterHeader"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 133,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "preGameMainMenu"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 134,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "serverSimpleSelection"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 135,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "giftCharacterSelectionItem"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 136,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "login"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 137,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "userAgreement"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 138,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "barnItem"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 139,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "mountPaddock"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 140,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "paddockSellBuy"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 141,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "mountInfo"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 142,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "mountAncestors"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 143,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "inventoryItem"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 144,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "exchangeNPCUi"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 145,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "tradeItem"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 146,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "exchangeUi"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 147,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "itemMyselfVendor"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 148,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "estateAgency"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 149,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "itemBidHouseBuy"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 150,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "stockMyselfVendor"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 151,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "stockNpcStore"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 152,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "buyModeDetailXmlItem"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 153,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "itemBidHouseSell"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 154,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "stockHumanVendor"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 155,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "stockBidHouse"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 156,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "itemHumanVendor"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 157,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "buyModeXmlItem"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 158,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "estateForm"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 159,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "itemNpcStore"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 160,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "guildHouses"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 161,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "socialBase"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 162,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "guildMemberRights"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 163,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "guildSpellItem"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 164,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "spouse"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 165,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "guildPaddock"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 166,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "guildTaxCollector"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 167,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "guildMembers"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 168,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "guildCreator"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 169,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "friends"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 170,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "guildMemberXmlItem"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 171,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "friendXmlItem"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 172,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "guildPersonalization"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 173,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "ponyXmlItem"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 174,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "guild"
+    },
+    {
+      "ClassType_": "SoundUi",
+      "closeFile": "null",
+      "id": 175,
+      "openFile": "null",
+      "subElements": [],
+      "uiName": "console"
+    }
+  ]
+}

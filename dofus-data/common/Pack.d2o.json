@@ -1,0 +1,42 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.misc",
+      "packageClass": "Pack",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "name",
+          "type": "String"
+        },
+        {
+          "name": "hasSubAreas",
+          "type": "Boolean"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "Pack",
+      "hasSubAreas": true,
+      "id": 0,
+      "name": "base"
+    },
+    {
+      "ClassType_": "Pack",
+      "hasSubAreas": true,
+      "id": 1,
+      "name": "all"
+    },
+    {
+      "ClassType_": "Pack",
+      "hasSubAreas": true,
+      "id": 11,
+      "name": "subscribed"
+    }
+  ]
+}

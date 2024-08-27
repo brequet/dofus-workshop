@@ -1,0 +1,108 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.seasons",
+      "packageClass": "ServerSeason",
+      "fields": [
+        {
+          "name": "uid",
+          "type": "Integer"
+        },
+        {
+          "name": "nameId",
+          "type": "I18n"
+        },
+        {
+          "name": "beginning",
+          "type": "Number"
+        },
+        {
+          "name": "closure",
+          "type": "Number"
+        },
+        {
+          "name": "resetDate",
+          "type": "Number"
+        },
+        {
+          "name": "flagObjectId",
+          "type": "Integer"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "ServerSeason",
+      "beginning": 1524610800000,
+      "closure": 1532991600000,
+      "flagObjectId": 20763,
+      "nameId": 1057964,
+      "resetDate": -3600000,
+      "uid": 1
+    },
+    {
+      "ClassType_": "ServerSeason",
+      "beginning": 1548720000000,
+      "closure": 1554850800000,
+      "flagObjectId": 20763,
+      "nameId": 1057965,
+      "resetDate": -3600000,
+      "uid": 2
+    },
+    {
+      "ClassType_": "ServerSeason",
+      "beginning": 1533078000000,
+      "closure": 1548720000000,
+      "flagObjectId": 20763,
+      "nameId": 1057966,
+      "resetDate": -3600000,
+      "uid": 3
+    },
+    {
+      "ClassType_": "ServerSeason",
+      "beginning": 1563231600000,
+      "closure": 1569884400000,
+      "flagObjectId": 20763,
+      "nameId": 1057967,
+      "resetDate": -3600000,
+      "uid": 4
+    },
+    {
+      "ClassType_": "ServerSeason",
+      "beginning": 1579737600000,
+      "closure": 1596236400000,
+      "flagObjectId": 20763,
+      "nameId": 1057968,
+      "resetDate": -3600000,
+      "uid": 5
+    },
+    {
+      "ClassType_": "ServerSeason",
+      "beginning": 1612137600000,
+      "closure": 1625612400000,
+      "flagObjectId": 20763,
+      "nameId": 1057969,
+      "resetDate": -3600000,
+      "uid": 14
+    },
+    {
+      "ClassType_": "ServerSeason",
+      "beginning": 1625698800000,
+      "closure": 1640995200000,
+      "flagObjectId": 20763,
+      "nameId": 1057970,
+      "resetDate": -3600000,
+      "uid": 16
+    },
+    {
+      "ClassType_": "ServerSeason",
+      "beginning": 1682982000000,
+      "closure": 1700611200000,
+      "flagObjectId": 20763,
+      "nameId": 1057971,
+      "resetDate": -3600000,
+      "uid": 24
+    }
+  ]
+}

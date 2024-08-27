@@ -1,0 +1,63 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.seasons",
+      "packageClass": "ArenaLeagueSeason",
+      "fields": [
+        {
+          "name": "uid",
+          "type": "Integer"
+        },
+        {
+          "name": "nameId",
+          "type": "I18n"
+        },
+        {
+          "name": "beginning",
+          "type": "Number"
+        },
+        {
+          "name": "closure",
+          "type": "Number"
+        },
+        {
+          "name": "resetDate",
+          "type": "Number"
+        },
+        {
+          "name": "flagObjectId",
+          "type": "Integer"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "ArenaLeagueSeason",
+      "beginning": 1701765000000,
+      "closure": 1711441800000,
+      "flagObjectId": 29425,
+      "nameId": 1057974,
+      "resetDate": 0,
+      "uid": 28
+    },
+    {
+      "ClassType_": "ArenaLeagueSeason",
+      "beginning": 1711441860000,
+      "closure": 1718695860000,
+      "flagObjectId": 29753,
+      "nameId": 1068065,
+      "resetDate": 0,
+      "uid": 60
+    },
+    {
+      "ClassType_": "ArenaLeagueSeason",
+      "beginning": 1718695860000,
+      "closure": 1726558200000,
+      "flagObjectId": 30148,
+      "nameId": 1082436,
+      "resetDate": 0,
+      "uid": 61
+    }
+  ]
+}

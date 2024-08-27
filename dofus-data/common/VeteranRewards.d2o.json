@@ -1,0 +1,560 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.items",
+      "packageClass": "VeteranReward",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "requiredSubDays",
+          "type": "UnsignedInteger"
+        },
+        {
+          "name": "itemGID",
+          "type": "UnsignedInteger"
+        },
+        {
+          "name": "itemQuantity",
+          "type": "UnsignedInteger"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "VeteranReward",
+      "id": 1,
+      "itemGID": 15884,
+      "itemQuantity": 5,
+      "requiredSubDays": 7
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 2,
+      "itemGID": 15752,
+      "itemQuantity": 1,
+      "requiredSubDays": 30
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 3,
+      "itemGID": 15753,
+      "itemQuantity": 1,
+      "requiredSubDays": 90
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 4,
+      "itemGID": 15754,
+      "itemQuantity": 1,
+      "requiredSubDays": 180
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 5,
+      "itemGID": 15755,
+      "itemQuantity": 1,
+      "requiredSubDays": 270
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 6,
+      "itemGID": 15756,
+      "itemQuantity": 1,
+      "requiredSubDays": 360
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 7,
+      "itemGID": 15757,
+      "itemQuantity": 1,
+      "requiredSubDays": 390
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 8,
+      "itemGID": 15758,
+      "itemQuantity": 1,
+      "requiredSubDays": 450
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 9,
+      "itemGID": 15759,
+      "itemQuantity": 1,
+      "requiredSubDays": 540
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 10,
+      "itemGID": 15761,
+      "itemQuantity": 1,
+      "requiredSubDays": 630
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 11,
+      "itemGID": 15763,
+      "itemQuantity": 1,
+      "requiredSubDays": 720
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 12,
+      "itemGID": 15765,
+      "itemQuantity": 1,
+      "requiredSubDays": 750
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 13,
+      "itemGID": 15766,
+      "itemQuantity": 1,
+      "requiredSubDays": 810
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 14,
+      "itemGID": 15767,
+      "itemQuantity": 1,
+      "requiredSubDays": 900
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 15,
+      "itemGID": 15769,
+      "itemQuantity": 1,
+      "requiredSubDays": 990
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 16,
+      "itemGID": 15770,
+      "itemQuantity": 1,
+      "requiredSubDays": 1080
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 19,
+      "itemGID": 15772,
+      "itemQuantity": 1,
+      "requiredSubDays": 1110
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 20,
+      "itemGID": 15774,
+      "itemQuantity": 1,
+      "requiredSubDays": 1170
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 21,
+      "itemGID": 15775,
+      "itemQuantity": 1,
+      "requiredSubDays": 1260
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 22,
+      "itemGID": 15777,
+      "itemQuantity": 1,
+      "requiredSubDays": 1350
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 23,
+      "itemGID": 15885,
+      "itemQuantity": 5,
+      "requiredSubDays": 1440
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 26,
+      "itemGID": 15785,
+      "itemQuantity": 1,
+      "requiredSubDays": 1470
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 27,
+      "itemGID": 15786,
+      "itemQuantity": 1,
+      "requiredSubDays": 1530
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 28,
+      "itemGID": 15787,
+      "itemQuantity": 1,
+      "requiredSubDays": 1620
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 29,
+      "itemGID": 15788,
+      "itemQuantity": 1,
+      "requiredSubDays": 1710
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 30,
+      "itemGID": 15790,
+      "itemQuantity": 1,
+      "requiredSubDays": 1800
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 33,
+      "itemGID": 15792,
+      "itemQuantity": 1,
+      "requiredSubDays": 1830
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 34,
+      "itemGID": 15797,
+      "itemQuantity": 1,
+      "requiredSubDays": 1890
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 35,
+      "itemGID": 15812,
+      "itemQuantity": 1,
+      "requiredSubDays": 1980
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 36,
+      "itemGID": 15813,
+      "itemQuantity": 1,
+      "requiredSubDays": 2070
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 37,
+      "itemGID": 15814,
+      "itemQuantity": 1,
+      "requiredSubDays": 2160
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 40,
+      "itemGID": 15815,
+      "itemQuantity": 1,
+      "requiredSubDays": 2190
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 41,
+      "itemGID": 15816,
+      "itemQuantity": 1,
+      "requiredSubDays": 2250
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 42,
+      "itemGID": 15817,
+      "itemQuantity": 1,
+      "requiredSubDays": 2340
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 43,
+      "itemGID": 15818,
+      "itemQuantity": 1,
+      "requiredSubDays": 2430
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 44,
+      "itemGID": 15819,
+      "itemQuantity": 1,
+      "requiredSubDays": 2520
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 47,
+      "itemGID": 15820,
+      "itemQuantity": 1,
+      "requiredSubDays": 2550
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 48,
+      "itemGID": 15821,
+      "itemQuantity": 1,
+      "requiredSubDays": 2610
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 49,
+      "itemGID": 15822,
+      "itemQuantity": 1,
+      "requiredSubDays": 2700
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 50,
+      "itemGID": 15825,
+      "itemQuantity": 1,
+      "requiredSubDays": 2790
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 51,
+      "itemGID": 12322,
+      "itemQuantity": 5,
+      "requiredSubDays": 2880
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 54,
+      "itemGID": 15829,
+      "itemQuantity": 1,
+      "requiredSubDays": 2910
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 55,
+      "itemGID": 15830,
+      "itemQuantity": 1,
+      "requiredSubDays": 2970
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 56,
+      "itemGID": 15846,
+      "itemQuantity": 1,
+      "requiredSubDays": 3060
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 57,
+      "itemGID": 15847,
+      "itemQuantity": 1,
+      "requiredSubDays": 3150
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 58,
+      "itemGID": 15849,
+      "itemQuantity": 1,
+      "requiredSubDays": 3240
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 61,
+      "itemGID": 15856,
+      "itemQuantity": 1,
+      "requiredSubDays": 3270
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 62,
+      "itemGID": 15857,
+      "itemQuantity": 1,
+      "requiredSubDays": 3330
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 63,
+      "itemGID": 15858,
+      "itemQuantity": 1,
+      "requiredSubDays": 3420
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 64,
+      "itemGID": 15859,
+      "itemQuantity": 1,
+      "requiredSubDays": 3510
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 65,
+      "itemGID": 15861,
+      "itemQuantity": 1,
+      "requiredSubDays": 3600
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 68,
+      "itemGID": 15862,
+      "itemQuantity": 1,
+      "requiredSubDays": 3630
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 69,
+      "itemGID": 15863,
+      "itemQuantity": 1,
+      "requiredSubDays": 3690
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 70,
+      "itemGID": 15864,
+      "itemQuantity": 1,
+      "requiredSubDays": 3780
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 71,
+      "itemGID": 15865,
+      "itemQuantity": 1,
+      "requiredSubDays": 3870
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 72,
+      "itemGID": 15826,
+      "itemQuantity": 1,
+      "requiredSubDays": 3960
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 75,
+      "itemGID": 15867,
+      "itemQuantity": 1,
+      "requiredSubDays": 3990
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 76,
+      "itemGID": 15869,
+      "itemQuantity": 1,
+      "requiredSubDays": 4050
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 77,
+      "itemGID": 15881,
+      "itemQuantity": 1,
+      "requiredSubDays": 4140
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 78,
+      "itemGID": 15883,
+      "itemQuantity": 1,
+      "requiredSubDays": 4230
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 79,
+      "itemGID": 15888,
+      "itemQuantity": 5,
+      "requiredSubDays": 4320
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 82,
+      "itemGID": 19196,
+      "itemQuantity": 1,
+      "requiredSubDays": 4350
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 83,
+      "itemGID": 19197,
+      "itemQuantity": 1,
+      "requiredSubDays": 4410
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 84,
+      "itemGID": 19198,
+      "itemQuantity": 1,
+      "requiredSubDays": 4500
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 85,
+      "itemGID": 19199,
+      "itemQuantity": 1,
+      "requiredSubDays": 4590
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 86,
+      "itemGID": 19200,
+      "itemQuantity": 1,
+      "requiredSubDays": 4680
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 87,
+      "itemGID": 19202,
+      "itemQuantity": 1,
+      "requiredSubDays": 4710
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 88,
+      "itemGID": 19203,
+      "itemQuantity": 1,
+      "requiredSubDays": 4770
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 89,
+      "itemGID": 19204,
+      "itemQuantity": 1,
+      "requiredSubDays": 4860
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 90,
+      "itemGID": 19205,
+      "itemQuantity": 1,
+      "requiredSubDays": 4950
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 91,
+      "itemGID": 19201,
+      "itemQuantity": 1,
+      "requiredSubDays": 5040
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 92,
+      "itemGID": 20304,
+      "itemQuantity": 1,
+      "requiredSubDays": 5070
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 93,
+      "itemGID": 20302,
+      "itemQuantity": 1,
+      "requiredSubDays": 5130
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 94,
+      "itemGID": 20300,
+      "itemQuantity": 1,
+      "requiredSubDays": 5220
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 95,
+      "itemGID": 20303,
+      "itemQuantity": 1,
+      "requiredSubDays": 5310
+    },
+    {
+      "ClassType_": "VeteranReward",
+      "id": 96,
+      "itemGID": 20301,
+      "itemQuantity": 1,
+      "requiredSubDays": 5400
+    }
+  ]
+}

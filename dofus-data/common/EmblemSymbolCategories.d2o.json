@@ -1,0 +1,90 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.social",
+      "packageClass": "EmblemSymbolCategory",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "nameId",
+          "type": "I18n"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "EmblemSymbolCategory",
+      "id": 1,
+      "nameId": 323117
+    },
+    {
+      "ClassType_": "EmblemSymbolCategory",
+      "id": 2,
+      "nameId": 323113
+    },
+    {
+      "ClassType_": "EmblemSymbolCategory",
+      "id": 3,
+      "nameId": 323115
+    },
+    {
+      "ClassType_": "EmblemSymbolCategory",
+      "id": 4,
+      "nameId": 323110
+    },
+    {
+      "ClassType_": "EmblemSymbolCategory",
+      "id": 5,
+      "nameId": 323112
+    },
+    {
+      "ClassType_": "EmblemSymbolCategory",
+      "id": 6,
+      "nameId": 323108
+    },
+    {
+      "ClassType_": "EmblemSymbolCategory",
+      "id": 7,
+      "nameId": 323109
+    },
+    {
+      "ClassType_": "EmblemSymbolCategory",
+      "id": 8,
+      "nameId": 323105
+    },
+    {
+      "ClassType_": "EmblemSymbolCategory",
+      "id": 9,
+      "nameId": 323106
+    },
+    {
+      "ClassType_": "EmblemSymbolCategory",
+      "id": 10,
+      "nameId": 323111
+    },
+    {
+      "ClassType_": "EmblemSymbolCategory",
+      "id": 11,
+      "nameId": 323116
+    },
+    {
+      "ClassType_": "EmblemSymbolCategory",
+      "id": 12,
+      "nameId": 323114
+    },
+    {
+      "ClassType_": "EmblemSymbolCategory",
+      "id": 13,
+      "nameId": 323107
+    },
+    {
+      "ClassType_": "EmblemSymbolCategory",
+      "id": 14,
+      "nameId": 936049
+    }
+  ]
+}

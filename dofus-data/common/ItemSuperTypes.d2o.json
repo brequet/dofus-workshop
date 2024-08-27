@@ -1,0 +1,224 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.items",
+      "packageClass": "ItemSuperType",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "possiblePositions",
+          "type": "Vector",
+          "subtype": {
+            "name": "Vector.\u003cint\u003e",
+            "type": "Integer"
+          }
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "ItemSuperType",
+      "id": 1,
+      "possiblePositions": [
+        0
+      ]
+    },
+    {
+      "ClassType_": "ItemSuperType",
+      "id": 2,
+      "possiblePositions": [
+        1
+      ]
+    },
+    {
+      "ClassType_": "ItemSuperType",
+      "id": 3,
+      "possiblePositions": [
+        2,
+        4
+      ]
+    },
+    {
+      "ClassType_": "ItemSuperType",
+      "id": 4,
+      "possiblePositions": [
+        3
+      ]
+    },
+    {
+      "ClassType_": "ItemSuperType",
+      "id": 5,
+      "possiblePositions": [
+        5
+      ]
+    },
+    {
+      "ClassType_": "ItemSuperType",
+      "id": 6,
+      "possiblePositions": []
+    },
+    {
+      "ClassType_": "ItemSuperType",
+      "id": 7,
+      "possiblePositions": [
+        15
+      ]
+    },
+    {
+      "ClassType_": "ItemSuperType",
+      "id": 9,
+      "possiblePositions": []
+    },
+    {
+      "ClassType_": "ItemSuperType",
+      "id": 10,
+      "possiblePositions": [
+        6
+      ]
+    },
+    {
+      "ClassType_": "ItemSuperType",
+      "id": 11,
+      "possiblePositions": [
+        7
+      ]
+    },
+    {
+      "ClassType_": "ItemSuperType",
+      "id": 12,
+      "possiblePositions": [
+        8
+      ]
+    },
+    {
+      "ClassType_": "ItemSuperType",
+      "id": 13,
+      "possiblePositions": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "ClassType_": "ItemSuperType",
+      "id": 14,
+      "possiblePositions": []
+    },
+    {
+      "ClassType_": "ItemSuperType",
+      "id": 15,
+      "possiblePositions": [
+        20
+      ]
+    },
+    {
+      "ClassType_": "ItemSuperType",
+      "id": 16,
+      "possiblePositions": [
+        21
+      ]
+    },
+    {
+      "ClassType_": "ItemSuperType",
+      "id": 17,
+      "possiblePositions": [
+        22,
+        23
+      ]
+    },
+    {
+      "ClassType_": "ItemSuperType",
+      "id": 18,
+      "possiblePositions": [
+        24,
+        25
+      ]
+    },
+    {
+      "ClassType_": "ItemSuperType",
+      "id": 19,
+      "possiblePositions": [
+        26
+      ]
+    },
+    {
+      "ClassType_": "ItemSuperType",
+      "id": 20,
+      "possiblePositions": [
+        27
+      ]
+    },
+    {
+      "ClassType_": "ItemSuperType",
+      "id": 22,
+      "possiblePositions": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "ClassType_": "ItemSuperType",
+      "id": 23,
+      "possiblePositions": [
+        28
+      ]
+    },
+    {
+      "ClassType_": "ItemSuperType",
+      "id": 24,
+      "possiblePositions": [
+        29
+      ]
+    },
+    {
+      "ClassType_": "ItemSuperType",
+      "id": 25,
+      "possiblePositions": [
+        30
+      ]
+    },
+    {
+      "ClassType_": "ItemSuperType",
+      "id": 26,
+      "possiblePositions": []
+    },
+    {
+      "ClassType_": "ItemSuperType",
+      "id": 27,
+      "possiblePositions": []
+    },
+    {
+      "ClassType_": "ItemSuperType",
+      "id": 69,
+      "possiblePositions": [
+        0,
+        3,
+        5,
+        7,
+        6,
+        2,
+        4
+      ]
+    },
+    {
+      "ClassType_": "ItemSuperType",
+      "id": 70,
+      "possiblePositions": [
+        31
+      ]
+    }
+  ]
+}

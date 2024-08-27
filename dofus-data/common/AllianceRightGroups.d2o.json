@@ -1,0 +1,212 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.social",
+      "packageClass": "SocialRight",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "nameId",
+          "type": "I18n"
+        },
+        {
+          "name": "order",
+          "type": "Integer"
+        },
+        {
+          "name": "groupId",
+          "type": "Integer"
+        }
+      ]
+    },
+    "2": {
+      "packageName": "com.ankamagames.dofus.datacenter.alliance",
+      "packageClass": "AllianceRightGroup",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "nameId",
+          "type": "I18n"
+        },
+        {
+          "name": "order",
+          "type": "Integer"
+        },
+        {
+          "name": "rights",
+          "type": "Vector",
+          "subtype": {
+            "name": "Vector.\u003ccom.ankamagames.dofus.datacenter.social::SocialRight\u003e",
+            "type": "1"
+          }
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "AllianceRightGroup",
+      "id": 1,
+      "nameId": 966494,
+      "order": 0,
+      "rights": [
+        {
+          "ClassType_": "SocialRight",
+          "groupId": 1,
+          "id": 1,
+          "nameId": 966590,
+          "order": 0
+        },
+        {
+          "ClassType_": "SocialRight",
+          "groupId": 1,
+          "id": 2,
+          "nameId": 966591,
+          "order": 1
+        },
+        {
+          "ClassType_": "SocialRight",
+          "groupId": 1,
+          "id": 15,
+          "nameId": 998007,
+          "order": 2
+        },
+        {
+          "ClassType_": "SocialRight",
+          "groupId": 1,
+          "id": 21,
+          "nameId": 998013,
+          "order": 3
+        },
+        {
+          "ClassType_": "SocialRight",
+          "groupId": 1,
+          "id": 16,
+          "nameId": 966609,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "ClassType_": "AllianceRightGroup",
+      "id": 2,
+      "nameId": 966495,
+      "order": 1,
+      "rights": [
+        {
+          "ClassType_": "SocialRight",
+          "groupId": 2,
+          "id": 3,
+          "nameId": 966583,
+          "order": 0
+        },
+        {
+          "ClassType_": "SocialRight",
+          "groupId": 2,
+          "id": 13,
+          "nameId": 966589,
+          "order": 1
+        }
+      ]
+    },
+    {
+      "ClassType_": "AllianceRightGroup",
+      "id": 3,
+      "nameId": 966501,
+      "order": 2,
+      "rights": [
+        {
+          "ClassType_": "SocialRight",
+          "groupId": 3,
+          "id": 10,
+          "nameId": 966570,
+          "order": 0
+        },
+        {
+          "ClassType_": "SocialRight",
+          "groupId": 3,
+          "id": 8,
+          "nameId": 977174,
+          "order": 1
+        },
+        {
+          "ClassType_": "SocialRight",
+          "groupId": 3,
+          "id": 12,
+          "nameId": 977178,
+          "order": 2
+        },
+        {
+          "ClassType_": "SocialRight",
+          "groupId": 3,
+          "id": 18,
+          "nameId": 977185,
+          "order": 4
+        },
+        {
+          "ClassType_": "SocialRight",
+          "groupId": 3,
+          "id": 9,
+          "nameId": 966564,
+          "order": 6
+        },
+        {
+          "ClassType_": "SocialRight",
+          "groupId": 3,
+          "id": 17,
+          "nameId": 969615,
+          "order": 7
+        },
+        {
+          "ClassType_": "SocialRight",
+          "groupId": 3,
+          "id": 19,
+          "nameId": 977199,
+          "order": 5
+        },
+        {
+          "ClassType_": "SocialRight",
+          "groupId": 3,
+          "id": 11,
+          "nameId": 977179,
+          "order": 3
+        }
+      ]
+    },
+    {
+      "ClassType_": "AllianceRightGroup",
+      "id": 4,
+      "nameId": 966507,
+      "order": 3,
+      "rights": [
+        {
+          "ClassType_": "SocialRight",
+          "groupId": 4,
+          "id": 4,
+          "nameId": 966513,
+          "order": 0
+        },
+        {
+          "ClassType_": "SocialRight",
+          "groupId": 4,
+          "id": 6,
+          "nameId": 966545,
+          "order": 2
+        },
+        {
+          "ClassType_": "SocialRight",
+          "groupId": 4,
+          "id": 7,
+          "nameId": 966552,
+          "order": 3
+        }
+      ]
+    }
+  ]
+}

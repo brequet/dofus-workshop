@@ -1,0 +1,250 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.quest.treasureHunt",
+      "packageClass": "LegendaryTreasureHunt",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "nameId",
+          "type": "I18n"
+        },
+        {
+          "name": "level",
+          "type": "Integer"
+        },
+        {
+          "name": "chestId",
+          "type": "UnsignedInteger"
+        },
+        {
+          "name": "monsterId",
+          "type": "UnsignedInteger"
+        },
+        {
+          "name": "mapItemId",
+          "type": "UnsignedInteger"
+        },
+        {
+          "name": "xpRatio",
+          "type": "Number"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "LegendaryTreasureHunt",
+      "chestId": 15905,
+      "id": 29,
+      "level": 10,
+      "mapItemId": 15904,
+      "monsterId": 463,
+      "nameId": 506619,
+      "xpRatio": 10
+    },
+    {
+      "ClassType_": "LegendaryTreasureHunt",
+      "chestId": 15402,
+      "id": 8,
+      "level": 30,
+      "mapItemId": 15378,
+      "monsterId": 460,
+      "nameId": 460795,
+      "xpRatio": 10
+    },
+    {
+      "ClassType_": "LegendaryTreasureHunt",
+      "chestId": 16047,
+      "id": 33,
+      "level": 60,
+      "mapItemId": 16040,
+      "monsterId": 464,
+      "nameId": 506618,
+      "xpRatio": 10
+    },
+    {
+      "ClassType_": "LegendaryTreasureHunt",
+      "chestId": 20196,
+      "id": 53,
+      "level": 80,
+      "mapItemId": 20192,
+      "monsterId": 3724,
+      "nameId": 768474,
+      "xpRatio": 1
+    },
+    {
+      "ClassType_": "LegendaryTreasureHunt",
+      "chestId": 23744,
+      "id": 57,
+      "level": 100,
+      "mapItemId": 23743,
+      "monsterId": 6542,
+      "nameId": 866733,
+      "xpRatio": 10
+    },
+    {
+      "ClassType_": "LegendaryTreasureHunt",
+      "chestId": 16046,
+      "id": 34,
+      "level": 130,
+      "mapItemId": 16041,
+      "monsterId": 3762,
+      "nameId": 506617,
+      "xpRatio": 10
+    },
+    {
+      "ClassType_": "LegendaryTreasureHunt",
+      "chestId": 15540,
+      "id": 20,
+      "level": 130,
+      "mapItemId": 15534,
+      "monsterId": 3524,
+      "nameId": 460797,
+      "xpRatio": 10
+    },
+    {
+      "ClassType_": "LegendaryTreasureHunt",
+      "chestId": 15399,
+      "id": 14,
+      "level": 130,
+      "mapItemId": 15391,
+      "monsterId": 404,
+      "nameId": 460793,
+      "xpRatio": 10
+    },
+    {
+      "ClassType_": "LegendaryTreasureHunt",
+      "chestId": 20197,
+      "id": 54,
+      "level": 140,
+      "mapItemId": 20193,
+      "monsterId": 3724,
+      "nameId": 768475,
+      "xpRatio": 1
+    },
+    {
+      "ClassType_": "LegendaryTreasureHunt",
+      "chestId": 17256,
+      "id": 48,
+      "level": 150,
+      "mapItemId": 17262,
+      "monsterId": 555,
+      "nameId": 583344,
+      "xpRatio": 10
+    },
+    {
+      "ClassType_": "LegendaryTreasureHunt",
+      "chestId": 17255,
+      "id": 47,
+      "level": 160,
+      "mapItemId": 17254,
+      "monsterId": 4017,
+      "nameId": 583345,
+      "xpRatio": 10
+    },
+    {
+      "ClassType_": "LegendaryTreasureHunt",
+      "chestId": 17248,
+      "id": 46,
+      "level": 180,
+      "mapItemId": 17247,
+      "monsterId": 4016,
+      "nameId": 583346,
+      "xpRatio": 10
+    },
+    {
+      "ClassType_": "LegendaryTreasureHunt",
+      "chestId": 20198,
+      "id": 55,
+      "level": 180,
+      "mapItemId": 20194,
+      "monsterId": 3724,
+      "nameId": 768476,
+      "xpRatio": 1
+    },
+    {
+      "ClassType_": "LegendaryTreasureHunt",
+      "chestId": 15486,
+      "id": 15,
+      "level": 180,
+      "mapItemId": 15479,
+      "monsterId": 2908,
+      "nameId": 460792,
+      "xpRatio": 10
+    },
+    {
+      "ClassType_": "LegendaryTreasureHunt",
+      "chestId": 17857,
+      "id": 51,
+      "level": 186,
+      "mapItemId": 17855,
+      "monsterId": 4402,
+      "nameId": 632764,
+      "xpRatio": 1
+    },
+    {
+      "ClassType_": "LegendaryTreasureHunt",
+      "chestId": 15401,
+      "id": 5,
+      "level": 200,
+      "mapItemId": 15382,
+      "monsterId": 3761,
+      "nameId": 460796,
+      "xpRatio": 10
+    },
+    {
+      "ClassType_": "LegendaryTreasureHunt",
+      "chestId": 16045,
+      "id": 35,
+      "level": 200,
+      "mapItemId": 16042,
+      "monsterId": 3244,
+      "nameId": 506616,
+      "xpRatio": 10
+    },
+    {
+      "ClassType_": "LegendaryTreasureHunt",
+      "chestId": 17653,
+      "id": 50,
+      "level": 200,
+      "mapItemId": 17643,
+      "monsterId": 4329,
+      "nameId": 616179,
+      "xpRatio": 10
+    },
+    {
+      "ClassType_": "LegendaryTreasureHunt",
+      "chestId": 17241,
+      "id": 45,
+      "level": 200,
+      "mapItemId": 17240,
+      "monsterId": 3668,
+      "nameId": 608211,
+      "xpRatio": 10
+    },
+    {
+      "ClassType_": "LegendaryTreasureHunt",
+      "chestId": 20199,
+      "id": 56,
+      "level": 200,
+      "mapItemId": 20195,
+      "monsterId": 3724,
+      "nameId": 768477,
+      "xpRatio": 1
+    },
+    {
+      "ClassType_": "LegendaryTreasureHunt",
+      "chestId": 17231,
+      "id": 39,
+      "level": 200,
+      "mapItemId": 17230,
+      "monsterId": 4028,
+      "nameId": 583343,
+      "xpRatio": 10
+    }
+  ]
+}

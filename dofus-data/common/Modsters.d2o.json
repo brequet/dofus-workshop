@@ -1,0 +1,4661 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.optionalFeatures",
+      "packageClass": "Modster",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "itemId",
+          "type": "Integer"
+        },
+        {
+          "name": "spellIdKroma",
+          "type": "Integer"
+        },
+        {
+          "name": "itemIdKroma",
+          "type": "Integer"
+        },
+        {
+          "name": "modsterId",
+          "type": "Integer"
+        },
+        {
+          "name": "parentsModsterId",
+          "type": "Vector",
+          "subtype": {
+            "name": "Vector.\u003cint\u003e",
+            "type": "Integer"
+          }
+        },
+        {
+          "name": "modsterActiveSpells",
+          "type": "Vector",
+          "subtype": {
+            "name": "Vector.\u003cint\u003e",
+            "type": "Integer"
+          }
+        },
+        {
+          "name": "modsterPassiveSpells",
+          "type": "Vector",
+          "subtype": {
+            "name": "Vector.\u003cint\u003e",
+            "type": "Integer"
+          }
+        },
+        {
+          "name": "modsterHiddenAchievements",
+          "type": "Vector",
+          "subtype": {
+            "name": "Vector.\u003cint\u003e",
+            "type": "Integer"
+          }
+        },
+        {
+          "name": "modsterAchievements",
+          "type": "Vector",
+          "subtype": {
+            "name": "Vector.\u003cint\u003e",
+            "type": "Integer"
+          }
+        },
+        {
+          "name": "kromaHiddenAchievements",
+          "type": "Vector",
+          "subtype": {
+            "name": "Vector.\u003cint\u003e",
+            "type": "Integer"
+          }
+        },
+        {
+          "name": "kromaAchievements",
+          "type": "Vector",
+          "subtype": {
+            "name": "Vector.\u003cint\u003e",
+            "type": "Integer"
+          }
+        },
+        {
+          "name": "order",
+          "type": "Integer"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "Modster",
+      "id": 26511,
+      "itemId": 28718,
+      "itemIdKroma": 28868,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7168
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26857,
+        26858,
+        26859
+      ],
+      "modsterHiddenAchievements": [
+        7018
+      ],
+      "modsterId": 7424,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7561,
+        7562,
+        7606,
+        7607,
+        7609,
+        7610,
+        7611,
+        7612,
+        7613
+      ],
+      "spellIdKroma": 27318
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26512,
+      "itemId": 28719,
+      "itemIdKroma": 28869,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7169
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26860,
+        26861,
+        26862
+      ],
+      "modsterHiddenAchievements": [
+        7019
+      ],
+      "modsterId": 7425,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [],
+      "spellIdKroma": 27319
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26513,
+      "itemId": 28720,
+      "itemIdKroma": 28870,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7170
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26863,
+        26864,
+        26865
+      ],
+      "modsterHiddenAchievements": [
+        7020
+      ],
+      "modsterId": 7426,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7563,
+        7614
+      ],
+      "spellIdKroma": 27320
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26514,
+      "itemId": 28721,
+      "itemIdKroma": 28871,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7171
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26866,
+        26867,
+        26868
+      ],
+      "modsterHiddenAchievements": [
+        7021
+      ],
+      "modsterId": 7427,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7562,
+        7563,
+        7610,
+        7611,
+        7612,
+        7613,
+        7614
+      ],
+      "spellIdKroma": 27321
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26515,
+      "itemId": 28722,
+      "itemIdKroma": 28872,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7172
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26869,
+        26870,
+        26871
+      ],
+      "modsterHiddenAchievements": [
+        7022
+      ],
+      "modsterId": 7428,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7561,
+        7563,
+        7562,
+        7606,
+        7607,
+        7609,
+        7610,
+        7611,
+        7612,
+        7613,
+        7614
+      ],
+      "spellIdKroma": 27322
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26516,
+      "itemId": 28723,
+      "itemIdKroma": 28873,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7173
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26872,
+        26873,
+        26874
+      ],
+      "modsterHiddenAchievements": [
+        7023
+      ],
+      "modsterId": 7429,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7563,
+        7561,
+        7606,
+        7607,
+        7609,
+        7614
+      ],
+      "spellIdKroma": 27323
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26517,
+      "itemId": 28724,
+      "itemIdKroma": 28874,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7174
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26875,
+        26876,
+        26877
+      ],
+      "modsterHiddenAchievements": [
+        7024
+      ],
+      "modsterId": 7430,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [],
+      "spellIdKroma": 27324
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26518,
+      "itemId": 28725,
+      "itemIdKroma": 28875,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7175
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26878,
+        26879,
+        26880
+      ],
+      "modsterHiddenAchievements": [
+        7025
+      ],
+      "modsterId": 7431,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7561,
+        7606,
+        7607,
+        7609
+      ],
+      "spellIdKroma": 27325
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26519,
+      "itemId": 28726,
+      "itemIdKroma": 28876,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7176
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26881,
+        26882,
+        26883
+      ],
+      "modsterHiddenAchievements": [
+        7026
+      ],
+      "modsterId": 7432,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7561,
+        7563,
+        7562,
+        7606,
+        7607,
+        7609,
+        7610,
+        7611,
+        7612,
+        7613,
+        7614
+      ],
+      "spellIdKroma": 27326
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26520,
+      "itemId": 28727,
+      "itemIdKroma": 28877,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7177
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26884,
+        26885,
+        26886
+      ],
+      "modsterHiddenAchievements": [
+        7027
+      ],
+      "modsterId": 7433,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [],
+      "spellIdKroma": 27327
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26521,
+      "itemId": 28728,
+      "itemIdKroma": 28878,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7178
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26887,
+        26888,
+        26889
+      ],
+      "modsterHiddenAchievements": [
+        7028
+      ],
+      "modsterId": 7434,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7558,
+        7559,
+        7601,
+        7602,
+        7603,
+        7604
+      ],
+      "spellIdKroma": 27328
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26522,
+      "itemId": 28729,
+      "itemIdKroma": 28879,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7179
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26890,
+        26891,
+        26892
+      ],
+      "modsterHiddenAchievements": [
+        7029
+      ],
+      "modsterId": 7435,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [],
+      "spellIdKroma": 27329
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26523,
+      "itemId": 28730,
+      "itemIdKroma": 28880,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7180
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26893,
+        26894,
+        26895
+      ],
+      "modsterHiddenAchievements": [
+        7030
+      ],
+      "modsterId": 7436,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7559,
+        7602,
+        7603,
+        7604
+      ],
+      "spellIdKroma": 27330
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26524,
+      "itemId": 28731,
+      "itemIdKroma": 28881,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7181
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26896,
+        26897,
+        26898
+      ],
+      "modsterHiddenAchievements": [
+        7031
+      ],
+      "modsterId": 7437,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7558,
+        7559,
+        7601,
+        7602,
+        7603,
+        7604
+      ],
+      "spellIdKroma": 27331
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26525,
+      "itemId": 28732,
+      "itemIdKroma": 28882,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7182
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26899,
+        26900,
+        26901
+      ],
+      "modsterHiddenAchievements": [
+        7032
+      ],
+      "modsterId": 7438,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7558,
+        7559,
+        7601,
+        7602,
+        7603,
+        7604
+      ],
+      "spellIdKroma": 27332
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26526,
+      "itemId": 28733,
+      "itemIdKroma": 28883,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7183
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26902,
+        26903,
+        26904
+      ],
+      "modsterHiddenAchievements": [
+        7033
+      ],
+      "modsterId": 7439,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7558,
+        7559,
+        7601,
+        7602,
+        7603,
+        7604
+      ],
+      "spellIdKroma": 27333
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26527,
+      "itemId": 28734,
+      "itemIdKroma": 28884,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7184
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26905,
+        26906,
+        26907
+      ],
+      "modsterHiddenAchievements": [
+        7034
+      ],
+      "modsterId": 7440,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [],
+      "spellIdKroma": 27334
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26528,
+      "itemId": 28735,
+      "itemIdKroma": 28885,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7185
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26908,
+        26909,
+        26910
+      ],
+      "modsterHiddenAchievements": [
+        7035
+      ],
+      "modsterId": 7441,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7558,
+        7601
+      ],
+      "spellIdKroma": 27335
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26529,
+      "itemId": 28736,
+      "itemIdKroma": 28886,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7186
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26911,
+        26912,
+        26913
+      ],
+      "modsterHiddenAchievements": [
+        7036
+      ],
+      "modsterId": 7442,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7560,
+        7559,
+        7602,
+        7603,
+        7604,
+        7605
+      ],
+      "spellIdKroma": 27336
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26530,
+      "itemId": 28737,
+      "itemIdKroma": 28887,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7187
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26914,
+        26915,
+        26916
+      ],
+      "modsterHiddenAchievements": [
+        7037
+      ],
+      "modsterId": 7443,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7558,
+        7560,
+        7601,
+        7605
+      ],
+      "spellIdKroma": 27337
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26531,
+      "itemId": 28738,
+      "itemIdKroma": 28888,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7188
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26917,
+        26918,
+        26919
+      ],
+      "modsterHiddenAchievements": [
+        7038
+      ],
+      "modsterId": 7444,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7560,
+        7559,
+        7602,
+        7603,
+        7604,
+        7605
+      ],
+      "spellIdKroma": 27338
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26532,
+      "itemId": 28739,
+      "itemIdKroma": 28889,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7189
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26920,
+        26921,
+        26922
+      ],
+      "modsterHiddenAchievements": [
+        7039
+      ],
+      "modsterId": 7445,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [],
+      "spellIdKroma": 27339
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26533,
+      "itemId": 28740,
+      "itemIdKroma": 28890,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7190
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26923,
+        26924,
+        26925
+      ],
+      "modsterHiddenAchievements": [
+        7040
+      ],
+      "modsterId": 7446,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7560,
+        7605
+      ],
+      "spellIdKroma": 27340
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26534,
+      "itemId": 28741,
+      "itemIdKroma": 28891,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7191
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26926,
+        26927,
+        26928
+      ],
+      "modsterHiddenAchievements": [
+        7041
+      ],
+      "modsterId": 7447,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7560,
+        7558,
+        7601,
+        7605
+      ],
+      "spellIdKroma": 27341
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26535,
+      "itemId": 28742,
+      "itemIdKroma": 28892,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7192
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26929,
+        26930,
+        26931
+      ],
+      "modsterHiddenAchievements": [
+        7042
+      ],
+      "modsterId": 7448,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7579,
+        7564,
+        7565,
+        7560,
+        7605,
+        7615,
+        7616,
+        7617,
+        7618,
+        7723
+      ],
+      "spellIdKroma": 27342
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26536,
+      "itemId": 28743,
+      "itemIdKroma": 28893,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7193
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26932,
+        26933,
+        26934
+      ],
+      "modsterHiddenAchievements": [
+        7043
+      ],
+      "modsterId": 7449,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7573,
+        7577,
+        7578,
+        7560,
+        7605,
+        7633,
+        7634,
+        7635,
+        7636,
+        7637,
+        7638,
+        7648,
+        7649,
+        7650,
+        7651,
+        7652,
+        7653
+      ],
+      "spellIdKroma": 27343
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26537,
+      "itemId": 28744,
+      "itemIdKroma": 28894,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7194
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26935,
+        26936,
+        26937
+      ],
+      "modsterHiddenAchievements": [
+        7044
+      ],
+      "modsterId": 7450,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [],
+      "spellIdKroma": 27344
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26538,
+      "itemId": 28745,
+      "itemIdKroma": 28895,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7195
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26938,
+        26939,
+        26940
+      ],
+      "modsterHiddenAchievements": [
+        7045
+      ],
+      "modsterId": 7451,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7592,
+        7670,
+        7671
+      ],
+      "spellIdKroma": 27345
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26539,
+      "itemId": 28746,
+      "itemIdKroma": 28896,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7196
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26941,
+        26942,
+        26943
+      ],
+      "modsterHiddenAchievements": [
+        7046
+      ],
+      "modsterId": 7452,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7569,
+        7627
+      ],
+      "spellIdKroma": 27346
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26540,
+      "itemId": 28747,
+      "itemIdKroma": 28897,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7197
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26944,
+        26945,
+        26946
+      ],
+      "modsterHiddenAchievements": [
+        7047
+      ],
+      "modsterId": 7453,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7566,
+        7569,
+        7592,
+        7560,
+        7605,
+        7619,
+        7620,
+        7621,
+        7622,
+        7627,
+        7670,
+        7671
+      ],
+      "spellIdKroma": 27347
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26541,
+      "itemId": 28748,
+      "itemIdKroma": 28898,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7198
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26947,
+        26948,
+        26949
+      ],
+      "modsterHiddenAchievements": [
+        7048
+      ],
+      "modsterId": 7454,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7564,
+        7579,
+        7569,
+        7615,
+        7616,
+        7627,
+        7723
+      ],
+      "spellIdKroma": 27348
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26542,
+      "itemId": 28749,
+      "itemIdKroma": 28899,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7199
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26950,
+        26951,
+        26952
+      ],
+      "modsterHiddenAchievements": [
+        7049
+      ],
+      "modsterId": 7455,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [],
+      "spellIdKroma": 27349
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26543,
+      "itemId": 28750,
+      "itemIdKroma": 28900,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7200
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26953,
+        26954,
+        26955
+      ],
+      "modsterHiddenAchievements": [
+        7050
+      ],
+      "modsterId": 7456,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7573,
+        7633,
+        7634,
+        7635,
+        7636,
+        7637,
+        7638
+      ],
+      "spellIdKroma": 27350
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26544,
+      "itemId": 28751,
+      "itemIdKroma": 28901,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7201
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26956,
+        26957,
+        26958
+      ],
+      "modsterHiddenAchievements": [
+        7051
+      ],
+      "modsterId": 7457,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7578,
+        7651,
+        7652,
+        7653
+      ],
+      "spellIdKroma": 27351
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26545,
+      "itemId": 28752,
+      "itemIdKroma": 28902,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7202
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26959,
+        26960,
+        26961
+      ],
+      "modsterHiddenAchievements": [
+        7052
+      ],
+      "modsterId": 7458,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7565,
+        7577,
+        7579,
+        7617,
+        7618,
+        7648,
+        7649,
+        7650,
+        7723
+      ],
+      "spellIdKroma": 27352
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26546,
+      "itemId": 28753,
+      "itemIdKroma": 28903,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7203
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26962,
+        26963,
+        26964
+      ],
+      "modsterHiddenAchievements": [
+        7053
+      ],
+      "modsterId": 7459,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7570,
+        7572,
+        7564,
+        7565,
+        7615,
+        7616,
+        7617,
+        7618,
+        7628,
+        7629,
+        7631,
+        7632
+      ],
+      "spellIdKroma": 27353
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26547,
+      "itemId": 28754,
+      "itemIdKroma": 28904,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7204
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26965,
+        26966,
+        26967
+      ],
+      "modsterHiddenAchievements": [
+        7054
+      ],
+      "modsterId": 7460,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [],
+      "spellIdKroma": 27354
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26548,
+      "itemId": 28755,
+      "itemIdKroma": 28905,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7205
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26968,
+        26969,
+        26970
+      ],
+      "modsterHiddenAchievements": [
+        7055
+      ],
+      "modsterId": 7461,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7579,
+        7723
+      ],
+      "spellIdKroma": 27355
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26549,
+      "itemId": 28756,
+      "itemIdKroma": 28906,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7206
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26971,
+        26972,
+        26973
+      ],
+      "modsterHiddenAchievements": [
+        7056
+      ],
+      "modsterId": 7462,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7579,
+        7566,
+        7578,
+        7619,
+        7620,
+        7621,
+        7622,
+        7651,
+        7652,
+        7653,
+        7723
+      ],
+      "spellIdKroma": 27356
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26550,
+      "itemId": 28757,
+      "itemIdKroma": 28907,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7207
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26974,
+        26975,
+        26976
+      ],
+      "modsterHiddenAchievements": [
+        7057
+      ],
+      "modsterId": 7463,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7572,
+        7631,
+        7632
+      ],
+      "spellIdKroma": 27357
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26551,
+      "itemId": 28758,
+      "itemIdKroma": 28908,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7208
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26977,
+        26978,
+        26979
+      ],
+      "modsterHiddenAchievements": [
+        7058
+      ],
+      "modsterId": 7464,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7580,
+        7592,
+        7565,
+        7570,
+        7617,
+        7618,
+        7628,
+        7629,
+        7654,
+        7655,
+        7656,
+        7670,
+        7671
+      ],
+      "spellIdKroma": 27358
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26552,
+      "itemId": 28759,
+      "itemIdKroma": 28909,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7209
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26980,
+        26981,
+        26982
+      ],
+      "modsterHiddenAchievements": [
+        7059
+      ],
+      "modsterId": 7465,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [],
+      "spellIdKroma": 27359
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26553,
+      "itemId": 28760,
+      "itemIdKroma": 28910,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7210
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26983,
+        26984,
+        26985
+      ],
+      "modsterHiddenAchievements": [
+        7060
+      ],
+      "modsterId": 7466,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7570,
+        7628,
+        7629
+      ],
+      "spellIdKroma": 27360
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26554,
+      "itemId": 28761,
+      "itemIdKroma": 28911,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7211
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26986,
+        26987,
+        26988
+      ],
+      "modsterHiddenAchievements": [
+        7061
+      ],
+      "modsterId": 7467,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [],
+      "spellIdKroma": 27361
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26555,
+      "itemId": 28762,
+      "itemIdKroma": 28912,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7212
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26989,
+        26990,
+        26991
+      ],
+      "modsterHiddenAchievements": [
+        7062
+      ],
+      "modsterId": 7468,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7570,
+        7572,
+        7564,
+        7566,
+        7615,
+        7616,
+        7619,
+        7620,
+        7621,
+        7622,
+        7628,
+        7629,
+        7631,
+        7632
+      ],
+      "spellIdKroma": 27362
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26556,
+      "itemId": 28763,
+      "itemIdKroma": 28913,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7213
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26992,
+        26993,
+        26994
+      ],
+      "modsterHiddenAchievements": [
+        7063
+      ],
+      "modsterId": 7469,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7574,
+        7573,
+        7572,
+        7578,
+        7631,
+        7632,
+        7633,
+        7634,
+        7635,
+        7636,
+        7637,
+        7638,
+        7639,
+        7640,
+        7641,
+        7651,
+        7652,
+        7653
+      ],
+      "spellIdKroma": 27363
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26557,
+      "itemId": 28764,
+      "itemIdKroma": 28914,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7214
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26995,
+        26996,
+        26997
+      ],
+      "modsterHiddenAchievements": [
+        7064
+      ],
+      "modsterId": 7470,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [],
+      "spellIdKroma": 27364
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26558,
+      "itemId": 28765,
+      "itemIdKroma": 28915,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7215
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26998,
+        26999,
+        27000
+      ],
+      "modsterHiddenAchievements": [
+        7065
+      ],
+      "modsterId": 7471,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7564,
+        7570,
+        7572,
+        7577,
+        7615,
+        7616,
+        7628,
+        7629,
+        7631,
+        7632,
+        7648,
+        7649,
+        7650
+      ],
+      "spellIdKroma": 27365
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26559,
+      "itemId": 28766,
+      "itemIdKroma": 28916,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7216
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27001,
+        27002,
+        27003
+      ],
+      "modsterHiddenAchievements": [
+        7066
+      ],
+      "modsterId": 7472,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7580,
+        7654,
+        7655,
+        7656
+      ],
+      "spellIdKroma": 27366
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26560,
+      "itemId": 28767,
+      "itemIdKroma": 28917,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7217
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27004,
+        27005,
+        27006
+      ],
+      "modsterHiddenAchievements": [
+        7067
+      ],
+      "modsterId": 7473,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7578,
+        7580,
+        7569,
+        7577,
+        7627,
+        7648,
+        7649,
+        7650,
+        7651,
+        7652,
+        7653,
+        7654,
+        7655,
+        7656
+      ],
+      "spellIdKroma": 27367
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26561,
+      "itemId": 28768,
+      "itemIdKroma": 28918,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7218
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27007,
+        27008,
+        27009
+      ],
+      "modsterHiddenAchievements": [
+        7068
+      ],
+      "modsterId": 7474,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7583,
+        7588,
+        7592,
+        7578,
+        7651,
+        7652,
+        7653,
+        7661,
+        7662,
+        7669,
+        7670,
+        7671
+      ],
+      "spellIdKroma": 27368
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26562,
+      "itemId": 28769,
+      "itemIdKroma": 28919,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7219
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27010,
+        27011,
+        27012
+      ],
+      "modsterHiddenAchievements": [
+        7069
+      ],
+      "modsterId": 7475,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [],
+      "spellIdKroma": 27369
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26563,
+      "itemId": 28770,
+      "itemIdKroma": 28920,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7220
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27013,
+        27014,
+        27015
+      ],
+      "modsterHiddenAchievements": [
+        7070
+      ],
+      "modsterId": 7476,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7566,
+        7569,
+        7573,
+        7580,
+        7619,
+        7620,
+        7621,
+        7622,
+        7627,
+        7633,
+        7634,
+        7635,
+        7636,
+        7637,
+        7638,
+        7654,
+        7655,
+        7656
+      ],
+      "spellIdKroma": 27370
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26564,
+      "itemId": 28771,
+      "itemIdKroma": 28921,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7221
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27016,
+        27017,
+        27018
+      ],
+      "modsterHiddenAchievements": [
+        7071
+      ],
+      "modsterId": 7477,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7574,
+        7639,
+        7640,
+        7641
+      ],
+      "spellIdKroma": 27371
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26565,
+      "itemId": 28772,
+      "itemIdKroma": 28922,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7222
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27019,
+        27020,
+        27021
+      ],
+      "modsterHiddenAchievements": [
+        7072
+      ],
+      "modsterId": 7478,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7574,
+        7580,
+        7570,
+        7577,
+        7628,
+        7629,
+        7639,
+        7640,
+        7641,
+        7648,
+        7649,
+        7650,
+        7654,
+        7655,
+        7656
+      ],
+      "spellIdKroma": 27372
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26566,
+      "itemId": 28773,
+      "itemIdKroma": 28923,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7223
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27022,
+        27023,
+        27024
+      ],
+      "modsterHiddenAchievements": [
+        7073
+      ],
+      "modsterId": 7479,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7567,
+        7568,
+        7582,
+        7584,
+        7588,
+        7623,
+        7624,
+        7625,
+        7626,
+        7657,
+        7658,
+        7659,
+        7660,
+        7663,
+        7664,
+        7669
+      ],
+      "spellIdKroma": 27373
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26567,
+      "itemId": 28774,
+      "itemIdKroma": 28924,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7224
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27025,
+        27026,
+        27027
+      ],
+      "modsterHiddenAchievements": [
+        7074
+      ],
+      "modsterId": 7480,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [],
+      "spellIdKroma": 27374
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26568,
+      "itemId": 28775,
+      "itemIdKroma": 28925,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7225
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27028,
+        27029,
+        27030
+      ],
+      "modsterHiddenAchievements": [
+        7075
+      ],
+      "modsterId": 7481,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7565,
+        7569,
+        7574,
+        7592,
+        7617,
+        7618,
+        7627,
+        7639,
+        7640,
+        7641,
+        7670,
+        7671
+      ],
+      "spellIdKroma": 27375
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26569,
+      "itemId": 28776,
+      "itemIdKroma": 28926,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7226
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27031,
+        27032,
+        27033
+      ],
+      "modsterHiddenAchievements": [
+        7076
+      ],
+      "modsterId": 7482,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7583,
+        7661,
+        7662
+      ],
+      "spellIdKroma": 27376
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26570,
+      "itemId": 28777,
+      "itemIdKroma": 28927,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7227
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27034,
+        27035,
+        27036
+      ],
+      "modsterHiddenAchievements": [
+        7077
+      ],
+      "modsterId": 7483,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7566,
+        7583,
+        7588,
+        7572,
+        7619,
+        7620,
+        7621,
+        7622,
+        7631,
+        7632,
+        7661,
+        7662,
+        7669
+      ],
+      "spellIdKroma": 27377
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26571,
+      "itemId": 28778,
+      "itemIdKroma": 28928,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7228
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27037,
+        27038,
+        27039
+      ],
+      "modsterHiddenAchievements": [
+        7078
+      ],
+      "modsterId": 7484,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7585,
+        7567,
+        7573,
+        7588,
+        7633,
+        7634,
+        7635,
+        7636,
+        7637,
+        7638,
+        7665,
+        7666,
+        7669
+      ],
+      "spellIdKroma": 27378
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26572,
+      "itemId": 28779,
+      "itemIdKroma": 28929,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7229
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27040,
+        27041,
+        27042
+      ],
+      "modsterHiddenAchievements": [
+        7079
+      ],
+      "modsterId": 7485,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [],
+      "spellIdKroma": 27379
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26573,
+      "itemId": 28780,
+      "itemIdKroma": 28930,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7230
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27043,
+        27044,
+        27045
+      ],
+      "modsterHiddenAchievements": [
+        7080
+      ],
+      "modsterId": 7486,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7570,
+        7577,
+        7583,
+        7588,
+        7628,
+        7629,
+        7648,
+        7649,
+        7650,
+        7661,
+        7662,
+        7669
+      ],
+      "spellIdKroma": 27380
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26574,
+      "itemId": 28781,
+      "itemIdKroma": 28931,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7231
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27046,
+        27047,
+        27048
+      ],
+      "modsterHiddenAchievements": [
+        7081
+      ],
+      "modsterId": 7487,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7582,
+        7657,
+        7658,
+        7659,
+        7660
+      ],
+      "spellIdKroma": 27381
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26575,
+      "itemId": 28782,
+      "itemIdKroma": 28932,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7232
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27049,
+        27050,
+        27051
+      ],
+      "modsterHiddenAchievements": [
+        7082
+      ],
+      "modsterId": 7488,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7584,
+        7663,
+        7664
+      ],
+      "spellIdKroma": 27382
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26576,
+      "itemId": 28783,
+      "itemIdKroma": 28933,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7233
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27052,
+        27053,
+        27054
+      ],
+      "modsterHiddenAchievements": [
+        7083
+      ],
+      "modsterId": 7489,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7586,
+        7592,
+        7574,
+        7639,
+        7640,
+        7641,
+        7667,
+        7668,
+        7670,
+        7671
+      ],
+      "spellIdKroma": 27383
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26577,
+      "itemId": 28784,
+      "itemIdKroma": 28934,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7234
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27055,
+        27056,
+        27057
+      ],
+      "modsterHiddenAchievements": [
+        7084
+      ],
+      "modsterId": 7490,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [],
+      "spellIdKroma": 27384
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26578,
+      "itemId": 28785,
+      "itemIdKroma": 28935,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7235
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27058,
+        27059,
+        27060
+      ],
+      "modsterHiddenAchievements": [
+        7085
+      ],
+      "modsterId": 7491,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7567,
+        7568,
+        7582,
+        7584,
+        7588,
+        7623,
+        7624,
+        7625,
+        7626,
+        7657,
+        7658,
+        7659,
+        7660,
+        7663,
+        7664,
+        7669
+      ],
+      "spellIdKroma": 27385
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26579,
+      "itemId": 28786,
+      "itemIdKroma": 28936,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7236
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27061,
+        27062,
+        27063
+      ],
+      "modsterHiddenAchievements": [
+        7086
+      ],
+      "modsterId": 7492,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7568,
+        7623,
+        7624,
+        7625,
+        7626
+      ],
+      "spellIdKroma": 27386
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26580,
+      "itemId": 28787,
+      "itemIdKroma": 28937,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7237
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27064,
+        27065,
+        27066
+      ],
+      "modsterHiddenAchievements": [
+        7087
+      ],
+      "modsterId": 7493,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [],
+      "spellIdKroma": 27387
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26581,
+      "itemId": 28788,
+      "itemIdKroma": 28938,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7238
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27067,
+        27068,
+        27069
+      ],
+      "modsterHiddenAchievements": [
+        7088
+      ],
+      "modsterId": 7494,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7586,
+        7582,
+        7580,
+        7654,
+        7655,
+        7656,
+        7657,
+        7658,
+        7659,
+        7660,
+        7667,
+        7668
+      ],
+      "spellIdKroma": 27388
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26582,
+      "itemId": 28789,
+      "itemIdKroma": 28939,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7239
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27070,
+        27071,
+        27072
+      ],
+      "modsterHiddenAchievements": [
+        7089
+      ],
+      "modsterId": 7495,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [],
+      "spellIdKroma": 27389
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26583,
+      "itemId": 28790,
+      "itemIdKroma": 28940,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7240
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27073,
+        27074,
+        27075
+      ],
+      "modsterHiddenAchievements": [
+        7090
+      ],
+      "modsterId": 7496,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7567,
+        7584,
+        7588,
+        7568,
+        7582,
+        7623,
+        7624,
+        7625,
+        7626,
+        7657,
+        7658,
+        7659,
+        7660,
+        7663,
+        7664,
+        7669
+      ],
+      "spellIdKroma": 27390
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26584,
+      "itemId": 28791,
+      "itemIdKroma": 28941,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7241
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27076,
+        27077,
+        27078
+      ],
+      "modsterHiddenAchievements": [
+        7091
+      ],
+      "modsterId": 7497,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7567
+      ],
+      "spellIdKroma": 27391
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26585,
+      "itemId": 28792,
+      "itemIdKroma": 28942,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7242
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27079,
+        27080,
+        27081
+      ],
+      "modsterHiddenAchievements": [
+        7092
+      ],
+      "modsterId": 7498,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7585,
+        7568,
+        7567,
+        7588,
+        7623,
+        7624,
+        7625,
+        7626,
+        7665,
+        7666,
+        7669
+      ],
+      "spellIdKroma": 27392
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26586,
+      "itemId": 28793,
+      "itemIdKroma": 28943,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7243
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27082,
+        27083,
+        27084
+      ],
+      "modsterHiddenAchievements": [
+        7093
+      ],
+      "modsterId": 7499,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7582,
+        7574,
+        7592,
+        7639,
+        7640,
+        7641,
+        7657,
+        7658,
+        7659,
+        7660,
+        7670,
+        7671
+      ],
+      "spellIdKroma": 27393
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26587,
+      "itemId": 28794,
+      "itemIdKroma": 28944,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7244
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27085,
+        27086,
+        27087
+      ],
+      "modsterHiddenAchievements": [
+        7094
+      ],
+      "modsterId": 7500,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [],
+      "spellIdKroma": 27394
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26588,
+      "itemId": 28795,
+      "itemIdKroma": 28945,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7245
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27088,
+        27089,
+        27090
+      ],
+      "modsterHiddenAchievements": [
+        7095
+      ],
+      "modsterId": 7501,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [],
+      "spellIdKroma": 27395
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26589,
+      "itemId": 28796,
+      "itemIdKroma": 28946,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7246
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27091,
+        27092,
+        27093
+      ],
+      "modsterHiddenAchievements": [
+        7096
+      ],
+      "modsterId": 7502,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [],
+      "spellIdKroma": 27396
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26590,
+      "itemId": 28797,
+      "itemIdKroma": 28947,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7247
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27094,
+        27095,
+        27096
+      ],
+      "modsterHiddenAchievements": [
+        7097
+      ],
+      "modsterId": 7503,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [],
+      "spellIdKroma": 27397
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26591,
+      "itemId": 28798,
+      "itemIdKroma": 28948,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7248
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27097,
+        27098,
+        27099
+      ],
+      "modsterHiddenAchievements": [
+        7098
+      ],
+      "modsterId": 7504,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7567,
+        7572,
+        7578,
+        7585,
+        7631,
+        7632,
+        7651,
+        7652,
+        7653,
+        7665,
+        7666
+      ],
+      "spellIdKroma": 27398
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26592,
+      "itemId": 28799,
+      "itemIdKroma": 28949,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7249
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27100,
+        27101,
+        27102
+      ],
+      "modsterHiddenAchievements": [
+        7099
+      ],
+      "modsterId": 7505,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7586,
+        7667,
+        7668
+      ],
+      "spellIdKroma": 27399
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26593,
+      "itemId": 28800,
+      "itemIdKroma": 28950,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7250
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27103,
+        27104,
+        27105
+      ],
+      "modsterHiddenAchievements": [
+        7100
+      ],
+      "modsterId": 7506,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7586,
+        7568,
+        7573,
+        7623,
+        7624,
+        7625,
+        7626,
+        7633,
+        7634,
+        7635,
+        7636,
+        7637,
+        7638,
+        7667,
+        7668
+      ],
+      "spellIdKroma": 27400
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26594,
+      "itemId": 28801,
+      "itemIdKroma": 28951,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7251
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27106,
+        27107,
+        27108
+      ],
+      "modsterHiddenAchievements": [
+        7101
+      ],
+      "modsterId": 7507,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7583,
+        7584,
+        7661,
+        7662,
+        7663,
+        7664
+      ],
+      "spellIdKroma": 27401
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26595,
+      "itemId": 28802,
+      "itemIdKroma": 28952,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7252
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27109,
+        27110,
+        27111
+      ],
+      "modsterHiddenAchievements": [
+        7102
+      ],
+      "modsterId": 7508,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [],
+      "spellIdKroma": 27402
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26596,
+      "itemId": 28803,
+      "itemIdKroma": 28953,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7253
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27112,
+        27113,
+        27114
+      ],
+      "modsterHiddenAchievements": [
+        7103
+      ],
+      "modsterId": 7509,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7568,
+        7573,
+        7580,
+        7623,
+        7624,
+        7625,
+        7626,
+        7633,
+        7634,
+        7635,
+        7636,
+        7637,
+        7638,
+        7654,
+        7655,
+        7656
+      ],
+      "spellIdKroma": 27403
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26597,
+      "itemId": 28804,
+      "itemIdKroma": 28954,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7254
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27115,
+        27116,
+        27117
+      ],
+      "modsterHiddenAchievements": [
+        7104
+      ],
+      "modsterId": 7510,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7575,
+        7585,
+        7586,
+        7643,
+        7644,
+        7645,
+        7646,
+        7647,
+        7665,
+        7666,
+        7667,
+        7668
+      ],
+      "spellIdKroma": 27404
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26598,
+      "itemId": 28805,
+      "itemIdKroma": 28955,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7255
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27118,
+        27119,
+        27120
+      ],
+      "modsterHiddenAchievements": [
+        7105
+      ],
+      "modsterId": 7511,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7575,
+        7568,
+        7592,
+        7623,
+        7624,
+        7625,
+        7626,
+        7643,
+        7644,
+        7645,
+        7646,
+        7647,
+        7670,
+        7671
+      ],
+      "spellIdKroma": 27405
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26599,
+      "itemId": 28806,
+      "itemIdKroma": 28956,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7256
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27121,
+        27122,
+        27123
+      ],
+      "modsterHiddenAchievements": [
+        7106
+      ],
+      "modsterId": 7512,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7575,
+        7583,
+        7573,
+        7633,
+        7634,
+        7635,
+        7636,
+        7637,
+        7638,
+        7643,
+        7644,
+        7645,
+        7646,
+        7647,
+        7661,
+        7662
+      ],
+      "spellIdKroma": 27406
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26600,
+      "itemId": 28807,
+      "itemIdKroma": 28957,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7257
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27124,
+        27125,
+        27126
+      ],
+      "modsterHiddenAchievements": [
+        7107
+      ],
+      "modsterId": 7513,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [],
+      "spellIdKroma": 27407
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26601,
+      "itemId": 28808,
+      "itemIdKroma": 28958,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7258
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27127,
+        27128,
+        27129
+      ],
+      "modsterHiddenAchievements": [
+        7108
+      ],
+      "modsterId": 7514,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7585,
+        7665,
+        7666
+      ],
+      "spellIdKroma": 27408
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26602,
+      "itemId": 28809,
+      "itemIdKroma": 28959,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7259
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27130,
+        27131,
+        27132
+      ],
+      "modsterHiddenAchievements": [
+        7109
+      ],
+      "modsterId": 7515,
+      "modsterPassiveSpells": [
+        26450
+      ],
+      "order": 0,
+      "parentsModsterId": [],
+      "spellIdKroma": 27409
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26603,
+      "itemId": 28810,
+      "itemIdKroma": 28960,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7260
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27133,
+        27134,
+        27135
+      ],
+      "modsterHiddenAchievements": [
+        7110
+      ],
+      "modsterId": 7516,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7575,
+        7582,
+        7573,
+        7633,
+        7634,
+        7635,
+        7636,
+        7637,
+        7638,
+        7643,
+        7644,
+        7645,
+        7646,
+        7647,
+        7657,
+        7658,
+        7659,
+        7660
+      ],
+      "spellIdKroma": 27410
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26604,
+      "itemId": 28811,
+      "itemIdKroma": 28961,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7261
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27136,
+        27137,
+        27138
+      ],
+      "modsterHiddenAchievements": [
+        7111
+      ],
+      "modsterId": 7517,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7568,
+        7584,
+        7592,
+        7623,
+        7624,
+        7625,
+        7626,
+        7663,
+        7664,
+        7670,
+        7671
+      ],
+      "spellIdKroma": 27411
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26605,
+      "itemId": 28812,
+      "itemIdKroma": 28962,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7262
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27139,
+        27140,
+        27141
+      ],
+      "modsterHiddenAchievements": [
+        7112
+      ],
+      "modsterId": 7518,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [],
+      "spellIdKroma": 27412
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26606,
+      "itemId": 28813,
+      "itemIdKroma": 28963,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7263
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27142,
+        27143,
+        27144
+      ],
+      "modsterHiddenAchievements": [
+        7113
+      ],
+      "modsterId": 7519,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7574,
+        7583,
+        7580,
+        7639,
+        7640,
+        7641,
+        7654,
+        7655,
+        7656,
+        7661,
+        7662
+      ],
+      "spellIdKroma": 27413
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26607,
+      "itemId": 28814,
+      "itemIdKroma": 28964,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7264
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27145,
+        27146,
+        27147
+      ],
+      "modsterHiddenAchievements": [
+        7114
+      ],
+      "modsterId": 7520,
+      "modsterPassiveSpells": [
+        26455
+      ],
+      "order": 0,
+      "parentsModsterId": [
+        7586,
+        7585,
+        7665,
+        7666,
+        7667,
+        7668
+      ],
+      "spellIdKroma": 27414
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26608,
+      "itemId": 28815,
+      "itemIdKroma": 28965,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7265
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27148,
+        27149,
+        27150
+      ],
+      "modsterHiddenAchievements": [
+        7115
+      ],
+      "modsterId": 7521,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7574,
+        7575,
+        7582,
+        7639,
+        7640,
+        7641,
+        7643,
+        7644,
+        7645,
+        7646,
+        7647,
+        7657,
+        7658,
+        7659,
+        7660
+      ],
+      "spellIdKroma": 27415
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26609,
+      "itemId": 28816,
+      "itemIdKroma": 28966,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7266
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27151,
+        27152,
+        27153
+      ],
+      "modsterHiddenAchievements": [
+        7116
+      ],
+      "modsterId": 7522,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7583,
+        7584,
+        7661,
+        7662,
+        7663,
+        7664
+      ],
+      "spellIdKroma": 27416
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26610,
+      "itemId": 28817,
+      "itemIdKroma": 28967,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7267
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27154,
+        27155,
+        27156
+      ],
+      "modsterHiddenAchievements": [
+        7117
+      ],
+      "modsterId": 7523,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [],
+      "spellIdKroma": 27417
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26611,
+      "itemId": 28818,
+      "itemIdKroma": 28968,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7268
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27157,
+        27158,
+        27159
+      ],
+      "modsterHiddenAchievements": [
+        7118
+      ],
+      "modsterId": 7524,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7586,
+        7592,
+        7580,
+        7654,
+        7655,
+        7656,
+        7667,
+        7668,
+        7670,
+        7671
+      ],
+      "spellIdKroma": 27418
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26612,
+      "itemId": 28819,
+      "itemIdKroma": 28969,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7269
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27160,
+        27161,
+        27162
+      ],
+      "modsterHiddenAchievements": [
+        7119
+      ],
+      "modsterId": 7525,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7571,
+        7630
+      ],
+      "spellIdKroma": 27419
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26613,
+      "itemId": 28820,
+      "itemIdKroma": 28970,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7270
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27163,
+        27164,
+        27165
+      ],
+      "modsterHiddenAchievements": [
+        7120
+      ],
+      "modsterId": 7526,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7571,
+        7589,
+        7585,
+        7584,
+        7630,
+        7663,
+        7664,
+        7665,
+        7666
+      ],
+      "spellIdKroma": 27420
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26614,
+      "itemId": 28821,
+      "itemIdKroma": 28971,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7271
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27166,
+        27167,
+        27168
+      ],
+      "modsterHiddenAchievements": [
+        7121
+      ],
+      "modsterId": 7527,
+      "modsterPassiveSpells": [
+        26462
+      ],
+      "order": 0,
+      "parentsModsterId": [
+        7571,
+        7575,
+        7630,
+        7643,
+        7644,
+        7645,
+        7646,
+        7647
+      ],
+      "spellIdKroma": 27421
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26615,
+      "itemId": 28822,
+      "itemIdKroma": 28972,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7272
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27169,
+        27170,
+        27171
+      ],
+      "modsterHiddenAchievements": [
+        7122
+      ],
+      "modsterId": 7528,
+      "modsterPassiveSpells": [
+        26463
+      ],
+      "order": 0,
+      "parentsModsterId": [],
+      "spellIdKroma": 27422
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26616,
+      "itemId": 28823,
+      "itemIdKroma": 28973,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7273
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27172,
+        27173,
+        27174
+      ],
+      "modsterHiddenAchievements": [
+        7123
+      ],
+      "modsterId": 7529,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7571,
+        7589,
+        7584,
+        7592,
+        7630,
+        7663,
+        7664,
+        7670,
+        7671
+      ],
+      "spellIdKroma": 27423
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26617,
+      "itemId": 28824,
+      "itemIdKroma": 28974,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7274
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27175,
+        27176,
+        27177
+      ],
+      "modsterHiddenAchievements": [
+        7124
+      ],
+      "modsterId": 7530,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7582,
+        7585,
+        7580,
+        7654,
+        7655,
+        7656,
+        7657,
+        7658,
+        7659,
+        7660,
+        7665,
+        7666
+      ],
+      "spellIdKroma": 27424
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26618,
+      "itemId": 28825,
+      "itemIdKroma": 28975,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7275
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27178,
+        27179,
+        27180
+      ],
+      "modsterHiddenAchievements": [
+        7125
+      ],
+      "modsterId": 7531,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7589,
+        7571,
+        7586,
+        7574,
+        7630,
+        7639,
+        7640,
+        7641,
+        7667,
+        7668
+      ],
+      "spellIdKroma": 27425
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26619,
+      "itemId": 28826,
+      "itemIdKroma": 28976,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7276
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27181,
+        27182,
+        27183
+      ],
+      "modsterHiddenAchievements": [
+        7126
+      ],
+      "modsterId": 7532,
+      "modsterPassiveSpells": [
+        26467
+      ],
+      "order": 0,
+      "parentsModsterId": [
+        7590,
+        7589
+      ],
+      "spellIdKroma": 27426
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26620,
+      "itemId": 28827,
+      "itemIdKroma": 28977,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7277
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27184,
+        27185,
+        27186
+      ],
+      "modsterHiddenAchievements": [
+        7127
+      ],
+      "modsterId": 7533,
+      "modsterPassiveSpells": [
+        26468
+      ],
+      "order": 0,
+      "parentsModsterId": [],
+      "spellIdKroma": 27427
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26621,
+      "itemId": 28828,
+      "itemIdKroma": 28978,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7278
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27187,
+        27188,
+        27189
+      ],
+      "modsterHiddenAchievements": [
+        7128
+      ],
+      "modsterId": 7534,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7589
+      ],
+      "spellIdKroma": 27428
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26622,
+      "itemId": 28829,
+      "itemIdKroma": 28979,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7279
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27190,
+        27191,
+        27192
+      ],
+      "modsterHiddenAchievements": [
+        7129
+      ],
+      "modsterId": 7535,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7587,
+        7591
+      ],
+      "spellIdKroma": 27429
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26623,
+      "itemId": 28830,
+      "itemIdKroma": 28980,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7280
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27193,
+        27194,
+        27195
+      ],
+      "modsterHiddenAchievements": [
+        7130
+      ],
+      "modsterId": 7536,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7576,
+        7581,
+        7589,
+        7590,
+        7585,
+        7574,
+        7639,
+        7640,
+        7641,
+        7665,
+        7666
+      ],
+      "spellIdKroma": 27430
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26624,
+      "itemId": 28831,
+      "itemIdKroma": 28981,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7281
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27196,
+        27197,
+        27198
+      ],
+      "modsterHiddenAchievements": [
+        7131
+      ],
+      "modsterId": 7537,
+      "modsterPassiveSpells": [
+        26472
+      ],
+      "order": 0,
+      "parentsModsterId": [
+        7576,
+        7581
+      ],
+      "spellIdKroma": 27431
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26625,
+      "itemId": 28832,
+      "itemIdKroma": 28982,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7282
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27199,
+        27200,
+        27201
+      ],
+      "modsterHiddenAchievements": [
+        7132
+      ],
+      "modsterId": 7538,
+      "modsterPassiveSpells": [
+        26473
+      ],
+      "order": 0,
+      "parentsModsterId": [],
+      "spellIdKroma": 27432
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26626,
+      "itemId": 28833,
+      "itemIdKroma": 28983,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7283
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27202,
+        27203,
+        27204
+      ],
+      "modsterHiddenAchievements": [
+        7133
+      ],
+      "modsterId": 7539,
+      "modsterPassiveSpells": [
+        26474
+      ],
+      "order": 0,
+      "parentsModsterId": [
+        7571,
+        7575,
+        7589,
+        7630,
+        7643,
+        7644,
+        7645,
+        7646,
+        7647
+      ],
+      "spellIdKroma": 27433
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26627,
+      "itemId": 28834,
+      "itemIdKroma": 28984,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7284
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27205,
+        27206,
+        27207
+      ],
+      "modsterHiddenAchievements": [
+        7134
+      ],
+      "modsterId": 7540,
+      "modsterPassiveSpells": [
+        26475
+      ],
+      "order": 0,
+      "parentsModsterId": [
+        7587,
+        7589
+      ],
+      "spellIdKroma": 27434
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26628,
+      "itemId": 28835,
+      "itemIdKroma": 28985,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7285
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27208,
+        27209,
+        27210
+      ],
+      "modsterHiddenAchievements": [
+        7135
+      ],
+      "modsterId": 7541,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7576,
+        7581,
+        7587,
+        7590,
+        7591
+      ],
+      "spellIdKroma": 27435
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26629,
+      "itemId": 28836,
+      "itemIdKroma": 28986,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7286
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27211,
+        27212,
+        27213
+      ],
+      "modsterHiddenAchievements": [
+        7136
+      ],
+      "modsterId": 7542,
+      "modsterPassiveSpells": [
+        26477
+      ],
+      "order": 0,
+      "parentsModsterId": [
+        7590,
+        7591
+      ],
+      "spellIdKroma": 27436
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26630,
+      "itemId": 28837,
+      "itemIdKroma": 28987,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7287
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27214,
+        27215,
+        27216
+      ],
+      "modsterHiddenAchievements": [
+        7137
+      ],
+      "modsterId": 7543,
+      "modsterPassiveSpells": [
+        26478
+      ],
+      "order": 0,
+      "parentsModsterId": [],
+      "spellIdKroma": 27437
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26631,
+      "itemId": 28838,
+      "itemIdKroma": 28988,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7288
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27217,
+        27218,
+        27219
+      ],
+      "modsterHiddenAchievements": [
+        7138
+      ],
+      "modsterId": 7544,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7581,
+        7587,
+        7590,
+        7591,
+        7576,
+        7571,
+        7630
+      ],
+      "spellIdKroma": 27438
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26632,
+      "itemId": 28839,
+      "itemIdKroma": 28989,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7289
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27220,
+        27221,
+        27222
+      ],
+      "modsterHiddenAchievements": [
+        7139
+      ],
+      "modsterId": 7545,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7576,
+        7587,
+        7591,
+        7581
+      ],
+      "spellIdKroma": 27439
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26633,
+      "itemId": 28840,
+      "itemIdKroma": 28990,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7290
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27223,
+        27224,
+        27225
+      ],
+      "modsterHiddenAchievements": [
+        7140
+      ],
+      "modsterId": 7546,
+      "modsterPassiveSpells": [
+        26481
+      ],
+      "order": 0,
+      "parentsModsterId": [
+        7576,
+        7591
+      ],
+      "spellIdKroma": 27440
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26634,
+      "itemId": 28841,
+      "itemIdKroma": 28991,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7291
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27226,
+        27227,
+        27228
+      ],
+      "modsterHiddenAchievements": [
+        7141
+      ],
+      "modsterId": 7547,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7581,
+        7590,
+        7587
+      ],
+      "spellIdKroma": 27441
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26635,
+      "itemId": 28842,
+      "itemIdKroma": 28992,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7292
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27229,
+        27230,
+        27231
+      ],
+      "modsterHiddenAchievements": [
+        7142
+      ],
+      "modsterId": 7548,
+      "modsterPassiveSpells": [
+        26483
+      ],
+      "order": 0,
+      "parentsModsterId": [],
+      "spellIdKroma": 27442
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26636,
+      "itemId": 28843,
+      "itemIdKroma": 28993,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7293
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27232,
+        27233,
+        27234
+      ],
+      "modsterHiddenAchievements": [
+        7143
+      ],
+      "modsterId": 7549,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7588,
+        7669
+      ],
+      "spellIdKroma": 27443
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26637,
+      "itemId": 28844,
+      "itemIdKroma": 28994,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7294
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27235,
+        27236,
+        27237
+      ],
+      "modsterHiddenAchievements": [
+        7144
+      ],
+      "modsterId": 7550,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7587
+      ],
+      "spellIdKroma": 27444
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26638,
+      "itemId": 28845,
+      "itemIdKroma": 28995,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7295
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27238,
+        27239,
+        27240
+      ],
+      "modsterHiddenAchievements": [
+        7145
+      ],
+      "modsterId": 7551,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7575,
+        7643,
+        7644,
+        7645,
+        7646,
+        7647
+      ],
+      "spellIdKroma": 27445
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26639,
+      "itemId": 28846,
+      "itemIdKroma": 28996,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7296
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27241,
+        27242,
+        27243
+      ],
+      "modsterHiddenAchievements": [
+        7146
+      ],
+      "modsterId": 7552,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7591
+      ],
+      "spellIdKroma": 27446
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26640,
+      "itemId": 28847,
+      "itemIdKroma": 28997,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7297
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27244,
+        27245,
+        27246
+      ],
+      "modsterHiddenAchievements": [
+        7147
+      ],
+      "modsterId": 7553,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7576
+      ],
+      "spellIdKroma": 27447
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26641,
+      "itemId": 28848,
+      "itemIdKroma": 28998,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7298
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27247,
+        27248,
+        27249
+      ],
+      "modsterHiddenAchievements": [
+        7148
+      ],
+      "modsterId": 7554,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7590
+      ],
+      "spellIdKroma": 27448
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26642,
+      "itemId": 28849,
+      "itemIdKroma": 28999,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7299
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        27250,
+        27251,
+        27252
+      ],
+      "modsterHiddenAchievements": [
+        7149
+      ],
+      "modsterId": 7555,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7581
+      ],
+      "spellIdKroma": 27449
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26493,
+      "itemId": 28700,
+      "itemIdKroma": 28850,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7150
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26803,
+        26804,
+        26805
+      ],
+      "modsterHiddenAchievements": [
+        7000
+      ],
+      "modsterId": 7406,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7577,
+        7648,
+        7649,
+        7650
+      ],
+      "spellIdKroma": 27300
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26494,
+      "itemId": 28701,
+      "itemIdKroma": 28851,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7151
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26806,
+        26807,
+        26808
+      ],
+      "modsterHiddenAchievements": [
+        7001
+      ],
+      "modsterId": 7407,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [],
+      "spellIdKroma": 27301
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26495,
+      "itemId": 28702,
+      "itemIdKroma": 28852,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7152
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26809,
+        26810,
+        26811
+      ],
+      "modsterHiddenAchievements": [
+        7002
+      ],
+      "modsterId": 7408,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7565,
+        7617,
+        7618
+      ],
+      "spellIdKroma": 27302
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26496,
+      "itemId": 28703,
+      "itemIdKroma": 28853,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7153
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26812,
+        26813,
+        26814
+      ],
+      "modsterHiddenAchievements": [
+        7003
+      ],
+      "modsterId": 7409,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [],
+      "spellIdKroma": 27303
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26497,
+      "itemId": 28704,
+      "itemIdKroma": 28854,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7154
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26815,
+        26816,
+        26817
+      ],
+      "modsterHiddenAchievements": [
+        7004
+      ],
+      "modsterId": 7410,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7566,
+        7619,
+        7620,
+        7621,
+        7622
+      ],
+      "spellIdKroma": 27304
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26498,
+      "itemId": 28705,
+      "itemIdKroma": 28855,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7155
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26818,
+        26819,
+        26820
+      ],
+      "modsterHiddenAchievements": [
+        7005
+      ],
+      "modsterId": 7411,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [],
+      "spellIdKroma": 27305
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26499,
+      "itemId": 28706,
+      "itemIdKroma": 28856,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7156
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26821,
+        26822,
+        26823
+      ],
+      "modsterHiddenAchievements": [
+        7006
+      ],
+      "modsterId": 7412,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7564,
+        7615,
+        7616
+      ],
+      "spellIdKroma": 27306
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26500,
+      "itemId": 28707,
+      "itemIdKroma": 28857,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7157
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26824,
+        26825,
+        26826
+      ],
+      "modsterHiddenAchievements": [
+        7007
+      ],
+      "modsterId": 7413,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [],
+      "spellIdKroma": 27307
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26501,
+      "itemId": 28708,
+      "itemIdKroma": 28858,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7158
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26827,
+        26828,
+        26829
+      ],
+      "modsterHiddenAchievements": [
+        7008
+      ],
+      "modsterId": 7414,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7557,
+        7562,
+        7610,
+        7611,
+        7612,
+        7613
+      ],
+      "spellIdKroma": 27308
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26502,
+      "itemId": 28709,
+      "itemIdKroma": 28859,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7159
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26830,
+        26831,
+        26832
+      ],
+      "modsterHiddenAchievements": [
+        7009
+      ],
+      "modsterId": 7415,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [],
+      "spellIdKroma": 27309
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26503,
+      "itemId": 28710,
+      "itemIdKroma": 28860,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7160
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26833,
+        26834,
+        26835
+      ],
+      "modsterHiddenAchievements": [
+        7010
+      ],
+      "modsterId": 7416,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7557
+      ],
+      "spellIdKroma": 27310
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26504,
+      "itemId": 28711,
+      "itemIdKroma": 28861,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7161
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26836,
+        26837,
+        26838
+      ],
+      "modsterHiddenAchievements": [
+        7011
+      ],
+      "modsterId": 7417,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7557,
+        7562,
+        7610,
+        7611,
+        7612,
+        7613
+      ],
+      "spellIdKroma": 27311
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26505,
+      "itemId": 28712,
+      "itemIdKroma": 28862,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7162
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26839,
+        26840,
+        26841
+      ],
+      "modsterHiddenAchievements": [
+        7012
+      ],
+      "modsterId": 7418,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7557,
+        7561,
+        7606,
+        7607,
+        7609
+      ],
+      "spellIdKroma": 27312
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26506,
+      "itemId": 28713,
+      "itemIdKroma": 28863,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7163
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26842,
+        26843,
+        26844
+      ],
+      "modsterHiddenAchievements": [
+        7013
+      ],
+      "modsterId": 7419,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7557,
+        7563,
+        7614
+      ],
+      "spellIdKroma": 27313
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26507,
+      "itemId": 28714,
+      "itemIdKroma": 28864,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7164
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26845,
+        26846,
+        26847
+      ],
+      "modsterHiddenAchievements": [
+        7014
+      ],
+      "modsterId": 7420,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [],
+      "spellIdKroma": 27314
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26508,
+      "itemId": 28715,
+      "itemIdKroma": 28865,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7165
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26848,
+        26849,
+        26850
+      ],
+      "modsterHiddenAchievements": [
+        7015
+      ],
+      "modsterId": 7421,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7557,
+        7562,
+        7610,
+        7611,
+        7612,
+        7613
+      ],
+      "spellIdKroma": 27315
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26509,
+      "itemId": 28716,
+      "itemIdKroma": 28866,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7166
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26851,
+        26852,
+        26853
+      ],
+      "modsterHiddenAchievements": [
+        7016
+      ],
+      "modsterId": 7422,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7557,
+        7561,
+        7606,
+        7607,
+        7609
+      ],
+      "spellIdKroma": 27316
+    },
+    {
+      "ClassType_": "Modster",
+      "id": 26510,
+      "itemId": 28717,
+      "itemIdKroma": 28867,
+      "kromaAchievements": [],
+      "kromaHiddenAchievements": [
+        7167
+      ],
+      "modsterAchievements": [],
+      "modsterActiveSpells": [
+        26854,
+        26855,
+        26856
+      ],
+      "modsterHiddenAchievements": [
+        7017
+      ],
+      "modsterId": 7423,
+      "modsterPassiveSpells": [],
+      "order": 0,
+      "parentsModsterId": [
+        7562,
+        7610,
+        7611,
+        7612,
+        7613
+      ],
+      "spellIdKroma": 27317
+    }
+  ]
+}

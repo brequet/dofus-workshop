@@ -1,0 +1,282 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.houses",
+      "packageClass": "HavenbagTheme",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "nameId",
+          "type": "I18n"
+        },
+        {
+          "name": "mapId",
+          "type": "Integer"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "HavenbagTheme",
+      "id": 1,
+      "mapId": 162791424,
+      "nameId": 621588
+    },
+    {
+      "ClassType_": "HavenbagTheme",
+      "id": 2,
+      "mapId": 162793472,
+      "nameId": 621568
+    },
+    {
+      "ClassType_": "HavenbagTheme",
+      "id": 3,
+      "mapId": 162795520,
+      "nameId": 621561
+    },
+    {
+      "ClassType_": "HavenbagTheme",
+      "id": 4,
+      "mapId": 162791426,
+      "nameId": 621567
+    },
+    {
+      "ClassType_": "HavenbagTheme",
+      "id": 5,
+      "mapId": 162791428,
+      "nameId": 621562
+    },
+    {
+      "ClassType_": "HavenbagTheme",
+      "id": 6,
+      "mapId": 162795522,
+      "nameId": 621587
+    },
+    {
+      "ClassType_": "HavenbagTheme",
+      "id": 7,
+      "mapId": 162795524,
+      "nameId": 621565
+    },
+    {
+      "ClassType_": "HavenbagTheme",
+      "id": 9,
+      "mapId": 162793474,
+      "nameId": 621574
+    },
+    {
+      "ClassType_": "HavenbagTheme",
+      "id": 10,
+      "mapId": 162791430,
+      "nameId": 621570
+    },
+    {
+      "ClassType_": "HavenbagTheme",
+      "id": 11,
+      "mapId": 162793478,
+      "nameId": 621560
+    },
+    {
+      "ClassType_": "HavenbagTheme",
+      "id": 12,
+      "mapId": 162795526,
+      "nameId": 621564
+    },
+    {
+      "ClassType_": "HavenbagTheme",
+      "id": 14,
+      "mapId": 162791432,
+      "nameId": 621586
+    },
+    {
+      "ClassType_": "HavenbagTheme",
+      "id": 15,
+      "mapId": 162793480,
+      "nameId": 621571
+    },
+    {
+      "ClassType_": "HavenbagTheme",
+      "id": 16,
+      "mapId": 162795528,
+      "nameId": 643750
+    },
+    {
+      "ClassType_": "HavenbagTheme",
+      "id": 17,
+      "mapId": 162791434,
+      "nameId": 643751
+    },
+    {
+      "ClassType_": "HavenbagTheme",
+      "id": 18,
+      "mapId": 162791436,
+      "nameId": 698124
+    },
+    {
+      "ClassType_": "HavenbagTheme",
+      "id": 19,
+      "mapId": 162793484,
+      "nameId": 724593
+    },
+    {
+      "ClassType_": "HavenbagTheme",
+      "id": 20,
+      "mapId": 162795532,
+      "nameId": 733044
+    },
+    {
+      "ClassType_": "HavenbagTheme",
+      "id": 21,
+      "mapId": 162791438,
+      "nameId": 754072
+    },
+    {
+      "ClassType_": "HavenbagTheme",
+      "id": 23,
+      "mapId": 162793482,
+      "nameId": 764499
+    },
+    {
+      "ClassType_": "HavenbagTheme",
+      "id": 24,
+      "mapId": 162795530,
+      "nameId": 764585
+    },
+    {
+      "ClassType_": "HavenbagTheme",
+      "id": 25,
+      "mapId": 162793486,
+      "nameId": 764599
+    },
+    {
+      "ClassType_": "HavenbagTheme",
+      "id": 26,
+      "mapId": 162791440,
+      "nameId": 1081136
+    },
+    {
+      "ClassType_": "HavenbagTheme",
+      "id": 27,
+      "mapId": 162795534,
+      "nameId": 767928
+    },
+    {
+      "ClassType_": "HavenbagTheme",
+      "id": 28,
+      "mapId": 162793488,
+      "nameId": 765032
+    },
+    {
+      "ClassType_": "HavenbagTheme",
+      "id": 29,
+      "mapId": 162795536,
+      "nameId": 765146
+    },
+    {
+      "ClassType_": "HavenbagTheme",
+      "id": 30,
+      "mapId": 162791442,
+      "nameId": 767927
+    },
+    {
+      "ClassType_": "HavenbagTheme",
+      "id": 31,
+      "mapId": 162793490,
+      "nameId": 784103
+    },
+    {
+      "ClassType_": "HavenbagTheme",
+      "id": 32,
+      "mapId": 162795538,
+      "nameId": 784405
+    },
+    {
+      "ClassType_": "HavenbagTheme",
+      "id": 33,
+      "mapId": 162791444,
+      "nameId": 1081135
+    },
+    {
+      "ClassType_": "HavenbagTheme",
+      "id": 34,
+      "mapId": 162793492,
+      "nameId": 808603
+    },
+    {
+      "ClassType_": "HavenbagTheme",
+      "id": 51,
+      "mapId": 162791448,
+      "nameId": 828906
+    },
+    {
+      "ClassType_": "HavenbagTheme",
+      "id": 52,
+      "mapId": 162793496,
+      "nameId": 847286
+    },
+    {
+      "ClassType_": "HavenbagTheme",
+      "id": 53,
+      "mapId": 162795544,
+      "nameId": 923316
+    },
+    {
+      "ClassType_": "HavenbagTheme",
+      "id": 54,
+      "mapId": 162791450,
+      "nameId": 1081133
+    },
+    {
+      "ClassType_": "HavenbagTheme",
+      "id": 55,
+      "mapId": 162793498,
+      "nameId": 928599
+    },
+    {
+      "ClassType_": "HavenbagTheme",
+      "id": 56,
+      "mapId": 162795546,
+      "nameId": 1081132
+    },
+    {
+      "ClassType_": "HavenbagTheme",
+      "id": 57,
+      "mapId": 162791452,
+      "nameId": 1081131
+    },
+    {
+      "ClassType_": "HavenbagTheme",
+      "id": 58,
+      "mapId": 162793500,
+      "nameId": 993535
+    },
+    {
+      "ClassType_": "HavenbagTheme",
+      "id": 60,
+      "mapId": 162793502,
+      "nameId": 1081130
+    },
+    {
+      "ClassType_": "HavenbagTheme",
+      "id": 61,
+      "mapId": 162795550,
+      "nameId": 1081129
+    },
+    {
+      "ClassType_": "HavenbagTheme",
+      "id": 62,
+      "mapId": 162795548,
+      "nameId": 1081128
+    },
+    {
+      "ClassType_": "HavenbagTheme",
+      "id": 63,
+      "mapId": 162791454,
+      "nameId": 1081127
+    }
+  ]
+}

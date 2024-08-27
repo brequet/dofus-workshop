@@ -1,0 +1,156 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.guild",
+      "packageClass": "GuildChestTab",
+      "fields": [
+        {
+          "name": "tabId",
+          "type": "Integer"
+        },
+        {
+          "name": "nameId",
+          "type": "I18n"
+        },
+        {
+          "name": "index",
+          "type": "Integer"
+        },
+        {
+          "name": "gfxId",
+          "type": "Integer"
+        },
+        {
+          "name": "serverType",
+          "type": "Integer"
+        },
+        {
+          "name": "cost",
+          "type": "Integer"
+        },
+        {
+          "name": "seniority",
+          "type": "Integer"
+        },
+        {
+          "name": "openRight",
+          "type": "Integer"
+        },
+        {
+          "name": "dropRight",
+          "type": "Integer"
+        },
+        {
+          "name": "takeRight",
+          "type": "Integer"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "GuildChestTab",
+      "cost": 0,
+      "dropRight": 24,
+      "gfxId": 76,
+      "index": 1,
+      "nameId": 948847,
+      "openRight": 8,
+      "seniority": 30,
+      "serverType": -1,
+      "tabId": 4,
+      "takeRight": 23
+    },
+    {
+      "ClassType_": "GuildChestTab",
+      "cost": 0,
+      "dropRight": 24,
+      "gfxId": 76,
+      "index": 1,
+      "nameId": 948848,
+      "openRight": 8,
+      "seniority": 0,
+      "serverType": 5,
+      "tabId": 6,
+      "takeRight": 23
+    },
+    {
+      "ClassType_": "GuildChestTab",
+      "cost": 5000000,
+      "dropRight": 30,
+      "gfxId": 76,
+      "index": 2,
+      "nameId": 948854,
+      "openRight": 31,
+      "seniority": 0,
+      "serverType": 5,
+      "tabId": 7,
+      "takeRight": 29
+    },
+    {
+      "ClassType_": "GuildChestTab",
+      "cost": 7500000,
+      "dropRight": 30,
+      "gfxId": 76,
+      "index": 2,
+      "nameId": 948696,
+      "openRight": 31,
+      "seniority": 30,
+      "serverType": -1,
+      "tabId": 2,
+      "takeRight": 29
+    },
+    {
+      "ClassType_": "GuildChestTab",
+      "cost": 15000000,
+      "dropRight": 33,
+      "gfxId": 76,
+      "index": 3,
+      "nameId": 948695,
+      "openRight": 32,
+      "seniority": 30,
+      "serverType": -1,
+      "tabId": 1,
+      "takeRight": 34
+    },
+    {
+      "ClassType_": "GuildChestTab",
+      "cost": 10000000,
+      "dropRight": 33,
+      "gfxId": 76,
+      "index": 3,
+      "nameId": 948860,
+      "openRight": 32,
+      "seniority": 0,
+      "serverType": 5,
+      "tabId": 8,
+      "takeRight": 34
+    },
+    {
+      "ClassType_": "GuildChestTab",
+      "cost": 30000000,
+      "dropRight": 36,
+      "gfxId": 76,
+      "index": 4,
+      "nameId": 948697,
+      "openRight": 35,
+      "seniority": 30,
+      "serverType": -1,
+      "tabId": 5,
+      "takeRight": 37
+    },
+    {
+      "ClassType_": "GuildChestTab",
+      "cost": 15000000,
+      "dropRight": 36,
+      "gfxId": 76,
+      "index": 4,
+      "nameId": 948867,
+      "openRight": 35,
+      "seniority": 0,
+      "serverType": 5,
+      "tabId": 9,
+      "takeRight": 37
+    }
+  ]
+}

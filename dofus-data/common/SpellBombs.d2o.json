@@ -1,0 +1,117 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.spells",
+      "packageClass": "SpellBomb",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "chainReactionSpellId",
+          "type": "Integer"
+        },
+        {
+          "name": "explodSpellId",
+          "type": "Integer"
+        },
+        {
+          "name": "wallId",
+          "type": "Integer"
+        },
+        {
+          "name": "instantSpellId",
+          "type": "Integer"
+        },
+        {
+          "name": "comboCoeff",
+          "type": "Integer"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "SpellBomb",
+      "chainReactionSpellId": 2759,
+      "comboCoeff": 100,
+      "explodSpellId": 2758,
+      "id": 3103,
+      "instantSpellId": 2762,
+      "wallId": 1
+    },
+    {
+      "ClassType_": "SpellBomb",
+      "chainReactionSpellId": 13457,
+      "comboCoeff": 0,
+      "explodSpellId": 13455,
+      "id": 3112,
+      "instantSpellId": 13456,
+      "wallId": 2
+    },
+    {
+      "ClassType_": "SpellBomb",
+      "chainReactionSpellId": 13460,
+      "comboCoeff": 0,
+      "explodSpellId": 13467,
+      "id": 3113,
+      "instantSpellId": 13459,
+      "wallId": 3
+    },
+    {
+      "ClassType_": "SpellBomb",
+      "chainReactionSpellId": 13464,
+      "comboCoeff": 0,
+      "explodSpellId": 13462,
+      "id": 3114,
+      "instantSpellId": 13463,
+      "wallId": 4
+    },
+    {
+      "ClassType_": "SpellBomb",
+      "chainReactionSpellId": 13502,
+      "comboCoeff": 0,
+      "explodSpellId": 13504,
+      "id": 5161,
+      "instantSpellId": 13503,
+      "wallId": 5
+    },
+    {
+      "ClassType_": "SpellBomb",
+      "chainReactionSpellId": 19950,
+      "comboCoeff": 0,
+      "explodSpellId": 19953,
+      "id": 6719,
+      "instantSpellId": 19952,
+      "wallId": 10
+    },
+    {
+      "ClassType_": "SpellBomb",
+      "chainReactionSpellId": 19949,
+      "comboCoeff": 0,
+      "explodSpellId": 19948,
+      "id": 6720,
+      "instantSpellId": 19951,
+      "wallId": 11
+    },
+    {
+      "ClassType_": "SpellBomb",
+      "chainReactionSpellId": 19946,
+      "comboCoeff": 0,
+      "explodSpellId": 19945,
+      "id": 6721,
+      "instantSpellId": 19947,
+      "wallId": 9
+    },
+    {
+      "ClassType_": "SpellBomb",
+      "chainReactionSpellId": 20137,
+      "comboCoeff": 0,
+      "explodSpellId": 20157,
+      "id": 6737,
+      "instantSpellId": 20137,
+      "wallId": 12
+    }
+  ]
+}

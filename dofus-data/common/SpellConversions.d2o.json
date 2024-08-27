@@ -1,0 +1,4084 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.effects",
+      "packageClass": "EffectInstance",
+      "fields": [
+        {
+          "name": "effectUid",
+          "type": "Integer"
+        },
+        {
+          "name": "baseEffectId",
+          "type": "Integer"
+        },
+        {
+          "name": "effectId",
+          "type": "Integer"
+        },
+        {
+          "name": "order",
+          "type": "Integer"
+        },
+        {
+          "name": "targetId",
+          "type": "Integer"
+        },
+        {
+          "name": "targetMask",
+          "type": "String"
+        },
+        {
+          "name": "duration",
+          "type": "Integer"
+        },
+        {
+          "name": "random",
+          "type": "Number"
+        },
+        {
+          "name": "group",
+          "type": "Integer"
+        },
+        {
+          "name": "visibleInTooltip",
+          "type": "Boolean"
+        },
+        {
+          "name": "visibleInBuffUi",
+          "type": "Boolean"
+        },
+        {
+          "name": "visibleInFightLog",
+          "type": "Boolean"
+        },
+        {
+          "name": "visibleOnTerrain",
+          "type": "Boolean"
+        },
+        {
+          "name": "forClientOnly",
+          "type": "Boolean"
+        },
+        {
+          "name": "dispellable",
+          "type": "Integer"
+        },
+        {
+          "name": "rawZone",
+          "type": "String"
+        },
+        {
+          "name": "delay",
+          "type": "Integer"
+        },
+        {
+          "name": "triggers",
+          "type": "String"
+        },
+        {
+          "name": "effectElement",
+          "type": "Integer"
+        },
+        {
+          "name": "spellId",
+          "type": "Integer"
+        }
+      ]
+    },
+    "2": {
+      "packageName": "com.ankamagames.dofus.datacenter.effects.instances",
+      "packageClass": "EffectInstanceInteger",
+      "fields": [
+        {
+          "name": "targetMask",
+          "type": "String"
+        },
+        {
+          "name": "visibleInBuffUi",
+          "type": "Boolean"
+        },
+        {
+          "name": "baseEffectId",
+          "type": "Integer"
+        },
+        {
+          "name": "visibleInFightLog",
+          "type": "Boolean"
+        },
+        {
+          "name": "targetId",
+          "type": "Integer"
+        },
+        {
+          "name": "effectElement",
+          "type": "Integer"
+        },
+        {
+          "name": "effectUid",
+          "type": "Integer"
+        },
+        {
+          "name": "dispellable",
+          "type": "Integer"
+        },
+        {
+          "name": "triggers",
+          "type": "String"
+        },
+        {
+          "name": "spellId",
+          "type": "Integer"
+        },
+        {
+          "name": "duration",
+          "type": "Integer"
+        },
+        {
+          "name": "random",
+          "type": "Number"
+        },
+        {
+          "name": "effectId",
+          "type": "Integer"
+        },
+        {
+          "name": "delay",
+          "type": "Integer"
+        },
+        {
+          "name": "visibleOnTerrain",
+          "type": "Boolean"
+        },
+        {
+          "name": "visibleInTooltip",
+          "type": "Boolean"
+        },
+        {
+          "name": "rawZone",
+          "type": "String"
+        },
+        {
+          "name": "forClientOnly",
+          "type": "Boolean"
+        },
+        {
+          "name": "value",
+          "type": "Integer"
+        },
+        {
+          "name": "order",
+          "type": "Integer"
+        },
+        {
+          "name": "group",
+          "type": "Integer"
+        }
+      ]
+    },
+    "3": {
+      "packageName": "com.ankamagames.dofus.datacenter.effects.instances",
+      "packageClass": "EffectInstanceDice",
+      "fields": [
+        {
+          "name": "targetMask",
+          "type": "String"
+        },
+        {
+          "name": "diceNum",
+          "type": "Integer"
+        },
+        {
+          "name": "visibleInBuffUi",
+          "type": "Boolean"
+        },
+        {
+          "name": "baseEffectId",
+          "type": "Integer"
+        },
+        {
+          "name": "visibleInFightLog",
+          "type": "Boolean"
+        },
+        {
+          "name": "targetId",
+          "type": "Integer"
+        },
+        {
+          "name": "effectElement",
+          "type": "Integer"
+        },
+        {
+          "name": "effectUid",
+          "type": "Integer"
+        },
+        {
+          "name": "dispellable",
+          "type": "Integer"
+        },
+        {
+          "name": "triggers",
+          "type": "String"
+        },
+        {
+          "name": "spellId",
+          "type": "Integer"
+        },
+        {
+          "name": "duration",
+          "type": "Integer"
+        },
+        {
+          "name": "random",
+          "type": "Number"
+        },
+        {
+          "name": "effectId",
+          "type": "Integer"
+        },
+        {
+          "name": "delay",
+          "type": "Integer"
+        },
+        {
+          "name": "diceSide",
+          "type": "Integer"
+        },
+        {
+          "name": "visibleOnTerrain",
+          "type": "Boolean"
+        },
+        {
+          "name": "visibleInTooltip",
+          "type": "Boolean"
+        },
+        {
+          "name": "rawZone",
+          "type": "String"
+        },
+        {
+          "name": "forClientOnly",
+          "type": "Boolean"
+        },
+        {
+          "name": "value",
+          "type": "Integer"
+        },
+        {
+          "name": "order",
+          "type": "Integer"
+        },
+        {
+          "name": "group",
+          "type": "Integer"
+        }
+      ]
+    },
+    "4": {
+      "packageName": "com.ankamagames.dofus.datacenter.spells",
+      "packageClass": "SpellConversion",
+      "fields": [
+        {
+          "name": "oldSpellId",
+          "type": "Integer"
+        },
+        {
+          "name": "newSpellId",
+          "type": "Integer"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13047,
+      "oldSpellId": 161
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13055,
+      "oldSpellId": 169
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13067,
+      "oldSpellId": 418
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13049,
+      "oldSpellId": 163
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13051,
+      "oldSpellId": 165
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13058,
+      "oldSpellId": 172
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13053,
+      "oldSpellId": 167
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13054,
+      "oldSpellId": 168
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13048,
+      "oldSpellId": 162
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13056,
+      "oldSpellId": 170
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13057,
+      "oldSpellId": 171
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13052,
+      "oldSpellId": 166
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13059,
+      "oldSpellId": 173
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13060,
+      "oldSpellId": 174
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13062,
+      "oldSpellId": 176
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13061,
+      "oldSpellId": 175
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13064,
+      "oldSpellId": 178
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13050,
+      "oldSpellId": 164
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13063,
+      "oldSpellId": 177
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13065,
+      "oldSpellId": 179
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13066,
+      "oldSpellId": 180
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13068,
+      "oldSpellId": 9301
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13069,
+      "oldSpellId": 9302
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13088,
+      "oldSpellId": 9321
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13071,
+      "oldSpellId": 9304
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13072,
+      "oldSpellId": 9305
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13073,
+      "oldSpellId": 9306
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13074,
+      "oldSpellId": 9307
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13075,
+      "oldSpellId": 9308
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13076,
+      "oldSpellId": 9309
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13077,
+      "oldSpellId": 9310
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13078,
+      "oldSpellId": 9311
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13079,
+      "oldSpellId": 9312
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13080,
+      "oldSpellId": 9313
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13081,
+      "oldSpellId": 9314
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13082,
+      "oldSpellId": 9315
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13083,
+      "oldSpellId": 9316
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13084,
+      "oldSpellId": 9317
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13070,
+      "oldSpellId": 9303
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13085,
+      "oldSpellId": 9318
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13086,
+      "oldSpellId": 9319
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13087,
+      "oldSpellId": 9320
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12841,
+      "oldSpellId": 102
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12844,
+      "oldSpellId": 105
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12842,
+      "oldSpellId": 103
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12848,
+      "oldSpellId": 109
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12852,
+      "oldSpellId": 113
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12846,
+      "oldSpellId": 107
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12856,
+      "oldSpellId": 117
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12858,
+      "oldSpellId": 119
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12840,
+      "oldSpellId": 101
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12850,
+      "oldSpellId": 111
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12855,
+      "oldSpellId": 116
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12845,
+      "oldSpellId": 106
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12847,
+      "oldSpellId": 108
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12843,
+      "oldSpellId": 104
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12854,
+      "oldSpellId": 115
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12857,
+      "oldSpellId": 118
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12849,
+      "oldSpellId": 110
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12861,
+      "oldSpellId": 412
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12851,
+      "oldSpellId": 112
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12853,
+      "oldSpellId": 114
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12859,
+      "oldSpellId": 120
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12866,
+      "oldSpellId": 9325
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12865,
+      "oldSpellId": 9324
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12863,
+      "oldSpellId": 9322
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12864,
+      "oldSpellId": 9323
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12867,
+      "oldSpellId": 9326
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12872,
+      "oldSpellId": 9331
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12869,
+      "oldSpellId": 9328
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12870,
+      "oldSpellId": 9329
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12871,
+      "oldSpellId": 9330
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12868,
+      "oldSpellId": 9327
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12873,
+      "oldSpellId": 9332
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12874,
+      "oldSpellId": 9333
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12875,
+      "oldSpellId": 9334
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12876,
+      "oldSpellId": 9335
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12877,
+      "oldSpellId": 9336
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12878,
+      "oldSpellId": 9337
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12879,
+      "oldSpellId": 9338
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12883,
+      "oldSpellId": 9342
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12880,
+      "oldSpellId": 9339
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12881,
+      "oldSpellId": 9340
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12882,
+      "oldSpellId": 9341
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14574,
+      "oldSpellId": 5359
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14584,
+      "oldSpellId": 5383
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14575,
+      "oldSpellId": 5361
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14583,
+      "oldSpellId": 5382
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14579,
+      "oldSpellId": 5370
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14582,
+      "oldSpellId": 5381
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14588,
+      "oldSpellId": 5389
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14580,
+      "oldSpellId": 5371
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14581,
+      "oldSpellId": 5372
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14577,
+      "oldSpellId": 5368
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14585,
+      "oldSpellId": 5386
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14592,
+      "oldSpellId": 5397
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14587,
+      "oldSpellId": 5388
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14576,
+      "oldSpellId": 5367
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14589,
+      "oldSpellId": 5390
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14615,
+      "oldSpellId": 5391
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14593,
+      "oldSpellId": 5400
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14591,
+      "oldSpellId": 5392
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14594,
+      "oldSpellId": 5401
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14610,
+      "oldSpellId": 5402
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14596,
+      "oldSpellId": 5403
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14604,
+      "oldSpellId": 9375
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14603,
+      "oldSpellId": 9374
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14602,
+      "oldSpellId": 9373
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14605,
+      "oldSpellId": 9376
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14606,
+      "oldSpellId": 9377
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14607,
+      "oldSpellId": 9378
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14608,
+      "oldSpellId": 9379
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14609,
+      "oldSpellId": 9380
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14590,
+      "oldSpellId": 9381
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14611,
+      "oldSpellId": 9382
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14612,
+      "oldSpellId": 9383
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14613,
+      "oldSpellId": 9384
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14614,
+      "oldSpellId": 9385
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14637,
+      "oldSpellId": 9386
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14616,
+      "oldSpellId": 9387
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14617,
+      "oldSpellId": 9388
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14618,
+      "oldSpellId": 9389
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14622,
+      "oldSpellId": 9393
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14619,
+      "oldSpellId": 9390
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14595,
+      "oldSpellId": 9391
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14621,
+      "oldSpellId": 9392
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13171,
+      "oldSpellId": 124
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13176,
+      "oldSpellId": 129
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13169,
+      "oldSpellId": 122
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13172,
+      "oldSpellId": 125
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13175,
+      "oldSpellId": 128
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13173,
+      "oldSpellId": 126
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13189,
+      "oldSpellId": 427
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13180,
+      "oldSpellId": 133
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13177,
+      "oldSpellId": 130
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13181,
+      "oldSpellId": 134
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13174,
+      "oldSpellId": 127
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13170,
+      "oldSpellId": 123
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13183,
+      "oldSpellId": 136
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13182,
+      "oldSpellId": 135
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13179,
+      "oldSpellId": 132
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13168,
+      "oldSpellId": 121
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13185,
+      "oldSpellId": 138
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13178,
+      "oldSpellId": 131
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13184,
+      "oldSpellId": 137
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13186,
+      "oldSpellId": 139
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13187,
+      "oldSpellId": 140
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13201,
+      "oldSpellId": 9395
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13200,
+      "oldSpellId": 9394
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13202,
+      "oldSpellId": 9396
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13203,
+      "oldSpellId": 9397
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13204,
+      "oldSpellId": 9398
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13205,
+      "oldSpellId": 9399
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13220,
+      "oldSpellId": 9414
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13207,
+      "oldSpellId": 9401
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13208,
+      "oldSpellId": 9402
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13209,
+      "oldSpellId": 9403
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14446,
+      "oldSpellId": 9404
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13206,
+      "oldSpellId": 9400
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13212,
+      "oldSpellId": 9406
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13213,
+      "oldSpellId": 9407
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13214,
+      "oldSpellId": 9408
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13215,
+      "oldSpellId": 9409
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13216,
+      "oldSpellId": 9410
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13211,
+      "oldSpellId": 9405
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13217,
+      "oldSpellId": 9411
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13218,
+      "oldSpellId": 9412
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13219,
+      "oldSpellId": 9413
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13338,
+      "oldSpellId": 51
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13330,
+      "oldSpellId": 43
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13328,
+      "oldSpellId": 41
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13336,
+      "oldSpellId": 49
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13342,
+      "oldSpellId": 55
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13334,
+      "oldSpellId": 47
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13335,
+      "oldSpellId": 48
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13332,
+      "oldSpellId": 45
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13340,
+      "oldSpellId": 53
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13344,
+      "oldSpellId": 57
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13339,
+      "oldSpellId": 52
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13331,
+      "oldSpellId": 44
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13337,
+      "oldSpellId": 50
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14278,
+      "oldSpellId": 54
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13329,
+      "oldSpellId": 42
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13343,
+      "oldSpellId": 56
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13345,
+      "oldSpellId": 58
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13349,
+      "oldSpellId": 425
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13346,
+      "oldSpellId": 59
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13333,
+      "oldSpellId": 46
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13347,
+      "oldSpellId": 60
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13353,
+      "oldSpellId": 9469
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13352,
+      "oldSpellId": 9468
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13354,
+      "oldSpellId": 9470
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13355,
+      "oldSpellId": 9471
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13356,
+      "oldSpellId": 9472
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13357,
+      "oldSpellId": 9473
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13358,
+      "oldSpellId": 9474
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13359,
+      "oldSpellId": 9475
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13360,
+      "oldSpellId": 9476
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13361,
+      "oldSpellId": 9477
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13362,
+      "oldSpellId": 9478
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13363,
+      "oldSpellId": 9479
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13364,
+      "oldSpellId": 9480
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13365,
+      "oldSpellId": 9481
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13366,
+      "oldSpellId": 9482
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13367,
+      "oldSpellId": 9483
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13368,
+      "oldSpellId": 9484
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13372,
+      "oldSpellId": 9488
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13369,
+      "oldSpellId": 9485
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13370,
+      "oldSpellId": 9486
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13371,
+      "oldSpellId": 9487
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12981,
+      "oldSpellId": 6
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12978,
+      "oldSpellId": 3
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12977,
+      "oldSpellId": 2
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12976,
+      "oldSpellId": 1
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12994,
+      "oldSpellId": 19
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12979,
+      "oldSpellId": 4
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12992,
+      "oldSpellId": 17
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12993,
+      "oldSpellId": 18
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12984,
+      "oldSpellId": 9
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12995,
+      "oldSpellId": 20
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12983,
+      "oldSpellId": 8
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12986,
+      "oldSpellId": 11
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12988,
+      "oldSpellId": 13
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12980,
+      "oldSpellId": 5
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12987,
+      "oldSpellId": 12
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12989,
+      "oldSpellId": 14
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12990,
+      "oldSpellId": 15
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12997,
+      "oldSpellId": 422
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12991,
+      "oldSpellId": 16
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12985,
+      "oldSpellId": 10
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12982,
+      "oldSpellId": 7
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13009,
+      "oldSpellId": 9522
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13007,
+      "oldSpellId": 9520
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13008,
+      "oldSpellId": 9521
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13010,
+      "oldSpellId": 9523
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13011,
+      "oldSpellId": 9524
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13016,
+      "oldSpellId": 9529
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13013,
+      "oldSpellId": 9526
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13014,
+      "oldSpellId": 9527
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13015,
+      "oldSpellId": 9528
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13012,
+      "oldSpellId": 9525
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13017,
+      "oldSpellId": 9530
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13018,
+      "oldSpellId": 9531
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13019,
+      "oldSpellId": 9532
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13020,
+      "oldSpellId": 9533
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13021,
+      "oldSpellId": 9534
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13022,
+      "oldSpellId": 9535
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13023,
+      "oldSpellId": 9536
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13027,
+      "oldSpellId": 9540
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13024,
+      "oldSpellId": 9537
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13025,
+      "oldSpellId": 9538
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13026,
+      "oldSpellId": 9539
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13669,
+      "oldSpellId": 5832
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13668,
+      "oldSpellId": 5831
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13670,
+      "oldSpellId": 5833
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13666,
+      "oldSpellId": 5829
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13667,
+      "oldSpellId": 5830
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13672,
+      "oldSpellId": 5836
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13674,
+      "oldSpellId": 5838
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13679,
+      "oldSpellId": 5843
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13696,
+      "oldSpellId": 6227
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13680,
+      "oldSpellId": 5844
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13676,
+      "oldSpellId": 5840
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13683,
+      "oldSpellId": 5847
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13682,
+      "oldSpellId": 5846
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13681,
+      "oldSpellId": 5845
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13701,
+      "oldSpellId": 6413
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13677,
+      "oldSpellId": 5841
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13684,
+      "oldSpellId": 5850
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13695,
+      "oldSpellId": 6226
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13678,
+      "oldSpellId": 5842
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13675,
+      "oldSpellId": 5839
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13697,
+      "oldSpellId": 6228
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13709,
+      "oldSpellId": 9578
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13708,
+      "oldSpellId": 9577
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13710,
+      "oldSpellId": 9579
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13711,
+      "oldSpellId": 9580
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13712,
+      "oldSpellId": 9581
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13713,
+      "oldSpellId": 9582
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13725,
+      "oldSpellId": 9594
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13715,
+      "oldSpellId": 9584
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13716,
+      "oldSpellId": 9585
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13718,
+      "oldSpellId": 9587
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13717,
+      "oldSpellId": 9586
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13728,
+      "oldSpellId": 9597
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13720,
+      "oldSpellId": 9589
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13721,
+      "oldSpellId": 9590
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13727,
+      "oldSpellId": 9596
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13723,
+      "oldSpellId": 9592
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13724,
+      "oldSpellId": 9593
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13719,
+      "oldSpellId": 9588
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13714,
+      "oldSpellId": 9583
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13726,
+      "oldSpellId": 9595
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13722,
+      "oldSpellId": 9591
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13107,
+      "oldSpellId": 142
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13108,
+      "oldSpellId": 143
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13106,
+      "oldSpellId": 141
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13126,
+      "oldSpellId": 410
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13110,
+      "oldSpellId": 145
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13119,
+      "oldSpellId": 154
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13112,
+      "oldSpellId": 147
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13116,
+      "oldSpellId": 151
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13123,
+      "oldSpellId": 158
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13115,
+      "oldSpellId": 150
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13113,
+      "oldSpellId": 148
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13109,
+      "oldSpellId": 144
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13117,
+      "oldSpellId": 152
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13118,
+      "oldSpellId": 153
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13114,
+      "oldSpellId": 149
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13121,
+      "oldSpellId": 156
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13122,
+      "oldSpellId": 157
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13120,
+      "oldSpellId": 155
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13125,
+      "oldSpellId": 160
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13111,
+      "oldSpellId": 146
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13124,
+      "oldSpellId": 159
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13132,
+      "oldSpellId": 9628
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13148,
+      "oldSpellId": 9645
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13131,
+      "oldSpellId": 9627
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13130,
+      "oldSpellId": 9626
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13134,
+      "oldSpellId": 9630
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13135,
+      "oldSpellId": 9631
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13136,
+      "oldSpellId": 9632
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13137,
+      "oldSpellId": 9633
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13138,
+      "oldSpellId": 9634
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13139,
+      "oldSpellId": 9635
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13140,
+      "oldSpellId": 9636
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13141,
+      "oldSpellId": 9637
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13153,
+      "oldSpellId": 9672
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13142,
+      "oldSpellId": 9639
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13143,
+      "oldSpellId": 9640
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13144,
+      "oldSpellId": 9641
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13145,
+      "oldSpellId": 9642
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14677,
+      "oldSpellId": 9629
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13146,
+      "oldSpellId": 9643
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13147,
+      "oldSpellId": 9644
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13156,
+      "oldSpellId": 9675
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12548,
+      "oldSpellId": 34
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12615,
+      "oldSpellId": 22
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13998,
+      "oldSpellId": 21
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12549,
+      "oldSpellId": 26
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12555,
+      "oldSpellId": 28
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12606,
+      "oldSpellId": 35
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14025,
+      "oldSpellId": 37
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12601,
+      "oldSpellId": 38
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14022,
+      "oldSpellId": 30
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14006,
+      "oldSpellId": 33
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12560,
+      "oldSpellId": 40
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12563,
+      "oldSpellId": 39
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12564,
+      "oldSpellId": 24
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12554,
+      "oldSpellId": 9664
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12551,
+      "oldSpellId": 36
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14019,
+      "oldSpellId": 9666
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12550,
+      "oldSpellId": 9667
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14007,
+      "oldSpellId": 420
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12605,
+      "oldSpellId": 31
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12568,
+      "oldSpellId": 27
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12557,
+      "oldSpellId": 29
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14021,
+      "oldSpellId": 9653
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14017,
+      "oldSpellId": 9651
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12619,
+      "oldSpellId": 9652
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12618,
+      "oldSpellId": 9654
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12600,
+      "oldSpellId": 9655
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12604,
+      "oldSpellId": 32
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14008,
+      "oldSpellId": 9657
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14026,
+      "oldSpellId": 23
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14018,
+      "oldSpellId": 9659
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14023,
+      "oldSpellId": 9660
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12559,
+      "oldSpellId": 9661
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12609,
+      "oldSpellId": 9662
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12614,
+      "oldSpellId": 9663
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14009,
+      "oldSpellId": 9658
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12612,
+      "oldSpellId": 9665
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14020,
+      "oldSpellId": 9671
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14015,
+      "oldSpellId": 9656
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12617,
+      "oldSpellId": 25
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14016,
+      "oldSpellId": 9668
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12552,
+      "oldSpellId": 9669
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12608,
+      "oldSpellId": 9670
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13748,
+      "oldSpellId": 8310
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13756,
+      "oldSpellId": 8318
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13760,
+      "oldSpellId": 8322
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13768,
+      "oldSpellId": 8330
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13754,
+      "oldSpellId": 8316
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13770,
+      "oldSpellId": 8332
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13774,
+      "oldSpellId": 8336
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13757,
+      "oldSpellId": 8319
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13763,
+      "oldSpellId": 8325
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13755,
+      "oldSpellId": 8317
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13765,
+      "oldSpellId": 8327
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13771,
+      "oldSpellId": 8333
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13772,
+      "oldSpellId": 8334
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13766,
+      "oldSpellId": 8328
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13762,
+      "oldSpellId": 8324
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13769,
+      "oldSpellId": 8331
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13758,
+      "oldSpellId": 8320
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13781,
+      "oldSpellId": 8400
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13773,
+      "oldSpellId": 8335
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13753,
+      "oldSpellId": 8315
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13749,
+      "oldSpellId": 8311
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13786,
+      "oldSpellId": 9683
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13787,
+      "oldSpellId": 9684
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13788,
+      "oldSpellId": 9685
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13789,
+      "oldSpellId": 9686
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13790,
+      "oldSpellId": 9687
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13806,
+      "oldSpellId": 9704
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13792,
+      "oldSpellId": 9690
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13793,
+      "oldSpellId": 9691
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13794,
+      "oldSpellId": 9692
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13795,
+      "oldSpellId": 9693
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13796,
+      "oldSpellId": 9694
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13797,
+      "oldSpellId": 9695
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13798,
+      "oldSpellId": 9696
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13799,
+      "oldSpellId": 9697
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13800,
+      "oldSpellId": 9698
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13791,
+      "oldSpellId": 9689
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13802,
+      "oldSpellId": 9700
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13801,
+      "oldSpellId": 9699
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13803,
+      "oldSpellId": 9701
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13804,
+      "oldSpellId": 9702
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13805,
+      "oldSpellId": 9703
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12804,
+      "oldSpellId": 9740
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12781,
+      "oldSpellId": 687
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12786,
+      "oldSpellId": 692
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12783,
+      "oldSpellId": 689
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12784,
+      "oldSpellId": 690
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12787,
+      "oldSpellId": 693
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12782,
+      "oldSpellId": 688
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12793,
+      "oldSpellId": 699
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12777,
+      "oldSpellId": 423
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12789,
+      "oldSpellId": 695
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12790,
+      "oldSpellId": 696
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12791,
+      "oldSpellId": 697
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12792,
+      "oldSpellId": 698
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12785,
+      "oldSpellId": 691
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12794,
+      "oldSpellId": 700
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12795,
+      "oldSpellId": 701
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12796,
+      "oldSpellId": 702
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12788,
+      "oldSpellId": 694
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12797,
+      "oldSpellId": 703
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12798,
+      "oldSpellId": 704
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12799,
+      "oldSpellId": 705
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12780,
+      "oldSpellId": 686
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12805,
+      "oldSpellId": 9741
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12803,
+      "oldSpellId": 9739
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12806,
+      "oldSpellId": 9742
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12807,
+      "oldSpellId": 9743
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12810,
+      "oldSpellId": 9746
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12809,
+      "oldSpellId": 9745
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12808,
+      "oldSpellId": 9744
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12826,
+      "oldSpellId": 9783
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12813,
+      "oldSpellId": 9764
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12814,
+      "oldSpellId": 9771
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12815,
+      "oldSpellId": 9772
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12816,
+      "oldSpellId": 9773
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12817,
+      "oldSpellId": 9774
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14309,
+      "oldSpellId": 9775
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12819,
+      "oldSpellId": 9776
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12820,
+      "oldSpellId": 9777
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12811,
+      "oldSpellId": 9747
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12821,
+      "oldSpellId": 9778
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12823,
+      "oldSpellId": 9780
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12824,
+      "oldSpellId": 9781
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13432,
+      "oldSpellId": 2778
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13444,
+      "oldSpellId": 2808
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13433,
+      "oldSpellId": 2794
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13434,
+      "oldSpellId": 2795
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13431,
+      "oldSpellId": 2763
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13435,
+      "oldSpellId": 2796
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13437,
+      "oldSpellId": 2801
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13438,
+      "oldSpellId": 2802
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13439,
+      "oldSpellId": 2803
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13443,
+      "oldSpellId": 2807
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13436,
+      "oldSpellId": 2797
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13442,
+      "oldSpellId": 2806
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13429,
+      "oldSpellId": 430
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13445,
+      "oldSpellId": 2809
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13440,
+      "oldSpellId": 2804
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13446,
+      "oldSpellId": 2810
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13491,
+      "oldSpellId": 10041
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13441,
+      "oldSpellId": 2805
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13473,
+      "oldSpellId": 2812
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13449,
+      "oldSpellId": 2813
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13450,
+      "oldSpellId": 2815
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13470,
+      "oldSpellId": 10019
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13471,
+      "oldSpellId": 10020
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13469,
+      "oldSpellId": 10018
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13472,
+      "oldSpellId": 10021
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14412,
+      "oldSpellId": 10022
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13474,
+      "oldSpellId": 10023
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13480,
+      "oldSpellId": 10029
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13475,
+      "oldSpellId": 10024
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13476,
+      "oldSpellId": 10025
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13477,
+      "oldSpellId": 10026
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13478,
+      "oldSpellId": 10027
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14411,
+      "oldSpellId": 10028
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13490,
+      "oldSpellId": 10039
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13487,
+      "oldSpellId": 10031
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13483,
+      "oldSpellId": 10032
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13484,
+      "oldSpellId": 10033
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13486,
+      "oldSpellId": 10035
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13479,
+      "oldSpellId": 2811
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13482,
+      "oldSpellId": 10036
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13488,
+      "oldSpellId": 10037
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13489,
+      "oldSpellId": 10038
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12748,
+      "oldSpellId": 9967
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12727,
+      "oldSpellId": 9948
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12735,
+      "oldSpellId": 9968
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12732,
+      "oldSpellId": 9960
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12730,
+      "oldSpellId": 9963
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12737,
+      "oldSpellId": 9978
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12744,
+      "oldSpellId": 9966
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12746,
+      "oldSpellId": 9970
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12733,
+      "oldSpellId": 9969
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12736,
+      "oldSpellId": 9956
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12745,
+      "oldSpellId": 9959
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12756,
+      "oldSpellId": 9972
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12761,
+      "oldSpellId": 9958
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12738,
+      "oldSpellId": 9977
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12734,
+      "oldSpellId": 9971
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12731,
+      "oldSpellId": 9975
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12739,
+      "oldSpellId": 9957
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12723,
+      "oldSpellId": 9961
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12728,
+      "oldSpellId": 9973
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12759,
+      "oldSpellId": 9964
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14011,
+      "oldSpellId": 9965
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12753,
+      "oldSpellId": 9993
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12755,
+      "oldSpellId": 9995
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12758,
+      "oldSpellId": 10001
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12725,
+      "oldSpellId": 10000
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12747,
+      "oldSpellId": 9990
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12760,
+      "oldSpellId": 10008
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12765,
+      "oldSpellId": 9992
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12724,
+      "oldSpellId": 10003
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12749,
+      "oldSpellId": 10002
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12763,
+      "oldSpellId": 9988
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12729,
+      "oldSpellId": 9998
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12726,
+      "oldSpellId": 10005
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14000,
+      "oldSpellId": 9999
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12754,
+      "oldSpellId": 10004
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12750,
+      "oldSpellId": 9997
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12751,
+      "oldSpellId": 10007
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12764,
+      "oldSpellId": 9996
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12752,
+      "oldSpellId": 9989
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12757,
+      "oldSpellId": 10006
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12762,
+      "oldSpellId": 9994
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12743,
+      "oldSpellId": 9991
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13519,
+      "oldSpellId": 186
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13516,
+      "oldSpellId": 183
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13561,
+      "oldSpellId": 9750
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13533,
+      "oldSpellId": 200
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13528,
+      "oldSpellId": 195
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13564,
+      "oldSpellId": 9753
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13525,
+      "oldSpellId": 192
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13530,
+      "oldSpellId": 197
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13567,
+      "oldSpellId": 9756
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13514,
+      "oldSpellId": 181
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13532,
+      "oldSpellId": 199
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13524,
+      "oldSpellId": 191
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13531,
+      "oldSpellId": 198
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13529,
+      "oldSpellId": 196
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13573,
+      "oldSpellId": 9763
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13527,
+      "oldSpellId": 194
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13518,
+      "oldSpellId": 185
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13534,
+      "oldSpellId": 426
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13517,
+      "oldSpellId": 184
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13521,
+      "oldSpellId": 188
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13578,
+      "oldSpellId": 9769
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13560,
+      "oldSpellId": 9749
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13559,
+      "oldSpellId": 9748
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13526,
+      "oldSpellId": 193
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13562,
+      "oldSpellId": 9751
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13563,
+      "oldSpellId": 9752
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13515,
+      "oldSpellId": 182
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13565,
+      "oldSpellId": 9754
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13566,
+      "oldSpellId": 9755
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13522,
+      "oldSpellId": 189
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13568,
+      "oldSpellId": 9758
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13569,
+      "oldSpellId": 9759
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13570,
+      "oldSpellId": 9760
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13571,
+      "oldSpellId": 9761
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13572,
+      "oldSpellId": 9762
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13523,
+      "oldSpellId": 190
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13574,
+      "oldSpellId": 9765
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13575,
+      "oldSpellId": 9766
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13579,
+      "oldSpellId": 9770
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13576,
+      "oldSpellId": 9767
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13577,
+      "oldSpellId": 9768
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13520,
+      "oldSpellId": 187
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12913,
+      "oldSpellId": 72
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12902,
+      "oldSpellId": 61
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12906,
+      "oldSpellId": 65
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12907,
+      "oldSpellId": 66
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12909,
+      "oldSpellId": 68
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12904,
+      "oldSpellId": 63
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12915,
+      "oldSpellId": 74
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12916,
+      "oldSpellId": 75
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12920,
+      "oldSpellId": 79
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12919,
+      "oldSpellId": 78
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14741,
+      "oldSpellId": 71
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12903,
+      "oldSpellId": 62
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12910,
+      "oldSpellId": 69
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12918,
+      "oldSpellId": 77
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12914,
+      "oldSpellId": 73
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12908,
+      "oldSpellId": 67
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12911,
+      "oldSpellId": 70
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12922,
+      "oldSpellId": 416
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12905,
+      "oldSpellId": 64
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12917,
+      "oldSpellId": 76
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12921,
+      "oldSpellId": 80
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12930,
+      "oldSpellId": 9793
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12931,
+      "oldSpellId": 9794
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12932,
+      "oldSpellId": 9795
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12933,
+      "oldSpellId": 9796
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12934,
+      "oldSpellId": 9797
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12935,
+      "oldSpellId": 9798
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12936,
+      "oldSpellId": 9799
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12937,
+      "oldSpellId": 9800
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12938,
+      "oldSpellId": 9801
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12939,
+      "oldSpellId": 9802
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12940,
+      "oldSpellId": 9803
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12941,
+      "oldSpellId": 9804
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12942,
+      "oldSpellId": 9806
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12943,
+      "oldSpellId": 9807
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14314,
+      "oldSpellId": 9808
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12945,
+      "oldSpellId": 9809
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14742,
+      "oldSpellId": 9810
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12950,
+      "oldSpellId": 9814
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12947,
+      "oldSpellId": 9811
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12948,
+      "oldSpellId": 9812
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 12949,
+      "oldSpellId": 9813
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13829,
+      "oldSpellId": 3212
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13827,
+      "oldSpellId": 3210
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13823,
+      "oldSpellId": 3206
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13832,
+      "oldSpellId": 3215
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13822,
+      "oldSpellId": 3205
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13834,
+      "oldSpellId": 3217
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13819,
+      "oldSpellId": 3202
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13830,
+      "oldSpellId": 3213
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13821,
+      "oldSpellId": 3204
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13820,
+      "oldSpellId": 3203
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13826,
+      "oldSpellId": 3209
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13838,
+      "oldSpellId": 3221
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13831,
+      "oldSpellId": 3214
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13837,
+      "oldSpellId": 3220
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13836,
+      "oldSpellId": 3219
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13865,
+      "oldSpellId": 3207
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13835,
+      "oldSpellId": 3218
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13849,
+      "oldSpellId": 3277
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13825,
+      "oldSpellId": 3208
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13828,
+      "oldSpellId": 3211
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14308,
+      "oldSpellId": 3216
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13859,
+      "oldSpellId": 9854
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13857,
+      "oldSpellId": 9852
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13858,
+      "oldSpellId": 9853
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13860,
+      "oldSpellId": 9855
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13861,
+      "oldSpellId": 9856
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13862,
+      "oldSpellId": 9857
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13863,
+      "oldSpellId": 9858
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13864,
+      "oldSpellId": 9859
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13824,
+      "oldSpellId": 9860
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13866,
+      "oldSpellId": 9861
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13867,
+      "oldSpellId": 9862
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13868,
+      "oldSpellId": 9863
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13869,
+      "oldSpellId": 9864
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13870,
+      "oldSpellId": 9865
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13871,
+      "oldSpellId": 9866
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13872,
+      "oldSpellId": 9867
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13873,
+      "oldSpellId": 9868
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13877,
+      "oldSpellId": 9872
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13874,
+      "oldSpellId": 9869
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13875,
+      "oldSpellId": 9870
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13876,
+      "oldSpellId": 9871
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13249,
+      "oldSpellId": 88
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13242,
+      "oldSpellId": 81
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13244,
+      "oldSpellId": 83
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13254,
+      "oldSpellId": 93
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13243,
+      "oldSpellId": 82
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13252,
+      "oldSpellId": 91
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13287,
+      "oldSpellId": 9894
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13245,
+      "oldSpellId": 84
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13261,
+      "oldSpellId": 100
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13259,
+      "oldSpellId": 98
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13246,
+      "oldSpellId": 85
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13257,
+      "oldSpellId": 96
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13262,
+      "oldSpellId": 424
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13248,
+      "oldSpellId": 87
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13250,
+      "oldSpellId": 89
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13247,
+      "oldSpellId": 86
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13255,
+      "oldSpellId": 94
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13251,
+      "oldSpellId": 90
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13256,
+      "oldSpellId": 95
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13253,
+      "oldSpellId": 92
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13296,
+      "oldSpellId": 99
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13282,
+      "oldSpellId": 9889
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13281,
+      "oldSpellId": 9888
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13283,
+      "oldSpellId": 9890
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13284,
+      "oldSpellId": 9891
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13285,
+      "oldSpellId": 9892
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13299,
+      "oldSpellId": 9906
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13258,
+      "oldSpellId": 97
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13288,
+      "oldSpellId": 9895
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13289,
+      "oldSpellId": 9896
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13290,
+      "oldSpellId": 9897
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13291,
+      "oldSpellId": 9898
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13292,
+      "oldSpellId": 9899
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13301,
+      "oldSpellId": 9908
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13294,
+      "oldSpellId": 9901
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13295,
+      "oldSpellId": 9902
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 14650,
+      "oldSpellId": 9903
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13297,
+      "oldSpellId": 9904
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13293,
+      "oldSpellId": 9900
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13298,
+      "oldSpellId": 9905
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13286,
+      "oldSpellId": 9893
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13300,
+      "oldSpellId": 9907
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13387,
+      "oldSpellId": 2879
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13405,
+      "oldSpellId": 2899
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13389,
+      "oldSpellId": 2881
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13386,
+      "oldSpellId": 2872
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13403,
+      "oldSpellId": 2896
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13398,
+      "oldSpellId": 2891
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13400,
+      "oldSpellId": 2893
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13390,
+      "oldSpellId": 2882
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13388,
+      "oldSpellId": 2880
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13394,
+      "oldSpellId": 2887
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13392,
+      "oldSpellId": 2885
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13397,
+      "oldSpellId": 2890
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13402,
+      "oldSpellId": 2895
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13401,
+      "oldSpellId": 2894
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13395,
+      "oldSpellId": 2888
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13391,
+      "oldSpellId": 2883
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13399,
+      "oldSpellId": 2892
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13421,
+      "oldSpellId": 9935
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13393,
+      "oldSpellId": 2886
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13396,
+      "oldSpellId": 2889
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13424,
+      "oldSpellId": 9938
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13406,
+      "oldSpellId": 9920
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13407,
+      "oldSpellId": 9921
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13408,
+      "oldSpellId": 9922
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13409,
+      "oldSpellId": 9923
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13410,
+      "oldSpellId": 9924
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13411,
+      "oldSpellId": 9925
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13412,
+      "oldSpellId": 9926
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13413,
+      "oldSpellId": 9927
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13414,
+      "oldSpellId": 9928
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13415,
+      "oldSpellId": 9929
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13416,
+      "oldSpellId": 9930
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13417,
+      "oldSpellId": 9931
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13426,
+      "oldSpellId": 9940
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13418,
+      "oldSpellId": 9932
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13419,
+      "oldSpellId": 9933
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13420,
+      "oldSpellId": 9934
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13404,
+      "oldSpellId": 2897
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13425,
+      "oldSpellId": 9939
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13422,
+      "oldSpellId": 9936
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13423,
+      "oldSpellId": 9937
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 13385,
+      "oldSpellId": 2849
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 18535,
+      "oldSpellId": 12568
+    },
+    {
+      "ClassType_": "SpellConversion",
+      "newSpellId": 18656,
+      "oldSpellId": 12552
+    }
+  ]
+}

@@ -1,0 +1,381 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.servers",
+      "packageClass": "Server",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "nameId",
+          "type": "I18n"
+        },
+        {
+          "name": "commentId",
+          "type": "I18n"
+        },
+        {
+          "name": "openingDate",
+          "type": "Number"
+        },
+        {
+          "name": "language",
+          "type": "String"
+        },
+        {
+          "name": "populationId",
+          "type": "Integer"
+        },
+        {
+          "name": "gameTypeId",
+          "type": "Integer"
+        },
+        {
+          "name": "communityId",
+          "type": "Integer"
+        },
+        {
+          "name": "restrictedToLanguages",
+          "type": "Vector",
+          "subtype": {
+            "name": "Vector.\u003cString\u003e",
+            "type": "String"
+          }
+        },
+        {
+          "name": "monoAccount",
+          "type": "Boolean"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "Server",
+      "commentId": 455111,
+      "communityId": 12,
+      "gameTypeId": 4,
+      "id": 50,
+      "language": "en",
+      "monoAccount": false,
+      "nameId": 455110,
+      "openingDate": 1222124400000,
+      "populationId": 0,
+      "restrictedToLanguages": []
+    },
+    {
+      "ClassType_": "Server",
+      "commentId": 1070826,
+      "communityId": 12,
+      "gameTypeId": 4,
+      "id": 51,
+      "language": "en",
+      "monoAccount": false,
+      "nameId": 1070825,
+      "openingDate": 1222124400000,
+      "populationId": 0,
+      "restrictedToLanguages": []
+    },
+    {
+      "ClassType_": "Server",
+      "commentId": 59818,
+      "communityId": 2,
+      "gameTypeId": 3,
+      "id": 99,
+      "language": "fr",
+      "monoAccount": false,
+      "nameId": 558429,
+      "openingDate": 1355270400000,
+      "populationId": 2,
+      "restrictedToLanguages": []
+    },
+    {
+      "ClassType_": "Server",
+      "commentId": 968496,
+      "communityId": 2,
+      "gameTypeId": 0,
+      "id": 290,
+      "language": "en",
+      "monoAccount": false,
+      "nameId": 980596,
+      "openingDate": 1664838000000,
+      "populationId": 0,
+      "restrictedToLanguages": []
+    },
+    {
+      "ClassType_": "Server",
+      "commentId": 968511,
+      "communityId": 0,
+      "gameTypeId": 0,
+      "id": 291,
+      "language": "fr",
+      "monoAccount": false,
+      "nameId": 968505,
+      "openingDate": 1666047600000,
+      "populationId": 0,
+      "restrictedToLanguages": []
+    },
+    {
+      "ClassType_": "Server",
+      "commentId": 968524,
+      "communityId": 0,
+      "gameTypeId": 0,
+      "id": 292,
+      "language": "fr",
+      "monoAccount": false,
+      "nameId": 968518,
+      "openingDate": 1666047600000,
+      "populationId": 1,
+      "restrictedToLanguages": []
+    },
+    {
+      "ClassType_": "Server",
+      "commentId": 968536,
+      "communityId": 0,
+      "gameTypeId": 0,
+      "id": 293,
+      "language": "fr",
+      "monoAccount": false,
+      "nameId": 968530,
+      "openingDate": 1667347200000,
+      "populationId": 1,
+      "restrictedToLanguages": []
+    },
+    {
+      "ClassType_": "Server",
+      "commentId": 968548,
+      "communityId": 0,
+      "gameTypeId": 0,
+      "id": 294,
+      "language": "fr",
+      "monoAccount": false,
+      "nameId": 980601,
+      "openingDate": 1667347200000,
+      "populationId": 1,
+      "restrictedToLanguages": []
+    },
+    {
+      "ClassType_": "Server",
+      "commentId": 968560,
+      "communityId": 12,
+      "gameTypeId": 0,
+      "id": 295,
+      "language": "fr",
+      "monoAccount": true,
+      "nameId": 968554,
+      "openingDate": 1667347200000,
+      "populationId": 1,
+      "restrictedToLanguages": []
+    },
+    {
+      "ClassType_": "Server",
+      "commentId": 1039319,
+      "communityId": 12,
+      "gameTypeId": 5,
+      "id": 296,
+      "language": "en",
+      "monoAccount": true,
+      "nameId": 1041844,
+      "openingDate": 1695682800000,
+      "populationId": 2,
+      "restrictedToLanguages": []
+    },
+    {
+      "ClassType_": "Server",
+      "commentId": 1039321,
+      "communityId": 12,
+      "gameTypeId": 5,
+      "id": 297,
+      "language": "en",
+      "monoAccount": true,
+      "nameId": 1041840,
+      "openingDate": 1695682800000,
+      "populationId": 2,
+      "restrictedToLanguages": []
+    },
+    {
+      "ClassType_": "Server",
+      "commentId": 1039323,
+      "communityId": 12,
+      "gameTypeId": 5,
+      "id": 298,
+      "language": "en",
+      "monoAccount": true,
+      "nameId": 1041836,
+      "openingDate": 1695682800000,
+      "populationId": 2,
+      "restrictedToLanguages": []
+    },
+    {
+      "ClassType_": "Server",
+      "commentId": 1039325,
+      "communityId": 12,
+      "gameTypeId": 5,
+      "id": 299,
+      "language": "en",
+      "monoAccount": true,
+      "nameId": 1041832,
+      "openingDate": 1695682800000,
+      "populationId": 2,
+      "restrictedToLanguages": []
+    },
+    {
+      "ClassType_": "Server",
+      "commentId": 1039327,
+      "communityId": 12,
+      "gameTypeId": 5,
+      "id": 300,
+      "language": "en",
+      "monoAccount": true,
+      "nameId": 1041828,
+      "openingDate": 1695682800000,
+      "populationId": 2,
+      "restrictedToLanguages": []
+    },
+    {
+      "ClassType_": "Server",
+      "commentId": 1039330,
+      "communityId": 12,
+      "gameTypeId": 5,
+      "id": 301,
+      "language": "en",
+      "monoAccount": true,
+      "nameId": 1041797,
+      "openingDate": 1695682800000,
+      "populationId": 2,
+      "restrictedToLanguages": []
+    },
+    {
+      "ClassType_": "Server",
+      "commentId": 1039332,
+      "communityId": 12,
+      "gameTypeId": 5,
+      "id": 302,
+      "language": "en",
+      "monoAccount": true,
+      "nameId": 1041824,
+      "openingDate": 1695682800000,
+      "populationId": 2,
+      "restrictedToLanguages": []
+    },
+    {
+      "ClassType_": "Server",
+      "commentId": 1039334,
+      "communityId": 12,
+      "gameTypeId": 5,
+      "id": 303,
+      "language": "en",
+      "monoAccount": true,
+      "nameId": 1041820,
+      "openingDate": 1695682800000,
+      "populationId": 2,
+      "restrictedToLanguages": []
+    },
+    {
+      "ClassType_": "Server",
+      "commentId": 1039336,
+      "communityId": 12,
+      "gameTypeId": 5,
+      "id": 304,
+      "language": "en",
+      "monoAccount": true,
+      "nameId": 1041816,
+      "openingDate": 1695682800000,
+      "populationId": 2,
+      "restrictedToLanguages": []
+    },
+    {
+      "ClassType_": "Server",
+      "commentId": 1039338,
+      "communityId": 12,
+      "gameTypeId": 5,
+      "id": 305,
+      "language": "en",
+      "monoAccount": true,
+      "nameId": 1041813,
+      "openingDate": 1695682800000,
+      "populationId": 2,
+      "restrictedToLanguages": []
+    },
+    {
+      "ClassType_": "Server",
+      "commentId": 1039340,
+      "communityId": 12,
+      "gameTypeId": 5,
+      "id": 306,
+      "language": "en",
+      "monoAccount": true,
+      "nameId": 1041809,
+      "openingDate": 1695682800000,
+      "populationId": 2,
+      "restrictedToLanguages": []
+    },
+    {
+      "ClassType_": "Server",
+      "commentId": 1039342,
+      "communityId": 12,
+      "gameTypeId": 5,
+      "id": 307,
+      "language": "en",
+      "monoAccount": true,
+      "nameId": 1041805,
+      "openingDate": 1695682800000,
+      "populationId": 2,
+      "restrictedToLanguages": []
+    },
+    {
+      "ClassType_": "Server",
+      "commentId": 1039344,
+      "communityId": 12,
+      "gameTypeId": 5,
+      "id": 308,
+      "language": "en",
+      "monoAccount": true,
+      "nameId": 1041801,
+      "openingDate": 1695682800000,
+      "populationId": 2,
+      "restrictedToLanguages": []
+    },
+    {
+      "ClassType_": "Server",
+      "commentId": 59729,
+      "communityId": 12,
+      "gameTypeId": 2,
+      "id": 501,
+      "language": "en",
+      "monoAccount": false,
+      "nameId": 737056,
+      "openingDate": 1359936000000,
+      "populationId": 0,
+      "restrictedToLanguages": []
+    },
+    {
+      "ClassType_": "Server",
+      "commentId": 59824,
+      "communityId": 12,
+      "gameTypeId": 2,
+      "id": 502,
+      "language": "en",
+      "monoAccount": false,
+      "nameId": 737065,
+      "openingDate": 1359936000000,
+      "populationId": 0,
+      "restrictedToLanguages": []
+    },
+    {
+      "ClassType_": "Server",
+      "commentId": 1008974,
+      "communityId": 8,
+      "gameTypeId": 0,
+      "id": 800,
+      "language": "fr",
+      "monoAccount": false,
+      "nameId": 1008971,
+      "openingDate": 1207177200000,
+      "populationId": 0,
+      "restrictedToLanguages": []
+    }
+  ]
+}

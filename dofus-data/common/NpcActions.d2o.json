@@ -1,0 +1,120 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.npcs",
+      "packageClass": "NpcAction",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "realId",
+          "type": "Integer"
+        },
+        {
+          "name": "nameId",
+          "type": "I18n"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "NpcAction",
+      "id": 4,
+      "nameId": 307972,
+      "realId": 4
+    },
+    {
+      "ClassType_": "NpcAction",
+      "id": 3,
+      "nameId": 8941,
+      "realId": 3
+    },
+    {
+      "ClassType_": "NpcAction",
+      "id": 10,
+      "nameId": 8946,
+      "realId": 10
+    },
+    {
+      "ClassType_": "NpcAction",
+      "id": 16,
+      "nameId": 908855,
+      "realId": 16
+    },
+    {
+      "ClassType_": "NpcAction",
+      "id": 6,
+      "nameId": 8945,
+      "realId": 6
+    },
+    {
+      "ClassType_": "NpcAction",
+      "id": 15,
+      "nameId": 761274,
+      "realId": 15
+    },
+    {
+      "ClassType_": "NpcAction",
+      "id": 1,
+      "nameId": 8944,
+      "realId": 1
+    },
+    {
+      "ClassType_": "NpcAction",
+      "id": 7,
+      "nameId": 8943,
+      "realId": 7
+    },
+    {
+      "ClassType_": "NpcAction",
+      "id": 12,
+      "nameId": 429774,
+      "realId": 12
+    },
+    {
+      "ClassType_": "NpcAction",
+      "id": 9,
+      "nameId": 8947,
+      "realId": 9
+    },
+    {
+      "ClassType_": "NpcAction",
+      "id": 14,
+      "nameId": 652644,
+      "realId": 14
+    },
+    {
+      "ClassType_": "NpcAction",
+      "id": 8,
+      "nameId": 640793,
+      "realId": 8
+    },
+    {
+      "ClassType_": "NpcAction",
+      "id": 11,
+      "nameId": 429773,
+      "realId": 11
+    },
+    {
+      "ClassType_": "NpcAction",
+      "id": 17,
+      "nameId": 482709,
+      "realId": 3
+    },
+    {
+      "ClassType_": "NpcAction",
+      "id": 5,
+      "nameId": 8940,
+      "realId": 5
+    },
+    {
+      "ClassType_": "NpcAction",
+      "id": 2,
+      "nameId": 8939,
+      "realId": 2
+    }
+  ]
+}

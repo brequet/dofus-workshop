@@ -1,0 +1,154 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.communication",
+      "packageClass": "NamingRule",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "minLength",
+          "type": "Integer"
+        },
+        {
+          "name": "maxLength",
+          "type": "Integer"
+        },
+        {
+          "name": "regexp",
+          "type": "String"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "NamingRule",
+      "id": 0,
+      "maxLength": 20,
+      "minLength": 2,
+      "regexp": "^[a-zA-Z]+$"
+    },
+    {
+      "ClassType_": "NamingRule",
+      "id": 1,
+      "maxLength": 20,
+      "minLength": 2,
+      "regexp": "^([A-Z][a-z]+(\\-[a-zA-Z][a-z]*){0,2})$"
+    },
+    {
+      "ClassType_": "NamingRule",
+      "id": 2,
+      "maxLength": 30,
+      "minLength": 3,
+      "regexp": "^[a-zA-Z' -]+$"
+    },
+    {
+      "ClassType_": "NamingRule",
+      "id": 3,
+      "maxLength": 20,
+      "minLength": 2,
+      "regexp": "^([A-Z][a-z]+(\\-[a-zA-Z][a-z]*){0,2})$|^([А-ЯЁ][а-яё]+(\\-[а-яёА-ЯЁ][а-яё]*){0,2})$"
+    },
+    {
+      "ClassType_": "NamingRule",
+      "id": 4,
+      "maxLength": 20,
+      "minLength": 2,
+      "regexp": "^([А-ЯЁ][а-яё]+(\\-[а-яёА-ЯЁ][а-яё]*){0,2})$"
+    },
+    {
+      "ClassType_": "NamingRule",
+      "id": 5,
+      "maxLength": 20,
+      "minLength": 2,
+      "regexp": "^[u30A1-u30FEu3041-u309EA-Za-z\\-]+$"
+    },
+    {
+      "ClassType_": "NamingRule",
+      "id": 6,
+      "maxLength": 30,
+      "minLength": 3,
+      "regexp": "^[А-Яа-яЁё' -]+$"
+    },
+    {
+      "ClassType_": "NamingRule",
+      "id": 7,
+      "maxLength": 30,
+      "minLength": 3,
+      "regexp": "^[a-zA-Z' -]+$|^[А-Яа-яЁё' -]+$"
+    },
+    {
+      "ClassType_": "NamingRule",
+      "id": 8,
+      "maxLength": 5,
+      "minLength": 3,
+      "regexp": "^[a-zA-Z]+$"
+    },
+    {
+      "ClassType_": "NamingRule",
+      "id": 9,
+      "maxLength": 5,
+      "minLength": 3,
+      "regexp": "^[А-Яа-яЁё]+$"
+    },
+    {
+      "ClassType_": "NamingRule",
+      "id": 10,
+      "maxLength": 5,
+      "minLength": 3,
+      "regexp": "^[a-zA-Z]+$|^[А-Яа-яЁё]+$"
+    },
+    {
+      "ClassType_": "NamingRule",
+      "id": 11,
+      "maxLength": 25,
+      "minLength": 3,
+      "regexp": "^[a-zA-Z0-9' -]+$"
+    },
+    {
+      "ClassType_": "NamingRule",
+      "id": 12,
+      "maxLength": 25,
+      "minLength": 3,
+      "regexp": "^[А-Яа-яЁё0-9' -]+$"
+    },
+    {
+      "ClassType_": "NamingRule",
+      "id": 13,
+      "maxLength": 25,
+      "minLength": 3,
+      "regexp": "^[a-zA-Z0-9' -]+$|^[А-Яа-яЁё0-9' -]+$"
+    },
+    {
+      "ClassType_": "NamingRule",
+      "id": 14,
+      "maxLength": 20,
+      "minLength": 3,
+      "regexp": "^[A-Za-z0-9\\[\\]-]+$"
+    },
+    {
+      "ClassType_": "NamingRule",
+      "id": 15,
+      "maxLength": 20,
+      "minLength": 3,
+      "regexp": "^[A-Za-z\\[\\]-]+$"
+    },
+    {
+      "ClassType_": "NamingRule",
+      "id": 16,
+      "maxLength": 16,
+      "minLength": 1,
+      "regexp": "^[a-zA-Z0-9А-Яа-яЁё\\*\\[\\]@-]+$"
+    },
+    {
+      "ClassType_": "NamingRule",
+      "id": 17,
+      "maxLength": 25,
+      "minLength": 3,
+      "regexp": "^[a-zA-Z0-9' -]+$|^[А-Яа-яЁё0-9' -]+$"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.guild",
+      "packageClass": "GuildTag",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "typeId",
+          "type": "Integer"
+        },
+        {
+          "name": "nameId",
+          "type": "I18n"
+        },
+        {
+          "name": "order",
+          "type": "Integer"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "GuildTag",
+      "id": 8,
+      "nameId": 919152,
+      "order": 2,
+      "typeId": 1
+    },
+    {
+      "ClassType_": "GuildTag",
+      "id": 9,
+      "nameId": 923080,
+      "order": 0,
+      "typeId": 1
+    },
+    {
+      "ClassType_": "GuildTag",
+      "id": 11,
+      "nameId": 923076,
+      "order": 4,
+      "typeId": 1
+    },
+    {
+      "ClassType_": "GuildTag",
+      "id": 13,
+      "nameId": 919173,
+      "order": 0,
+      "typeId": 2
+    },
+    {
+      "ClassType_": "GuildTag",
+      "id": 14,
+      "nameId": 919175,
+      "order": 1,
+      "typeId": 2
+    },
+    {
+      "ClassType_": "GuildTag",
+      "id": 15,
+      "nameId": 919176,
+      "order": 2,
+      "typeId": 2
+    },
+    {
+      "ClassType_": "GuildTag",
+      "id": 16,
+      "nameId": 919177,
+      "order": 3,
+      "typeId": 2
+    },
+    {
+      "ClassType_": "GuildTag",
+      "id": 17,
+      "nameId": 927299,
+      "order": 4,
+      "typeId": 2
+    },
+    {
+      "ClassType_": "GuildTag",
+      "id": 18,
+      "nameId": 923079,
+      "order": 5,
+      "typeId": 2
+    },
+    {
+      "ClassType_": "GuildTag",
+      "id": 19,
+      "nameId": 919180,
+      "order": 6,
+      "typeId": 2
+    },
+    {
+      "ClassType_": "GuildTag",
+      "id": 20,
+      "nameId": 919181,
+      "order": 7,
+      "typeId": 2
+    },
+    {
+      "ClassType_": "GuildTag",
+      "id": 22,
+      "nameId": 923067,
+      "order": 0,
+      "typeId": 3
+    },
+    {
+      "ClassType_": "GuildTag",
+      "id": 23,
+      "nameId": 923068,
+      "order": 3,
+      "typeId": 3
+    },
+    {
+      "ClassType_": "GuildTag",
+      "id": 24,
+      "nameId": 919185,
+      "order": 2,
+      "typeId": 3
+    },
+    {
+      "ClassType_": "GuildTag",
+      "id": 25,
+      "nameId": 919186,
+      "order": 5,
+      "typeId": 3
+    },
+    {
+      "ClassType_": "GuildTag",
+      "id": 26,
+      "nameId": 919187,
+      "order": 1,
+      "typeId": 3
+    },
+    {
+      "ClassType_": "GuildTag",
+      "id": 27,
+      "nameId": 919188,
+      "order": 4,
+      "typeId": 3
+    },
+    {
+      "ClassType_": "GuildTag",
+      "id": 28,
+      "nameId": 923069,
+      "order": 6,
+      "typeId": 3
+    },
+    {
+      "ClassType_": "GuildTag",
+      "id": 29,
+      "nameId": 923066,
+      "order": 3,
+      "typeId": 1
+    }
+  ]
+}

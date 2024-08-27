@@ -1,0 +1,225 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.misc",
+      "packageClass": "Tips",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "descId",
+          "type": "I18n"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "Tips",
+      "descId": 756756,
+      "id": 1
+    },
+    {
+      "ClassType_": "Tips",
+      "descId": 65446,
+      "id": 2
+    },
+    {
+      "ClassType_": "Tips",
+      "descId": 65467,
+      "id": 3
+    },
+    {
+      "ClassType_": "Tips",
+      "descId": 544457,
+      "id": 4
+    },
+    {
+      "ClassType_": "Tips",
+      "descId": 65450,
+      "id": 5
+    },
+    {
+      "ClassType_": "Tips",
+      "descId": 65465,
+      "id": 6
+    },
+    {
+      "ClassType_": "Tips",
+      "descId": 65459,
+      "id": 7
+    },
+    {
+      "ClassType_": "Tips",
+      "descId": 65444,
+      "id": 9
+    },
+    {
+      "ClassType_": "Tips",
+      "descId": 65473,
+      "id": 11
+    },
+    {
+      "ClassType_": "Tips",
+      "descId": 345832,
+      "id": 12
+    },
+    {
+      "ClassType_": "Tips",
+      "descId": 424139,
+      "id": 13
+    },
+    {
+      "ClassType_": "Tips",
+      "descId": 202339,
+      "id": 14
+    },
+    {
+      "ClassType_": "Tips",
+      "descId": 65470,
+      "id": 15
+    },
+    {
+      "ClassType_": "Tips",
+      "descId": 65453,
+      "id": 16
+    },
+    {
+      "ClassType_": "Tips",
+      "descId": 1010994,
+      "id": 17
+    },
+    {
+      "ClassType_": "Tips",
+      "descId": 65451,
+      "id": 20
+    },
+    {
+      "ClassType_": "Tips",
+      "descId": 227463,
+      "id": 21
+    },
+    {
+      "ClassType_": "Tips",
+      "descId": 65454,
+      "id": 23
+    },
+    {
+      "ClassType_": "Tips",
+      "descId": 281036,
+      "id": 24
+    },
+    {
+      "ClassType_": "Tips",
+      "descId": 377856,
+      "id": 25
+    },
+    {
+      "ClassType_": "Tips",
+      "descId": 332592,
+      "id": 26
+    },
+    {
+      "ClassType_": "Tips",
+      "descId": 1010995,
+      "id": 27
+    },
+    {
+      "ClassType_": "Tips",
+      "descId": 65456,
+      "id": 29
+    },
+    {
+      "ClassType_": "Tips",
+      "descId": 65457,
+      "id": 33
+    },
+    {
+      "ClassType_": "Tips",
+      "descId": 202326,
+      "id": 34
+    },
+    {
+      "ClassType_": "Tips",
+      "descId": 769239,
+      "id": 36
+    },
+    {
+      "ClassType_": "Tips",
+      "descId": 424500,
+      "id": 39
+    },
+    {
+      "ClassType_": "Tips",
+      "descId": 87622,
+      "id": 41
+    },
+    {
+      "ClassType_": "Tips",
+      "descId": 65478,
+      "id": 43
+    },
+    {
+      "ClassType_": "Tips",
+      "descId": 335545,
+      "id": 45
+    },
+    {
+      "ClassType_": "Tips",
+      "descId": 94686,
+      "id": 46
+    },
+    {
+      "ClassType_": "Tips",
+      "descId": 138528,
+      "id": 47
+    },
+    {
+      "ClassType_": "Tips",
+      "descId": 94683,
+      "id": 49
+    },
+    {
+      "ClassType_": "Tips",
+      "descId": 94684,
+      "id": 50
+    },
+    {
+      "ClassType_": "Tips",
+      "descId": 144839,
+      "id": 51
+    },
+    {
+      "ClassType_": "Tips",
+      "descId": 100782,
+      "id": 52
+    },
+    {
+      "ClassType_": "Tips",
+      "descId": 108586,
+      "id": 53
+    },
+    {
+      "ClassType_": "Tips",
+      "descId": 108585,
+      "id": 55
+    },
+    {
+      "ClassType_": "Tips",
+      "descId": 322219,
+      "id": 56
+    },
+    {
+      "ClassType_": "Tips",
+      "descId": 1058153,
+      "id": 58
+    },
+    {
+      "ClassType_": "Tips",
+      "descId": 718674,
+      "id": 60
+    }
+  ]
+}

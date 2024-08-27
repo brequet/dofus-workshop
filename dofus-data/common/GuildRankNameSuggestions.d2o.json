@@ -1,0 +1,152 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.guild",
+      "packageClass": "GuildRankNameSuggestion",
+      "fields": [
+        {
+          "name": "uiKey",
+          "type": "String"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "GuildRankNameSuggestion",
+      "uiKey": "guildRanks.name.suggestion.002"
+    },
+    {
+      "ClassType_": "GuildRankNameSuggestion",
+      "uiKey": "guildRanks.name.suggestion.003"
+    },
+    {
+      "ClassType_": "GuildRankNameSuggestion",
+      "uiKey": "guildRanks.name.suggestion.004"
+    },
+    {
+      "ClassType_": "GuildRankNameSuggestion",
+      "uiKey": "guildRanks.name.suggestion.005"
+    },
+    {
+      "ClassType_": "GuildRankNameSuggestion",
+      "uiKey": "guildRanks.name.suggestion.006"
+    },
+    {
+      "ClassType_": "GuildRankNameSuggestion",
+      "uiKey": "guildRanks.name.suggestion.007"
+    },
+    {
+      "ClassType_": "GuildRankNameSuggestion",
+      "uiKey": "guildRanks.name.suggestion.008"
+    },
+    {
+      "ClassType_": "GuildRankNameSuggestion",
+      "uiKey": "guildRanks.name.suggestion.009"
+    },
+    {
+      "ClassType_": "GuildRankNameSuggestion",
+      "uiKey": "guildRanks.name.suggestion.010"
+    },
+    {
+      "ClassType_": "GuildRankNameSuggestion",
+      "uiKey": "guildRanks.name.suggestion.011"
+    },
+    {
+      "ClassType_": "GuildRankNameSuggestion",
+      "uiKey": "guildRanks.name.suggestion.082"
+    },
+    {
+      "ClassType_": "GuildRankNameSuggestion",
+      "uiKey": "guildRanks.name.suggestion.084"
+    },
+    {
+      "ClassType_": "GuildRankNameSuggestion",
+      "uiKey": "guildRanks.name.suggestion.085"
+    },
+    {
+      "ClassType_": "GuildRankNameSuggestion",
+      "uiKey": "guildRanks.name.suggestion.086"
+    },
+    {
+      "ClassType_": "GuildRankNameSuggestion",
+      "uiKey": "guildRanks.name.suggestion.087"
+    },
+    {
+      "ClassType_": "GuildRankNameSuggestion",
+      "uiKey": "guildRanks.name.suggestion.088"
+    },
+    {
+      "ClassType_": "GuildRankNameSuggestion",
+      "uiKey": "guildRanks.name.suggestion.089"
+    },
+    {
+      "ClassType_": "GuildRankNameSuggestion",
+      "uiKey": "guildRanks.name.suggestion.090"
+    },
+    {
+      "ClassType_": "GuildRankNameSuggestion",
+      "uiKey": "guildRanks.name.suggestion.091"
+    },
+    {
+      "ClassType_": "GuildRankNameSuggestion",
+      "uiKey": "guildRanks.name.suggestion.092"
+    },
+    {
+      "ClassType_": "GuildRankNameSuggestion",
+      "uiKey": "guildRanks.name.suggestion.093"
+    },
+    {
+      "ClassType_": "GuildRankNameSuggestion",
+      "uiKey": "guildRanks.name.suggestion.094"
+    },
+    {
+      "ClassType_": "GuildRankNameSuggestion",
+      "uiKey": "guildRanks.name.suggestion.095"
+    },
+    {
+      "ClassType_": "GuildRankNameSuggestion",
+      "uiKey": "guildRanks.name.suggestion.096"
+    },
+    {
+      "ClassType_": "GuildRankNameSuggestion",
+      "uiKey": "guildRanks.name.suggestion.097"
+    },
+    {
+      "ClassType_": "GuildRankNameSuggestion",
+      "uiKey": "guildRanks.name.suggestion.098"
+    },
+    {
+      "ClassType_": "GuildRankNameSuggestion",
+      "uiKey": "guildRanks.name.suggestion.100"
+    },
+    {
+      "ClassType_": "GuildRankNameSuggestion",
+      "uiKey": "guildRanks.name.suggestion.103"
+    },
+    {
+      "ClassType_": "GuildRankNameSuggestion",
+      "uiKey": "guildRanks.name.suggestion.104"
+    },
+    {
+      "ClassType_": "GuildRankNameSuggestion",
+      "uiKey": "guildRanks.name.suggestion.105"
+    },
+    {
+      "ClassType_": "GuildRankNameSuggestion",
+      "uiKey": "guildRanks.name.suggestion.110"
+    },
+    {
+      "ClassType_": "GuildRankNameSuggestion",
+      "uiKey": "guildRanks.name.suggestion.120"
+    },
+    {
+      "ClassType_": "GuildRankNameSuggestion",
+      "uiKey": "guildRanks.name.suggestion.150"
+    },
+    {
+      "ClassType_": "GuildRankNameSuggestion",
+      "uiKey": "guildRanks.name.suggestion.200"
+    }
+  ]
+}

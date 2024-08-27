@@ -1,0 +1,35 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.guild",
+      "packageClass": "GuildTagsType",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "nameId",
+          "type": "I18n"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "GuildTagsType",
+      "id": 1,
+      "nameId": 919130
+    },
+    {
+      "ClassType_": "GuildTagsType",
+      "id": 2,
+      "nameId": 919144
+    },
+    {
+      "ClassType_": "GuildTagsType",
+      "id": 3,
+      "nameId": 919147
+    }
+  ]
+}

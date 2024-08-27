@@ -1,0 +1,30 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.breach",
+      "packageClass": "BreachInfinityLevel",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "nameId",
+          "type": "I18n"
+        },
+        {
+          "name": "level",
+          "type": "Integer"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "BreachInfinityLevel",
+      "id": 8,
+      "level": 0,
+      "nameId": 819243
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.alliance",
+      "packageClass": "AllianceRankNameSuggestion",
+      "fields": [
+        {
+          "name": "uiKey",
+          "type": "String"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "AllianceRankNameSuggestion",
+      "uiKey": "allianceRanks.name.suggestion.001"
+    },
+    {
+      "ClassType_": "AllianceRankNameSuggestion",
+      "uiKey": "allianceRanks.name.suggestion.002"
+    },
+    {
+      "ClassType_": "AllianceRankNameSuggestion",
+      "uiKey": "allianceRanks.name.suggestion.003"
+    },
+    {
+      "ClassType_": "AllianceRankNameSuggestion",
+      "uiKey": "allianceRanks.name.suggestion.004"
+    },
+    {
+      "ClassType_": "AllianceRankNameSuggestion",
+      "uiKey": "allianceRanks.name.suggestion.005"
+    },
+    {
+      "ClassType_": "AllianceRankNameSuggestion",
+      "uiKey": "allianceRanks.name.suggestion.006"
+    },
+    {
+      "ClassType_": "AllianceRankNameSuggestion",
+      "uiKey": "allianceRanks.name.suggestion.007"
+    },
+    {
+      "ClassType_": "AllianceRankNameSuggestion",
+      "uiKey": "allianceRanks.name.suggestion.008"
+    },
+    {
+      "ClassType_": "AllianceRankNameSuggestion",
+      "uiKey": "allianceRanks.name.suggestion.009"
+    },
+    {
+      "ClassType_": "AllianceRankNameSuggestion",
+      "uiKey": "allianceRanks.name.suggestion.010"
+    },
+    {
+      "ClassType_": "AllianceRankNameSuggestion",
+      "uiKey": "allianceRanks.name.suggestion.011"
+    },
+    {
+      "ClassType_": "AllianceRankNameSuggestion",
+      "uiKey": "allianceRanks.name.suggestion.012"
+    },
+    {
+      "ClassType_": "AllianceRankNameSuggestion",
+      "uiKey": "allianceRanks.name.suggestion.013"
+    },
+    {
+      "ClassType_": "AllianceRankNameSuggestion",
+      "uiKey": "allianceRanks.name.suggestion.014"
+    },
+    {
+      "ClassType_": "AllianceRankNameSuggestion",
+      "uiKey": "allianceRanks.name.suggestion.015"
+    },
+    {
+      "ClassType_": "AllianceRankNameSuggestion",
+      "uiKey": "allianceRanks.name.suggestion.016"
+    },
+    {
+      "ClassType_": "AllianceRankNameSuggestion",
+      "uiKey": "allianceRanks.name.suggestion.017"
+    },
+    {
+      "ClassType_": "AllianceRankNameSuggestion",
+      "uiKey": "allianceRanks.name.suggestion.018"
+    }
+  ]
+}

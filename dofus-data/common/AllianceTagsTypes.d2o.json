@@ -1,0 +1,35 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.alliance",
+      "packageClass": "AllianceTagsType",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "nameId",
+          "type": "I18n"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "AllianceTagsType",
+      "id": 1,
+      "nameId": 1001980
+    },
+    {
+      "ClassType_": "AllianceTagsType",
+      "id": 2,
+      "nameId": 1001979
+    },
+    {
+      "ClassType_": "AllianceTagsType",
+      "id": 3,
+      "nameId": 990596
+    }
+  ]
+}

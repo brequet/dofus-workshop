@@ -1,0 +1,329 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.items",
+      "packageClass": "LegendaryPowerCategory",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "categoryName",
+          "type": "String"
+        },
+        {
+          "name": "categoryOverridable",
+          "type": "Boolean"
+        },
+        {
+          "name": "categorySpells",
+          "type": "Vector",
+          "subtype": {
+            "name": "Vector.\u003cint\u003e",
+            "type": "Integer"
+          }
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "LegendaryPowerCategory",
+      "categoryName": "Persévérance de la Léolhyène",
+      "categoryOverridable": true,
+      "categorySpells": [
+        29821
+      ],
+      "id": 32
+    },
+    {
+      "ClassType_": "LegendaryPowerCategory",
+      "categoryName": "Toile de l'Arakne",
+      "categoryOverridable": true,
+      "categorySpells": [
+        12480
+      ],
+      "id": 18
+    },
+    {
+      "ClassType_": "LegendaryPowerCategory",
+      "categoryName": "Robustesse du Craqueleur",
+      "categoryOverridable": true,
+      "categorySpells": [
+        12489
+      ],
+      "id": 13
+    },
+    {
+      "ClassType_": "LegendaryPowerCategory",
+      "categoryName": "Empathie de la Boursoin",
+      "categoryOverridable": true,
+      "categorySpells": [
+        12506
+      ],
+      "id": 26
+    },
+    {
+      "ClassType_": "LegendaryPowerCategory",
+      "categoryName": "Protection de la Krokille",
+      "categoryOverridable": true,
+      "categorySpells": [
+        12490
+      ],
+      "id": 12
+    },
+    {
+      "ClassType_": "LegendaryPowerCategory",
+      "categoryName": "Écorce de l'Abraknyde",
+      "categoryOverridable": true,
+      "categorySpells": [
+        12498
+      ],
+      "id": 14
+    },
+    {
+      "ClassType_": "LegendaryPowerCategory",
+      "categoryName": "Évasion du Kitsou",
+      "categoryOverridable": true,
+      "categorySpells": [
+        12479
+      ],
+      "id": 20
+    },
+    {
+      "ClassType_": "LegendaryPowerCategory",
+      "categoryName": "Rage du Mulou",
+      "categoryOverridable": true,
+      "categorySpells": [
+        12486
+      ],
+      "id": 3
+    },
+    {
+      "ClassType_": "LegendaryPowerCategory",
+      "categoryName": "Douceur de la Boufette",
+      "categoryOverridable": true,
+      "categorySpells": [
+        12488
+      ],
+      "id": 8
+    },
+    {
+      "ClassType_": "LegendaryPowerCategory",
+      "categoryName": "Acuité du Noeul",
+      "categoryOverridable": true,
+      "categorySpells": [
+        23153
+      ],
+      "id": 24
+    },
+    {
+      "ClassType_": "LegendaryPowerCategory",
+      "categoryName": "Patience du Thomondor",
+      "categoryOverridable": true,
+      "categorySpells": [
+        29820
+      ],
+      "id": 31
+    },
+    {
+      "ClassType_": "LegendaryPowerCategory",
+      "categoryName": "Brutalité du Trool",
+      "categoryOverridable": true,
+      "categorySpells": [
+        12484
+      ],
+      "id": 5
+    },
+    {
+      "ClassType_": "LegendaryPowerCategory",
+      "categoryName": "Appel du Pandore",
+      "categoryOverridable": true,
+      "categorySpells": [
+        12501
+      ],
+      "id": 23
+    },
+    {
+      "ClassType_": "LegendaryPowerCategory",
+      "categoryName": "Sérénité du Bambouto",
+      "categoryOverridable": true,
+      "categorySpells": [
+        29822
+      ],
+      "id": 33
+    },
+    {
+      "ClassType_": "LegendaryPowerCategory",
+      "categoryName": "Piquant du Prespic",
+      "categoryOverridable": true,
+      "categorySpells": [
+        29824
+      ],
+      "id": 35
+    },
+    {
+      "ClassType_": "LegendaryPowerCategory",
+      "categoryName": "Dévouement de la Domoizelle",
+      "categoryOverridable": true,
+      "categorySpells": [
+        12503
+      ],
+      "id": 15
+    },
+    {
+      "ClassType_": "LegendaryPowerCategory",
+      "categoryName": "Toxicité du Scorbute",
+      "categoryOverridable": true,
+      "categorySpells": [
+        12505
+      ],
+      "id": 22
+    },
+    {
+      "ClassType_": "LegendaryPowerCategory",
+      "categoryName": "Soif du Moskito",
+      "categoryOverridable": true,
+      "categorySpells": [
+        12482
+      ],
+      "id": 4
+    },
+    {
+      "ClassType_": "LegendaryPowerCategory",
+      "categoryName": "Entrave du Dragoeuf",
+      "categoryOverridable": true,
+      "categorySpells": [
+        12502
+      ],
+      "id": 28
+    },
+    {
+      "ClassType_": "LegendaryPowerCategory",
+      "categoryName": "Agitation du Kozaru",
+      "categoryOverridable": true,
+      "categorySpells": [
+        23152
+      ],
+      "id": 21
+    },
+    {
+      "ClassType_": "LegendaryPowerCategory",
+      "categoryName": "Immortalité du Chafer",
+      "categoryOverridable": true,
+      "categorySpells": [
+        12497
+      ],
+      "id": 11
+    },
+    {
+      "ClassType_": "LegendaryPowerCategory",
+      "categoryName": "Altruisme du Champa",
+      "categoryOverridable": true,
+      "categorySpells": [
+        12499
+      ],
+      "id": 25
+    },
+    {
+      "ClassType_": "LegendaryPowerCategory",
+      "categoryName": "Hystérie de la Truche",
+      "categoryOverridable": true,
+      "categorySpells": [
+        12481
+      ],
+      "id": 17
+    },
+    {
+      "ClassType_": "LegendaryPowerCategory",
+      "categoryName": "Bienveillance de la Tofoune",
+      "categoryOverridable": true,
+      "categorySpells": [
+        12500
+      ],
+      "id": 27
+    },
+    {
+      "ClassType_": "LegendaryPowerCategory",
+      "categoryName": "Barbarie du Kanig",
+      "categoryOverridable": true,
+      "categorySpells": [
+        23151
+      ],
+      "id": 6
+    },
+    {
+      "ClassType_": "LegendaryPowerCategory",
+      "categoryName": "Célérité du Piou",
+      "categoryOverridable": true,
+      "categorySpells": [
+        12475
+      ],
+      "id": 16
+    },
+    {
+      "ClassType_": "LegendaryPowerCategory",
+      "categoryName": "Générosité du Bwak",
+      "categoryOverridable": true,
+      "categorySpells": [
+        12487
+      ],
+      "id": 29
+    },
+    {
+      "ClassType_": "LegendaryPowerCategory",
+      "categoryName": "Réconfort du Timansot",
+      "categoryOverridable": true,
+      "categorySpells": [
+        29823
+      ],
+      "id": 34
+    },
+    {
+      "ClassType_": "LegendaryPowerCategory",
+      "categoryName": "Précision du Bwork",
+      "categoryOverridable": true,
+      "categorySpells": [
+        12485
+      ],
+      "id": 1
+    },
+    {
+      "ClassType_": "LegendaryPowerCategory",
+      "categoryName": "Épargne du Koalak",
+      "categoryOverridable": true,
+      "categorySpells": [
+        12477
+      ],
+      "id": 19
+    },
+    {
+      "ClassType_": "LegendaryPowerCategory",
+      "categoryName": "Gourmandise du Gloutoblop",
+      "categoryOverridable": true,
+      "categorySpells": [
+        12492
+      ],
+      "id": 9
+    },
+    {
+      "ClassType_": "LegendaryPowerCategory",
+      "categoryName": "Impatience du Wabbit",
+      "categoryOverridable": true,
+      "categorySpells": [
+        12483
+      ],
+      "id": 2
+    },
+    {
+      "ClassType_": "LegendaryPowerCategory",
+      "categoryName": "Carapace du Scarafeuille",
+      "categoryOverridable": true,
+      "categorySpells": [
+        29819
+      ],
+      "id": 30
+    }
+  ]
+}

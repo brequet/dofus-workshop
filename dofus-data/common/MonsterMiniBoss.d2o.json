@@ -1,0 +1,1550 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.monsters",
+      "packageClass": "MonsterMiniBoss",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "monsterReplacingId",
+          "type": "Integer"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2270,
+      "monsterReplacingId": 784
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2271,
+      "monsterReplacingId": 786
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2272,
+      "monsterReplacingId": 923
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2273,
+      "monsterReplacingId": 442
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2275,
+      "monsterReplacingId": 449
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2276,
+      "monsterReplacingId": 108
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2277,
+      "monsterReplacingId": 467
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2278,
+      "monsterReplacingId": 6254
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2279,
+      "monsterReplacingId": 297
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2280,
+      "monsterReplacingId": 241
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2281,
+      "monsterReplacingId": 198
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2282,
+      "monsterReplacingId": 194
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2283,
+      "monsterReplacingId": 240
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2285,
+      "monsterReplacingId": 298
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2286,
+      "monsterReplacingId": 288
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2287,
+      "monsterReplacingId": 829
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2289,
+      "monsterReplacingId": 393
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2292,
+      "monsterReplacingId": 208
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2293,
+      "monsterReplacingId": 96
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2294,
+      "monsterReplacingId": 72
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2295,
+      "monsterReplacingId": 221
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2296,
+      "monsterReplacingId": 222
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2297,
+      "monsterReplacingId": 220
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2298,
+      "monsterReplacingId": 223
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2299,
+      "monsterReplacingId": 256
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2300,
+      "monsterReplacingId": 233
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2301,
+      "monsterReplacingId": 215
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2302,
+      "monsterReplacingId": 127
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2303,
+      "monsterReplacingId": 6251
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2304,
+      "monsterReplacingId": 64
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2305,
+      "monsterReplacingId": 179
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2306,
+      "monsterReplacingId": 746
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2307,
+      "monsterReplacingId": 745
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2308,
+      "monsterReplacingId": 97
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2309,
+      "monsterReplacingId": 47
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2310,
+      "monsterReplacingId": 52
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2311,
+      "monsterReplacingId": 259
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2312,
+      "monsterReplacingId": 474
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2313,
+      "monsterReplacingId": 466
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2314,
+      "monsterReplacingId": 155
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2315,
+      "monsterReplacingId": 134
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2316,
+      "monsterReplacingId": 149
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2317,
+      "monsterReplacingId": 101
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2318,
+      "monsterReplacingId": 153
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2319,
+      "monsterReplacingId": 54
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2320,
+      "monsterReplacingId": 291
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2321,
+      "monsterReplacingId": 110
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2322,
+      "monsterReplacingId": 290
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2323,
+      "monsterReplacingId": 59
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2324,
+      "monsterReplacingId": 148
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2325,
+      "monsterReplacingId": 123
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2326,
+      "monsterReplacingId": 483
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2327,
+      "monsterReplacingId": 63
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2328,
+      "monsterReplacingId": 119
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2329,
+      "monsterReplacingId": 4559
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2331,
+      "monsterReplacingId": 46
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2332,
+      "monsterReplacingId": 34
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2333,
+      "monsterReplacingId": 159
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2334,
+      "monsterReplacingId": 475
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2335,
+      "monsterReplacingId": 118
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2336,
+      "monsterReplacingId": 61
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2337,
+      "monsterReplacingId": 102
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2338,
+      "monsterReplacingId": 921
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2339,
+      "monsterReplacingId": 5225
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2340,
+      "monsterReplacingId": 920
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2341,
+      "monsterReplacingId": 491
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2342,
+      "monsterReplacingId": 493
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2343,
+      "monsterReplacingId": 492
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2344,
+      "monsterReplacingId": 489
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2345,
+      "monsterReplacingId": 490
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2346,
+      "monsterReplacingId": 922
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2347,
+      "monsterReplacingId": 236
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2348,
+      "monsterReplacingId": 79
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2349,
+      "monsterReplacingId": 103
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2350,
+      "monsterReplacingId": 465
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2351,
+      "monsterReplacingId": 926
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2352,
+      "monsterReplacingId": 78
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2353,
+      "monsterReplacingId": 104
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2354,
+      "monsterReplacingId": 126
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2355,
+      "monsterReplacingId": 98
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2356,
+      "monsterReplacingId": 473
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2357,
+      "monsterReplacingId": 111
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2358,
+      "monsterReplacingId": 48
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2359,
+      "monsterReplacingId": 371
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2360,
+      "monsterReplacingId": 1075
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2361,
+      "monsterReplacingId": 1058
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2363,
+      "monsterReplacingId": 1059
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2367,
+      "monsterReplacingId": 235
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2368,
+      "monsterReplacingId": 84
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2369,
+      "monsterReplacingId": 81
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2370,
+      "monsterReplacingId": 6383
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2371,
+      "monsterReplacingId": 56
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2372,
+      "monsterReplacingId": 88
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2373,
+      "monsterReplacingId": 1157
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2374,
+      "monsterReplacingId": 6386
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2376,
+      "monsterReplacingId": 57
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2377,
+      "monsterReplacingId": 76
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2378,
+      "monsterReplacingId": 299
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2379,
+      "monsterReplacingId": 171
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2381,
+      "monsterReplacingId": 1047
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2382,
+      "monsterReplacingId": 1020
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2383,
+      "monsterReplacingId": 1043
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2384,
+      "monsterReplacingId": 384
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2385,
+      "monsterReplacingId": 650
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2386,
+      "monsterReplacingId": 651
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2388,
+      "monsterReplacingId": 253
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2389,
+      "monsterReplacingId": 254
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2391,
+      "monsterReplacingId": 385
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2392,
+      "monsterReplacingId": 6320
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2393,
+      "monsterReplacingId": 255
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2396,
+      "monsterReplacingId": 277
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2397,
+      "monsterReplacingId": 344
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2398,
+      "monsterReplacingId": 6215
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2399,
+      "monsterReplacingId": 278
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2400,
+      "monsterReplacingId": 279
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2401,
+      "monsterReplacingId": 280
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2402,
+      "monsterReplacingId": 68
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2403,
+      "monsterReplacingId": 65
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2404,
+      "monsterReplacingId": 273
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2405,
+      "monsterReplacingId": 275
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2406,
+      "monsterReplacingId": 274
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2407,
+      "monsterReplacingId": 276
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2408,
+      "monsterReplacingId": 228
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2411,
+      "monsterReplacingId": 4560
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2412,
+      "monsterReplacingId": 6217
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2413,
+      "monsterReplacingId": 4558
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2414,
+      "monsterReplacingId": 6221
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2415,
+      "monsterReplacingId": 6321
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2416,
+      "monsterReplacingId": 876
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2417,
+      "monsterReplacingId": 74
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2418,
+      "monsterReplacingId": 53
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2419,
+      "monsterReplacingId": 231
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2420,
+      "monsterReplacingId": 343
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2421,
+      "monsterReplacingId": 396
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2422,
+      "monsterReplacingId": 292
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2423,
+      "monsterReplacingId": 447
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2424,
+      "monsterReplacingId": 654
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2425,
+      "monsterReplacingId": 655
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2426,
+      "monsterReplacingId": 653
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2427,
+      "monsterReplacingId": 652
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2428,
+      "monsterReplacingId": 263
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2429,
+      "monsterReplacingId": 759
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2430,
+      "monsterReplacingId": 62
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2431,
+      "monsterReplacingId": 927
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2432,
+      "monsterReplacingId": 603
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2433,
+      "monsterReplacingId": 386
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2434,
+      "monsterReplacingId": 6223
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2436,
+      "monsterReplacingId": 106
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2437,
+      "monsterReplacingId": 281
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2438,
+      "monsterReplacingId": 293
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2439,
+      "monsterReplacingId": 261
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2440,
+      "monsterReplacingId": 3096
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2442,
+      "monsterReplacingId": 747
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2445,
+      "monsterReplacingId": 4574
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2446,
+      "monsterReplacingId": 4547
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2447,
+      "monsterReplacingId": 294
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2448,
+      "monsterReplacingId": 4548
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2449,
+      "monsterReplacingId": 89
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2450,
+      "monsterReplacingId": 87
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2451,
+      "monsterReplacingId": 83
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2452,
+      "monsterReplacingId": 862
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2453,
+      "monsterReplacingId": 3304
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2454,
+      "monsterReplacingId": 878
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2455,
+      "monsterReplacingId": 4575
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2456,
+      "monsterReplacingId": 879
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2457,
+      "monsterReplacingId": 954
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2458,
+      "monsterReplacingId": 858
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2459,
+      "monsterReplacingId": 5804
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2460,
+      "monsterReplacingId": 905
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2461,
+      "monsterReplacingId": 855
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2462,
+      "monsterReplacingId": 763
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2464,
+      "monsterReplacingId": 853
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2465,
+      "monsterReplacingId": 200
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2466,
+      "monsterReplacingId": 932
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2467,
+      "monsterReplacingId": 378
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2468,
+      "monsterReplacingId": 379
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2469,
+      "monsterReplacingId": 6384
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2470,
+      "monsterReplacingId": 6391
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2471,
+      "monsterReplacingId": 6385
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2472,
+      "monsterReplacingId": 3558
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2473,
+      "monsterReplacingId": 3559
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2474,
+      "monsterReplacingId": 3560
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2475,
+      "monsterReplacingId": 3561
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2476,
+      "monsterReplacingId": 3562
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2477,
+      "monsterReplacingId": 6392
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2482,
+      "monsterReplacingId": 761
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2483,
+      "monsterReplacingId": 6390
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2484,
+      "monsterReplacingId": 217
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2486,
+      "monsterReplacingId": 498
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2487,
+      "monsterReplacingId": 55
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2493,
+      "monsterReplacingId": 387
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2494,
+      "monsterReplacingId": 178
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2495,
+      "monsterReplacingId": 216
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2497,
+      "monsterReplacingId": 749
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2498,
+      "monsterReplacingId": 99
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2502,
+      "monsterReplacingId": 211
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2503,
+      "monsterReplacingId": 287
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2505,
+      "monsterReplacingId": 214
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2506,
+      "monsterReplacingId": 212
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2507,
+      "monsterReplacingId": 213
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2508,
+      "monsterReplacingId": 388
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2509,
+      "monsterReplacingId": 751
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2510,
+      "monsterReplacingId": 6231
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2511,
+      "monsterReplacingId": 6214
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2512,
+      "monsterReplacingId": 6216
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2513,
+      "monsterReplacingId": 752
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2514,
+      "monsterReplacingId": 756
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2515,
+      "monsterReplacingId": 785
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2516,
+      "monsterReplacingId": 753
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2517,
+      "monsterReplacingId": 748
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2518,
+      "monsterReplacingId": 754
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2519,
+      "monsterReplacingId": 744
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2520,
+      "monsterReplacingId": 300
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2521,
+      "monsterReplacingId": 836
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2522,
+      "monsterReplacingId": 154
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2524,
+      "monsterReplacingId": 496
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2525,
+      "monsterReplacingId": 389
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2526,
+      "monsterReplacingId": 6253
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2527,
+      "monsterReplacingId": 6222
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2528,
+      "monsterReplacingId": 755
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2529,
+      "monsterReplacingId": 835
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2531,
+      "monsterReplacingId": 758
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2532,
+      "monsterReplacingId": 124
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2533,
+      "monsterReplacingId": 834
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2534,
+      "monsterReplacingId": 760
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2538,
+      "monsterReplacingId": 229
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2539,
+      "monsterReplacingId": 390
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2540,
+      "monsterReplacingId": 391
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2541,
+      "monsterReplacingId": 218
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2542,
+      "monsterReplacingId": 150
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2543,
+      "monsterReplacingId": 4571
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2544,
+      "monsterReplacingId": 1077
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2545,
+      "monsterReplacingId": 1049
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2546,
+      "monsterReplacingId": 1041
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2547,
+      "monsterReplacingId": 1019
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2548,
+      "monsterReplacingId": 6318
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2549,
+      "monsterReplacingId": 112
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2550,
+      "monsterReplacingId": 1073
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2551,
+      "monsterReplacingId": 1158
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2552,
+      "monsterReplacingId": 1155
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2553,
+      "monsterReplacingId": 1154
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2554,
+      "monsterReplacingId": 1076
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2555,
+      "monsterReplacingId": 1022
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2556,
+      "monsterReplacingId": 1026
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2557,
+      "monsterReplacingId": 1060
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2558,
+      "monsterReplacingId": 1061
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2559,
+      "monsterReplacingId": 1063
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2560,
+      "monsterReplacingId": 1062
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2561,
+      "monsterReplacingId": 1025
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2562,
+      "monsterReplacingId": 1055
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2563,
+      "monsterReplacingId": 380
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2564,
+      "monsterReplacingId": 6389
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2565,
+      "monsterReplacingId": 1029
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2566,
+      "monsterReplacingId": 1053
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2567,
+      "monsterReplacingId": 783
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2568,
+      "monsterReplacingId": 668
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2569,
+      "monsterReplacingId": 1054
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2570,
+      "monsterReplacingId": 1044
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2571,
+      "monsterReplacingId": 1069
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2572,
+      "monsterReplacingId": 1070
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2573,
+      "monsterReplacingId": 209
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2574,
+      "monsterReplacingId": 31
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2575,
+      "monsterReplacingId": 1096
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2577,
+      "monsterReplacingId": 1046
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2578,
+      "monsterReplacingId": 1052
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2579,
+      "monsterReplacingId": 1074
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2580,
+      "monsterReplacingId": 1068
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2581,
+      "monsterReplacingId": 1064
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2582,
+      "monsterReplacingId": 1065
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2583,
+      "monsterReplacingId": 1067
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2584,
+      "monsterReplacingId": 1066
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2585,
+      "monsterReplacingId": 392
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2587,
+      "monsterReplacingId": 1056
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2588,
+      "monsterReplacingId": 1048
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2589,
+      "monsterReplacingId": 3239
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2590,
+      "monsterReplacingId": 6203
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2591,
+      "monsterReplacingId": 6230
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2592,
+      "monsterReplacingId": 6229
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2593,
+      "monsterReplacingId": 6323
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2597,
+      "monsterReplacingId": 6252
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2598,
+      "monsterReplacingId": 6220
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2600,
+      "monsterReplacingId": 1156
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2601,
+      "monsterReplacingId": 1153
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2614,
+      "monsterReplacingId": 1057
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2615,
+      "monsterReplacingId": 830
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 2616,
+      "monsterReplacingId": 495
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 3178,
+      "monsterReplacingId": 3146
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 3179,
+      "monsterReplacingId": 3148
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 3180,
+      "monsterReplacingId": 3147
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 3181,
+      "monsterReplacingId": 3145
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 3182,
+      "monsterReplacingId": 3149
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 3183,
+      "monsterReplacingId": 3151
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 3184,
+      "monsterReplacingId": 3153
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 3185,
+      "monsterReplacingId": 3152
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 3186,
+      "monsterReplacingId": 3150
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 3187,
+      "monsterReplacingId": 3154
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 3188,
+      "monsterReplacingId": 3156
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 3189,
+      "monsterReplacingId": 3158
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 3190,
+      "monsterReplacingId": 3157
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 3191,
+      "monsterReplacingId": 3155
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 3192,
+      "monsterReplacingId": 3159
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 3193,
+      "monsterReplacingId": 3161
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 3194,
+      "monsterReplacingId": 3163
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 3195,
+      "monsterReplacingId": 3162
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 3196,
+      "monsterReplacingId": 3160
+    },
+    {
+      "ClassType_": "MonsterMiniBoss",
+      "id": 3197,
+      "monsterReplacingId": 3164
+    }
+  ]
+}

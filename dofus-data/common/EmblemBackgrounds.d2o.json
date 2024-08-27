@@ -1,0 +1,190 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.social",
+      "packageClass": "EmblemBackground",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "order",
+          "type": "Integer"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "EmblemBackground",
+      "id": 1,
+      "order": 1000
+    },
+    {
+      "ClassType_": "EmblemBackground",
+      "id": 2,
+      "order": 2000
+    },
+    {
+      "ClassType_": "EmblemBackground",
+      "id": 3,
+      "order": 3000
+    },
+    {
+      "ClassType_": "EmblemBackground",
+      "id": 4,
+      "order": 4000
+    },
+    {
+      "ClassType_": "EmblemBackground",
+      "id": 5,
+      "order": 5000
+    },
+    {
+      "ClassType_": "EmblemBackground",
+      "id": 6,
+      "order": 6000
+    },
+    {
+      "ClassType_": "EmblemBackground",
+      "id": 7,
+      "order": 7000
+    },
+    {
+      "ClassType_": "EmblemBackground",
+      "id": 8,
+      "order": 8000
+    },
+    {
+      "ClassType_": "EmblemBackground",
+      "id": 9,
+      "order": 9000
+    },
+    {
+      "ClassType_": "EmblemBackground",
+      "id": 10,
+      "order": 10000
+    },
+    {
+      "ClassType_": "EmblemBackground",
+      "id": 11,
+      "order": 11000
+    },
+    {
+      "ClassType_": "EmblemBackground",
+      "id": 12,
+      "order": 12000
+    },
+    {
+      "ClassType_": "EmblemBackground",
+      "id": 13,
+      "order": 13000
+    },
+    {
+      "ClassType_": "EmblemBackground",
+      "id": 14,
+      "order": 14000
+    },
+    {
+      "ClassType_": "EmblemBackground",
+      "id": 15,
+      "order": 15000
+    },
+    {
+      "ClassType_": "EmblemBackground",
+      "id": 16,
+      "order": 16000
+    },
+    {
+      "ClassType_": "EmblemBackground",
+      "id": 17,
+      "order": 17000
+    },
+    {
+      "ClassType_": "EmblemBackground",
+      "id": 18,
+      "order": 18000
+    },
+    {
+      "ClassType_": "EmblemBackground",
+      "id": 19,
+      "order": 19000
+    },
+    {
+      "ClassType_": "EmblemBackground",
+      "id": 20,
+      "order": 20000
+    },
+    {
+      "ClassType_": "EmblemBackground",
+      "id": 21,
+      "order": 21000
+    },
+    {
+      "ClassType_": "EmblemBackground",
+      "id": 22,
+      "order": 22000
+    },
+    {
+      "ClassType_": "EmblemBackground",
+      "id": 23,
+      "order": 23000
+    },
+    {
+      "ClassType_": "EmblemBackground",
+      "id": 24,
+      "order": 24000
+    },
+    {
+      "ClassType_": "EmblemBackground",
+      "id": 25,
+      "order": 25000
+    },
+    {
+      "ClassType_": "EmblemBackground",
+      "id": 26,
+      "order": 26000
+    },
+    {
+      "ClassType_": "EmblemBackground",
+      "id": 27,
+      "order": 27000
+    },
+    {
+      "ClassType_": "EmblemBackground",
+      "id": 28,
+      "order": 28000
+    },
+    {
+      "ClassType_": "EmblemBackground",
+      "id": 29,
+      "order": 29000
+    },
+    {
+      "ClassType_": "EmblemBackground",
+      "id": 30,
+      "order": 30000
+    },
+    {
+      "ClassType_": "EmblemBackground",
+      "id": 31,
+      "order": 31000
+    },
+    {
+      "ClassType_": "EmblemBackground",
+      "id": 32,
+      "order": 32000
+    },
+    {
+      "ClassType_": "EmblemBackground",
+      "id": 33,
+      "order": 33000
+    },
+    {
+      "ClassType_": "EmblemBackground",
+      "id": 34,
+      "order": 34000
+    }
+  ]
+}

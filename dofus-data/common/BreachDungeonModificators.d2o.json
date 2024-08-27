@@ -1,0 +1,4140 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.breach",
+      "packageClass": "BreachDungeonModificator",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "modificatorId",
+          "type": "Integer"
+        },
+        {
+          "name": "criterion",
+          "type": "String"
+        },
+        {
+          "name": "additionalRewardPercent",
+          "type": "Number"
+        },
+        {
+          "name": "score",
+          "type": "Number"
+        },
+        {
+          "name": "isPositiveForPlayers",
+          "type": "Boolean"
+        },
+        {
+          "name": "tooltipBaseline",
+          "type": "String"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 3,
+      "isPositiveForPlayers": false,
+      "modificatorId": 172,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 4,
+      "isPositiveForPlayers": false,
+      "modificatorId": 188,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 5,
+      "isPositiveForPlayers": false,
+      "modificatorId": 160,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 6,
+      "isPositiveForPlayers": false,
+      "modificatorId": 193,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 7,
+      "isPositiveForPlayers": false,
+      "modificatorId": 155,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 8,
+      "isPositiveForPlayers": false,
+      "modificatorId": 166,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 9,
+      "isPositiveForPlayers": false,
+      "modificatorId": 176,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 11,
+      "isPositiveForPlayers": false,
+      "modificatorId": 262,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 12,
+      "isPositiveForPlayers": false,
+      "modificatorId": 197,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 13,
+      "isPositiveForPlayers": false,
+      "modificatorId": 211,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 14,
+      "isPositiveForPlayers": false,
+      "modificatorId": 214,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 15,
+      "isPositiveForPlayers": false,
+      "modificatorId": 220,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 16,
+      "isPositiveForPlayers": false,
+      "modificatorId": 223,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 17,
+      "isPositiveForPlayers": false,
+      "modificatorId": 226,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 18,
+      "isPositiveForPlayers": false,
+      "modificatorId": 229,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 19,
+      "isPositiveForPlayers": false,
+      "modificatorId": 232,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 21,
+      "isPositiveForPlayers": false,
+      "modificatorId": 238,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 22,
+      "isPositiveForPlayers": false,
+      "modificatorId": 241,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 23,
+      "isPositiveForPlayers": false,
+      "modificatorId": 244,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 24,
+      "isPositiveForPlayers": false,
+      "modificatorId": 247,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 25,
+      "isPositiveForPlayers": false,
+      "modificatorId": 250,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 26,
+      "isPositiveForPlayers": false,
+      "modificatorId": 253,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 27,
+      "isPositiveForPlayers": false,
+      "modificatorId": 194,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 28,
+      "isPositiveForPlayers": false,
+      "modificatorId": 182,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 29,
+      "isPositiveForPlayers": false,
+      "modificatorId": 257,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 30,
+      "isPositiveForPlayers": false,
+      "modificatorId": 208,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 31,
+      "isPositiveForPlayers": false,
+      "modificatorId": 268,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 32,
+      "isPositiveForPlayers": false,
+      "modificatorId": 267,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 33,
+      "isPositiveForPlayers": false,
+      "modificatorId": 272,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 34,
+      "isPositiveForPlayers": false,
+      "modificatorId": 179,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 35,
+      "isPositiveForPlayers": false,
+      "modificatorId": 204,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 36,
+      "isPositiveForPlayers": false,
+      "modificatorId": 217,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 37,
+      "isPositiveForPlayers": false,
+      "modificatorId": 163,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 38,
+      "isPositiveForPlayers": false,
+      "modificatorId": 278,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 39,
+      "isPositiveForPlayers": false,
+      "modificatorId": 281,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 40,
+      "isPositiveForPlayers": false,
+      "modificatorId": 287,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 41,
+      "isPositiveForPlayers": false,
+      "modificatorId": 290,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 43,
+      "isPositiveForPlayers": false,
+      "modificatorId": 297,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 44,
+      "isPositiveForPlayers": false,
+      "modificatorId": 302,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 46,
+      "isPositiveForPlayers": false,
+      "modificatorId": 313,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 47,
+      "isPositiveForPlayers": false,
+      "modificatorId": 317,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 48,
+      "isPositiveForPlayers": false,
+      "modificatorId": 321,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 49,
+      "isPositiveForPlayers": false,
+      "modificatorId": 328,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 50,
+      "isPositiveForPlayers": false,
+      "modificatorId": 330,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 51,
+      "isPositiveForPlayers": false,
+      "modificatorId": 333,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 52,
+      "isPositiveForPlayers": false,
+      "modificatorId": 307,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 53,
+      "isPositiveForPlayers": false,
+      "modificatorId": 336,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 54,
+      "isPositiveForPlayers": false,
+      "modificatorId": 276,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 55,
+      "isPositiveForPlayers": false,
+      "modificatorId": 339,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 56,
+      "isPositiveForPlayers": false,
+      "modificatorId": 342,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 57,
+      "isPositiveForPlayers": false,
+      "modificatorId": 347,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 58,
+      "isPositiveForPlayers": false,
+      "modificatorId": 350,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 59,
+      "isPositiveForPlayers": false,
+      "modificatorId": 353,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 60,
+      "isPositiveForPlayers": false,
+      "modificatorId": 365,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 61,
+      "isPositiveForPlayers": false,
+      "modificatorId": 345,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 62,
+      "isPositiveForPlayers": false,
+      "modificatorId": 361,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 63,
+      "isPositiveForPlayers": false,
+      "modificatorId": 357,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 64,
+      "isPositiveForPlayers": false,
+      "modificatorId": 325,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 65,
+      "isPositiveForPlayers": false,
+      "modificatorId": 296,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 66,
+      "isPositiveForPlayers": false,
+      "modificatorId": 316,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 67,
+      "isPositiveForPlayers": false,
+      "modificatorId": 368,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 68,
+      "isPositiveForPlayers": false,
+      "modificatorId": 372,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 69,
+      "isPositiveForPlayers": false,
+      "modificatorId": 375,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 70,
+      "isPositiveForPlayers": false,
+      "modificatorId": 379,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 71,
+      "isPositiveForPlayers": false,
+      "modificatorId": 382,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 72,
+      "isPositiveForPlayers": false,
+      "modificatorId": 385,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 73,
+      "isPositiveForPlayers": false,
+      "modificatorId": 392,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 74,
+      "isPositiveForPlayers": false,
+      "modificatorId": 393,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 75,
+      "isPositiveForPlayers": false,
+      "modificatorId": 398,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 76,
+      "isPositiveForPlayers": false,
+      "modificatorId": 399,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 77,
+      "isPositiveForPlayers": false,
+      "modificatorId": 406,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 78,
+      "isPositiveForPlayers": false,
+      "modificatorId": 407,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 79,
+      "isPositiveForPlayers": false,
+      "modificatorId": 412,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 80,
+      "isPositiveForPlayers": false,
+      "modificatorId": 414,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 81,
+      "isPositiveForPlayers": false,
+      "modificatorId": 418,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 82,
+      "isPositiveForPlayers": false,
+      "modificatorId": 419,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 83,
+      "isPositiveForPlayers": false,
+      "modificatorId": 424,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 84,
+      "isPositiveForPlayers": false,
+      "modificatorId": 429,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 85,
+      "isPositiveForPlayers": false,
+      "modificatorId": 434,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 86,
+      "isPositiveForPlayers": false,
+      "modificatorId": 435,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 87,
+      "isPositiveForPlayers": false,
+      "modificatorId": 439,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 88,
+      "isPositiveForPlayers": false,
+      "modificatorId": 440,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 89,
+      "isPositiveForPlayers": false,
+      "modificatorId": 446,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 90,
+      "isPositiveForPlayers": false,
+      "modificatorId": 451,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 91,
+      "isPositiveForPlayers": false,
+      "modificatorId": 454,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 93,
+      "isPositiveForPlayers": false,
+      "modificatorId": 387,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 94,
+      "isPositiveForPlayers": false,
+      "modificatorId": 425,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 95,
+      "isPositiveForPlayers": false,
+      "modificatorId": 460,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 96,
+      "isPositiveForPlayers": false,
+      "modificatorId": 468,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 97,
+      "isPositiveForPlayers": false,
+      "modificatorId": 471,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 98,
+      "isPositiveForPlayers": false,
+      "modificatorId": 461,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 99,
+      "isPositiveForPlayers": false,
+      "modificatorId": 465,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 100,
+      "isPositiveForPlayers": false,
+      "modificatorId": 475,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 101,
+      "isPositiveForPlayers": false,
+      "modificatorId": 477,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 102,
+      "isPositiveForPlayers": false,
+      "modificatorId": 478,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 103,
+      "isPositiveForPlayers": false,
+      "modificatorId": 483,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 104,
+      "isPositiveForPlayers": false,
+      "modificatorId": 485,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 105,
+      "isPositiveForPlayers": false,
+      "modificatorId": 490,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 106,
+      "isPositiveForPlayers": false,
+      "modificatorId": 489,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 107,
+      "isPositiveForPlayers": false,
+      "modificatorId": 491,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 108,
+      "isPositiveForPlayers": false,
+      "modificatorId": 443,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 109,
+      "isPositiveForPlayers": false,
+      "modificatorId": 484,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 110,
+      "isPositiveForPlayers": false,
+      "modificatorId": 479,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 111,
+      "isPositiveForPlayers": false,
+      "modificatorId": 161,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 112,
+      "isPositiveForPlayers": false,
+      "modificatorId": 174,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 113,
+      "isPositiveForPlayers": false,
+      "modificatorId": 164,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 114,
+      "isPositiveForPlayers": false,
+      "modificatorId": 177,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 115,
+      "isPositiveForPlayers": false,
+      "modificatorId": 158,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 116,
+      "isPositiveForPlayers": false,
+      "modificatorId": 156,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 117,
+      "isPositiveForPlayers": false,
+      "modificatorId": 189,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 118,
+      "isPositiveForPlayers": false,
+      "modificatorId": 167,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 119,
+      "isPositiveForPlayers": false,
+      "modificatorId": 180,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 120,
+      "isPositiveForPlayers": false,
+      "modificatorId": 195,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 121,
+      "isPositiveForPlayers": false,
+      "modificatorId": 186,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 122,
+      "isPositiveForPlayers": false,
+      "modificatorId": 198,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 123,
+      "isPositiveForPlayers": false,
+      "modificatorId": 209,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 124,
+      "isPositiveForPlayers": false,
+      "modificatorId": 215,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 125,
+      "isPositiveForPlayers": false,
+      "modificatorId": 221,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 126,
+      "isPositiveForPlayers": false,
+      "modificatorId": 224,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 127,
+      "isPositiveForPlayers": false,
+      "modificatorId": 227,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 128,
+      "isPositiveForPlayers": false,
+      "modificatorId": 233,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 130,
+      "isPositiveForPlayers": false,
+      "modificatorId": 239,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 131,
+      "isPositiveForPlayers": false,
+      "modificatorId": 245,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 132,
+      "isPositiveForPlayers": false,
+      "modificatorId": 248,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 133,
+      "isPositiveForPlayers": false,
+      "modificatorId": 251,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 134,
+      "isPositiveForPlayers": false,
+      "modificatorId": 259,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 135,
+      "isPositiveForPlayers": false,
+      "modificatorId": 230,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 136,
+      "isPositiveForPlayers": false,
+      "modificatorId": 205,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 137,
+      "isPositiveForPlayers": false,
+      "modificatorId": 270,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 138,
+      "isPositiveForPlayers": false,
+      "modificatorId": 271,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 139,
+      "isPositiveForPlayers": false,
+      "modificatorId": 242,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 140,
+      "isPositiveForPlayers": false,
+      "modificatorId": 212,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 142,
+      "isPositiveForPlayers": false,
+      "modificatorId": 218,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 143,
+      "isPositiveForPlayers": false,
+      "modificatorId": 258,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 144,
+      "isPositiveForPlayers": false,
+      "modificatorId": 266,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 145,
+      "isPositiveForPlayers": false,
+      "modificatorId": 275,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 146,
+      "isPositiveForPlayers": false,
+      "modificatorId": 277,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 147,
+      "isPositiveForPlayers": false,
+      "modificatorId": 279,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 148,
+      "isPositiveForPlayers": false,
+      "modificatorId": 288,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 149,
+      "isPositiveForPlayers": false,
+      "modificatorId": 291,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 151,
+      "isPositiveForPlayers": false,
+      "modificatorId": 298,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 152,
+      "isPositiveForPlayers": false,
+      "modificatorId": 303,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 153,
+      "isPositiveForPlayers": false,
+      "modificatorId": 308,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 154,
+      "isPositiveForPlayers": false,
+      "modificatorId": 318,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 155,
+      "isPositiveForPlayers": false,
+      "modificatorId": 322,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 156,
+      "isPositiveForPlayers": false,
+      "modificatorId": 326,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 157,
+      "isPositiveForPlayers": false,
+      "modificatorId": 331,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 158,
+      "isPositiveForPlayers": false,
+      "modificatorId": 299,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 159,
+      "isPositiveForPlayers": false,
+      "modificatorId": 337,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 160,
+      "isPositiveForPlayers": false,
+      "modificatorId": 329,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 161,
+      "isPositiveForPlayers": false,
+      "modificatorId": 340,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 162,
+      "isPositiveForPlayers": false,
+      "modificatorId": 343,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 163,
+      "isPositiveForPlayers": false,
+      "modificatorId": 346,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 164,
+      "isPositiveForPlayers": false,
+      "modificatorId": 349,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 165,
+      "isPositiveForPlayers": false,
+      "modificatorId": 351,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 166,
+      "isPositiveForPlayers": false,
+      "modificatorId": 356,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 167,
+      "isPositiveForPlayers": false,
+      "modificatorId": 360,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 168,
+      "isPositiveForPlayers": false,
+      "modificatorId": 362,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 169,
+      "isPositiveForPlayers": false,
+      "modificatorId": 285,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 171,
+      "isPositiveForPlayers": false,
+      "modificatorId": 314,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 172,
+      "isPositiveForPlayers": false,
+      "modificatorId": 334,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 173,
+      "isPositiveForPlayers": false,
+      "modificatorId": 319,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 174,
+      "isPositiveForPlayers": false,
+      "modificatorId": 282,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 175,
+      "isPositiveForPlayers": false,
+      "modificatorId": 366,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 176,
+      "isPositiveForPlayers": false,
+      "modificatorId": 369,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 177,
+      "isPositiveForPlayers": false,
+      "modificatorId": 373,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 178,
+      "isPositiveForPlayers": false,
+      "modificatorId": 376,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 179,
+      "isPositiveForPlayers": false,
+      "modificatorId": 380,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 180,
+      "isPositiveForPlayers": false,
+      "modificatorId": 383,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 181,
+      "isPositiveForPlayers": false,
+      "modificatorId": 388,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 182,
+      "isPositiveForPlayers": false,
+      "modificatorId": 394,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 183,
+      "isPositiveForPlayers": false,
+      "modificatorId": 400,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 184,
+      "isPositiveForPlayers": false,
+      "modificatorId": 402,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 185,
+      "isPositiveForPlayers": false,
+      "modificatorId": 404,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 186,
+      "isPositiveForPlayers": false,
+      "modificatorId": 408,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 187,
+      "isPositiveForPlayers": false,
+      "modificatorId": 420,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 188,
+      "isPositiveForPlayers": false,
+      "modificatorId": 421,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 189,
+      "isPositiveForPlayers": false,
+      "modificatorId": 426,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 190,
+      "isPositiveForPlayers": false,
+      "modificatorId": 427,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 191,
+      "isPositiveForPlayers": false,
+      "modificatorId": 430,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 192,
+      "isPositiveForPlayers": false,
+      "modificatorId": 436,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 193,
+      "isPositiveForPlayers": false,
+      "modificatorId": 441,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 194,
+      "isPositiveForPlayers": false,
+      "modificatorId": 447,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 195,
+      "isPositiveForPlayers": false,
+      "modificatorId": 448,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 196,
+      "isPositiveForPlayers": false,
+      "modificatorId": 452,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 197,
+      "isPositiveForPlayers": false,
+      "modificatorId": 396,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 198,
+      "isPositiveForPlayers": false,
+      "modificatorId": 409,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 199,
+      "isPositiveForPlayers": false,
+      "modificatorId": 444,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 200,
+      "isPositiveForPlayers": false,
+      "modificatorId": 438,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 201,
+      "isPositiveForPlayers": false,
+      "modificatorId": 457,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 202,
+      "isPositiveForPlayers": false,
+      "modificatorId": 413,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 204,
+      "isPositiveForPlayers": false,
+      "modificatorId": 462,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 205,
+      "isPositiveForPlayers": false,
+      "modificatorId": 469,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 206,
+      "isPositiveForPlayers": false,
+      "modificatorId": 463,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 207,
+      "isPositiveForPlayers": false,
+      "modificatorId": 467,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 208,
+      "isPositiveForPlayers": false,
+      "modificatorId": 473,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 209,
+      "isPositiveForPlayers": false,
+      "modificatorId": 386,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 210,
+      "isPositiveForPlayers": false,
+      "modificatorId": 480,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 211,
+      "isPositiveForPlayers": false,
+      "modificatorId": 481,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 212,
+      "isPositiveForPlayers": false,
+      "modificatorId": 482,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 213,
+      "isPositiveForPlayers": false,
+      "modificatorId": 415,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 214,
+      "isPositiveForPlayers": false,
+      "modificatorId": 162,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 215,
+      "isPositiveForPlayers": false,
+      "modificatorId": 192,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 216,
+      "isPositiveForPlayers": false,
+      "modificatorId": 157,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 217,
+      "isPositiveForPlayers": false,
+      "modificatorId": 178,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 218,
+      "isPositiveForPlayers": false,
+      "modificatorId": 165,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 219,
+      "isPositiveForPlayers": false,
+      "modificatorId": 187,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 220,
+      "isPositiveForPlayers": false,
+      "modificatorId": 175,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 221,
+      "isPositiveForPlayers": false,
+      "modificatorId": 159,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 222,
+      "isPositiveForPlayers": false,
+      "modificatorId": 181,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 223,
+      "isPositiveForPlayers": false,
+      "modificatorId": 216,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 224,
+      "isPositiveForPlayers": false,
+      "modificatorId": 199,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 226,
+      "isPositiveForPlayers": false,
+      "modificatorId": 231,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 227,
+      "isPositiveForPlayers": false,
+      "modificatorId": 207,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 228,
+      "isPositiveForPlayers": false,
+      "modificatorId": 213,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 229,
+      "isPositiveForPlayers": false,
+      "modificatorId": 234,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 230,
+      "isPositiveForPlayers": false,
+      "modificatorId": 222,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 231,
+      "isPositiveForPlayers": false,
+      "modificatorId": 225,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 233,
+      "isPositiveForPlayers": false,
+      "modificatorId": 240,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 234,
+      "isPositiveForPlayers": false,
+      "modificatorId": 243,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 235,
+      "isPositiveForPlayers": false,
+      "modificatorId": 246,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 236,
+      "isPositiveForPlayers": false,
+      "modificatorId": 252,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 237,
+      "isPositiveForPlayers": false,
+      "modificatorId": 254,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 238,
+      "isPositiveForPlayers": false,
+      "modificatorId": 255,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 239,
+      "isPositiveForPlayers": false,
+      "modificatorId": 196,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 240,
+      "isPositiveForPlayers": false,
+      "modificatorId": 260,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 241,
+      "isPositiveForPlayers": false,
+      "modificatorId": 265,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 242,
+      "isPositiveForPlayers": false,
+      "modificatorId": 273,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 243,
+      "isPositiveForPlayers": false,
+      "modificatorId": 274,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 244,
+      "isPositiveForPlayers": false,
+      "modificatorId": 269,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 245,
+      "isPositiveForPlayers": false,
+      "modificatorId": 228,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 246,
+      "isPositiveForPlayers": false,
+      "modificatorId": 210,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 247,
+      "isPositiveForPlayers": false,
+      "modificatorId": 168,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 248,
+      "isPositiveForPlayers": false,
+      "modificatorId": 249,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 249,
+      "isPositiveForPlayers": false,
+      "modificatorId": 280,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 250,
+      "isPositiveForPlayers": false,
+      "modificatorId": 286,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 251,
+      "isPositiveForPlayers": false,
+      "modificatorId": 292,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 253,
+      "isPositiveForPlayers": false,
+      "modificatorId": 300,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 254,
+      "isPositiveForPlayers": false,
+      "modificatorId": 301,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 255,
+      "isPositiveForPlayers": false,
+      "modificatorId": 304,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 256,
+      "isPositiveForPlayers": false,
+      "modificatorId": 306,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 257,
+      "isPositiveForPlayers": false,
+      "modificatorId": 311,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 258,
+      "isPositiveForPlayers": false,
+      "modificatorId": 315,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 259,
+      "isPositiveForPlayers": false,
+      "modificatorId": 320,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 260,
+      "isPositiveForPlayers": false,
+      "modificatorId": 323,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 261,
+      "isPositiveForPlayers": false,
+      "modificatorId": 289,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 262,
+      "isPositiveForPlayers": false,
+      "modificatorId": 332,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 263,
+      "isPositiveForPlayers": false,
+      "modificatorId": 335,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 264,
+      "isPositiveForPlayers": false,
+      "modificatorId": 324,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 265,
+      "isPositiveForPlayers": false,
+      "modificatorId": 341,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 266,
+      "isPositiveForPlayers": false,
+      "modificatorId": 344,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 267,
+      "isPositiveForPlayers": false,
+      "modificatorId": 348,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 268,
+      "isPositiveForPlayers": false,
+      "modificatorId": 352,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 269,
+      "isPositiveForPlayers": false,
+      "modificatorId": 355,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 270,
+      "isPositiveForPlayers": false,
+      "modificatorId": 364,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 271,
+      "isPositiveForPlayers": false,
+      "modificatorId": 338,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 272,
+      "isPositiveForPlayers": false,
+      "modificatorId": 283,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 274,
+      "isPositiveForPlayers": false,
+      "modificatorId": 358,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 275,
+      "isPositiveForPlayers": false,
+      "modificatorId": 327,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 276,
+      "isPositiveForPlayers": false,
+      "modificatorId": 371,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 277,
+      "isPositiveForPlayers": false,
+      "modificatorId": 367,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 278,
+      "isPositiveForPlayers": false,
+      "modificatorId": 370,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 279,
+      "isPositiveForPlayers": false,
+      "modificatorId": 374,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 280,
+      "isPositiveForPlayers": false,
+      "modificatorId": 377,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 281,
+      "isPositiveForPlayers": false,
+      "modificatorId": 381,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 282,
+      "isPositiveForPlayers": false,
+      "modificatorId": 384,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 283,
+      "isPositiveForPlayers": false,
+      "modificatorId": 391,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 284,
+      "isPositiveForPlayers": false,
+      "modificatorId": 395,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 285,
+      "isPositiveForPlayers": false,
+      "modificatorId": 397,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 286,
+      "isPositiveForPlayers": false,
+      "modificatorId": 401,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 287,
+      "isPositiveForPlayers": false,
+      "modificatorId": 403,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 288,
+      "isPositiveForPlayers": false,
+      "modificatorId": 405,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 289,
+      "isPositiveForPlayers": false,
+      "modificatorId": 410,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 290,
+      "isPositiveForPlayers": false,
+      "modificatorId": 411,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 291,
+      "isPositiveForPlayers": false,
+      "modificatorId": 417,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 292,
+      "isPositiveForPlayers": false,
+      "modificatorId": 422,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 293,
+      "isPositiveForPlayers": false,
+      "modificatorId": 433,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 294,
+      "isPositiveForPlayers": false,
+      "modificatorId": 437,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 295,
+      "isPositiveForPlayers": false,
+      "modificatorId": 442,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 296,
+      "isPositiveForPlayers": false,
+      "modificatorId": 445,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 297,
+      "isPositiveForPlayers": false,
+      "modificatorId": 449,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 298,
+      "isPositiveForPlayers": false,
+      "modificatorId": 450,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 299,
+      "isPositiveForPlayers": false,
+      "modificatorId": 453,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 300,
+      "isPositiveForPlayers": false,
+      "modificatorId": 389,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 301,
+      "isPositiveForPlayers": false,
+      "modificatorId": 431,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 302,
+      "isPositiveForPlayers": false,
+      "modificatorId": 416,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 303,
+      "isPositiveForPlayers": false,
+      "modificatorId": 428,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 304,
+      "isPositiveForPlayers": false,
+      "modificatorId": 423,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 306,
+      "isPositiveForPlayers": false,
+      "modificatorId": 466,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 307,
+      "isPositiveForPlayers": false,
+      "modificatorId": 470,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 308,
+      "isPositiveForPlayers": false,
+      "modificatorId": 459,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 309,
+      "isPositiveForPlayers": false,
+      "modificatorId": 464,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 310,
+      "isPositiveForPlayers": false,
+      "modificatorId": 474,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 311,
+      "isPositiveForPlayers": false,
+      "modificatorId": 476,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 312,
+      "isPositiveForPlayers": false,
+      "modificatorId": 486,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 313,
+      "isPositiveForPlayers": false,
+      "modificatorId": 472,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 314,
+      "isPositiveForPlayers": false,
+      "modificatorId": 492,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 315,
+      "isPositiveForPlayers": false,
+      "modificatorId": 487,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 316,
+      "isPositiveForPlayers": false,
+      "modificatorId": 488,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 420,
+      "isPositiveForPlayers": false,
+      "modificatorId": 508,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 421,
+      "isPositiveForPlayers": false,
+      "modificatorId": 516,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 422,
+      "isPositiveForPlayers": false,
+      "modificatorId": 521,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 423,
+      "isPositiveForPlayers": false,
+      "modificatorId": 520,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 424,
+      "isPositiveForPlayers": false,
+      "modificatorId": 519,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 425,
+      "isPositiveForPlayers": false,
+      "modificatorId": 518,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 426,
+      "isPositiveForPlayers": false,
+      "modificatorId": 517,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 427,
+      "isPositiveForPlayers": false,
+      "modificatorId": 515,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 428,
+      "isPositiveForPlayers": false,
+      "modificatorId": 514,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 429,
+      "isPositiveForPlayers": false,
+      "modificatorId": 513,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 430,
+      "isPositiveForPlayers": false,
+      "modificatorId": 512,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 431,
+      "isPositiveForPlayers": false,
+      "modificatorId": 511,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 432,
+      "isPositiveForPlayers": false,
+      "modificatorId": 510,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 433,
+      "isPositiveForPlayers": false,
+      "modificatorId": 509,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 434,
+      "isPositiveForPlayers": false,
+      "modificatorId": 507,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 435,
+      "isPositiveForPlayers": false,
+      "modificatorId": 506,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 436,
+      "isPositiveForPlayers": false,
+      "modificatorId": 505,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 437,
+      "isPositiveForPlayers": false,
+      "modificatorId": 504,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 438,
+      "isPositiveForPlayers": false,
+      "modificatorId": 503,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 451,
+      "isPositiveForPlayers": false,
+      "modificatorId": 523,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 452,
+      "isPositiveForPlayers": false,
+      "modificatorId": 524,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 453,
+      "isPositiveForPlayers": false,
+      "modificatorId": 522,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 454,
+      "isPositiveForPlayers": false,
+      "modificatorId": 527,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 455,
+      "isPositiveForPlayers": false,
+      "modificatorId": 526,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 456,
+      "isPositiveForPlayers": false,
+      "modificatorId": 525,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 457,
+      "isPositiveForPlayers": false,
+      "modificatorId": 528,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 458,
+      "isPositiveForPlayers": false,
+      "modificatorId": 529,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 459,
+      "isPositiveForPlayers": false,
+      "modificatorId": 530,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 460,
+      "isPositiveForPlayers": false,
+      "modificatorId": 548,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 461,
+      "isPositiveForPlayers": false,
+      "modificatorId": 549,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 462,
+      "isPositiveForPlayers": false,
+      "modificatorId": 550,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 463,
+      "isPositiveForPlayers": false,
+      "modificatorId": 554,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 464,
+      "isPositiveForPlayers": false,
+      "modificatorId": 555,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 465,
+      "isPositiveForPlayers": false,
+      "modificatorId": 556,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 466,
+      "isPositiveForPlayers": false,
+      "modificatorId": 557,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 467,
+      "isPositiveForPlayers": false,
+      "modificatorId": 558,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 468,
+      "isPositiveForPlayers": false,
+      "modificatorId": 559,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1,
+      "criterion": "null",
+      "id": 469,
+      "isPositiveForPlayers": true,
+      "modificatorId": 493,
+      "score": 0,
+      "tooltipBaseline": "ui.breach.modifierBaselinePositive"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1,
+      "criterion": "null",
+      "id": 470,
+      "isPositiveForPlayers": true,
+      "modificatorId": 494,
+      "score": 0,
+      "tooltipBaseline": "ui.breach.modifierBaselinePositive"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1,
+      "criterion": "null",
+      "id": 471,
+      "isPositiveForPlayers": true,
+      "modificatorId": 495,
+      "score": 0,
+      "tooltipBaseline": "ui.breach.modifierBaselinePositive"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1,
+      "criterion": "null",
+      "id": 472,
+      "isPositiveForPlayers": true,
+      "modificatorId": 496,
+      "score": 0,
+      "tooltipBaseline": "ui.breach.modifierBaselinePositive"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1,
+      "criterion": "null",
+      "id": 473,
+      "isPositiveForPlayers": true,
+      "modificatorId": 497,
+      "score": 0,
+      "tooltipBaseline": "ui.breach.modifierBaselinePositive"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1,
+      "criterion": "null",
+      "id": 474,
+      "isPositiveForPlayers": true,
+      "modificatorId": 498,
+      "score": 0,
+      "tooltipBaseline": "ui.breach.modifierBaselinePositive"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1,
+      "criterion": "null",
+      "id": 475,
+      "isPositiveForPlayers": true,
+      "modificatorId": 499,
+      "score": 0,
+      "tooltipBaseline": "ui.breach.modifierBaselinePositive"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1,
+      "criterion": "null",
+      "id": 476,
+      "isPositiveForPlayers": true,
+      "modificatorId": 500,
+      "score": 0,
+      "tooltipBaseline": "ui.breach.modifierBaselinePositive"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1,
+      "criterion": "null",
+      "id": 477,
+      "isPositiveForPlayers": true,
+      "modificatorId": 501,
+      "score": 0,
+      "tooltipBaseline": "ui.breach.modifierBaselinePositive"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1,
+      "criterion": "null",
+      "id": 478,
+      "isPositiveForPlayers": true,
+      "modificatorId": 502,
+      "score": 0,
+      "tooltipBaseline": "ui.breach.modifierBaselinePositive"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1,
+      "criterion": "Wf\u003c230",
+      "id": 479,
+      "isPositiveForPlayers": false,
+      "modificatorId": 560,
+      "score": 0,
+      "tooltipBaseline": "ui.breach.modifierBaselineNeutral"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "null",
+      "id": 480,
+      "isPositiveForPlayers": false,
+      "modificatorId": 568,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 481,
+      "isPositiveForPlayers": false,
+      "modificatorId": 569,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 482,
+      "isPositiveForPlayers": false,
+      "modificatorId": 570,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "null",
+      "id": 483,
+      "isPositiveForPlayers": false,
+      "modificatorId": 565,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 484,
+      "isPositiveForPlayers": false,
+      "modificatorId": 566,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 485,
+      "isPositiveForPlayers": false,
+      "modificatorId": 567,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "null",
+      "id": 486,
+      "isPositiveForPlayers": false,
+      "modificatorId": 571,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 487,
+      "isPositiveForPlayers": false,
+      "modificatorId": 572,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 488,
+      "isPositiveForPlayers": false,
+      "modificatorId": 573,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "null",
+      "id": 489,
+      "isPositiveForPlayers": false,
+      "modificatorId": 574,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 490,
+      "isPositiveForPlayers": false,
+      "modificatorId": 575,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 491,
+      "isPositiveForPlayers": false,
+      "modificatorId": 576,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 492,
+      "isPositiveForPlayers": false,
+      "modificatorId": 578,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 493,
+      "isPositiveForPlayers": false,
+      "modificatorId": 577,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 494,
+      "isPositiveForPlayers": false,
+      "modificatorId": 579,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "null",
+      "id": 495,
+      "isPositiveForPlayers": false,
+      "modificatorId": 586,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 496,
+      "isPositiveForPlayers": false,
+      "modificatorId": 587,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 497,
+      "isPositiveForPlayers": false,
+      "modificatorId": 588,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "null",
+      "id": 498,
+      "isPositiveForPlayers": false,
+      "modificatorId": 583,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 499,
+      "isPositiveForPlayers": false,
+      "modificatorId": 584,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 500,
+      "isPositiveForPlayers": false,
+      "modificatorId": 585,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "null",
+      "id": 501,
+      "isPositiveForPlayers": false,
+      "modificatorId": 580,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 502,
+      "isPositiveForPlayers": false,
+      "modificatorId": 581,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 503,
+      "isPositiveForPlayers": false,
+      "modificatorId": 582,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "null",
+      "id": 504,
+      "isPositiveForPlayers": false,
+      "modificatorId": 593,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "null",
+      "id": 505,
+      "isPositiveForPlayers": false,
+      "modificatorId": 592,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 506,
+      "isPositiveForPlayers": false,
+      "modificatorId": 595,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 507,
+      "isPositiveForPlayers": false,
+      "modificatorId": 594,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 508,
+      "isPositiveForPlayers": false,
+      "modificatorId": 601,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 509,
+      "isPositiveForPlayers": false,
+      "modificatorId": 600,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "null",
+      "id": 510,
+      "isPositiveForPlayers": false,
+      "modificatorId": 613,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 511,
+      "isPositiveForPlayers": false,
+      "modificatorId": 614,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 512,
+      "isPositiveForPlayers": false,
+      "modificatorId": 615,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 513,
+      "isPositiveForPlayers": false,
+      "modificatorId": 616,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 514,
+      "isPositiveForPlayers": false,
+      "modificatorId": 617,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 515,
+      "isPositiveForPlayers": false,
+      "modificatorId": 618,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 516,
+      "isPositiveForPlayers": false,
+      "modificatorId": 610,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 517,
+      "isPositiveForPlayers": false,
+      "modificatorId": 611,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "null",
+      "id": 518,
+      "isPositiveForPlayers": false,
+      "modificatorId": 605,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 519,
+      "isPositiveForPlayers": false,
+      "modificatorId": 607,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 520,
+      "isPositiveForPlayers": false,
+      "modificatorId": 608,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 521,
+      "isPositiveForPlayers": false,
+      "modificatorId": 612,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "null",
+      "id": 522,
+      "isPositiveForPlayers": false,
+      "modificatorId": 621,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 523,
+      "isPositiveForPlayers": false,
+      "modificatorId": 622,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 524,
+      "isPositiveForPlayers": false,
+      "modificatorId": 623,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "null",
+      "id": 525,
+      "isPositiveForPlayers": false,
+      "modificatorId": 635,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 526,
+      "isPositiveForPlayers": false,
+      "modificatorId": 636,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 527,
+      "isPositiveForPlayers": false,
+      "modificatorId": 637,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "null",
+      "id": 528,
+      "isPositiveForPlayers": false,
+      "modificatorId": 661,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 529,
+      "isPositiveForPlayers": false,
+      "modificatorId": 660,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 530,
+      "isPositiveForPlayers": false,
+      "modificatorId": 659,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 531,
+      "isPositiveForPlayers": false,
+      "modificatorId": 663,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 532,
+      "isPositiveForPlayers": false,
+      "modificatorId": 664,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "null",
+      "id": 533,
+      "isPositiveForPlayers": false,
+      "modificatorId": 662,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 534,
+      "isPositiveForPlayers": false,
+      "modificatorId": 670,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 535,
+      "isPositiveForPlayers": false,
+      "modificatorId": 672,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 536,
+      "isPositiveForPlayers": false,
+      "modificatorId": 671,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "",
+      "id": 537,
+      "isPositiveForPlayers": false,
+      "modificatorId": 676,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e219",
+      "id": 538,
+      "isPositiveForPlayers": false,
+      "modificatorId": 675,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e209",
+      "id": 539,
+      "isPositiveForPlayers": false,
+      "modificatorId": 677,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.100000023841858,
+      "criterion": "null",
+      "id": 540,
+      "isPositiveForPlayers": false,
+      "modificatorId": 667,
+      "score": 10,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative1"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.2999999523162842,
+      "criterion": "Wf\u003e219",
+      "id": 541,
+      "isPositiveForPlayers": false,
+      "modificatorId": 669,
+      "score": 40,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative3"
+    },
+    {
+      "ClassType_": "BreachDungeonModificator",
+      "additionalRewardPercent": 1.5,
+      "criterion": "Wf\u003e209",
+      "id": 542,
+      "isPositiveForPlayers": false,
+      "modificatorId": 668,
+      "score": 25,
+      "tooltipBaseline": "ui.breach.modifierBaselineNegative2"
+    }
+  ]
+}

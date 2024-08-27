@@ -1,0 +1,84 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.servers",
+      "packageClass": "ServerLang",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "nameId",
+          "type": "I18n"
+        },
+        {
+          "name": "langCode",
+          "type": "String"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "ServerLang",
+      "id": 0,
+      "langCode": "fr",
+      "nameId": 723111
+    },
+    {
+      "ClassType_": "ServerLang",
+      "id": 1,
+      "langCode": "en",
+      "nameId": 723113
+    },
+    {
+      "ClassType_": "ServerLang",
+      "id": 2,
+      "langCode": "de",
+      "nameId": 723114
+    },
+    {
+      "ClassType_": "ServerLang",
+      "id": 3,
+      "langCode": "es",
+      "nameId": 723115
+    },
+    {
+      "ClassType_": "ServerLang",
+      "id": 4,
+      "langCode": "nl",
+      "nameId": 723116
+    },
+    {
+      "ClassType_": "ServerLang",
+      "id": 5,
+      "langCode": "pt",
+      "nameId": 723117
+    },
+    {
+      "ClassType_": "ServerLang",
+      "id": 6,
+      "langCode": "ru",
+      "nameId": 723119
+    },
+    {
+      "ClassType_": "ServerLang",
+      "id": 7,
+      "langCode": "it",
+      "nameId": 723120
+    },
+    {
+      "ClassType_": "ServerLang",
+      "id": 8,
+      "langCode": "ar",
+      "nameId": 923138
+    },
+    {
+      "ClassType_": "ServerLang",
+      "id": 9,
+      "langCode": "cm",
+      "nameId": 927867
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.interactives",
+      "packageClass": "StealthBones",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "StealthBones",
+      "id": 761
+    },
+    {
+      "ClassType_": "StealthBones",
+      "id": 895
+    },
+    {
+      "ClassType_": "StealthBones",
+      "id": 896
+    },
+    {
+      "ClassType_": "StealthBones",
+      "id": 897
+    },
+    {
+      "ClassType_": "StealthBones",
+      "id": 898
+    },
+    {
+      "ClassType_": "StealthBones",
+      "id": 899
+    },
+    {
+      "ClassType_": "StealthBones",
+      "id": 900
+    },
+    {
+      "ClassType_": "StealthBones",
+      "id": 901
+    },
+    {
+      "ClassType_": "StealthBones",
+      "id": 1124
+    }
+  ]
+}

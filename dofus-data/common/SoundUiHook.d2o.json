@@ -1,0 +1,195 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.sounds",
+      "packageClass": "SoundUiHook",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "name",
+          "type": "String"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "SoundUiHook",
+      "id": 1,
+      "name": "onRollOver"
+    },
+    {
+      "ClassType_": "SoundUiHook",
+      "id": 2,
+      "name": "onRollOut"
+    },
+    {
+      "ClassType_": "SoundUiHook",
+      "id": 3,
+      "name": "onRelease"
+    },
+    {
+      "ClassType_": "SoundUiHook",
+      "id": 4,
+      "name": "onReleaseOutside"
+    },
+    {
+      "ClassType_": "SoundUiHook",
+      "id": 5,
+      "name": "onRightClick"
+    },
+    {
+      "ClassType_": "SoundUiHook",
+      "id": 6,
+      "name": "onPress"
+    },
+    {
+      "ClassType_": "SoundUiHook",
+      "id": 7,
+      "name": "onDoubleClick"
+    },
+    {
+      "ClassType_": "SoundUiHook",
+      "id": 8,
+      "name": "onWheel"
+    },
+    {
+      "ClassType_": "SoundUiHook",
+      "id": 9,
+      "name": "onMouseUp"
+    },
+    {
+      "ClassType_": "SoundUiHook",
+      "id": 10,
+      "name": "onMiddleClick"
+    },
+    {
+      "ClassType_": "SoundUiHook",
+      "id": 11,
+      "name": "onChange"
+    },
+    {
+      "ClassType_": "SoundUiHook",
+      "id": 12,
+      "name": "onColorChange"
+    },
+    {
+      "ClassType_": "SoundUiHook",
+      "id": 13,
+      "name": "onEntityReady"
+    },
+    {
+      "ClassType_": "SoundUiHook",
+      "id": 14,
+      "name": "onSelectItem"
+    },
+    {
+      "ClassType_": "SoundUiHook",
+      "id": 15,
+      "name": "onSelectEmptyItem"
+    },
+    {
+      "ClassType_": "SoundUiHook",
+      "id": 16,
+      "name": "onItemRollOver"
+    },
+    {
+      "ClassType_": "SoundUiHook",
+      "id": 17,
+      "name": "onItemRollOut"
+    },
+    {
+      "ClassType_": "SoundUiHook",
+      "id": 18,
+      "name": "onItemRightClick"
+    },
+    {
+      "ClassType_": "SoundUiHook",
+      "id": 19,
+      "name": "onDrop"
+    },
+    {
+      "ClassType_": "SoundUiHook",
+      "id": 20,
+      "name": "onCreateTab"
+    },
+    {
+      "ClassType_": "SoundUiHook",
+      "id": 21,
+      "name": "onDeleteTab"
+    },
+    {
+      "ClassType_": "SoundUiHook",
+      "id": 22,
+      "name": "onRenameTab"
+    },
+    {
+      "ClassType_": "SoundUiHook",
+      "id": 23,
+      "name": "onTextureReady"
+    },
+    {
+      "ClassType_": "SoundUiHook",
+      "id": 24,
+      "name": "onMapElementRollOver"
+    },
+    {
+      "ClassType_": "SoundUiHook",
+      "id": 25,
+      "name": "onMapElementRollOut"
+    },
+    {
+      "ClassType_": "SoundUiHook",
+      "id": 26,
+      "name": "onMapElementRightClick"
+    },
+    {
+      "ClassType_": "SoundUiHook",
+      "id": 27,
+      "name": "onMapMove"
+    },
+    {
+      "ClassType_": "SoundUiHook",
+      "id": 28,
+      "name": "onMapRollOver"
+    },
+    {
+      "ClassType_": "SoundUiHook",
+      "id": 29,
+      "name": "onComponentReadyMessage"
+    },
+    {
+      "ClassType_": "SoundUiHook",
+      "id": 30,
+      "name": "onBrowserSessionTimeout"
+    },
+    {
+      "ClassType_": "SoundUiHook",
+      "id": 31,
+      "name": "onBrowserDomReady"
+    },
+    {
+      "ClassType_": "SoundUiHook",
+      "id": 32,
+      "name": "onTextClick"
+    },
+    {
+      "ClassType_": "SoundUiHook",
+      "id": 33,
+      "name": "onVideoConnectFailed"
+    },
+    {
+      "ClassType_": "SoundUiHook",
+      "id": 34,
+      "name": "onVideoConnectSuccess"
+    },
+    {
+      "ClassType_": "SoundUiHook",
+      "id": 35,
+      "name": "onVideoBufferChange"
+    }
+  ]
+}

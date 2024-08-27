@@ -1,0 +1,40 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.alignments",
+      "packageClass": "AlignmentSide",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "nameId",
+          "type": "I18n"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "AlignmentSide",
+      "id": 0,
+      "nameId": 179
+    },
+    {
+      "ClassType_": "AlignmentSide",
+      "id": 1,
+      "nameId": 178
+    },
+    {
+      "ClassType_": "AlignmentSide",
+      "id": 2,
+      "nameId": 309773
+    },
+    {
+      "ClassType_": "AlignmentSide",
+      "id": 3,
+      "nameId": 176
+    }
+  ]
+}

@@ -1,0 +1,730 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.feature",
+      "packageClass": "OptionalFeature",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "keyword",
+          "type": "String"
+        },
+        {
+          "name": "isClient",
+          "type": "Boolean"
+        },
+        {
+          "name": "isServer",
+          "type": "Boolean"
+        },
+        {
+          "name": "isActivationOnLaunch",
+          "type": "Boolean"
+        },
+        {
+          "name": "isActivationOnServerConnection",
+          "type": "Boolean"
+        },
+        {
+          "name": "activationCriterions",
+          "type": "String"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 14,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": false,
+      "keyword": "map.zoom.zoomWithMenuAndMouseWheel"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 16,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": false,
+      "keyword": "map.zoom.verticalDragAllowed"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 20,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": true,
+      "keyword": "character.xp.bonusForYoungerCharacters"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 23,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": true,
+      "keyword": "pvp.kis"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 55,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": true,
+      "keyword": "mount.breeding"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 67,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": true,
+      "keyword": "mount.breeding.guildPaddocks"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 22,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": true,
+      "keyword": "item.idols"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 50,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": true,
+      "keyword": "social.guild"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 13,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": true,
+      "keyword": "system.fastPing"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 3,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": true,
+      "keyword": "trade.averagePricesAutoUpdate"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 1,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": true,
+      "keyword": "web.ankabox"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 7,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": true,
+      "keyword": "web.shopInClient"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 69,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": true,
+      "keyword": "social.guild.taxCollectors"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 70,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": true,
+      "keyword": "social.guild.sharedHouses"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 71,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": true,
+      "keyword": "misc.alignment"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 72,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": true,
+      "keyword": "social.marriage"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 73,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": true,
+      "keyword": "trade.shop"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 74,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": true,
+      "keyword": "trade.bidhouse"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 12,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": true,
+      "keyword": "social.dares"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 76,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": false,
+      "keyword": "misc.job"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 78,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": true,
+      "keyword": "trade.averagePrices"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 79,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": false,
+      "keyword": "misc.almanax"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 82,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": true,
+      "keyword": "inventory.account.slotLimited"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 81,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": true,
+      "keyword": "inventory.character.slotLimited"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 80,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": true,
+      "keyword": "inventory.character.timeLimited"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 5,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": true,
+      "keyword": "system.lagByAck"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 83,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": true,
+      "keyword": "mount"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 85,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": true,
+      "keyword": "map.tacticMode"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 86,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": false,
+      "keyword": "item.recipes"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 89,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": false,
+      "keyword": "map.interactiveBorders"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 145,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": true,
+      "keyword": "social.guild.chestTab"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 17,
+      "isActivationOnLaunch": true,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": false,
+      "keyword": "social.alliance"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 75,
+      "isActivationOnLaunch": true,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": false,
+      "keyword": "trade.chatChannel"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 146,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": true,
+      "keyword": "game.feature.idol.exp.bonus"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "",
+      "id": 40,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": true,
+      "keyword": "misc.havenBag"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 92,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": true,
+      "keyword": "character.builds"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 94,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": true,
+      "keyword": "breed.graveStone"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 98,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": false,
+      "isServer": true,
+      "keyword": "character.experienceBonusDependingOnWisdom"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 107,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": false,
+      "isServer": true,
+      "keyword": "character.debt.kama.kamasDebts"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 102,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": false,
+      "isServer": true,
+      "keyword": "misc.treasureHunt"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 105,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": true,
+      "keyword": "haapi.bak.in-game"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 108,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": true,
+      "keyword": "character.spell.forgettable"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 109,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": true,
+      "keyword": "character.spell.breed.alternative"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 110,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": false,
+      "isServer": true,
+      "keyword": "bot.limit.money.exchange"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 113,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": false,
+      "isServer": true,
+      "keyword": "pvp.fights.logging"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 142,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": true,
+      "keyword": "character.spell.forgettable.modsters"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 124,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": true,
+      "keyword": "character.progressionGuideSuggestion"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 125,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": true,
+      "keyword": "character.xp"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "SC=5",
+      "id": 111,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": true,
+      "isClient": true,
+      "isServer": false,
+      "keyword": "temporis.achievementProgress"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 126,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": true,
+      "keyword": "game.roleplay.diceroll"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 127,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": false,
+      "keyword": "debug.benchmark.log"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 128,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": false,
+      "isServer": true,
+      "keyword": "map.dispatchQuests"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 140,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": false,
+      "isServer": true,
+      "keyword": "server.conf.globalDrop"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 133,
+      "isActivationOnLaunch": true,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": false,
+      "keyword": "social.discord"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 143,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": true,
+      "keyword": "character.closecombat"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 134,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": false,
+      "isServer": true,
+      "keyword": "almanach.bonus"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 147,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": true,
+      "keyword": "game.feature.idol.drop.bonus"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "SC=5\u0026ST=7",
+      "id": 135,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": true,
+      "isClient": true,
+      "isServer": false,
+      "keyword": "character.spell.breed.limitedActiveAndPassiveSpells"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 136,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": true,
+      "keyword": "server.conf.anomaly"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "SC=5\u0026ST=7",
+      "id": 112,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": true,
+      "isClient": true,
+      "isServer": false,
+      "keyword": "temporis.drops"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 139,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": false,
+      "isServer": true,
+      "keyword": "server.conf.bonus.save"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 138,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": false,
+      "isServer": true,
+      "keyword": "server.conf.bonus.load"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 141,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": true,
+      "keyword": "server.heroic"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "",
+      "id": 144,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": true,
+      "isClient": true,
+      "isServer": false,
+      "keyword": "fight.slave.actionbars"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 150,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": true,
+      "keyword": "inventory.character.slot.fightConsumable"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 151,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": true,
+      "keyword": "social.guild.score"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "",
+      "id": 148,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": true,
+      "keyword": "misc.expedition"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "null",
+      "id": 149,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": false,
+      "isClient": true,
+      "isServer": true,
+      "keyword": "game.feature.merchant"
+    },
+    {
+      "ClassType_": "OptionalFeature",
+      "activationCriterions": "",
+      "id": 88,
+      "isActivationOnLaunch": false,
+      "isActivationOnServerConnection": true,
+      "isClient": true,
+      "isServer": false,
+      "keyword": "companion.hudButtonAndShortcut"
+    }
+  ]
+}

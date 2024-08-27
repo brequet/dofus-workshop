@@ -1,0 +1,63 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.seasons",
+      "packageClass": "ExpeditionSeason",
+      "fields": [
+        {
+          "name": "uid",
+          "type": "Integer"
+        },
+        {
+          "name": "nameId",
+          "type": "I18n"
+        },
+        {
+          "name": "beginning",
+          "type": "Number"
+        },
+        {
+          "name": "closure",
+          "type": "Number"
+        },
+        {
+          "name": "resetDate",
+          "type": "Number"
+        },
+        {
+          "name": "flagObjectId",
+          "type": "Integer"
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "ExpeditionSeason",
+      "beginning": 1661986800000,
+      "closure": 1669593600000,
+      "flagObjectId": 27427,
+      "nameId": 1058851,
+      "resetDate": 1679270400000,
+      "uid": 25
+    },
+    {
+      "ClassType_": "ExpeditionSeason",
+      "beginning": 1679443200000,
+      "closure": 1682118000000,
+      "flagObjectId": 28400,
+      "nameId": 1057955,
+      "resetDate": -3600000,
+      "uid": 26
+    },
+    {
+      "ClassType_": "ExpeditionSeason",
+      "beginning": 1704844800000,
+      "closure": 1719300600000,
+      "flagObjectId": 29751,
+      "nameId": 1066939,
+      "resetDate": 1726556400000,
+      "uid": 59
+    }
+  ]
+}

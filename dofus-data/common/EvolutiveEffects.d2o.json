@@ -1,0 +1,3012 @@
+{
+  "classes": {
+    "1": {
+      "packageName": "com.ankamagames.dofus.datacenter.effects",
+      "packageClass": "EvolutiveEffect",
+      "fields": [
+        {
+          "name": "id",
+          "type": "Integer"
+        },
+        {
+          "name": "actionId",
+          "type": "Integer"
+        },
+        {
+          "name": "targetId",
+          "type": "Integer"
+        },
+        {
+          "name": "progressionPerLevelRange",
+          "type": "Vector",
+          "subtype": {
+            "name": "Vector.\u003cVector.\u003cNumber\u003e\u003e",
+            "type": "Vector",
+            "subtype": {
+              "name": "Vector.\u003cNumber\u003e",
+              "type": "Number"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "objects": [
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 138,
+      "id": 148,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.7
+        ]
+      ],
+      "targetId": 12541
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 182,
+      "id": 149,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.02
+        ]
+      ],
+      "targetId": 12541
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 176,
+      "id": 150,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1.2
+        ]
+      ],
+      "targetId": 12963
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 138,
+      "id": 9,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.7
+        ]
+      ],
+      "targetId": 1728
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 752,
+      "id": 10,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.4
+        ]
+      ],
+      "targetId": 1728
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 138,
+      "id": 11,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.7
+        ]
+      ],
+      "targetId": 1748
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 420,
+      "id": 12,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1
+        ]
+      ],
+      "targetId": 1748
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 213,
+      "id": 13,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.25
+        ]
+      ],
+      "targetId": 2074
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 138,
+      "id": 14,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.5
+        ]
+      ],
+      "targetId": 2074
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 138,
+      "id": 16,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.5
+        ]
+      ],
+      "targetId": 2075
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 211,
+      "id": 15,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.25
+        ]
+      ],
+      "targetId": 2075
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 138,
+      "id": 18,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.5
+        ]
+      ],
+      "targetId": 2076
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 212,
+      "id": 17,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.25
+        ]
+      ],
+      "targetId": 2076
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 138,
+      "id": 20,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.5
+        ]
+      ],
+      "targetId": 2077
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 210,
+      "id": 19,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.25
+        ]
+      ],
+      "targetId": 2077
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 176,
+      "id": 21,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1.2
+        ]
+      ],
+      "targetId": 6716
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 138,
+      "id": 81,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.5
+        ]
+      ],
+      "targetId": 8693
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 160,
+      "id": 116,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.5
+        ]
+      ],
+      "targetId": 11012
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 424,
+      "id": 141,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.2
+        ]
+      ],
+      "targetId": 11971
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 125,
+      "id": 22,
+      "progressionPerLevelRange": [
+        [
+          100,
+          4
+        ]
+      ],
+      "targetId": 6978
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 414,
+      "id": 23,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.6
+        ]
+      ],
+      "targetId": 6978
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 752,
+      "id": 25,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.3
+        ]
+      ],
+      "targetId": 7518
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 125,
+      "id": 24,
+      "progressionPerLevelRange": [
+        [
+          100,
+          4
+        ]
+      ],
+      "targetId": 7518
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 752,
+      "id": 27,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.5
+        ]
+      ],
+      "targetId": 7519
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 410,
+      "id": 26,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.4
+        ]
+      ],
+      "targetId": 7519
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 138,
+      "id": 29,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.5
+        ]
+      ],
+      "targetId": 7520
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 214,
+      "id": 28,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.25
+        ]
+      ],
+      "targetId": 7520
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 410,
+      "id": 31,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.4
+        ]
+      ],
+      "targetId": 7522
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 138,
+      "id": 30,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.7
+        ]
+      ],
+      "targetId": 7522
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 138,
+      "id": 32,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.7
+        ]
+      ],
+      "targetId": 7524
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 176,
+      "id": 34,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1.2
+        ]
+      ],
+      "targetId": 7703
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 752,
+      "id": 36,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.4
+        ]
+      ],
+      "targetId": 7704
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 138,
+      "id": 35,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.7
+        ]
+      ],
+      "targetId": 7704
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 412,
+      "id": 38,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.4
+        ]
+      ],
+      "targetId": 7705
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 138,
+      "id": 37,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.7
+        ]
+      ],
+      "targetId": 7705
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 178,
+      "id": 39,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.5
+        ]
+      ],
+      "targetId": 7706
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 753,
+      "id": 40,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.5
+        ]
+      ],
+      "targetId": 7706
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 753,
+      "id": 42,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.4
+        ]
+      ],
+      "targetId": 7707
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 138,
+      "id": 41,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.7
+        ]
+      ],
+      "targetId": 7707
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 123,
+      "id": 43,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1.2
+        ]
+      ],
+      "targetId": 7708
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 418,
+      "id": 44,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.4
+        ]
+      ],
+      "targetId": 7708
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 119,
+      "id": 45,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1.2
+        ]
+      ],
+      "targetId": 7709
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 138,
+      "id": 47,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.7
+        ]
+      ],
+      "targetId": 7710
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 117,
+      "id": 48,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.02
+        ]
+      ],
+      "targetId": 7710
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 418,
+      "id": 50,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.4
+        ]
+      ],
+      "targetId": 7711
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 126,
+      "id": 49,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1.2
+        ]
+      ],
+      "targetId": 7711
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 418,
+      "id": 52,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.4
+        ]
+      ],
+      "targetId": 7712
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 118,
+      "id": 51,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1.2
+        ]
+      ],
+      "targetId": 7712
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 138,
+      "id": 53,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.7
+        ]
+      ],
+      "targetId": 7713
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 182,
+      "id": 54,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.02
+        ]
+      ],
+      "targetId": 7713
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 178,
+      "id": 55,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.5
+        ]
+      ],
+      "targetId": 7714
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 160,
+      "id": 56,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.5
+        ]
+      ],
+      "targetId": 7714
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 123,
+      "id": 58,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1.2
+        ]
+      ],
+      "targetId": 7891
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 119,
+      "id": 57,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1.2
+        ]
+      ],
+      "targetId": 7891
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 119,
+      "id": 60,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1.2
+        ]
+      ],
+      "targetId": 7892
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 410,
+      "id": 62,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.4
+        ]
+      ],
+      "targetId": 7911
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 138,
+      "id": 61,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.7
+        ]
+      ],
+      "targetId": 7911
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 158,
+      "id": 63,
+      "progressionPerLevelRange": [
+        [
+          100,
+          20
+        ]
+      ],
+      "targetId": 8000
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 160,
+      "id": 65,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.3
+        ]
+      ],
+      "targetId": 8151
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 125,
+      "id": 64,
+      "progressionPerLevelRange": [
+        [
+          100,
+          4
+        ]
+      ],
+      "targetId": 8151
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 161,
+      "id": 67,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.5
+        ]
+      ],
+      "targetId": 8153
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 138,
+      "id": 66,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.7
+        ]
+      ],
+      "targetId": 8153
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 138,
+      "id": 73,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.5
+        ]
+      ],
+      "targetId": 8154
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 213,
+      "id": 68,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.05
+        ]
+      ],
+      "targetId": 8154
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 210,
+      "id": 70,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.05
+        ]
+      ],
+      "targetId": 8154
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 212,
+      "id": 71,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.05
+        ]
+      ],
+      "targetId": 8154
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 214,
+      "id": 72,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.05
+        ]
+      ],
+      "targetId": 8154
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 176,
+      "id": 74,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1.2
+        ]
+      ],
+      "targetId": 8155
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 123,
+      "id": 75,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1.2
+        ]
+      ],
+      "targetId": 8211
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 126,
+      "id": 76,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1.2
+        ]
+      ],
+      "targetId": 8211
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 118,
+      "id": 77,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1.2
+        ]
+      ],
+      "targetId": 8561
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 123,
+      "id": 78,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1.2
+        ]
+      ],
+      "targetId": 8561
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 178,
+      "id": 79,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.5
+        ]
+      ],
+      "targetId": 8677
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 410,
+      "id": 80,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.4
+        ]
+      ],
+      "targetId": 8677
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 111,
+      "id": 82,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.0125
+        ]
+      ],
+      "targetId": 8693
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 125,
+      "id": 83,
+      "progressionPerLevelRange": [
+        [
+          100,
+          4
+        ]
+      ],
+      "targetId": 9594
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 160,
+      "id": 84,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.3
+        ]
+      ],
+      "targetId": 9594
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 418,
+      "id": 86,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.4
+        ]
+      ],
+      "targetId": 9617
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 138,
+      "id": 85,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.7
+        ]
+      ],
+      "targetId": 9617
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 242,
+      "id": 87,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.8
+        ]
+      ],
+      "targetId": 9619
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 138,
+      "id": 90,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.5
+        ]
+      ],
+      "targetId": 9620
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 241,
+      "id": 89,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.8
+        ]
+      ],
+      "targetId": 9620
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 243,
+      "id": 91,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.8
+        ]
+      ],
+      "targetId": 9623
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 138,
+      "id": 92,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.5
+        ]
+      ],
+      "targetId": 9623
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 161,
+      "id": 94,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.5
+        ]
+      ],
+      "targetId": 9624
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 138,
+      "id": 93,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.7
+        ]
+      ],
+      "targetId": 9624
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 174,
+      "id": 95,
+      "progressionPerLevelRange": [
+        [
+          100,
+          20
+        ]
+      ],
+      "targetId": 9785
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 752,
+      "id": 98,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.3
+        ]
+      ],
+      "targetId": 10106
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 125,
+      "id": 97,
+      "progressionPerLevelRange": [
+        [
+          100,
+          4
+        ]
+      ],
+      "targetId": 10106
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 158,
+      "id": 99,
+      "progressionPerLevelRange": [
+        [
+          100,
+          20
+        ]
+      ],
+      "targetId": 10107
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 125,
+      "id": 100,
+      "progressionPerLevelRange": [
+        [
+          100,
+          4
+        ]
+      ],
+      "targetId": 10544
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 414,
+      "id": 101,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.6
+        ]
+      ],
+      "targetId": 10544
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 138,
+      "id": 102,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.7
+        ]
+      ],
+      "targetId": 10657
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 160,
+      "id": 104,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.4
+        ]
+      ],
+      "targetId": 10802
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 117,
+      "id": 105,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.02
+        ]
+      ],
+      "targetId": 10802
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 160,
+      "id": 106,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.4
+        ]
+      ],
+      "targetId": 10863
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 420,
+      "id": 107,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1
+        ]
+      ],
+      "targetId": 10863
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 752,
+      "id": 109,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.5
+        ]
+      ],
+      "targetId": 10864
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 178,
+      "id": 108,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.5
+        ]
+      ],
+      "targetId": 10864
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 414,
+      "id": 111,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.8
+        ]
+      ],
+      "targetId": 10865
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 119,
+      "id": 110,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1.2
+        ]
+      ],
+      "targetId": 10865
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 176,
+      "id": 112,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1.2
+        ]
+      ],
+      "targetId": 10866
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 416,
+      "id": 114,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1
+        ]
+      ],
+      "targetId": 10985
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 176,
+      "id": 115,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1.2
+        ]
+      ],
+      "targetId": 11011
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 111,
+      "id": 117,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.0125
+        ]
+      ],
+      "targetId": 11012
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 410,
+      "id": 118,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.4
+        ]
+      ],
+      "targetId": 11013
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 752,
+      "id": 119,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.5
+        ]
+      ],
+      "targetId": 11013
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 418,
+      "id": 120,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.5
+        ]
+      ],
+      "targetId": 11014
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 416,
+      "id": 121,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1
+        ]
+      ],
+      "targetId": 11014
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 214,
+      "id": 123,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.1
+        ]
+      ],
+      "targetId": 11015
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 125,
+      "id": 122,
+      "progressionPerLevelRange": [
+        [
+          100,
+          4
+        ]
+      ],
+      "targetId": 11015
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 126,
+      "id": 124,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1.2
+        ]
+      ],
+      "targetId": 11765
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 118,
+      "id": 125,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1.2
+        ]
+      ],
+      "targetId": 11765
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 178,
+      "id": 126,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.5
+        ]
+      ],
+      "targetId": 11771
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 412,
+      "id": 127,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.4
+        ]
+      ],
+      "targetId": 11771
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 123,
+      "id": 128,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1.2
+        ]
+      ],
+      "targetId": 11777
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 414,
+      "id": 129,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.8
+        ]
+      ],
+      "targetId": 11777
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 174,
+      "id": 130,
+      "progressionPerLevelRange": [
+        [
+          100,
+          20
+        ]
+      ],
+      "targetId": 11783
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 412,
+      "id": 133,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.4
+        ]
+      ],
+      "targetId": 11858
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 138,
+      "id": 132,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.7
+        ]
+      ],
+      "targetId": 11858
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 123,
+      "id": 134,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1.2
+        ]
+      ],
+      "targetId": 11950
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 426,
+      "id": 135,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.2
+        ]
+      ],
+      "targetId": 11950
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 118,
+      "id": 136,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1.2
+        ]
+      ],
+      "targetId": 11955
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 422,
+      "id": 137,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.2
+        ]
+      ],
+      "targetId": 11955
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 428,
+      "id": 139,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.2
+        ]
+      ],
+      "targetId": 11966
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 119,
+      "id": 138,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1.2
+        ]
+      ],
+      "targetId": 11966
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 126,
+      "id": 140,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1.2
+        ]
+      ],
+      "targetId": 11971
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 125,
+      "id": 142,
+      "progressionPerLevelRange": [
+        [
+          100,
+          4
+        ]
+      ],
+      "targetId": 12009
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 753,
+      "id": 143,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.3
+        ]
+      ],
+      "targetId": 12009
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 244,
+      "id": 144,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.8
+        ]
+      ],
+      "targetId": 12133
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 125,
+      "id": 146,
+      "progressionPerLevelRange": [
+        [
+          100,
+          4
+        ]
+      ],
+      "targetId": 12177
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 418,
+      "id": 147,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.3
+        ]
+      ],
+      "targetId": 12177
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 174,
+      "id": 151,
+      "progressionPerLevelRange": [
+        [
+          100,
+          20
+        ]
+      ],
+      "targetId": 12975
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 752,
+      "id": 152,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.5
+        ]
+      ],
+      "targetId": 12975
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 174,
+      "id": 153,
+      "progressionPerLevelRange": [
+        [
+          100,
+          20
+        ]
+      ],
+      "targetId": 12982
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 117,
+      "id": 154,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.02
+        ]
+      ],
+      "targetId": 12982
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 126,
+      "id": 155,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1.2
+        ]
+      ],
+      "targetId": 12988
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 414,
+      "id": 156,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.8
+        ]
+      ],
+      "targetId": 12988
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 160,
+      "id": 158,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.5
+        ]
+      ],
+      "targetId": 12994
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 182,
+      "id": 177,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.02
+        ]
+      ],
+      "targetId": 15110
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 752,
+      "id": 252,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.5
+        ]
+      ],
+      "targetId": 29434
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 161,
+      "id": 255,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.5
+        ]
+      ],
+      "targetId": 29435
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 174,
+      "id": 254,
+      "progressionPerLevelRange": [
+        [
+          100,
+          20
+        ]
+      ],
+      "targetId": 29435
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 424,
+      "id": 262,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.7
+        ]
+      ],
+      "targetId": 12894
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 138,
+      "id": 261,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.7
+        ]
+      ],
+      "targetId": 12894
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 111,
+      "id": 220,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.0125
+        ]
+      ],
+      "targetId": 13465
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 418,
+      "id": 219,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.5
+        ]
+      ],
+      "targetId": 13465
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 414,
+      "id": 221,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1
+        ]
+      ],
+      "targetId": 13603
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 128,
+      "id": 222,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.0125
+        ]
+      ],
+      "targetId": 13603
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 111,
+      "id": 224,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.0125
+        ]
+      ],
+      "targetId": 18088
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 174,
+      "id": 223,
+      "progressionPerLevelRange": [
+        [
+          100,
+          20
+        ]
+      ],
+      "targetId": 18088
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 138,
+      "id": 225,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.7
+        ]
+      ],
+      "targetId": 19044
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 418,
+      "id": 226,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.4
+        ]
+      ],
+      "targetId": 19044
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 420,
+      "id": 227,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1
+        ]
+      ],
+      "targetId": 19286
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 416,
+      "id": 228,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1
+        ]
+      ],
+      "targetId": 19286
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 418,
+      "id": 229,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.5
+        ]
+      ],
+      "targetId": 19291
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 414,
+      "id": 230,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.8
+        ]
+      ],
+      "targetId": 19291
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 424,
+      "id": 237,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.15
+        ]
+      ],
+      "targetId": 25292
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 428,
+      "id": 238,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.15
+        ]
+      ],
+      "targetId": 25292
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 422,
+      "id": 239,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.15
+        ]
+      ],
+      "targetId": 25292
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 426,
+      "id": 240,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.15
+        ]
+      ],
+      "targetId": 25292
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 182,
+      "id": 236,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.02
+        ]
+      ],
+      "targetId": 25292
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 753,
+      "id": 243,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.4
+        ]
+      ],
+      "targetId": 25293
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 416,
+      "id": 242,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.8
+        ]
+      ],
+      "targetId": 25293
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 118,
+      "id": 244,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1.2
+        ]
+      ],
+      "targetId": 29430
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 115,
+      "id": 245,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.15
+        ]
+      ],
+      "targetId": 29430
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 126,
+      "id": 246,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1.2
+        ]
+      ],
+      "targetId": 29431
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 115,
+      "id": 247,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.15
+        ]
+      ],
+      "targetId": 29431
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 119,
+      "id": 248,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1.2
+        ]
+      ],
+      "targetId": 29432
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 115,
+      "id": 249,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.15
+        ]
+      ],
+      "targetId": 29432
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 123,
+      "id": 250,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1.2
+        ]
+      ],
+      "targetId": 29433
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 115,
+      "id": 251,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.15
+        ]
+      ],
+      "targetId": 29433
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 412,
+      "id": 253,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.4
+        ]
+      ],
+      "targetId": 29434
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 158,
+      "id": 258,
+      "progressionPerLevelRange": [
+        [
+          100,
+          20
+        ]
+      ],
+      "targetId": 29456
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 160,
+      "id": 232,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.5
+        ]
+      ],
+      "targetId": 7414
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 174,
+      "id": 231,
+      "progressionPerLevelRange": [
+        [
+          100,
+          20
+        ]
+      ],
+      "targetId": 7414
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 414,
+      "id": 234,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.8
+        ]
+      ],
+      "targetId": 7415
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 138,
+      "id": 233,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.7
+        ]
+      ],
+      "targetId": 7415
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 416,
+      "id": 33,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1
+        ]
+      ],
+      "targetId": 7524
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 418,
+      "id": 46,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.4
+        ]
+      ],
+      "targetId": 7709
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 126,
+      "id": 59,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1.2
+        ]
+      ],
+      "targetId": 7892
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 211,
+      "id": 69,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.05
+        ]
+      ],
+      "targetId": 8154
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 138,
+      "id": 88,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.5
+        ]
+      ],
+      "targetId": 9619
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 182,
+      "id": 96,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.02
+        ]
+      ],
+      "targetId": 9785
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 414,
+      "id": 103,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.8
+        ]
+      ],
+      "targetId": 10657
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 115,
+      "id": 113,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.15
+        ]
+      ],
+      "targetId": 10985
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 753,
+      "id": 131,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.5
+        ]
+      ],
+      "targetId": 11783
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 138,
+      "id": 145,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.5
+        ]
+      ],
+      "targetId": 12133
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 138,
+      "id": 157,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.7
+        ]
+      ],
+      "targetId": 12994
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 161,
+      "id": 159,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.4
+        ]
+      ],
+      "targetId": 13000
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 420,
+      "id": 160,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1
+        ]
+      ],
+      "targetId": 13000
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 118,
+      "id": 161,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1.2
+        ]
+      ],
+      "targetId": 13071
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 119,
+      "id": 162,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1.2
+        ]
+      ],
+      "targetId": 13071
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 161,
+      "id": 164,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.5
+        ]
+      ],
+      "targetId": 13099
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 178,
+      "id": 163,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.5
+        ]
+      ],
+      "targetId": 13099
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 138,
+      "id": 165,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.7
+        ]
+      ],
+      "targetId": 13230
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 117,
+      "id": 166,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.02
+        ]
+      ],
+      "targetId": 13230
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 414,
+      "id": 168,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.8
+        ]
+      ],
+      "targetId": 13661
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 115,
+      "id": 167,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.15
+        ]
+      ],
+      "targetId": 13661
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 158,
+      "id": 169,
+      "progressionPerLevelRange": [
+        [
+          100,
+          20
+        ]
+      ],
+      "targetId": 13667
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 115,
+      "id": 170,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.15
+        ]
+      ],
+      "targetId": 13673
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 418,
+      "id": 171,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.4
+        ]
+      ],
+      "targetId": 13673
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 240,
+      "id": 172,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.8
+        ]
+      ],
+      "targetId": 13679
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 138,
+      "id": 173,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.5
+        ]
+      ],
+      "targetId": 13679
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 410,
+      "id": 175,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.4
+        ]
+      ],
+      "targetId": 14433
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 138,
+      "id": 174,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.7
+        ]
+      ],
+      "targetId": 14433
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 158,
+      "id": 176,
+      "progressionPerLevelRange": [
+        [
+          100,
+          20
+        ]
+      ],
+      "targetId": 14545
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 128,
+      "id": 178,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.0125
+        ]
+      ],
+      "targetId": 15110
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 414,
+      "id": 180,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.8
+        ]
+      ],
+      "targetId": 15133
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 118,
+      "id": 179,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1.2
+        ]
+      ],
+      "targetId": 15133
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 176,
+      "id": 181,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1.2
+        ]
+      ],
+      "targetId": 15249
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 117,
+      "id": 183,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.02
+        ]
+      ],
+      "targetId": 15254
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 128,
+      "id": 182,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.0125
+        ]
+      ],
+      "targetId": 15254
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 125,
+      "id": 184,
+      "progressionPerLevelRange": [
+        [
+          100,
+          4
+        ]
+      ],
+      "targetId": 15469
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 161,
+      "id": 185,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.3
+        ]
+      ],
+      "targetId": 15469
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 420,
+      "id": 187,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1
+        ]
+      ],
+      "targetId": 15607
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 414,
+      "id": 186,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1
+        ]
+      ],
+      "targetId": 15607
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 753,
+      "id": 189,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.5
+        ]
+      ],
+      "targetId": 15978
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 412,
+      "id": 188,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.4
+        ]
+      ],
+      "targetId": 15978
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 213,
+      "id": 191,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.1
+        ]
+      ],
+      "targetId": 16116
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 125,
+      "id": 190,
+      "progressionPerLevelRange": [
+        [
+          100,
+          4
+        ]
+      ],
+      "targetId": 16116
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 753,
+      "id": 193,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.5
+        ]
+      ],
+      "targetId": 16122
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 410,
+      "id": 192,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.4
+        ]
+      ],
+      "targetId": 16122
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 111,
+      "id": 195,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.0125
+        ]
+      ],
+      "targetId": 16269
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 161,
+      "id": 194,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.5
+        ]
+      ],
+      "targetId": 16269
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 176,
+      "id": 196,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1.2
+        ]
+      ],
+      "targetId": 16276
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 125,
+      "id": 197,
+      "progressionPerLevelRange": [
+        [
+          100,
+          4
+        ]
+      ],
+      "targetId": 16295
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 160,
+      "id": 198,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.3
+        ]
+      ],
+      "targetId": 16295
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 420,
+      "id": 200,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.5
+        ]
+      ],
+      "targetId": 17023
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 125,
+      "id": 199,
+      "progressionPerLevelRange": [
+        [
+          100,
+          4
+        ]
+      ],
+      "targetId": 17023
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 125,
+      "id": 201,
+      "progressionPerLevelRange": [
+        [
+          100,
+          4
+        ]
+      ],
+      "targetId": 17028
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 416,
+      "id": 202,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.5
+        ]
+      ],
+      "targetId": 17028
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 125,
+      "id": 203,
+      "progressionPerLevelRange": [
+        [
+          100,
+          4
+        ]
+      ],
+      "targetId": 17379
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 210,
+      "id": 204,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.1
+        ]
+      ],
+      "targetId": 17379
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 161,
+      "id": 205,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.4
+        ]
+      ],
+      "targetId": 17511
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 182,
+      "id": 206,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.02
+        ]
+      ],
+      "targetId": 17511
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 174,
+      "id": 207,
+      "progressionPerLevelRange": [
+        [
+          100,
+          20
+        ]
+      ],
+      "targetId": 17700
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 115,
+      "id": 208,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.15
+        ]
+      ],
+      "targetId": 17700
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 158,
+      "id": 209,
+      "progressionPerLevelRange": [
+        [
+          100,
+          20
+        ]
+      ],
+      "targetId": 17795
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 176,
+      "id": 210,
+      "progressionPerLevelRange": [
+        [
+          100,
+          1.2
+        ]
+      ],
+      "targetId": 17813
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 125,
+      "id": 211,
+      "progressionPerLevelRange": [
+        [
+          100,
+          4
+        ]
+      ],
+      "targetId": 17833
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 161,
+      "id": 212,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.3
+        ]
+      ],
+      "targetId": 17833
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 211,
+      "id": 214,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.1
+        ]
+      ],
+      "targetId": 18626
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 125,
+      "id": 213,
+      "progressionPerLevelRange": [
+        [
+          100,
+          4
+        ]
+      ],
+      "targetId": 18626
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 212,
+      "id": 216,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.1
+        ]
+      ],
+      "targetId": 19139
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 125,
+      "id": 215,
+      "progressionPerLevelRange": [
+        [
+          100,
+          4
+        ]
+      ],
+      "targetId": 19139
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 418,
+      "id": 218,
+      "progressionPerLevelRange": [
+        [
+          100,
+          0.3
+        ]
+      ],
+      "targetId": 19531
+    },
+    {
+      "ClassType_": "EvolutiveEffect",
+      "actionId": 125,
+      "id": 217,
+      "progressionPerLevelRange": [
+        [
+          100,
+          4
+        ]
+      ],
+      "targetId": 19531
+    }
+  ]
+}
