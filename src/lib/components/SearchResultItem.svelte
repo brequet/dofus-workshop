@@ -1,13 +1,18 @@
 <script lang="ts">
+	import itemsStore from '$lib/stores/itemStore.svelte';
+	import type { DofusItem } from '$lib/types/dofus-items';
 	import ItemImage from './ItemImage.svelte';
 
-	let { item }: { item: number } = $props();
+	let { item }: { item: DofusItem } = $props();
 </script>
 
-<div class="flex flex-row bg-gray-100 p-2">
-	<ItemImage itemId={item} size={12} />
+<div
+	on:click={() => itemsStore.selectItem(item)}
+	class="flex cursor-pointer flex-row bg-gray-100 p-2 hover:bg-gray-200"
+>
+	<div class="flex flex-row">
+		<ItemImage itemIconId={item.iconId} size={12} />
 
-	<p class="my-auto pl-2">
-		Item {item}
-	</p>
+		<h2 class="my-auto px-2">{item.name}</h2>
+	</div>
 </div>

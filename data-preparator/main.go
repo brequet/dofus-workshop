@@ -144,7 +144,7 @@ type Ingredient struct {
 
 // output object
 type ResultItem struct {
-	itemID int
+	ItemID int          `json:"id"`
 	Name   string       `json:"name"`
 	IconID int          `json:"iconId"`
 	Recipe []Ingredient `json:"recipe"`
@@ -157,7 +157,7 @@ func createResultItems(items map[int]Item, recipes map[int]Recipe, translation m
 
 	for itemID, item := range items {
 		resultItems[itemID] = ResultItem{
-			itemID: itemID,
+			ItemID: itemID,
 			Name:   translation[item.NameID],
 			IconID: item.IconID,
 			Recipe: createRecipe(recipes[itemID]),

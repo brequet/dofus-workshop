@@ -1,13 +1,19 @@
 <script lang="ts">
-	import MainContent from '$lib/components/MainContent.svelte';
-	import LeftPanel from '$lib/components/SearchPanel.svelte';
+	import CraftList from '$lib/components/CraftList.svelte';
+	import IngredientList from '$lib/components/IngredientList.svelte';
+	import SearchPanel from '$lib/components/SearchPanel.svelte';
 </script>
 
 <div class="flex h-screen">
 	<div class="flex w-1/4 flex-col bg-gray-100">
-		<LeftPanel />
+		<SearchPanel />
 	</div>
-	<div class="flex-1 bg-white p-4">
-		<MainContent />
+	<div class="m-2 flex flex-1 flex-row gap-1 bg-white">
+		<div class="flex w-1/2 flex-col bg-gray-100">
+			<IngredientList />
+		</div>
+		<div class="flex w-1/2 flex-col bg-gray-100">
+			<CraftList />
+		</div>
 	</div>
 </div>
