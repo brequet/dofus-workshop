@@ -1,19 +1,20 @@
-import type { DofusItem } from "$lib/types/dofus-items";
+import type { DofusItem } from '$lib/types/dofus-items';
 
 class ItemStore {
-    private selectedItems: DofusItem[] = $state([]);
+	private selectedItems: DofusItem[] = $state([]);
 
-    constructor() { }
+	constructor() {}
 
-    getSelectedItems(): DofusItem[] {
-        return this.selectedItems;
-    }
+	getSelectedItems(): DofusItem[] {
+		return this.selectedItems;
+	}
 
-    selectItem(item: DofusItem) {
-        if (this.selectedItems.includes(item)) return;
+	selectItem(item: DofusItem) {
+		if (this.selectedItems.includes(item)) return;
 
-        this.selectedItems.push(item);
-    }
+		item.selectedCount = 1;
+		this.selectedItems.push(item);
+	}
 }
 
 const itemsStore = new ItemStore();
