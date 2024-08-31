@@ -8,7 +8,7 @@
 	<div class="flex w-1/4 flex-col bg-gray-100 p-2">
 		<SearchPanel />
 	</div>
-	<div class="flex w-1/2 flex-col bg-gray-200 p-2">
+	<div class="flex w-1/2 flex-col bg-gray-100 p-2">
 		<IngredientList />
 	</div>
 	<div class="flex w-1/4 flex-col bg-gray-100 p-2">

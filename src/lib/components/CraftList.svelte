@@ -2,6 +2,7 @@
 	import itemsStore from '$lib/stores/itemStore.svelte';
 	import ItemImage from './ItemImage.svelte';
 	import ScrollArea from './ui/scroll-area/scroll-area.svelte';
+	import Separator from './ui/separator/separator.svelte';
 </script>
 
 <h1 class="pb-4 text-2xl">Craft List</h1>
@@ -16,5 +17,6 @@
 				<p>x{item.selectedCount}</p>
 			</div>
 		</div>
+		<Separator />
 	{/each}
 </ScrollArea>

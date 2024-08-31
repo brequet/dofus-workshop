@@ -1,22 +1,37 @@
 <script lang="ts">
 	import itemsStore from '$lib/stores/itemStore.svelte';
-	import ItemImage from './ItemImage.svelte';
+	import type { DofusItem } from '$lib/types/dofus-items';
+	import IngredientItem from './IngredientItem.svelte';
 	import ScrollArea from './ui/scroll-area/scroll-area.svelte';
+	import Separator from './ui/separator/separator.svelte';
 
-	let ingredients = $derived(itemsStore.getSelectedItems());
+	const mergedRecipes = $derived(mergeRecipes(itemsStore.getSelectedItems()));
+
+	function mergeRecipes(items: DofusItem[]): Map<number, number> {
+		const recipeMap = new Map<number, number>();
+
+		for (const item of items) {
+			for (const recipeItem of item.recipe) {
+				const currentQuantity = recipeMap.get(recipeItem.itemId) || 0;
+				recipeMap.set(recipeItem.itemId, currentQuantity + recipeItem.quantity);
+			}
+		}
+
+		return recipeMap;
+	}
 </script>
 
 <h1 class="pb-4 text-2xl">Ingredient List</h1>
 
 <ScrollArea class="flex-1">
-	{#each ingredients as item}
+	{#each mergedRecipes.entries() as [itemId, quantity]}
 		<div class="flex flex-row">
-			<ItemImage itemIconId={item.iconId} size={12} />
+			<IngredientItem {itemId} />
 
-			<h2 class="my-auto px-2">{item.name}</h2>
-			<div class="my-auto ml-auto">
-				<p>x{item.selectedCount}</p>
+			<div class="my-auto ml-auto mr-2">
+				<p>x{quantity}</p>
 			</div>
 		</div>
+		<Separator />
 	{/each}
 </ScrollArea>
